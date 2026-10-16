@@ -49,3 +49,5 @@ python Repack/Scripts/verify_candidate.py
 ## 最终验收与发布
 
 用户已明确确认传记、任务和教程说明均正常，最终安装四轮测试通过；已重新record-game-check并通过release-check。正式v1.0 ZIP已生成，档案见release_archive_validation.json。历史待测记录已被最终验收覆盖。公开仓库按已提交文件快照同步，用户提供的四张反馈截图保留本地，主项目历史不改写。
+
+正式GitHub Release已发布，匿名下载哈希与本地ZIP一致。百度镜像停在ensure_directory（errno -6），未进入删除或上传步骤；处理授权后可用mirror_release_mcp.py重试。安装工具中的差分解码器为x64，要求64位Windows；游戏进程本身为x86。

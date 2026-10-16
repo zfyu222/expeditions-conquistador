@@ -1,6 +1,6 @@
 # Expeditions: Conquistador 汉化项目
 
-> 项目状态：14,691条正式翻译、48条新增教程说明、旧存档兼容修复及最终复测均已完成；正式 v1.0 ZIP 已生成并通过校验，正在上传发布。Steam Windows Build 1752467 / 游戏1.6.6.1。
+> 项目状态：14,691条正式翻译、48条新增教程说明、旧存档兼容修复及最终复测均已完成；正式 v1.0 ZIP 已通过校验并发布至GitHub；百度网盘镜像因MCP目录创建错误暂未完成。Steam Windows Build 1752467 / 游戏1.6.6.1。
 
 ## 游戏信息
 - 原名：Expeditions: Conquistador
@@ -141,13 +141,14 @@ python -X utf8 .\Analysis\extract_text.py
 
 - 补丁：`Dispatch/expeditions-conquistador_子非鱼汉化1.0.zip`，7,436,931字节。
 - SHA-256：`6c87aba83c265c3afc6b30b580c6ecc1c4fd7ae938dfbbc0801ce2bc4437891a`。
-- 支持：Steam Windows x86，Build1752467 / 游戏1.6.6.1；未测试其他商店或系统。
+- 支持：Steam Windows，Build1752467 / 游戏1.6.6.1；游戏进程为x86，随附差分解码器要求64位Windows。未测试其他商店或系统。
 - 载荷：安装器、六个VCDIFF差分、中文显示组件、解码器、安装清单及三份许可证，共13个载荷文件；ZIP另含安装说明、发布清单及SHA256SUMS。
 - 安装：备份存档、退出游戏，将ZIP全部解压至游戏根目录，运行“安装汉化.exe”，输入1；游戏内选择English。原文件自动备份至ChinesePatch/Backup。
 - 卸载：退出游戏后运行同一安装器，输入2，待确认还原完成后再移走工具。保留原版备份。
 - 验证：最终纯净基线安装、还原、再次安装与重复安装四轮哈希测试通过；用户明确确认旧存档传记、任务及中文教程说明均正常；首章代表性对白已有实测。未进行全流程通关验证。
 - 已知问题：教程原图英文保留，另加中文说明；视频文字未汉化；日期和程序身份姓名保留；高分辨率下固定尺寸UI可能较小。未测试全部分支、联机及成就实际解锁。
-- 独立公开仓库：[zfyu222/expeditions-conquistador](https://github.com/zfyu222/expeditions-conquistador)。Release和百度网盘地址上传完成后补充。
+- 正式下载：[GitHub Release v1.0](https://github.com/zfyu222/expeditions-conquistador/releases/tag/v1.0)；独立公开仓库：[zfyu222/expeditions-conquistador](https://github.com/zfyu222/expeditions-conquistador)。已确认公开、非草稿、非预发布，匿名下载HTTP200且SHA-256与本地ZIP一致。GitHub自动规范了资产下载名，页面标签保留完整中文名称；ZIP内容及校验不变。
+- 百度网盘镜像：目标 `/Hanhua/expeditions-conquistador/expeditions-conquistador_子非鱼汉化1.0.zip`，尚未上传。MCP ensure_directory返回“创建目录失败 /Hanhua: errno -6”，已停止后续删除与上传，未删除网盘旧文件。需检查或更新网盘授权后重试；以GitHub Release为当前下载入口。
 - 后续可能更新，请关注仓库/Releases或收藏网盘发布渠道。
 - 公开仓库采用提交快照发布，用户提供的四张反馈截图仅保存在本地历史；用 `Repack/Scripts/publish_snapshot.py` 同步公开源码与交付文档，主项目原始历史不重写。
 
@@ -170,3 +171,5 @@ python -X utf8 .\Analysis\extract_text.py
 - 2026-10-16 - 按用户授权部署188条多语言传记映射修复；确认游戏退出后覆盖并同步安装/还原载荷，全部文件哈希通过，保留存档及原版备份；Bonita等旧存档传记仍待用户实测确认
 
 - 2026-10-16 - 用户确认传记、任务和教程说明全部正常；最终安装四轮测试及release-check通过，生成并校验v1.0正式ZIP，开始公开发布
+
+- 2026-10-16 - 正式发布v1.0至GitHub Release并完成匿名下载哈希核验；百度网盘MCP创建目录返回errno -6，镜像未完成且未删除任何旧文件

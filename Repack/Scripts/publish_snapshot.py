@@ -35,7 +35,7 @@ def main():
         run(['git','remote','add','origin',a.remote],PUBLIC)
     assert run(['git','remote','get-url','origin'],PUBLIC)==a.remote
     run(['git','add','--all'],PUBLIC)
-    if run(['git','status','--porcelain'],PUBLIC):print(run(['git','commit','-m',a.message],PUBLIC))
+    if run(['git','status','--porcelain'],PUBLIC):print(run(['git','commit','-m',a.message],PUBLIC).splitlines()[0])
     if a.push:print(run(['git','push','origin','main'],PUBLIC))
     print('Public snapshot:',run(['git','rev-parse','HEAD'],PUBLIC),flush=True)
 

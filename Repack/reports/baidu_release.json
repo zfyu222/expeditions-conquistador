@@ -1,0 +1,10 @@
+{
+  "status": "error",
+  "steps": [
+    {
+      "tool": "ensure_directory",
+      "status": "error",
+      "message": "创建目录失败 /Hanhua: errno -6"
+    }
+  ]
+}
