@@ -1,0 +1,84 @@
+{
+  "status": {
+    "revision": 9,
+    "paused": false,
+    "quality": {},
+    "workflow": "custom",
+    "glossary_frozen": true,
+    "records": {
+      "pilot_translate": 24,
+      "source": 14667
+    },
+    "tasks": [
+      {
+        "stage": "extract",
+        "status": "done",
+        "n": 441
+      },
+      {
+        "stage": "extract",
+        "status": "obsolete",
+        "n": 441
+      },
+      {
+        "stage": "glossary_review",
+        "status": "done",
+        "n": 25
+      },
+      {
+        "stage": "glossary_review",
+        "status": "obsolete",
+        "n": 7
+      },
+      {
+        "stage": "pilot_translate",
+        "status": "done",
+        "n": 55
+      },
+      {
+        "stage": "pilot_translate",
+        "status": "obsolete",
+        "n": 292
+      },
+      {
+        "stage": "pilot_translate",
+        "status": "pending",
+        "n": 90
+      },
+      {
+        "stage": "pilot_translate",
+        "status": "running",
+        "n": 1
+      }
+    ],
+    "attention": [
+      {
+        "id": "pilot_translate-r9-00003-6122ce29",
+        "stage": "pilot_translate",
+        "status": "running",
+        "attempt": 1,
+        "error": null,
+        "lease_until": 1791970432.7968495
+      }
+    ],
+    "api_requests": 0
+  },
+  "glossary": {
+    "hash": "e9f83f14f476e243b37f516128d0aaceeec549a70b4dc4b1ccf242d5c804bd2d",
+    "path": "glossary\\r4\\freeze_5acab910\\built\\glossary_reviewed.json",
+    "revision": 4
+  },
+  "policy": {
+    "agent_task_limit": 1,
+    "agent_attempt_limit": 2,
+    "task_input_chars": 48000,
+    "review_batch_records": 20,
+    "batch_records": 20,
+    "context_records": 0
+  },
+  "prepared_pilot_tasks": 93,
+  "max_prelease_input_chars": 26864,
+  "over_budget_tasks": [],
+  "legacy_dispatcher": "codex_dispatch.py is historical only; single_task.py leases one task per actual fresh instance",
+  "formal_translation_exported": false
+}

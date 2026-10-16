@@ -1,0 +1,35 @@
+--- a/Tools/localization/ainiee_bridge.py
++++ b/Tools/localization/ainiee_bridge.py
+@@ -132,6 +132,22 @@
+     if re.search(r'⟪SHH_[^⟫]*⟫', restored):
+         raise ValueError('Unrestored or fabricated protected token')
+     return restored
++
++
++def normalize_exception_sources(exceptions, terms, case_sensitive):
++    """Canonicalize only unambiguous ASCII case differences in matched term keys."""
++    known = {t['src'] for t in terms}
++    normalized = []
++    for item in exceptions:
++        entry = dict(item)
++        source = entry['source']
++        if not case_sensitive and source not in known and source.isascii():
++            matches = [s for s in known if s.isascii() and s.casefold() == source.casefold()]
++            if len(matches) == 1:
++                entry['source'] = matches[0]
++        # Unknown/ambiguous keys stay unchanged so existing relatedness checks reject them.
++        normalized.append(entry)
++    return normalized
+ 
+ 
+ def structural_issues(source, translation, rules):
+--- a/Tools/localization/translation_workflow.py
++++ b/Tools/localization/translation_workflow.py
+@@ -748,6 +748,7 @@
+                     if failures:
+                         raise ValueError(f'{item["id"]}: structural mismatch {failures}')
+                     terms = bridge.matched_terms(analysis, [row['source']], config)
++                    exceptions = bridge.normalize_exception_sources(exceptions, terms, config['case_sensitive'])
+                     known_sources = {t['src'] for t in terms}
+                     if any(e['source'] not in known_sources for e in exceptions):
+                         raise ValueError('Context exception refers to an unrelated term')

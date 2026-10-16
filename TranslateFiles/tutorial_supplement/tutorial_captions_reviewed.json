@@ -1,0 +1,1452 @@
+[
+  {
+    "id": "T001",
+    "name": "TutorialCamping11-EN",
+    "source": "TheAutoAssignbuttonassigns1meattoeveryfollowerifyouhavemeat\nWhenyourunoutofmeat,1rationisassignedtoeverybodyelse\nTheAssigntoall button assignstheselectedtype andquantityoffoodtoeveryfollower\nIfAutoAllocateNewMeatischecked,AutoAssignwillbedoneautomaticallyeachnight",
+    "image": "Analysis/tutorial_images/4_TutorialCamping11-EN.png",
+    "ocr_lines": [
+      {
+        "text": "TheAutoAssignbuttonassigns1meattoeveryfollowerifyouhavemeat",
+        "y": 464.0,
+        "confidence": 0.9975517442670919
+      },
+      {
+        "text": "Whenyourunoutofmeat,1rationisassignedtoeverybodyelse",
+        "y": 487.0,
+        "confidence": 0.9867377946010003
+      },
+      {
+        "text": "TheAssigntoall button assignstheselectedtype andquantityoffoodtoeveryfollower",
+        "y": 519.0,
+        "confidence": 0.9800038918272241
+      },
+      {
+        "text": "IfAutoAllocateNewMeatischecked,AutoAssignwillbedoneautomaticallyeachnight",
+        "y": 560.0,
+        "confidence": 0.9910180764655544
+      }
+    ],
+    "translation": "“自动分配”按钮会在有肉时为每位队员分配1份肉。肉用完后，则为其他人各分配1份口粮。“全部分配”按钮会将选定种类和数量的食物分给每位队员。勾选“自动分配新肉”后，每晚都会自动分配肉。"
+  },
+  {
+    "id": "T002",
+    "name": "TutorialAOO01-EN",
+    "source": "If you tryto movepast an enemy,\nthey will get a free attack on you\n(called AttackofOpportunity)\nUseTacticalMovetoavoidthat,\nat the cost of spending your action",
+    "image": "Analysis/tutorial_images/18_TutorialAOO01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "If you tryto movepast an enemy,",
+        "y": 470.0,
+        "confidence": 0.9366079857272487
+      },
+      {
+        "text": "they will get a free attack on you",
+        "y": 500.0,
+        "confidence": 0.9571170228369096
+      },
+      {
+        "text": "(called AttackofOpportunity)",
+        "y": 523.0,
+        "confidence": 0.9776107754026141
+      },
+      {
+        "text": "UseTacticalMovetoavoidthat,",
+        "y": 521.0,
+        "confidence": 0.9888640465559783
+      },
+      {
+        "text": "at the cost of spending your action",
+        "y": 550.0,
+        "confidence": 0.9804245352745056
+      }
+    ],
+    "translation": "如果你试图从敌人身边经过，敌人会获得一次免费的攻击，称为“借机攻击”。使用“战术移动”可以避免这种情况，但会消耗你的行动。"
+  },
+  {
+    "id": "T003",
+    "name": "TutorialCamping12-EN",
+    "source": "Thetreatmentwindowiswhereyoutreatinjuredfollowers\nThistabisonlyavailablewhenyouhaveselectedawoundedfollower\nThehealthofawoundedfollowermaydeteriorateduring thenightif leftuntreated",
+    "image": "Analysis/tutorial_images/20_TutorialCamping12-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Thetreatmentwindowiswhereyoutreatinjuredfollowers",
+        "y": 470.0,
+        "confidence": 0.9979393895791502
+      },
+      {
+        "text": "Thistabisonlyavailablewhenyouhaveselectedawoundedfollower",
+        "y": 511.0,
+        "confidence": 0.997158918464393
+      },
+      {
+        "text": "Thehealthofawoundedfollowermaydeteriorateduring thenightif leftuntreated",
+        "y": 551.0,
+        "confidence": 0.9853915729456477
+      }
+    ],
+    "translation": "在治疗界面中，你可以治疗受伤的队员。只有选中受伤队员时，才会显示此标签页。如果伤员未接受治疗，其健康状况可能会在夜间恶化。"
+  },
+  {
+    "id": "T004",
+    "name": "TutorialAOO02-EN",
+    "source": "Making a Ranged attack at Melee range will\nalsoprovokeanAttackofOpportunity\nEachunitcan only make1free attackevery turn!\nThetooltipshowsif theystill have theirAttackofOpportunity",
+    "image": "Analysis/tutorial_images/32_TutorialAOO02-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Making a Ranged attack at Melee range will",
+        "y": 470.0,
+        "confidence": 0.9750126359008607
+      },
+      {
+        "text": "alsoprovokeanAttackofOpportunity",
+        "y": 501.0,
+        "confidence": 0.9965999834239483
+      },
+      {
+        "text": "Eachunitcan only make1free attackevery turn!",
+        "y": 537.0,
+        "confidence": 0.9569656916640021
+      },
+      {
+        "text": "Thetooltipshowsif theystill have theirAttackofOpportunity",
+        "y": 558.0,
+        "confidence": 0.9714814319945219
+      }
+    ],
+    "translation": "在近战距离发动远程攻击也会招致一次“借机攻击”。每个单位每回合只能发动1次免费攻击！提示信息会显示该单位是否仍保有“借机攻击”机会。"
+  },
+  {
+    "id": "T005",
+    "name": "TutorialInitial-EN",
+    "source": "You have triggered a battle\nYourpeople arehighlighted with blue\nTheenemiesarehighlightedwithred\nClick on one of your troops or their portrait",
+    "image": "Analysis/tutorial_images/45_TutorialInitial-EN.png",
+    "ocr_lines": [
+      {
+        "text": "You have triggered a battle",
+        "y": 462.0,
+        "confidence": 0.9830072257253859
+      },
+      {
+        "text": "Yourpeople arehighlighted with blue",
+        "y": 501.0,
+        "confidence": 0.9643957904406957
+      },
+      {
+        "text": "Theenemiesarehighlightedwithred",
+        "y": 523.0,
+        "confidence": 0.9962095502884157
+      },
+      {
+        "text": "Click on one of your troops or their portrait",
+        "y": 559.0,
+        "confidence": 0.988385083940294
+      }
+    ],
+    "translation": "你触发了一场战斗。你的队员会以蓝色高亮显示，敌人则以红色高亮显示。点击一名己方士兵或其头像。"
+  },
+  {
+    "id": "T006",
+    "name": "TutorialCamping13-EN",
+    "source": "TotreatafolloweryouneedtoassignaDoctortohimorher,\nandhavetherequiredamountofmedicine\nAsCaptain,youcountasa doctoraswellforthepurposeoftreatment",
+    "image": "Analysis/tutorial_images/75_TutorialCamping13-EN.png",
+    "ocr_lines": [
+      {
+        "text": "TotreatafolloweryouneedtoassignaDoctortohimorher,",
+        "y": 481.0,
+        "confidence": 0.9878815874761465
+      },
+      {
+        "text": "andhavetherequiredamountofmedicine",
+        "y": 505.0,
+        "confidence": 0.9951918808852925
+      },
+      {
+        "text": "AsCaptain,youcountasa doctoraswellforthepurposeoftreatment",
+        "y": 545.0,
+        "confidence": 0.9858298712763293
+      }
+    ],
+    "translation": "要治疗队员，你需要指派一名医生，并准备好所需数量的药品。作为队长，你在治疗时也算一名医生。"
+  },
+  {
+    "id": "T007",
+    "name": "TutorialIncapacitated-EN",
+    "source": "One ofyour charactershavebecome incapacitated\nThe character'sinjurymay carry overinto the\nIf youhavea Doctor of high enough rank,\nworldmapandyoumaylosesomeequipment\nyoucanreviveyourfallenfollower",
+    "image": "Analysis/tutorial_images/85_TutorialIncapacitated-EN.png",
+    "ocr_lines": [
+      {
+        "text": "One ofyour charactershavebecome incapacitated",
+        "y": 473.0,
+        "confidence": 0.9652779261271159
+      },
+      {
+        "text": "The character'sinjurymay carry overinto the",
+        "y": 525.0,
+        "confidence": 0.9602762973585794
+      },
+      {
+        "text": "If youhavea Doctor of high enough rank,",
+        "y": 527.0,
+        "confidence": 0.936018841388898
+      },
+      {
+        "text": "worldmapandyoumaylosesomeequipment",
+        "y": 548.0,
+        "confidence": 0.9944319935405955
+      },
+      {
+        "text": "youcanreviveyourfallenfollower",
+        "y": 548.0,
+        "confidence": 0.9979887147744496
+      }
+    ],
+    "translation": "你的一名角色已失去行动能力。如果医生的等级足够高，就可以救活倒下的队员。角色的伤势可能会延续到世界地图上，并导致你损失一些装备。"
+  },
+  {
+    "id": "T008",
+    "name": "TutorialMapInitial01-EN",
+    "source": "WelcometoHispaniola!You'rereadingatutorialscreen\nClickonContinueorthearrowtotherighttoproceed\nIf youwanttodisabletutorialsyoucan clickDisable and thenClose",
+    "image": "Analysis/tutorial_images/87_TutorialMapInitial01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "WelcometoHispaniola!You'rereadingatutorialscreen",
+        "y": 465.0,
+        "confidence": 0.992759911964337
+      },
+      {
+        "text": "ClickonContinueorthearrowtotherighttoproceed",
+        "y": 513.0,
+        "confidence": 0.9973344829949465
+      },
+      {
+        "text": "If youwanttodisabletutorialsyoucan clickDisable and thenClose",
+        "y": 562.0,
+        "confidence": 0.9707063768730789
+      }
+    ],
+    "translation": "欢迎来到伊斯帕尼奥拉岛！你正在阅读教程。点击“继续”或右侧箭头即可前进。若要关闭教程，请点击“禁用”，然后点击“关闭”。"
+  },
+  {
+    "id": "T009",
+    "name": "TutorialEndTurn-EN",
+    "source": "When you think you're finished,\nclick the hourglassto end your turn\nIfyouknowyou'regoingtolose,\nclickthewhite flag toretreat",
+    "image": "Analysis/tutorial_images/110_TutorialEndTurn-EN.png",
+    "ocr_lines": [
+      {
+        "text": "When you think you're finished,",
+        "y": 470.0,
+        "confidence": 0.9703438897286693
+      },
+      {
+        "text": "click the hourglassto end your turn",
+        "y": 500.0,
+        "confidence": 0.9554821695600237
+      },
+      {
+        "text": "Ifyouknowyou'regoingtolose,",
+        "y": 523.0,
+        "confidence": 0.9887168297061214
+      },
+      {
+        "text": "clickthewhite flag toretreat",
+        "y": 551.0,
+        "confidence": 0.9377889377730233
+      }
+    ],
+    "translation": "准备好结束时，点击沙漏结束回合。如果你知道自己将要落败，点击白旗撤退。"
+  },
+  {
+    "id": "T010",
+    "name": "TutorialAOO03-EN",
+    "source": "Moving outofMeleerangeofanenemy also\nprovokesanAttackofOpportunity\nExploit this to trap the enemy's Ranged units",
+    "image": "Analysis/tutorial_images/113_TutorialAOO03-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Moving outofMeleerangeofanenemy also",
+        "y": 471.0,
+        "confidence": 0.9766138245662054
+      },
+      {
+        "text": "provokesanAttackofOpportunity",
+        "y": 500.0,
+        "confidence": 0.99776658518561
+      },
+      {
+        "text": "Exploit this to trap the enemy's Ranged units",
+        "y": 543.0,
+        "confidence": 0.9753764033317566
+      }
+    ],
+    "translation": "离开敌人的近战范围也会招致一次“借机攻击”。利用这一点困住敌方远程单位。"
+  },
+  {
+    "id": "T011",
+    "name": "TutorialMapInitial04-EN",
+    "source": "Interactiveobjectsintheworld arehighlightedwhenyouhoveroverthem\nYoucanholddowntheHighlightbutton(Altbydefault)\ntoseewhichobjectsonthescreenareinteractive\nPleaseclickonthesoldierinfrontofyoutoproceed",
+    "image": "Analysis/tutorial_images/126_TutorialMapInitial04-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Interactiveobjectsintheworld arehighlightedwhenyouhoveroverthem",
+        "y": 469.0,
+        "confidence": 0.985064911463904
+      },
+      {
+        "text": "YoucanholddowntheHighlightbutton(Altbydefault)",
+        "y": 506.0,
+        "confidence": 0.9892446061839228
+      },
+      {
+        "text": "toseewhichobjectsonthescreenareinteractive",
+        "y": 529.0,
+        "confidence": 0.997318317492803
+      },
+      {
+        "text": "Pleaseclickonthesoldierinfrontofyoutoproceed",
+        "y": 564.0,
+        "confidence": 0.9904605394059961
+      }
+    ],
+    "translation": "将鼠标悬停在世界中的可互动对象上时，它们会高亮显示。按住高亮显示按键（默认为 Alt），即可查看屏幕上哪些对象可以互动。请点击你前方的士兵继续。"
+  },
+  {
+    "id": "T012",
+    "name": "TutorialCamping14-EN",
+    "source": "The6stagesofaninjuryare:Harmless,Moderate,Severe,Critical,Fatal,andDead\nExample1:IfafollowerwithaModeratewoundisleftuntreated,\nthewoundmaydeterioratetoaSeverewoundduringthenight\nExample2:IfafollowerwithaFatalwound istreated,\nthewoundwill beataCritical stagebythefollowing morning",
+    "image": "Analysis/tutorial_images/144_TutorialCamping14-EN.png",
+    "ocr_lines": [
+      {
+        "text": "The6stagesofaninjuryare:Harmless,Moderate,Severe,Critical,Fatal,andDead",
+        "y": 464.0,
+        "confidence": 0.8916175801989058
+      },
+      {
+        "text": "Example1:IfafollowerwithaModeratewoundisleftuntreated,",
+        "y": 496.0,
+        "confidence": 0.9905018475320604
+      },
+      {
+        "text": "thewoundmaydeterioratetoaSeverewoundduringthenight",
+        "y": 517.0,
+        "confidence": 0.9967580950260162
+      },
+      {
+        "text": "Example2:IfafollowerwithaFatalwound istreated,",
+        "y": 545.0,
+        "confidence": 0.9659956291965817
+      },
+      {
+        "text": "thewoundwill beataCritical stagebythefollowing morning",
+        "y": 566.0,
+        "confidence": 0.970265233958209
+      }
+    ],
+    "translation": "伤势分为6个阶段：轻微、中等、严重、危急、致命和死亡。例如1：若中等伤势的队员未接受治疗，伤势可能在夜间恶化为严重。例2：若治疗了致命伤势的队员，次日清晨其伤势会降至危急阶段。"
+  },
+  {
+    "id": "T013",
+    "name": "TutorialPreparationPhase-EN",
+    "source": "Thisbattleallows you to prepare before thefight\nSelect a follower to see your available start points and click any of them to move them\nYoucanswitchouttwofollowersby selecting one unit and thenclicking another\nTheitemplacementradiusdependsonthestartpointsyouselect",
+    "image": "Analysis/tutorial_images/145_TutorialPreparationPhase-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Thisbattleallows you to prepare before thefight",
+        "y": 466.0,
+        "confidence": 0.9681240459705921
+      },
+      {
+        "text": "Select a follower to see your available start points and click any of them to move them",
+        "y": 501.0,
+        "confidence": 0.9760847961765596
+      },
+      {
+        "text": "Youcanswitchouttwofollowersby selecting one unit and thenclicking another",
+        "y": 525.0,
+        "confidence": 0.9722992222603053
+      },
+      {
+        "text": "Theitemplacementradiusdependsonthestartpointsyouselect",
+        "y": 558.0,
+        "confidence": 0.9967097849757584
+      }
+    ],
+    "translation": "这场战斗允许你在开战前进行准备。选择一名队员即可查看可用的起始位置，点击任意位置将其移动过去。你可以替换两名队员：先选择一个单位，再点击另一名队员。物品放置范围取决于你选择的起始位置。"
+  },
+  {
+    "id": "T014",
+    "name": "TutorialCamping01-EN",
+    "source": "This is the camping system.Before you camp for the night you should assign\ntaskstoyourfollowers,distributerations,aswellastreatanyinjuredmembers\nofyourexpedition",
+    "image": "Analysis/tutorial_images/157_TutorialCamping01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "This is the camping system.Before you camp for the night you should assign",
+        "y": 474.0,
+        "confidence": 0.9848722501381023
+      },
+      {
+        "text": "taskstoyourfollowers,distributerations,aswellastreatanyinjuredmembers",
+        "y": 500.0,
+        "confidence": 0.9921988412953805
+      },
+      {
+        "text": "ofyourexpedition",
+        "y": 521.0,
+        "confidence": 0.9975457526743412
+      }
+    ],
+    "translation": "这里是露营系统。夜间露营前，你应该为队员分配任务、分发口粮，并治疗远征队中所有受伤的成员。"
+  },
+  {
+    "id": "T015",
+    "name": "TutorialAbilities-EN",
+    "source": "Each of your characters has a set of abilities\nThere are three majortypesofabilities:\n-AttackAction\nUsed insteadofyourAttack\n-Full Turn Action\nSpendsyourentireturn\n-FreeAction\nFreetouse",
+    "image": "Analysis/tutorial_images/197_TutorialAbilities-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Each of your characters has a set of abilities",
+        "y": 469.0,
+        "confidence": 0.9672022073165231
+      },
+      {
+        "text": "There are three majortypesofabilities:",
+        "y": 511.0,
+        "confidence": 0.9592808861481515
+      },
+      {
+        "text": "-AttackAction",
+        "y": 511.0,
+        "confidence": 0.9972483882537255
+      },
+      {
+        "text": "Used insteadofyourAttack",
+        "y": 511.0,
+        "confidence": 0.9788101638356844
+      },
+      {
+        "text": "-Full Turn Action",
+        "y": 532.0,
+        "confidence": 0.9773778985528385
+      },
+      {
+        "text": "Spendsyourentireturn",
+        "y": 534.0,
+        "confidence": 0.9973608702421188
+      },
+      {
+        "text": "-FreeAction",
+        "y": 553.0,
+        "confidence": 0.9971360564231873
+      },
+      {
+        "text": "Freetouse",
+        "y": 555.0,
+        "confidence": 0.9982892142401801
+      }
+    ],
+    "translation": "每名角色都有一组能力。能力主要分为3类：\n- 攻击行动：用此能力代替攻击。\n- 整回合行动：消耗整个回合。\n- 免费行动：使用时不消耗行动。"
+  },
+  {
+    "id": "T016",
+    "name": "TutorialCamping09-EN",
+    "source": "AfollowerneedsatleastonepointinTinkeringtobeabletoresearch newinventions\nAfollowerwithhightinkeringskillcanresearchmoreadvancedinventions",
+    "image": "Analysis/tutorial_images/205_TutorialCamping09-EN.png",
+    "ocr_lines": [
+      {
+        "text": "AfollowerneedsatleastonepointinTinkeringtobeabletoresearch newinventions",
+        "y": 495.0,
+        "confidence": 0.9908799992667304
+      },
+      {
+        "text": "Afollowerwithhightinkeringskillcanresearchmoreadvancedinventions",
+        "y": 535.0,
+        "confidence": 0.990458719432354
+      }
+    ],
+    "translation": "队员的巧手技能至少达到1点，才能研究新发明。巧手技能较高的队员可以研究更高级的发明。"
+  },
+  {
+    "id": "T017",
+    "name": "TutorialFollowerManagement03-EN",
+    "source": "APromotionimprovesthefollowerinseveralways:\n-Their combat effectiveness is improved\n-They gain1Active Class Ability\n-Theygain1PassiveAbilityofyour choosing\n-Theygain3points toincrease theirCamping Skills",
+    "image": "Analysis/tutorial_images/235_TutorialFollowerManagement03-EN.png",
+    "ocr_lines": [
+      {
+        "text": "APromotionimprovesthefollowerinseveralways:",
+        "y": 466.0,
+        "confidence": 0.9921222661816796
+      },
+      {
+        "text": "-Their combat effectiveness is improved",
+        "y": 494.0,
+        "confidence": 0.9671106735865275
+      },
+      {
+        "text": "-They gain1Active Class Ability",
+        "y": 516.0,
+        "confidence": 0.9561927453164132
+      },
+      {
+        "text": "-Theygain1PassiveAbilityofyour choosing",
+        "y": 537.0,
+        "confidence": 0.986297132113041
+      },
+      {
+        "text": "-Theygain3points toincrease theirCamping Skills",
+        "y": 559.0,
+        "confidence": 0.9727355393957584
+      }
+    ],
+    "translation": "晋升会从多个方面提升队员：\n- 提高其战斗能力。\n- 获得1项主动职业能力。\n- 获得1项由你选择的被动能力。\n- 获得3点，可用于提升露营技能。"
+  },
+  {
+    "id": "T018",
+    "name": "TutorialFollowerManagement01-EN",
+    "source": "FollowerManagementgivesyouanoverviewofthestatusofyourexpedition,\naswellaslettingyouPromoteandEquipyourfollowers",
+    "image": "Analysis/tutorial_images/262_TutorialFollowerManagement01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "FollowerManagementgivesyouanoverviewofthestatusofyourexpedition,",
+        "y": 493.0,
+        "confidence": 0.9869145080447197
+      },
+      {
+        "text": "aswellaslettingyouPromoteandEquipyourfollowers",
+        "y": 518.0,
+        "confidence": 0.9947920182476873
+      }
+    ],
+    "translation": "“队员管理”界面会概览远征队的状况，你也可以在这里晋升队员并为他们装备物品。"
+  },
+  {
+    "id": "T019",
+    "name": "TutorialRanged03-EN",
+    "source": "Some objectsprovidefull cover,\npreventing you from attacking targetsbehind them",
+    "image": "Analysis/tutorial_images/298_TutorialRanged03-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Some objectsprovidefull cover,",
+        "y": 499.0,
+        "confidence": 0.9797660946846009
+      },
+      {
+        "text": "preventing you from attacking targetsbehind them",
+        "y": 520.0,
+        "confidence": 0.9664542252818743
+      }
+    ],
+    "translation": "有些物体能提供完全掩护，使你无法攻击躲在其后的目标。"
+  },
+  {
+    "id": "T020",
+    "name": "TutorialWoundedFollower-EN",
+    "source": "Oneof yourfollowers arewounded!Woundedfollowers are notabletohelpduring camping,\nandifleftuntreatedthewoundmightdeteriorateduringthenight.\nTotreatinjuredfollowers,selectthemintheCampingmenu,\nandgototheTreatmenttab",
+    "image": "Analysis/tutorial_images/303_TutorialWoundedFollower-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Oneof yourfollowers arewounded!Woundedfollowers are notabletohelpduring camping,",
+        "y": 463.0,
+        "confidence": 0.9683852210640908
+      },
+      {
+        "text": "andifleftuntreatedthewoundmightdeteriorateduringthenight.",
+        "y": 487.0,
+        "confidence": 0.9957729055170428
+      },
+      {
+        "text": "Totreatinjuredfollowers,selectthemintheCampingmenu,",
+        "y": 523.0,
+        "confidence": 0.989491833191292
+      },
+      {
+        "text": "andgototheTreatmenttab",
+        "y": 545.0,
+        "confidence": 0.9952304715459998
+      }
+    ],
+    "translation": "你的一名队员受伤了！受伤的队员在露营期间无法提供帮助；如果不治疗，伤势可能会在夜间恶化。要治疗伤员，请在“露营”菜单中选择他们，然后打开“治疗”标签页。"
+  },
+  {
+    "id": "T021",
+    "name": "TutorialTrading01-EN",
+    "source": "Thisis the trading screen\nTrading is a bartering system where you trade your resources for the merchant's goods\nOntheleftside,youcanseethe\nOntherightside,you cansee\nmerchant'spurchasableresources\nyourowntradeableresources",
+    "image": "Analysis/tutorial_images/326_TutorialTrading01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Thisis the trading screen",
+        "y": 466.0,
+        "confidence": 0.9622622346878051
+      },
+      {
+        "text": "Trading is a bartering system where you trade your resources for the merchant's goods",
+        "y": 499.0,
+        "confidence": 0.9819617720211253
+      },
+      {
+        "text": "Ontheleftside,youcanseethe",
+        "y": 540.0,
+        "confidence": 0.9866856657541715
+      },
+      {
+        "text": "Ontherightside,you cansee",
+        "y": 540.0,
+        "confidence": 0.967012391090393
+      },
+      {
+        "text": "merchant'spurchasableresources",
+        "y": 564.0,
+        "confidence": 0.9964930713176727
+      },
+      {
+        "text": "yourowntradeableresources",
+        "y": 562.0,
+        "confidence": 0.998317518234253
+      }
+    ],
+    "translation": "这是交易界面。交易采用以物易物的方式，你可以用自己的资源交换商人的商品。左侧显示商人可购买的资源，右侧显示你可交易的资源。"
+  },
+  {
+    "id": "T022",
+    "name": "TutorialCamping07-EN",
+    "source": "Tinkering is divided into Construction and Invention\nConstruction allowsyou toassignfollowerstoconstruct traps and equipment\nInventionallowsyoutoassignfollowerstoresearch\nimprovementstotheexpedition'sgearandequipment",
+    "image": "Analysis/tutorial_images/350_TutorialCamping07-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Tinkering is divided into Construction and Invention",
+        "y": 467.0,
+        "confidence": 0.9580604434013367
+      },
+      {
+        "text": "Construction allowsyou toassignfollowerstoconstruct traps and equipment",
+        "y": 505.0,
+        "confidence": 0.9673768987118359
+      },
+      {
+        "text": "Inventionallowsyoutoassignfollowerstoresearch",
+        "y": 540.0,
+        "confidence": 0.9959842946794298
+      },
+      {
+        "text": "improvementstotheexpedition'sgearandequipment",
+        "y": 562.0,
+        "confidence": 0.9929189907179938
+      }
+    ],
+    "translation": "巧手分为“建造”和“发明”。通过建造，你可以指派队员制作陷阱和装备；通过发明，你可以指派队员研究改良远征队装备的技术。"
+  },
+  {
+    "id": "T023",
+    "name": "TutorialFlanking-EN",
+    "source": "If you place two units on directly opposite sides of an enemy,\nboth units can make a Flanking Strike on that enemy\nA flanking strike deals substantially more damage than a normal attack",
+    "image": "Analysis/tutorial_images/354_TutorialFlanking-EN.png",
+    "ocr_lines": [
+      {
+        "text": "If you place two units on directly opposite sides of an enemy,",
+        "y": 468.0,
+        "confidence": 0.970080009391231
+      },
+      {
+        "text": "both units can make a Flanking Strike on that enemy",
+        "y": 497.0,
+        "confidence": 0.9675723618152094
+      },
+      {
+        "text": "A flanking strike deals substantially more damage than a normal attack",
+        "y": 545.0,
+        "confidence": 0.966298223393304
+      }
+    ],
+    "translation": "如果将两个单位部署在敌人的正对两侧，这两个单位都可以对该敌人发动“侧翼攻击”。侧翼攻击造成的伤害远高于普通攻击。"
+  },
+  {
+    "id": "T024",
+    "name": "TutorialItemPlacement-EN",
+    "source": "You can place your barricades before the battle starts\nClickontheBarricadeltemiconand\nthenclickwhereyouwishtoplaceit\nYou can only place items inside the green area",
+    "image": "Analysis/tutorial_images/392_TutorialItemPlacement-EN.png",
+    "ocr_lines": [
+      {
+        "text": "You can place your barricades before the battle starts",
+        "y": 468.0,
+        "confidence": 0.9878064449186679
+      },
+      {
+        "text": "ClickontheBarricadeltemiconand",
+        "y": 501.0,
+        "confidence": 0.972377140323321
+      },
+      {
+        "text": "thenclickwhereyouwishtoplaceit",
+        "y": 527.0,
+        "confidence": 0.9827940066655477
+      },
+      {
+        "text": "You can only place items inside the green area",
+        "y": 558.0,
+        "confidence": 0.9772214902483899
+      }
+    ],
+    "translation": "战斗开始前，你可以放置路障。点击路障物品图标，然后点击想要放置的位置。物品只能放置在绿色区域内。"
+  },
+  {
+    "id": "T025",
+    "name": "TutorialCamping08-EN",
+    "source": "Constructinganitemcostsmaterials\nForexample:to craft aTorch,you need 2unitsofWood and1unitof Oil\nDuring the campaign,you will find recipes that\nteachyouhowtocraftnewtrapsanditems",
+    "image": "Analysis/tutorial_images/397_TutorialCamping08-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Constructinganitemcostsmaterials",
+        "y": 467.0,
+        "confidence": 0.9975943807512522
+      },
+      {
+        "text": "Forexample:to craft aTorch,you need 2unitsofWood and1unitof Oil",
+        "y": 504.0,
+        "confidence": 0.9511109335081918
+      },
+      {
+        "text": "During the campaign,you will find recipes that",
+        "y": 539.0,
+        "confidence": 0.97924347286639
+      },
+      {
+        "text": "teachyouhowtocraftnewtrapsanditems",
+        "y": 562.0,
+        "confidence": 0.9977573366726146
+      }
+    ],
+    "translation": "制作物品需要消耗材料。例如，制作一支火把需要2单位木材和1单位油料。冒险途中，你会找到配方，学会制作新的陷阱和物品。"
+  },
+  {
+    "id": "T026",
+    "name": "TutorialMovement-EN",
+    "source": "The grid shows how far you can move\nStay inside the light green area if\nConvert your action into moves\nyou also want to attack this turn\nby walking into the dark green area\nYellowmovementindicator\nOrange movementindicator",
+    "image": "Analysis/tutorial_images/410_TutorialMovement-EN.png",
+    "ocr_lines": [
+      {
+        "text": "The grid shows how far you can move",
+        "y": 465.0,
+        "confidence": 0.981423362663814
+      },
+      {
+        "text": "Stay inside the light green area if",
+        "y": 497.0,
+        "confidence": 0.9860400761876787
+      },
+      {
+        "text": "Convert your action into moves",
+        "y": 499.0,
+        "confidence": 0.9799105763435364
+      },
+      {
+        "text": "you also want to attack this turn",
+        "y": 519.0,
+        "confidence": 0.9360322807774399
+      },
+      {
+        "text": "by walking into the dark green area",
+        "y": 521.0,
+        "confidence": 0.9671583328928266
+      },
+      {
+        "text": "Yellowmovementindicator",
+        "y": 557.0,
+        "confidence": 0.9968905682149141
+      },
+      {
+        "text": "Orange movementindicator",
+        "y": 558.0,
+        "confidence": 0.9823348994056383
+      }
+    ],
+    "translation": "网格显示你可以移动的距离。若本回合还想攻击，请留在浅绿色区域内；进入深绿色区域则会将行动点转化为移动距离。黄色表示移动指示，橙色表示行动指示。"
+  },
+  {
+    "id": "T027",
+    "name": "TutorialCamping02-EN",
+    "source": "Eachtimeyoucampyoucan\nassigntaskstoyourfollowers\nYou assigntasksbyselectingafollower,\nand clicking on theintended taskon the rightside\nTheiconfortheassignedtaskwillappear\nontherightsideofthefollower",
+    "image": "Analysis/tutorial_images/425_TutorialCamping02-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Eachtimeyoucampyoucan",
+        "y": 462.0,
+        "confidence": 0.9973277421224684
+      },
+      {
+        "text": "assigntaskstoyourfollowers",
+        "y": 486.0,
+        "confidence": 0.9816571565774771
+      },
+      {
+        "text": "You assigntasksbyselectingafollower,",
+        "y": 488.0,
+        "confidence": 0.9801278875933753
+      },
+      {
+        "text": "and clicking on theintended taskon the rightside",
+        "y": 511.0,
+        "confidence": 0.9495936011274656
+      },
+      {
+        "text": "Theiconfortheassignedtaskwillappear",
+        "y": 545.0,
+        "confidence": 0.9973596521786281
+      },
+      {
+        "text": "ontherightsideofthefollower",
+        "y": 567.0,
+        "confidence": 0.9982765471493756
+      }
+    ],
+    "translation": "每次扎营时，你都可以为队员分配任务。选择一名队员，再点击右侧想分配的任务。队员右侧会显示已分配任务的图标。"
+  },
+  {
+    "id": "T028",
+    "name": "TutorialTrading02-EN",
+    "source": "IfamerchanthasaLowSupplyofaresource,\nWheneverpossible,\ntheywill value thatresourcehigher than usual\naimtobuyresourcesinHighSupply\nandsell resourcesin LowSupply\nIfthemerchanthasaHighSupplyofaresource,\ntheywillvaluethatresourcelowerthannormal\nAlltraders areresetevery7days",
+    "image": "Analysis/tutorial_images/442_TutorialTrading02-EN.png",
+    "ocr_lines": [
+      {
+        "text": "IfamerchanthasaLowSupplyofaresource,",
+        "y": 467.0,
+        "confidence": 0.9903889132870568
+      },
+      {
+        "text": "Wheneverpossible,",
+        "y": 469.0,
+        "confidence": 0.9935580036219429
+      },
+      {
+        "text": "theywill value thatresourcehigher than usual",
+        "y": 492.0,
+        "confidence": 0.9592657915570519
+      },
+      {
+        "text": "aimtobuyresourcesinHighSupply",
+        "y": 492.0,
+        "confidence": 0.9969691202558321
+      },
+      {
+        "text": "andsell resourcesin LowSupply",
+        "y": 513.0,
+        "confidence": 0.9717938673907313
+      },
+      {
+        "text": "IfthemerchanthasaHighSupplyofaresource,",
+        "y": 530.0,
+        "confidence": 0.9897665320298611
+      },
+      {
+        "text": "theywillvaluethatresourcelowerthannormal",
+        "y": 554.0,
+        "confidence": 0.9952321276068687
+      },
+      {
+        "text": "Alltraders areresetevery7days",
+        "y": 552.0,
+        "confidence": 0.9843490329282037
+      }
+    ],
+    "translation": "商人某种资源库存较少时，会比平时更看重该资源。尽可能购买库存充足的资源，并出售库存较少的资源。商人某种资源库存较多时，则会降低对该资源的估价。所有商人的库存每7天重置一次。"
+  },
+  {
+    "id": "T029",
+    "name": "TutorialRestore-EN",
+    "source": "Ifany of your people are injured,\nselect your Doctor and click on theRestore ability\nThenselecttheinjuredperson torestoresome endurance",
+    "image": "Analysis/tutorial_images/492_TutorialRestore-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Ifany of your people are injured,",
+        "y": 464.0,
+        "confidence": 0.950398761214632
+      },
+      {
+        "text": "select your Doctor and click on theRestore ability",
+        "y": 487.0,
+        "confidence": 0.9462623536586762
+      },
+      {
+        "text": "Thenselecttheinjuredperson torestoresome endurance",
+        "y": 544.0,
+        "confidence": 0.9823462271690369
+      }
+    ],
+    "translation": "如果队员受伤，选择医生并点击“恢复”技能。然后选择受伤的队员，为其恢复一些耐力。"
+  },
+  {
+    "id": "T030",
+    "name": "TutorialRanged01-EN",
+    "source": "Ranged attacks depend on line of sight and distance\nThefartheryou arefromyourtarget,\nthelesslikelyyouare tohit",
+    "image": "Analysis/tutorial_images/515_TutorialRanged01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Ranged attacks depend on line of sight and distance",
+        "y": 474.0,
+        "confidence": 0.9904994193245383
+      },
+      {
+        "text": "Thefartheryou arefromyourtarget,",
+        "y": 527.0,
+        "confidence": 0.9799285717308521
+      },
+      {
+        "text": "thelesslikelyyouare tohit",
+        "y": 549.0,
+        "confidence": 0.9530143404006958
+      }
+    ],
+    "translation": "远程攻击取决于视线是否畅通以及双方距离。你离目标越远，命中率就越低。"
+  },
+  {
+    "id": "T031",
+    "name": "TutorialVictoryScreen-EN",
+    "source": "Thevictoryscreenshowsthestatusof\nIfafollowerhasbeenincapacitatedatanypoint,\nyourfollowersafterthebattle\nthereis a risk he orshehasrecieved an injury,\nwhichmustbetreatedbyaskilledDoctor\nAninjuredfollowermayalsoloseonepointofequipment",
+    "image": "Analysis/tutorial_images/528_TutorialVictoryScreen-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Thevictoryscreenshowsthestatusof",
+        "y": 470.0,
+        "confidence": 0.9975707288831472
+      },
+      {
+        "text": "Ifafollowerhasbeenincapacitatedatanypoint,",
+        "y": 466.0,
+        "confidence": 0.9886605186121804
+      },
+      {
+        "text": "yourfollowersafterthebattle",
+        "y": 492.0,
+        "confidence": 0.9852719240718417
+      },
+      {
+        "text": "thereis a risk he orshehasrecieved an injury,",
+        "y": 487.0,
+        "confidence": 0.9455365075005425
+      },
+      {
+        "text": "whichmustbetreatedbyaskilledDoctor",
+        "y": 510.0,
+        "confidence": 0.9977385051110211
+      },
+      {
+        "text": "Aninjuredfollowermayalsoloseonepointofequipment",
+        "y": 552.0,
+        "confidence": 0.9971568457623745
+      }
+    ],
+    "translation": "胜利界面会显示战斗结束后队员的状态。如果队员曾在战斗中失去行动能力，就有可能受伤，必须由熟练的医生治疗。受伤的队员也可能损失1点装备。"
+  },
+  {
+    "id": "T032",
+    "name": "TutorialMapInitial02-EN",
+    "source": "In thetopleftcorneryoucanfind theMenubuttons\nFromhereyoucanaccesstheMainMenu,FollowerManagement,Goals,and Inventory\nIn the top right corner you can see the Compass - clicking on this opens the map\nIn the lower right corner you can find the Make Camp button\nYoucannotaccessthismenuyet,asyoucan'tcampinsideacity",
+    "image": "Analysis/tutorial_images/552_TutorialMapInitial02-EN.png",
+    "ocr_lines": [
+      {
+        "text": "In thetopleftcorneryoucanfind theMenubuttons",
+        "y": 464.0,
+        "confidence": 0.9789648408239539
+      },
+      {
+        "text": "FromhereyoucanaccesstheMainMenu,FollowerManagement,Goals,and Inventory",
+        "y": 487.0,
+        "confidence": 0.9696241753441946
+      },
+      {
+        "text": "In the top right corner you can see the Compass - clicking on this opens the map",
+        "y": 513.0,
+        "confidence": 0.9766026586294174
+      },
+      {
+        "text": "In the lower right corner you can find the Make Camp button",
+        "y": 540.0,
+        "confidence": 0.9744915335865344
+      },
+      {
+        "text": "Youcannotaccessthismenuyet,asyoucan'tcampinsideacity",
+        "y": 562.0,
+        "confidence": 0.9898130595684052
+      }
+    ],
+    "translation": "左上角有菜单按钮，可在此打开主菜单、队员管理、目标和物品栏。右上角的指南针按钮可打开地图。右下角有“扎营”按钮。你目前无法使用此菜单，因为在城市内不能扎营。"
+  },
+  {
+    "id": "T033",
+    "name": "TutorialItemPlacementEnd-EN",
+    "source": "Whenyou'redonewithyourpreparations,\nClick the BEGIN BATTLE button toproceed with your turn",
+    "image": "Analysis/tutorial_images/562_TutorialItemPlacementEnd-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Whenyou'redonewithyourpreparations,",
+        "y": 487.0,
+        "confidence": 0.9921654564993722
+      },
+      {
+        "text": "Click the BEGIN BATTLE button toproceed with your turn",
+        "y": 534.0,
+        "confidence": 0.9536909725930955
+      }
+    ],
+    "translation": "准备就绪后，点击“开始战斗”按钮，开始你的回合。"
+  },
+  {
+    "id": "T034",
+    "name": "TutorialRanged02-EN",
+    "source": "Some objects provide partial cover,\nreducing the chance to hit your target",
+    "image": "Analysis/tutorial_images/574_TutorialRanged02-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Some objects provide partial cover,",
+        "y": 493.0,
+        "confidence": 0.9941542199679784
+      },
+      {
+        "text": "reducing the chance to hit your target",
+        "y": 517.0,
+        "confidence": 0.9886068466462588
+      }
+    ],
+    "translation": "一些物体可以提供部分掩护，降低你命中目标的几率。"
+  },
+  {
+    "id": "T035",
+    "name": "TutorialIndicatorRing-EN",
+    "source": "The character rings indicate what you can do this turn\nThebluering indicates\nThe red ring indicates that\nGray rings mean that the\nthat you can still move\nyoucanperformanaction\ncharacterhasspentitsturn",
+    "image": "Analysis/tutorial_images/588_TutorialIndicatorRing-EN.png",
+    "ocr_lines": [
+      {
+        "text": "The character rings indicate what you can do this turn",
+        "y": 469.0,
+        "confidence": 0.9772460129525926
+      },
+      {
+        "text": "Thebluering indicates",
+        "y": 509.0,
+        "confidence": 0.978836252575829
+      },
+      {
+        "text": "The red ring indicates that",
+        "y": 508.0,
+        "confidence": 0.9961289785526417
+      },
+      {
+        "text": "Gray rings mean that the",
+        "y": 509.0,
+        "confidence": 0.9484795729319254
+      },
+      {
+        "text": "that you can still move",
+        "y": 533.0,
+        "confidence": 0.9394273265548374
+      },
+      {
+        "text": "youcanperformanaction",
+        "y": 532.0,
+        "confidence": 0.9970422727721078
+      },
+      {
+        "text": "characterhasspentitsturn",
+        "y": 531.0,
+        "confidence": 0.9863546242316564
+      }
+    ],
+    "translation": "角色圆环表示本回合可执行的行动。蓝色圆环表示仍可移动；红色圆环表示可以执行行动；灰色圆环表示该角色本回合已行动完毕。"
+  },
+  {
+    "id": "T036",
+    "name": "TutorialNoMoves-EN",
+    "source": "Youhave nomore movesleft and therefore cannot travel anyfurthertoday\nYoumustcampforthenightbeforeyou are abletomove again\nToopenthecampmanagementmenu,\npresstheMake Campiconinthelowerrightsideof the screen",
+    "image": "Analysis/tutorial_images/607_TutorialNoMoves-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Youhave nomore movesleft and therefore cannot travel anyfurthertoday",
+        "y": 465.0,
+        "confidence": 0.9647942360709695
+      },
+      {
+        "text": "Youmustcampforthenightbeforeyou are abletomove again",
+        "y": 505.0,
+        "confidence": 0.9787148328927847
+      },
+      {
+        "text": "Toopenthecampmanagementmenu,",
+        "y": 540.0,
+        "confidence": 0.9934888929128647
+      },
+      {
+        "text": "presstheMake Campiconinthelowerrightsideof the screen",
+        "y": 562.0,
+        "confidence": 0.9745200568774961
+      }
+    ],
+    "translation": "你今天的移动次数已用完，无法继续赶路。必须先扎营过夜，才能再次移动。点击屏幕右下角的“扎营”图标，打开营地管理菜单。"
+  },
+  {
+    "id": "T037",
+    "name": "TutorialCamping05-EN",
+    "source": "Some areasare moredifficulttocampinthan others,\nsomind thedifficultyof the terrainbefore makingcamp.\nBeonthelookoutforcontextualevents,asassigning\npeople to them could benefit yourexpedition.",
+    "image": "Analysis/tutorial_images/610_TutorialCamping05-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Some areasare moredifficulttocampinthan others,",
+        "y": 462.0,
+        "confidence": 0.9707133744625335
+      },
+      {
+        "text": "somind thedifficultyof the terrainbefore makingcamp.",
+        "y": 483.0,
+        "confidence": 0.9603728583225837
+      },
+      {
+        "text": "Beonthelookoutforcontextualevents,asassigning",
+        "y": 518.0,
+        "confidence": 0.9924912108315362
+      },
+      {
+        "text": "people to them could benefit yourexpedition.",
+        "y": 540.0,
+        "confidence": 0.9565938331864097
+      }
+    ],
+    "translation": "有些区域比其他地方更难扎营，扎营前请留意地形难度。也要留意情境事件，派人参与其中可能会对远征队有所帮助。"
+  },
+  {
+    "id": "T038",
+    "name": "TutorialFollowerManagement04-EN",
+    "source": "Remembertoupgradeyourfollowers'CampingSkillsafterpromotingthem\nEachskillcorrespondstoataskwhenyoumakecamp\nYouroverallchanceofsuccessineachtaskisdeterminedby\nthetotalskillvalueofallfollowersassignedtothattask",
+    "image": "Analysis/tutorial_images/630_TutorialFollowerManagement04-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Remembertoupgradeyourfollowers'CampingSkillsafterpromotingthem",
+        "y": 470.0,
+        "confidence": 0.9953892567465382
+      },
+      {
+        "text": "Eachskillcorrespondstoataskwhenyoumakecamp",
+        "y": 501.0,
+        "confidence": 0.9978920278095064
+      },
+      {
+        "text": "Youroverallchanceofsuccessineachtaskisdeterminedby",
+        "y": 536.0,
+        "confidence": 0.9970848631858825
+      },
+      {
+        "text": "thetotalskillvalueofallfollowersassignedtothattask",
+        "y": 559.0,
+        "confidence": 0.9890013468265534
+      }
+    ],
+    "translation": "晋升队员后，记得提升他们的营地技能。每项技能都对应一项扎营任务。分配到某项任务的所有队员，其技能总值决定了该任务的整体成功率。"
+  },
+  {
+    "id": "T039",
+    "name": "TutorialCamping06-EN",
+    "source": "TheAutoAssignbuttonassignseachfollowertothetaskthey aremostskilled at\nAllofyourfollowerswillcontinuetodotheirassignedtaskthe\nnexttimeyoucamp,unlesstheygetneworders\nIfAutoCampischecked,youwillautomatically\ncampwhenyou runoutofmoves",
+    "image": "Analysis/tutorial_images/639_TutorialCamping06-EN.png",
+    "ocr_lines": [
+      {
+        "text": "TheAutoAssignbuttonassignseachfollowertothetaskthey aremostskilled at",
+        "y": 461.0,
+        "confidence": 0.9847202033236406
+      },
+      {
+        "text": "Allofyourfollowerswillcontinuetodotheirassignedtaskthe",
+        "y": 496.0,
+        "confidence": 0.9945189047742773
+      },
+      {
+        "text": "nexttimeyoucamp,unlesstheygetneworders",
+        "y": 521.0,
+        "confidence": 0.989261081344203
+      },
+      {
+        "text": "IfAutoCampischecked,youwillautomatically",
+        "y": 554.0,
+        "confidence": 0.9893031120300293
+      },
+      {
+        "text": "campwhenyou runoutofmoves",
+        "y": 577.0,
+        "confidence": 0.9788454627990723
+      }
+    ],
+    "translation": "“自动分配”按钮会将每名队员分配到其最擅长的任务。下次扎营时，所有队员会继续执行原分配的任务，除非你另有安排。勾选“自动扎营”后，移动次数用完时你会自动扎营。"
+  },
+  {
+    "id": "T040",
+    "name": "TutorialFollowerManagement05-EN",
+    "source": "You canuseEquipmenttoupgrade thequalityofweapons andarmour\nAsyoupromote them,yourfollowerswill beabletoequipbettergear\nSimply clickonanempty slottofill the follower's equipment up to that slot\nIfanexpeditionmemberhasmultipleweaponproficiencies,\nyoucanswitchbetweentheirweaponswiththearrowbuttons",
+    "image": "Analysis/tutorial_images/652_TutorialFollowerManagement05-EN.png",
+    "ocr_lines": [
+      {
+        "text": "You canuseEquipmenttoupgrade thequalityofweapons andarmour",
+        "y": 457.0,
+        "confidence": 0.9753093842802376
+      },
+      {
+        "text": "Asyoupromote them,yourfollowerswill beabletoequipbettergear",
+        "y": 480.0,
+        "confidence": 0.9773885779461619
+      },
+      {
+        "text": "Simply clickonanempty slottofill the follower's equipment up to that slot",
+        "y": 514.0,
+        "confidence": 0.9493305879096462
+      },
+      {
+        "text": "Ifanexpeditionmemberhasmultipleweaponproficiencies,",
+        "y": 546.0,
+        "confidence": 0.9862359364827474
+      },
+      {
+        "text": "youcanswitchbetweentheirweaponswiththearrowbuttons",
+        "y": 568.0,
+        "confidence": 0.9921394550800323
+      }
+    ],
+    "translation": "使用装备可以提升武器和护甲的品质。晋升队员后，他们就能装备更好的物品。点击空装备栏，即可为队员填入该栏及之前的装备。如果远征队成员精通多种武器，可以使用箭头按钮切换武器。"
+  },
+  {
+    "id": "T041",
+    "name": "TutorialMapInitial03-EN",
+    "source": "Yourmousecursorchangestoshowwhereyou canand cannotgo\nThiscursorindicatesanaccessiblelocation\nThiscursorindicatesaninaccessiblelocation\nThiscursorindicatesthecurrentlyselectedlocation\nClickhere againtomovetotheselectedlocation",
+    "image": "Analysis/tutorial_images/659_TutorialMapInitial03-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Yourmousecursorchangestoshowwhereyou canand cannotgo",
+        "y": 463.0,
+        "confidence": 0.9833388110766044
+      },
+      {
+        "text": "Thiscursorindicatesanaccessiblelocation",
+        "y": 494.0,
+        "confidence": 0.9968072038430434
+      },
+      {
+        "text": "Thiscursorindicatesaninaccessiblelocation",
+        "y": 523.0,
+        "confidence": 0.9976503863567259
+      },
+      {
+        "text": "Thiscursorindicatesthecurrentlyselectedlocation",
+        "y": 547.0,
+        "confidence": 0.9959887874887344
+      },
+      {
+        "text": "Clickhere againtomovetotheselectedlocation",
+        "y": 568.0,
+        "confidence": 0.9735573189599174
+      }
+    ],
+    "translation": "鼠标光标会变化，以显示哪些地方可以前往、哪些地方无法前往。此光标表示该地点可以到达；此光标表示该地点无法到达；此光标表示当前选中的地点。再次点击此处即可前往选中的地点。"
+  },
+  {
+    "id": "T042",
+    "name": "TutorialFollowerManagement02-EN",
+    "source": "TheSkillstabletsyouPromoteyourfollowersifyou haveenoughExperience\nThepossibleranks are:Recruit,Man-At-Arms,Veteran,Sergeant,and Lieutenant\nYoucanonlyhave2Sergeantsand1Lieutenantatthesametime",
+    "image": "Analysis/tutorial_images/787_TutorialFollowerManagement02-EN.png",
+    "ocr_lines": [
+      {
+        "text": "TheSkillstabletsyouPromoteyourfollowersifyou haveenoughExperience",
+        "y": 459.0,
+        "confidence": 0.9862774216211759
+      },
+      {
+        "text": "Thepossibleranks are:Recruit,Man-At-Arms,Veteran,Sergeant,and Lieutenant",
+        "y": 503.0,
+        "confidence": 0.9095926889114909
+      },
+      {
+        "text": "Youcanonlyhave2Sergeantsand1Lieutenantatthesametime",
+        "y": 547.0,
+        "confidence": 0.990100083397884
+      }
+    ],
+    "translation": "经验值足够时，可在技能界面晋升队员。可晋升的军阶有：新兵、武装步兵、老兵、中士和中尉。同时最多只能有2名中士和1名中尉。"
+  },
+  {
+    "id": "T043",
+    "name": "TutorialLeavingCity01-EN",
+    "source": "You arenowleaving thefreemovezone around thecityofSantoDomingo\nWhenyou'renotinsideone of thesezones,you have a certain amount\nofmoveseachdaybeforeyouhavetomakecampforthenight\nWhenyourun outof movesfortheday,presstheMakeCamp\nbuttonin the lowerrightcorner oruse the hotkey(Cbydefault)",
+    "image": "Analysis/tutorial_images/803_TutorialLeavingCity01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "You arenowleaving thefreemovezone around thecityofSantoDomingo",
+        "y": 465.0,
+        "confidence": 0.9673855939219075
+      },
+      {
+        "text": "Whenyou'renotinsideone of thesezones,you have a certain amount",
+        "y": 494.0,
+        "confidence": 0.9523278532489654
+      },
+      {
+        "text": "ofmoveseachdaybeforeyouhavetomakecampforthenight",
+        "y": 517.0,
+        "confidence": 0.9908184632658958
+      },
+      {
+        "text": "Whenyourun outof movesfortheday,presstheMakeCamp",
+        "y": 544.0,
+        "confidence": 0.974610605587562
+      },
+      {
+        "text": "buttonin the lowerrightcorner oruse the hotkey(Cbydefault)",
+        "y": 567.0,
+        "confidence": 0.9525598236199083
+      }
+    ],
+    "translation": "你现在正离开圣多明各周围的自由移动区域。离开这些区域后，每天只能移动一定次数，之后必须扎营过夜。当天移动次数用完时，点击右下角的“扎营”按钮，或使用快捷键（默认为C）。"
+  },
+  {
+    "id": "T044",
+    "name": "TutorialCamping03-EN",
+    "source": "Guarding:\nThefollowerissettodefendthecampfrompossibleintrudersduringthenight\nPatrolling:\nThefollowerissettopatrolthesurroundingarealookingforpointsof interest\nHunting:\nThefollowerissettohuntformeattofeedtheexpedition\nThebottom leftshowsyourtotal percentagechance ofsuccessforeachofthese activities",
+    "image": "Analysis/tutorial_images/806_TutorialCamping03-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Guarding:",
+        "y": 463.0,
+        "confidence": 0.99522332350413
+      },
+      {
+        "text": "Thefollowerissettodefendthecampfrompossibleintrudersduringthenight",
+        "y": 464.0,
+        "confidence": 0.9975054598215854
+      },
+      {
+        "text": "Patrolling:",
+        "y": 491.0,
+        "confidence": 0.9974919015711005
+      },
+      {
+        "text": "Thefollowerissettopatrolthesurroundingarealookingforpointsof interest",
+        "y": 493.0,
+        "confidence": 0.9911124930865522
+      },
+      {
+        "text": "Hunting:",
+        "y": 522.0,
+        "confidence": 0.9957049414515495
+      },
+      {
+        "text": "Thefollowerissettohuntformeattofeedtheexpedition",
+        "y": 524.0,
+        "confidence": 0.9972076416015625
+      },
+      {
+        "text": "Thebottom leftshowsyourtotal percentagechance ofsuccessforeachofthese activities",
+        "y": 562.0,
+        "confidence": 0.9799294471740723
+      }
+    ],
+    "translation": "守卫：队员会在夜间守护营地，防范可能的入侵者。巡逻：队员会巡查周边区域，寻找兴趣点。狩猎：队员会猎取肉类，为远征队提供食物。左下角显示这些活动各自的总成功率。"
+  },
+  {
+    "id": "T045",
+    "name": "TutorialCamping04-EN",
+    "source": "Herbalism:\nHerbsyoupickupduringyourtravelscanbeusedformedicine,if processed\nPreserving:\nUnpreservedmeatwillspoil during thenightifyoudonotpreserveitoreatit\nimmediately.lfyouhaveanexcessofmeat,preserveitforlateruse\nIn thebottomleftyoucanseehowmuchmeatand howmanyherbsyou'll processtonight",
+    "image": "Analysis/tutorial_images/814_TutorialCamping04-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Herbalism:",
+        "y": 466.0,
+        "confidence": 0.9964076459407807
+      },
+      {
+        "text": "Herbsyoupickupduringyourtravelscanbeusedformedicine,if processed",
+        "y": 466.0,
+        "confidence": 0.9877970265224576
+      },
+      {
+        "text": "Preserving:",
+        "y": 500.0,
+        "confidence": 0.9939418001608415
+      },
+      {
+        "text": "Unpreservedmeatwillspoil during thenightifyoudonotpreserveitoreatit",
+        "y": 501.0,
+        "confidence": 0.9841229034893548
+      },
+      {
+        "text": "immediately.lfyouhaveanexcessofmeat,preserveitforlateruse",
+        "y": 523.0,
+        "confidence": 0.9827414155006409
+      },
+      {
+        "text": "In thebottomleftyoucanseehowmuchmeatand howmanyherbsyou'll processtonight",
+        "y": 557.0,
+        "confidence": 0.981006288365142
+      }
+    ],
+    "translation": "草药学：旅途中采集的草药经过处理后可用于制作药品。腌制：如果不腌制或立即食用，未腌制的肉会在夜间腐坏。肉类有剩余时，可以腌制起来以后食用。左下角会显示今晚将处理的肉类和草药数量。"
+  },
+  {
+    "id": "T046",
+    "name": "TutorialCamping10-EN",
+    "source": "Therationstabiswhereyou distributefoodtoyourexpeditionmembers\nYoucanselectindividualrationingbyselectingthefollower\nand choosing ration type and quantity\nGivingfollowersmore thanoneunitof\nfoodhasachancetoincreasetheirmorale",
+    "image": "Analysis/tutorial_images/818_TutorialCamping10-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Therationstabiswhereyou distributefoodtoyourexpeditionmembers",
+        "y": 464.0,
+        "confidence": 0.9907276102753936
+      },
+      {
+        "text": "Youcanselectindividualrationingbyselectingthefollower",
+        "y": 499.0,
+        "confidence": 0.9970648446173038
+      },
+      {
+        "text": "and choosing ration type and quantity",
+        "y": 523.0,
+        "confidence": 0.9520840419305338
+      },
+      {
+        "text": "Givingfollowersmore thanoneunitof",
+        "y": 537.0,
+        "confidence": 0.9854246811433272
+      },
+      {
+        "text": "foodhasachancetoincreasetheirmorale",
+        "y": 560.0,
+        "confidence": 0.9972877281052726
+      }
+    ],
+    "translation": "在口粮选项卡中，可以为远征队成员分配食物。选择队员后，即可单独设置其口粮种类和数量。给队员分配超过1单位的食物，有几率提高其士气。"
+  },
+  {
+    "id": "T047",
+    "name": "TutorialWeaponSwitch-EN",
+    "source": "You can switch a unit between Melee and Ranged\nSoldiersarebestinMelee\nScouts can't shoot\nHuntersarebestatRange",
+    "image": "Analysis/tutorial_images/821_TutorialWeaponSwitch-EN.png",
+    "ocr_lines": [
+      {
+        "text": "You can switch a unit between Melee and Ranged",
+        "y": 471.0,
+        "confidence": 0.9486282117988752
+      },
+      {
+        "text": "SoldiersarebestinMelee",
+        "y": 514.0,
+        "confidence": 0.9961645874110135
+      },
+      {
+        "text": "Scouts can't shoot",
+        "y": 529.0,
+        "confidence": 0.955435550875134
+      },
+      {
+        "text": "HuntersarebestatRange",
+        "y": 543.0,
+        "confidence": 0.9979299959682283
+      }
+    ],
+    "translation": "可以切换单位使用近战或远程武器。士兵最擅长近战；斥候无法射击；猎人最擅长远程攻击。"
+  },
+  {
+    "id": "T048",
+    "name": "Tutorials",
+    "source": "Tutorials",
+    "image": "Right-hand tutorial header texture",
+    "translation": "教程"
+  }
+]

@@ -1,0 +1,592 @@
+{
+  "schema": 2,
+  "kind": "final",
+  "pilot_key": "b8a4c15eed32d040a87f37c7f61998c1166c7ab7eb3758e326dab51c458dc989",
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "glossary": {
+    "hash": "0b9e22152b88ca7cf2d4dc242e15c63bc5931dfcb6665c4e0ccf177f051ab649",
+    "path": "glossary\\revision_10_fd73d738\\built\\glossary_reviewed.json",
+    "revision": 10
+  },
+  "snapshot_hash": "de3018c16a2de73ea708691e672cac7f2d8451e2e5a759511e2187427fdd45dc",
+  "coverage": {
+    "records": 14691,
+    "text_types": {
+      "UI label/fragment": 1599,
+      "UI description": 174,
+      "Biography": 82,
+      "Event title": 263,
+      "Narrative": 4120,
+      "Dialogue": 2551,
+      "Player choice": 4887,
+      "Quest": 478,
+      "Codex": 48,
+      "Map/UI": 321,
+      "Tutorial": 134,
+      "Hardcoded UI": 34
+    },
+    "missing_context": 0,
+    "risk_records": 5603,
+    "ordinary_sample": 0,
+    "sol_records": 22
+  },
+  "risk_detection": "Heuristic candidates plus reviewer findings; absence of flags is not proof of correctness.",
+  "records_to_check": [
+    {
+      "id": "R0003971_9383934030",
+      "ordinal": 3971,
+      "source": "\"It is our tradition to spend a week here following the right, hunting in this jungle watched over by our ancestors. We will stay until our time here is at an end.\"",
+      "translation": "“按照我们的传统，我们会在这里遵循仪式、待上一周，在先祖庇佑下于这片丛林狩猎。我们会一直留到此行结束。”",
+      "metadata": {
+        "group": "Level0:RuinedTemple",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RuinedTemple_PiousCheckMerge01",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:RuinedTemple",
+        "source_field": "Text",
+        "speaker": "Casiguaya",
+        "text_type": "Dialogue"
+      },
+      "risk_reasons": [
+        "conditions",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-e48b0993734d4405",
+        "instance": "/root/review_round2_next12",
+        "stage": "review",
+        "before": "“按照我们的传统，我们要在这里待上一周，在先祖的庇佑下于这片丛林狩猎。我们会留到停留期限结束。”",
+        "translation": "“按照我们的传统，我们会在这里遵循仪式、待上一周，在先祖庇佑下于这片丛林狩猎。我们会一直留到此行结束。”",
+        "changes": [
+          {
+            "after": "“按照我们的传统，我们会在这里遵循仪式、待上一周，在先祖庇佑下于这片丛林狩猎。我们会一直留到此行结束。”",
+            "before": "“按照我们的传统，我们要在这里待上一周，在先祖的庇佑下于这片丛林狩猎。我们会留到停留期限结束。”",
+            "category": "accuracy",
+            "reason": "原译遗漏 following the right 的仪式含义；依据上下文最可能的 rite 拼写补出“遵循仪式”。",
+            "severity": "minor",
+            "source_excerpt": "following the right, hunting in this jungle watched over by our ancestors"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "following the right 在仪式语境和句法上很可能意指 following the rite；现译补出“遵循仪式”。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "遵循仪式、待上一周、先祖庇佑下狩猎及留到此行结束均表达。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "一周停留、狩猎及在此停留至结束的时间关系保持。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "本条没有变量、标签或格式保护标记。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "hunting 在此是日常狩猎，未误作游戏技能。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "对白平静说明部族习俗，语气与原句一致。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "此处指在丛林中日常狩猎，并非游戏技能检定。",
+            "source": "hunting"
+          }
+        ],
+        "id": "R0003971_9383934030",
+        "issues": [
+          {
+            "reason": "原文写作“following the right”，结合仪式语境按可能的拼写错误 rite 译为“遵循仪式”；建议源文编辑者核对拼写。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "原译遗漏 following the right 的仪式含义；依据上下文最可能的 rite 拼写补出“遵循仪式”。",
+        "reviewed": true,
+        "source_excerpt": "following the right, hunting in this jungle watched over by our ancestors"
+      }
+    },
+    {
+      "id": "R0005593_a63b9ac907",
+      "ordinal": 5593,
+      "source": "\"50 Medicine to treat your sick.\"",
+      "translation": "\"拿50份药品来给你们的病人治病。\"",
+      "metadata": {
+        "dialogue_partner": "",
+        "group": "Level1:Cuautitlan",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Cuautitlan_AztecQuest_DiplomacyChoice ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Cuautitlan",
+        "source_field": "ChoiceText",
+        "speaker": "Player",
+        "text_type": "Player choice"
+      },
+      "risk_reasons": [
+        "numbers",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-ef0d242047c74044",
+        "instance": "/root/review_round2_next16",
+        "stage": "review",
+        "before": "“拿50份药品来给你们的病人治病。”",
+        "translation": "\"拿50份药品来给你们的病人治病。\"",
+        "changes": [
+          {
+            "after": "\"拿50份药品来给你们的病人治病。\"",
+            "before": "“拿50份药品来给你们的病人治病。”",
+            "category": "tone",
+            "reason": "按本条 terms 中 Medicine→药品 保留资源译名，并恢复源文要求的 ASCII 外层双引号。diagnostic_detail 所称冻结译名“药剂”与本条术语字段冲突，已作为待上游统一的问题记录。",
+            "severity": "minor",
+            "source_excerpt": "\"50 Medicine to treat your sick.\""
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "逐项对照原文、译文及本条诊断所列的具体语义点：原文玩家选项使用 ASCII 双引号，译文改成中文弯引号；且此处 Medicine 是游戏资源术语，冻结译法为“药剂”，现译“药品”不一致。请恢复 ASCII 双引号并将资源名改为“药剂”，保留数量50及治疗病人的用途。；对应信息准确，未发现其他明确误译。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "逐项对照原文“\"50 Medicine to treat your sick.\"”和现译文，检查本条诊断涉及的信息：原文玩家选项使用 ASCII 双引号，译文改成中文弯引号；且此处 Medicine 是游戏资源术语，冻结译法为“药剂”，现译“药品”不一致。请恢复 ASCII 双引号并将资源名改为“药剂”，保留数量50及治疗病人的用途。 未发现遗漏或无依据增译。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "核对原文“\"50 Medicine to treat your sick.\"”中的否定、条件、数量、对象关系和动作顺序；译文未改变这些关系。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "本条源文及 protection 无变量、标签或保护标记，无需保留此类内容。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "本条 terms 明列 Medicine→药品，译文按该字段保留“药品”；diagnostic_detail 另要求“药剂”，两处信息冲突，已提出待统一问题。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "核对本条对白或选项语气；译文语气相符，并已恢复源文 ASCII 双引号。",
+            "status": "corrected"
+          }
+        },
+        "id": "R0005593_a63b9ac907",
+        "issues": [
+          {
+            "reason": "本条 terms 字段规定 Medicine→药品，而 diagnostic_detail 要求资源名译为“药剂”。按本条术语字段保留“药品”；需由上游统一术语与诊断后再确认。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "按本条 terms 中 Medicine→药品 保留资源译名，并恢复源文要求的 ASCII 外层双引号。diagnostic_detail 所称冻结译名“药剂”与本条术语字段冲突，已作为待上游统一的问题记录。",
+        "reviewed": true,
+        "source_excerpt": "\"50 Medicine to treat your sick.\""
+      }
+    },
+    {
+      "id": "R0007959_08ca345f0d",
+      "ordinal": 7959,
+      "source": "You carefully climb the rope and enter the ship. It's slightly slanted, but sufficiently upright that you can stand on the deck.",
+      "translation": "你小心翼翼地沿绳索爬进船只。船身略有倾斜，但倾斜程度还不足以妨碍你站在甲板上。",
+      "metadata": {
+        "group": "Level1:ShipInTheTrees",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=ShipInTheTreesClimbRope",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:ShipInTheTrees",
+        "source_field": "Text",
+        "speaker": "",
+        "text_type": "Narrative"
+      },
+      "risk_reasons": [
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-87639a649c9141e8",
+        "instance": "/root/review_round2_n",
+        "stage": "review",
+        "before": "你小心翼翼地沿绳索爬进船只。船身略有倾斜，但倾斜程度还不足以妨碍你站在甲板上。",
+        "translation": "你小心翼翼地沿绳索爬进船只。船身略有倾斜，但倾斜程度还不足以妨碍你站在甲板上。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "核对主体、动作与重点词义；本条定向核查：对照原文与译文，未见明确语义偏差。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "逐项对照原文信息与译文，核实各分句内容均有对应，未见明确漏译或无依据增译。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "核对原文与译文中的动作关系、否定、条件、时序及数量（适用项）；关键关系保持一致。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "核对本条变量及控制符；无适用占位符。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "核对本条 terms 中的冻结译法。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "按本条文本类型核对语气、人物口吻与中文可读性，未发现偏离。",
+            "status": "pass"
+          }
+        },
+        "id": "R0007959_08ca345f0d",
+        "issues": [
+          {
+            "reason": "诊断提及 Fortress of Gutiérrez，但该专名不在本条源文中；本条源文仅描述登船及船身倾斜，现译对应准确，因此不应用该诊断所述改动。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "逐项核对本条源文、译文及术语；译文与原文对应，且定向诊断所述专名与本条无关，不作无依据改写。",
+        "reviewed": true,
+        "source_excerpt": "You carefully climb the rope and enter the ship. It's slightly slanted, but sufficiently upright that you can stand on the deck."
+      }
+    },
+    {
+      "id": "R0008820_f239d07377",
+      "ordinal": 8820,
+      "source": "\"Does PHeShe now? Have you never asked yourself how your trusted ally would benefit from this war? Have you never questioned PHisHer true motives?!\"",
+      "translation": "\"现在PHeShe才明白吗？你难道从未想过，你那位可靠的盟友能从这场战争中得到什么好处？你难道从未怀疑过PHisHer真正的动机？！\"",
+      "metadata": {
+        "group": "Level1:TenochtitlanPalace",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=TenochtitlanPalace_GardenAttack",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:TenochtitlanPalace",
+        "source_field": "Text",
+        "speaker": "Moctezuma",
+        "text_type": "Dialogue"
+      },
+      "risk_reasons": [
+        "negation",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-ed45a9b844de405d",
+        "instance": "/root/review_round2_next14",
+        "stage": "review",
+        "before": "“现在PHeShe才明白吗？你难道从未想过，你那位可靠的盟友能从这场战争中得到什么好处？你难道从未怀疑过PHisHer真正的动机？！”",
+        "translation": "\"现在PHeShe才明白吗？你难道从未想过，你那位可靠的盟友能从这场战争中得到什么好处？你难道从未怀疑过PHisHer真正的动机？！\"",
+        "changes": [
+          {
+            "after": "\"现在PHeShe才明白吗？你难道从未想过，你那位可靠的盟友能从这场战争中得到什么好处？你难道从未怀疑过PHisHer真正的动机？！\"",
+            "before": "“现在PHeShe才明白吗？你难道从未想过，你那位可靠的盟友能从这场战争中得到什么好处？你难道从未怀疑过PHisHer真正的动机？！”",
+            "category": "completeness",
+            "reason": "原文使用 ASCII 双引号，候选改用中文弯引号；恢复原文引号形式。",
+            "severity": "minor",
+            "source_excerpt": "\"Does PHeShe now? Have you never asked yourself how your trusted ally would benefit from this war? Have you never questioned PHisHer true motives?!\""
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "核对后两问询问盟友如何从战争获利及 PHisHer 的真实动机；准确。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "三句、代词变量均保留，外层引号恢复为 ASCII。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "核对两处 Have you never 的否定问法及其宾语，范围未变。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "PHeShe 与 PHisHer 两处标记逐字保留。",
+            "status": "pass"
+          },
+          "terminology": {
+            "evidence": "terms 为空，无冻结术语命中。",
+            "status": "not_applicable"
+          },
+          "tone": {
+            "evidence": "连续质问及末句强烈语气保留。",
+            "status": "pass"
+          }
+        },
+        "id": "R0008820_f239d07377",
+        "issues": [
+          {
+            "reason": "原文首句仅为“Does PHeShe now?”，没有说明 PHeShe 现在做什么；现译补出“明白”，本条上下文不足以确认该动作，需结合相邻游戏文本核实。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "后两问准确质疑盟友获利及真实动机；首句是省略式片段，现译补出的“明白”无法仅凭本条确认。",
+        "reviewed": true,
+        "source_excerpt": "\"Does PHeShe now? Have you never asked yourself how your trusted ally would benefit from this war? Have you never questioned PHisHer true motives?!\""
+      }
+    },
+    {
+      "id": "R0009871_c1795cc976",
+      "ordinal": 9871,
+      "source": "\"I have no interest in your excuses. Hombres... ATTACK!\"",
+      "translation": "\"我没兴趣听你的借口。弟兄们……攻击！\"",
+      "metadata": {
+        "dialogue_partner": "Coyotl",
+        "group": "Level1:Texcoco",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Texcoco_Choice02 ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Texcoco",
+        "source_field": "ChoiceText",
+        "speaker": "Player",
+        "text_type": "Player choice"
+      },
+      "risk_reasons": [
+        "negation",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-7d4671c4326e472d",
+        "instance": "/root/review_round2_m",
+        "stage": "review",
+        "before": "我没兴趣听你的借口。Hombres……攻击！",
+        "translation": "\"我没兴趣听你的借口。弟兄们……攻击！\"",
+        "changes": [
+          {
+            "after": "\"我没兴趣听你的借口。弟兄们……攻击！\"",
+            "before": "我没兴趣听你的借口。Hombres……攻击！",
+            "category": "completeness",
+            "reason": "将西班牙语呼语 Hombres 译为“弟兄们”，并保留攻击命令及原文 ASCII 双引号。",
+            "severity": "major",
+            "source_excerpt": "\"I have no interest in your excuses. Hombres... ATTACK!\""
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "原文先拒听借口，再向众人发出攻击命令；译文保留拒绝和命令，Hombres 译为“弟兄们”。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "核对拒绝听借口、Hombres 呼语及攻击命令，均已译出。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "核对原文主体、否定、条件、数量及先后/因果关系；译文未改变关系。",
+            "status": "corrected"
+          },
+          "placeholders": {
+            "evidence": "本条 protection 为空，原文无变量、标签或保护标记需要保留。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "核对本条 terms 中的冻结术语及专名译法；未发现误用。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "结合文本类型和说话者检查语气；译文保留陈述/选项的直接程度及情绪。",
+            "status": "pass"
+          }
+        },
+        "id": "R0009871_c1795cc976",
+        "issues": [
+          {
+            "reason": "Hombres 可直译为“男人们/弟兄们”；结合紧接的攻击命令，按战斗呼语译作“弟兄们”较自然。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "对照本条原文、任务译文、诊断及术语逐句复核；按明确问题修复并确认修订后无新增语义错误。",
+        "reviewed": true,
+        "source_excerpt": "\"I have no interest in your excuses. Hombres... ATTACK!\""
+      }
+    }
+  ],
+  "consistency": [],
+  "glossary_checks": [],
+  "pilot_batch_summaries": {},
+  "check_signatures": {
+    "R0000353_55f9a7105e": "f160fd480a5ae15d8df0d9c8ef92267c45220c26e0b402eeeece181e2475dcf4",
+    "R0001641_2c2cdaf296": "151a94492ab7291a25f384a88e4763f56ac1abaab756d080bc0c6ef97000ef79",
+    "R0002161_87e165ae29": "408277a49f9c8b0806c2085648a2efba81bdba507cf53cdb1268aeb2849f841d",
+    "R0003841_634dfd432d": "6593b2bea7cd5ea72f1e0a0bdc11587177b63eecc2d8b2b76d081161df0748c4",
+    "R0003971_9383934030": "7c1a7b38c80a804fb55c14ee49f1debfc23af31a5c597a7d8b12b1458126b54e",
+    "R0004716_f65f4b5f71": "096e69f58846e82ee4c1ad32fb6979839f8ccd7fc4d29b7edf42f13ffe9f48e1",
+    "R0004775_45b7e3356a": "00e1f1d26353de0c95c67cd549a26348da78234d1c295e0c9a615f2b7f1c19ad",
+    "R0004779_c41328d399": "ebc8a6bb420805ff5bce342f875f56de4967e028a42503f5b1832d9424f4de55",
+    "R0005593_a63b9ac907": "74304f953efd6c4395fd63e110493b6dbac4e53b3b5f887e29338fdf2f8a88aa",
+    "R0006067_c86d990fc9": "e7b7475acf01bf63e93efc67e402235d2973df1685cbf7132c4578c3da8c8429",
+    "R0006532_8d0bd1744a": "6fe7d5250409db7f1374d75f354ba493a3fa31da0f478eadf1aae52712caae9a",
+    "R0006539_7fe2b84494": "568f5f41089e4f743a417141192c1797277518a795b44e83bda23ffccab46df5",
+    "R0006540_00162ac42c": "8b74e13e685e750a6201fc4487f60657647ce38dcbd66ae1045fefa6639f5edb",
+    "R0006795_77bcf5d840": "d1d662a46f534e5f867a237dba638ab0f0802ecaca1bdb3a6ef389a27ca8558c",
+    "R0007959_08ca345f0d": "f633b679d8c268d4f2a721010b69358fc078a842ee975c680c8751bbee5eb35a",
+    "R0008820_f239d07377": "cba5c97d79cf4158c71ed3989ddf67c054ca2a70d35c761bcc16bba9929b99c7",
+    "R0009871_c1795cc976": "ffebc8b695e4098c4bf83df669efcfa91737711fae83f7da65bf959bda1f08e0",
+    "R0010110_f3daf29418": "e81133c754023b68b9e0f9677defac8b9007121a586df93d5bd9ae8ef1afa82e",
+    "R0010112_f3daf29418": "7c0f618f4807fca66bad735c4a55913c5e71bf5c83a37f7dc1389f6098b19dc9",
+    "R0010118_f3daf29418": "747c219fe6984467fe2d1d4152cb51ec1afabf6259a85b12d16100abab099894",
+    "R0010122_d62d5a3847": "f65c2441146cb9e0037cce5f5dad59848c4cc2875033c3e5744289bf5ad70ed8",
+    "R0010125_a2d736f97e": "7f32a92ab8d29f20bfb84361a7e09296141f2725ae5ba42949cbb01c6eff307a"
+  },
+  "reused_decisions": {
+    "R0000353_55f9a7105e": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0000353_55f9a7105e",
+        "reason": "这是动态数字后的后缀；保留前导空格并表达“名敌人剩余”，与数字拼接结构相符。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "f160fd480a5ae15d8df0d9c8ef92267c45220c26e0b402eeeece181e2475dcf4"
+    },
+    "R0001641_2c2cdaf296": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0001641_2c2cdaf296",
+        "reason": "more turns 对应“更多回合”，增量含义与源文前导空格均保留。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "151a94492ab7291a25f384a88e4763f56ac1abaab756d080bc0c6ef97000ef79"
+    },
+    "R0002161_87e165ae29": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0002161_87e165ae29",
+        "reason": "/not/禁止触碰的否定强调被译成“/不/准碰”，旧译双重否定已修正，标记作用范围保留。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "408277a49f9c8b0806c2085648a2efba81bdba507cf53cdb1268aeb2849f841d"
+    },
+    "R0003841_634dfd432d": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0003841_634dfd432d",
+        "reason": "准确保留商贩今晚要忙以及明早先交付两只陷阱；与订单数量不一致是源文问题，译文忠实保留。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "6593b2bea7cd5ea72f1e0a0bdc11587177b63eecc2d8b2b76d081161df0748c4"
+    },
+    "R0004716_f65f4b5f71": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0004716_f65f4b5f71",
+        "reason": "隐秘行动能力、斥候优势、众多情人及对流言蔑视无动于衷均准确；原文姓名拼写不一致已在审校记录中说明。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "096e69f58846e82ee4c1ad32fb6979839f8ccd7fc4d29b7edf42f13ffe9f48e1"
+    },
+    "R0004775_45b7e3356a": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0004775_45b7e3356a",
+        "reason": "已修正“加入你”的搭配歧义；当前“加入你们”明确表达加入玩家一行。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "00e1f1d26353de0c95c67cd549a26348da78234d1c295e0c9a615f2b7f1c19ad"
+    },
+    "R0004779_c41328d399": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0004779_c41328d399",
+        "reason": "准确表达玩家确有帮助，并承诺不会让其得不到报偿。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "ebc8a6bb420805ff5bce342f875f56de4967e028a42503f5b1832d9424f4de55"
+    },
+    "R0006067_c86d990fc9": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0006067_c86d990fc9",
+        "reason": "雕像传出洪亮的声音，准确表达 booming voice，未额外指定为吼叫。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "e7b7475acf01bf63e93efc67e402235d2973df1685cbf7132c4578c3da8c8429"
+    },
+    "R0006532_8d0bd1744a": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0006532_8d0bd1744a",
+        "reason": "科约特尔曾是杰出的阿兹特克鹰战士，因反对贵族漠视平民苦难而违令，失去指挥权并离开驻扎的特斯科科城，最后加入远征队；术语和因果准确。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "6fe7d5250409db7f1374d75f354ba493a3fa31da0f478eadf1aae52712caae9a"
+    },
+    "R0006539_7fe2b84494": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0006539_7fe2b84494",
+        "reason": "科约特尔拿起装有私人物品的袋子，沿主楼梯前往长期居住处，动作与地点准确。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "568f5f41089e4f743a417141192c1797277518a795b44e83bda23ffccab46df5"
+    },
+    "R0006540_00162ac42c": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0006540_00162ac42c",
+        "reason": "经上下文修订后，明确表示拒绝科约特尔加入队伍，消除了原句的歧义。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "8b74e13e685e750a6201fc4487f60657647ce38dcbd66ae1045fefa6639f5edb"
+    },
+    "R0006795_77bcf5d840": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0006795_77bcf5d840",
+        "reason": "此前修订准确保留向他开枪的命令，不额外断定杀死结果。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "d1d662a46f534e5f867a237dba638ab0f0802ecaca1bdb3a6ef389a27ca8558c"
+    },
+    "R0010110_f3daf29418": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0010110_f3daf29418",
+        "reason": "Continue译为“继续”，修正了先前误配内容。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "e81133c754023b68b9e0f9677defac8b9007121a586df93d5bd9ae8ef1afa82e"
+    },
+    "R0010112_f3daf29418": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0010112_f3daf29418",
+        "reason": "Continue译为“继续”，修正了先前误配内容。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "7c0f618f4807fca66bad735c4a55913c5e71bf5c83a37f7dc1389f6098b19dc9"
+    },
+    "R0010118_f3daf29418": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0010118_f3daf29418",
+        "reason": "Continue译为“继续”，准确替换了先前误配内容。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "747c219fe6984467fe2d1d4152cb51ec1afabf6259a85b12d16100abab099894"
+    },
+    "R0010122_d62d5a3847": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0010122_d62d5a3847",
+        "reason": "Leave译为“离开”，修正了先前误配内容。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "f65c2441146cb9e0037cce5f5dad59848c4cc2875033c3e5744289bf5ad70ed8"
+    },
+    "R0010125_a2d736f97e": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0010125_a2d736f97e",
+        "reason": "Kill the servants译为“杀死仆人”，修正了先前误配内容。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "7f32a92ab8d29f20bfb84361a7e09296141f2725ae5ba42949cbb01c6eff307a"
+    }
+  },
+  "required_decisions": [
+    "R0003971_9383934030",
+    "R0005593_a63b9ac907",
+    "R0007959_08ca345f0d",
+    "R0008820_f239d07377",
+    "R0009871_c1795cc976"
+  ],
+  "sol_scope_policy": "disputes_only_v1",
+  "carried_findings": {},
+  "selection_explanation": "Only explicit unresolved reviewer issues need Sol adjudication. Risk flags, corrections, ordinary samples, duplicate-source groups and speaker groups do not trigger Sol. Known Sol repair findings are carried to standard repair without re-reading; exhausted or regressing repairs use the existing targeted Sol escalation route.",
+  "report_hash": "67a4a90df6c14dd302fedeff3bf52ec177cbf2f1c6f49b6e33bc077f7d44c7ed"
+}

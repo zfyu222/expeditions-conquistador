@@ -1,0 +1,14 @@
+[
+  {
+    "file": "D:\\StaticHanHua\\Projects\\expeditions-conquistador\\TranslateFiles\\reports\\sol_rounds\\round_00003.input_0001.json",
+    "check_ids": [
+      "R0003971_9383934030",
+      "R0005593_a63b9ac907",
+      "R0007959_08ca345f0d",
+      "R0008820_f239d07377",
+      "R0009871_c1795cc976"
+    ],
+    "input_chars": 9904,
+    "over_budget": false
+  }
+]

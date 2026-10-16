@@ -1,0 +1,2818 @@
+{
+  "records": 150,
+  "types": {
+    "UI label/fragment": 16,
+    "UI description": 8,
+    "Dialogue": 36,
+    "Player choice": 28,
+    "Narrative": 24,
+    "Quest": 10,
+    "Event title": 2,
+    "Biography": 6,
+    "Codex": 8,
+    "Map/UI": 6,
+    "Tutorial": 4,
+    "Hardcoded UI": 2
+  },
+  "source_categories": {
+    "UI": 24,
+    "Level0": 38,
+    "Level1": 48,
+    "RandomEvents": 20,
+    "Codex": 8,
+    "Map/UI": 6,
+    "Tutorial": 4,
+    "Hardcoded UI": 2
+  },
+  "dialogue_speakers": {
+    "BernardoManzanedo": 1,
+    "MiguelSicart": 1,
+    "FName2": 1,
+    "EstebanGallego": 1,
+    "UmbertoDeRossi": 1,
+    "Xolotl": 1,
+    "Quappiatl": 1,
+    "Moctezuma": 1,
+    "Tepictoton": 1,
+    "FName1": 1,
+    "EnriqueRuiz": 1,
+    "FedericoQuintero": 1,
+    "IsabelaYruenes": 1,
+    "RosaliaPadilla": 1,
+    "LeandraVizcaino": 1,
+    "HermanoCaro": 1,
+    "JuanNoriega": 1,
+    "LászloPauwlik": 1,
+    "Citlalli": 1,
+    "MaríaGrijalva": 1,
+    "Coyotl": 1,
+    "Patli": 1,
+    "FName": 1,
+    "Anacaona": 1,
+    "RafaelLopez": 1,
+    "TeresaSanchez": 1,
+    "Atl": 1,
+    "Casiguaya": 1,
+    "Necalli": 1,
+    "JulioBarreto": 1,
+    "BlancaAlegria": 1,
+    "": 5
+  },
+  "scene_groups": 91,
+  "risk_flags": {
+    "negation": 99,
+    "conditions": 92,
+    "numbers": 67,
+    "variables": 15,
+    "relationships": 32,
+    "long_text": 10,
+    "interaction": 10
+  },
+  "shortest_chars": 3,
+  "longest_chars": 1975,
+  "limitations": [
+    "Representative sample is not every branch/character.",
+    "Unattributed Dialogue remains unattributed.",
+    "Tutorial image bodies/cinematic text are outside extracted CSV."
+  ],
+  "samples": [
+    {
+      "ordinal": 3,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "NA"
+      },
+      "source": "N/A",
+      "risk": []
+    },
+    {
+      "ordinal": 4,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "usesStunon"
+      },
+      "source": " uses Stun on ",
+      "risk": []
+    },
+    {
+      "ordinal": 34,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "YouwillNOThavetimetoprepare"
+      },
+      "source": "You will NOT have time to prepare",
+      "risk": [
+        "negation"
+      ]
+    },
+    {
+      "ordinal": 38,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "NoGoals"
+      },
+      "source": "No Goals",
+      "risk": [
+        "negation"
+      ]
+    },
+    {
+      "ordinal": 43,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Eliminateallenemiesin6turns"
+      },
+      "source": "Eliminate all enemies in 6 turns",
+      "risk": [
+        "numbers"
+      ]
+    },
+    {
+      "ordinal": 44,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Eliminateallenemiesin8turns"
+      },
+      "source": "Eliminate all enemies in 8 turns",
+      "risk": [
+        "numbers"
+      ]
+    },
+    {
+      "ordinal": 45,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Eliminateallenemiesin12turns"
+      },
+      "source": "Eliminate all enemies in 12 turns",
+      "risk": [
+        "numbers"
+      ]
+    },
+    {
+      "ordinal": 213,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "descrRepairCannon"
+      },
+      "source": "Your cannon has been damaged in combat and cannot be used again until repaired. Assign an expedition member to restore the cannon to working order.",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 245,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "hintHighmorale"
+      },
+      "source": "High morale not only prevents your units from leaving you in a mutiny, it also improves their critical hit chance in combat.",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 651,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "characterEndurance"
+      },
+      "source": "Every attack reduces a character's Endurance. If the Endurance reaches 0, the character will become incapacitated.",
+      "risk": [
+        "numbers",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 655,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "characterMovement"
+      },
+      "source": "How many spaces a character can move each turn during a battle. Characters may move twice if they don't attack.",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 743,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "insufficientSkill"
+      },
+      "source": "[NAME] is not skilled in [TASK].",
+      "risk": [
+        "negation",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 744,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "insufficientTinkering"
+      },
+      "source": "[NAME] is not skilled enough to work on this invention.",
+      "risk": [
+        "negation",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 770,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI description",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "abilityAimedShot"
+      },
+      "source": "*Aimed Shot [HOTKEY] Full turn action, cooldown 1 turn*\nMakes an attack with only half the normal distance penalties to accuracy.",
+      "risk": [
+        "numbers",
+        "conditions",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 771,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI description",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "abilityRebuke"
+      },
+      "source": "*Rebuke [HOTKEY] Attack action, cooldown 1 turn*\nA weak melee attack that moves the target unit one space away from the Hunter.",
+      "risk": [
+        "numbers",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 773,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI description",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "abilityHailstorm"
+      },
+      "source": "*Hailstorm [HOTKEY] Attack action, cooldown 3 turns*\nRains projectiles down on 5 random adjacent spaces in and around the target space. Can damage allied units.",
+      "risk": [
+        "numbers",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 779,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI description",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "abilityLogistics"
+      },
+      "source": "*Logistics [HOTKEY] Attack action, cooldown 2 turns*\nGives an ally 2 more moves if the Scholar is a Recruit, 4 if Veteran, and 6 if Sergeant.",
+      "risk": [
+        "numbers",
+        "conditions",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 787,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI description",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "abilityAcrobaticStrike"
+      },
+      "source": "*Acrobatic Strike [HOTKEY] Attack action, cooldown 2 turns*\nMakes an attack and moves one space away without incurring Attack of Opportunity.",
+      "risk": [
+        "numbers",
+        "negation",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 788,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI description",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "abilityDeftStrike"
+      },
+      "source": "*Deft Strike [HOTKEY] Attack action, cooldown 3 turns*\nMakes an attack that bypasses the target's Defence (but not Armour).",
+      "risk": [
+        "numbers",
+        "negation",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 864,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "greyedNextFollowerSelection"
+      },
+      "source": "You must hire 10 expedition members before moving on.",
+      "risk": [
+        "numbers",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 1008,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "DescAbilityPassiveEXPOSEWEAKNESS"
+      },
+      "source": "Every regular ranged attack by this character reduces the target's Defence by 10%, even if it's a miss.",
+      "risk": [
+        "numbers",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 1049,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI description",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "explanatoryTextBackground"
+      },
+      "source": "The year is 1518 - a year before Hernán Cortes would be elected captain of the third expedition to the South American mainland, where he would overthrow the Aztec empire. But that will not happen, because you have beaten him to the punch.\n\nYou are the eldest child of a Spanish nobleman, and you yourself hold the title of Hidalgo. With your father's backing, you have been the leader of a successful \"hermandad\" (meaning \"brotherhood\") back in the Old World - a peacekeeping association of armed individuals which protected the countryside around your father's town.\n\nDuring this time, you demonstrated an aptitude for leadership and strategy that earned you the respect of the people under your command - but it was time for a greater challenge. With the King's permission and your father's financial support, you purchased a ship and selected your crew from the best of the brothers and sisters in your hermandad.\n\nTogether, you are off on the long and arduous journey to explore the New World. In your cargo hold, you bring rations, medicine, equipment, and assorted valuables. You must first make a stop on the Caribbean island of Hispaniola, under Spanish domain since 1496. Here, you will hire servants or buy slaves, rest and restock, and gain what information you can about the New World.\n\nAfter five weeks on the Atlantic Ocean, your people gather on the deck as the call \"Land ahoy!\" rings out from the rigging. On a clear afternoon, gulls screeching in the wake of your ship, you sail into the port of Santo Domingo, the seat of Spanish colonial rule in the New World.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions",
+        "relationships",
+        "long_text"
+      ]
+    },
+    {
+      "ordinal": 1055,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI description",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "explanatoryTextBackground"
+      },
+      "source": "The year is 1518 - a year before Hernán Cortes would be elected captain of the third expedition to the South American mainland, where he would overthrow the Aztec empire. But that will not happen, because you have beaten him to the punch.\n\nYou are the eldest child of a Spanish nobleman, and you yourself hold the title of Hidalgo. With your father's backing, you have been the leader of a successful \"hermandad\" (meaning \"brotherhood\") back in the Old World - a peacekeeping association of armed individuals which protected the countryside around your father's town.\n\nDuring this time, you demonstrated an aptitude for leadership and strategy that earned you the respect of the people under your command - but it was time for a greater challenge. With the King's permission and your father's financial support, you purchased a ship and selected your crew from the best of the brothers and sisters in your hermandad.\n\nTogether, you are off on the long and arduous journey to explore the New World. In your cargo hold, you bring rations, medicine, equipment, and assorted valuables. You must first make a stop on the Caribbean island of Hispaniola, under Spanish domain since 1496. Here, you will hire servants or buy slaves, rest and restock, and gain what information you can about the New World.\n\nAfter five weeks on the Atlantic Ocean, your people gather on the deck as the call \"Land ahoy!\" rings out from the rigging. On a clear afternoon, gulls screeching in the wake of your ship, you sail into the port of Santo Domingo, the seat of Spanish colonial rule in the New World.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions",
+        "relationships",
+        "long_text"
+      ]
+    },
+    {
+      "ordinal": 1471,
+      "category": "UI",
+      "metadata": {
+        "group": "UI",
+        "speaker": "",
+        "resource": "sharedassets0.assets:16",
+        "scene": "UI",
+        "text_type": "UI label/fragment",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Youmayonlyequipthreeitemsatatime"
+      },
+      "source": "You may only equip 3 items at a time.",
+      "risk": [
+        "numbers",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 1774,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:START",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:START",
+        "text_type": "Biography",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Bio"
+      },
+      "source": "Born in 1469, he had a relatively normal childhood, growing up in a small farm town. He met the love of his life, whom he married at a young age. He was apprenticing as an alchemist when his wife fell ill from typhus and died a short while later. The loss sent him into a deep depression and he buried himself in his work and the field of disease treatment. He never fully recovered from his broken heart, and partly the reason he joined your expedition was to get over his grief. A somber and quiet man, but no man knows better the field of diseases and infections than he.",
+      "risk": [
+        "numbers",
+        "negation",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 1874,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:AlcazarDeColon",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:AlcazarDeColon",
+        "text_type": "Quest",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=AlcazarDeColon_LeandraAttacks_Combat",
+        "source_field": "Description"
+      },
+      "source": "The rebels have taken the palace and murdered the Governor. You must find out how things look in the other parts of the town.",
+      "risk": [
+        "conditions",
+        "interaction"
+      ]
+    },
+    {
+      "ordinal": 1882,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:AlcazarDeColon",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:AlcazarDeColon",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=AlcazarDeColon_Begin ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": ""
+      },
+      "source": "\"He escaped, Governor, and you would not believe how if you didn't see it with your own eyes.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 2035,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:AlcazarDeColon",
+        "speaker": "BernardoManzanedo",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:AlcazarDeColon",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=AlcazarDeColon_Begin",
+        "source_field": "Text"
+      },
+      "source": "\"Your /father's/ property? I have every right. I could turn the cannons of the fortress on your ship and send it to the bottom of the Ozama River if I decided to, and you would have no recourse to stop me. The sooner you realise that your objections are futile, the sooner we can get down to the business of how you might earn my permission to mount your expedition, hmm?\"",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 2099,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:CasaDelCapitan",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:CasaDelCapitan",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=CasaDelCapitan_Begin",
+        "source_field": "Text"
+      },
+      "source": "The neighbours kindly inform you that Capitán Vizcaino left yesterday with most of her company. They seem quite distressed that she would leave the town undefended save for the militia she and her troops helped to train, but they apologetically ensure you that they haven't the faintest idea where she was going.",
+      "risk": []
+    },
+    {
+      "ordinal": 2117,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:CasaDelCapitan",
+        "speaker": "LeandraVizcaino",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:CasaDelCapitan",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=CasaDelCapitan_Begin",
+        "source_field": "Text"
+      },
+      "source": "\"We do what we can, but we are only so many, and these rebels - they are ruthless. They will not stop until every last one of us is dead.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 2170,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:CatedralSantaMaria",
+        "speaker": "HermanoCaro",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:CatedralSantaMaria",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=CatedralSantaMaria_GloamingEnd_Doctor",
+        "source_field": "Text"
+      },
+      "source": "\"I have followed the instructions we were given. Repeat the treatment once every day, hermano, until the bishop is well or no medicine remains. God willing, the bishop will regain his health soon.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 2256,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:CatedralSantaMaria",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:CatedralSantaMaria",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=CatedralSantaMaria_Quest2Merge01 ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "HermanoCaro"
+      },
+      "source": "\"FNameLast1. If you please.\"",
+      "risk": [
+        "numbers",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 2362,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:ChoceroResidence",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:ChoceroResidence",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=ChoceroResidence_Merge03 ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": ""
+      },
+      "source": "\"Your wife was killed in the mountains. Natives ambushed her patrol, there were no survivors.\"",
+      "risk": [
+        "negation",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 2386,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:ChoceroResidence",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:ChoceroResidence",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=ChoceroResidence_Merge01",
+        "source_field": "Text"
+      },
+      "source": "\"Noriega shares my concern, but he insists he cannot spare the troops to send after my wife! Particularly now that - /hah!/ - he has just lost a detachment!\"",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 2500,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:Confiscation",
+        "speaker": "JuanNoriega",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:Confiscation",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=CapitanNoriega_PrivateProperty",
+        "source_field": "Text"
+      },
+      "source": "\"Take it up with the Governor, mi PSenorSenora. He has instructed me to order you to go to the palace and speak to his grace forthwith. I would not delay any further if I were in your boots.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 2573,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:Cornered",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:Cornered",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=SantoDomingoDocks_LeandraAttacks_Noriega ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "LeandraVizcaino"
+      },
+      "source": "\"You can't possibly think that King Carlos will give you sovereignty over the entirety of the New World if you come to control Hispaniola in a violent coup?\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 2672,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:ElHungaro",
+        "speaker": "LászloPauwlik",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:ElHungaro",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=ElHungaro_Merge01",
+        "source_field": "Text"
+      },
+      "source": "\"There was a previous expedition. Felipe Gutiérrez. From what I have learned, he took 300 men to the mainland hoping to claim it for the Spanish crown, but not one of them has been heard from again.\"",
+      "risk": [
+        "numbers",
+        "negation"
+      ]
+    },
+    {
+      "ordinal": 2688,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:ElHungaro",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:ElHungaro",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=ElHungaro_Questions ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "LászloPauwlik"
+      },
+      "source": "\"Honour. A man is nothing if his word cannot be trusted.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 2715,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:ElHungaro",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:ElHungaro",
+        "text_type": "Biography",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=ElHungaro_Accept",
+        "source_field": "Bio"
+      },
+      "source": "The Hungarian mercenary is a powerfully built man who looks particularly imposing in his black piecemeal armour. He was trained in Hungary's Black Army and fought against the Turks as well as a peasant rebellion. After the dissolution of the Fekete sereg, his company struck out on their own and he travelled to Italy to fight as a mercenary. Now he has come to the New World searching for his old friend, Tamás Szász.",
+      "risk": [
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 2816,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:FishingVillage",
+        "speaker": "Atl",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:FishingVillage",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=FishingVillage_PostOrocobix_Merge01",
+        "source_field": "Text"
+      },
+      "source": "\"It must be ingested - I would recommend wrapping it in leaves and swallowing a whole portion at once.\"",
+      "risk": [
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 3015,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:FortalezaOzama",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:FortalezaOzama",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=OzamaTakeCommand ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "UmbertoDeRossi"
+      },
+      "source": "\"Very well, if it can be no other way. I suppose I can use the practice.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 3271,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:JungleVillage",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:JungleVillage",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=JungleVillageDiplomacy ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": ""
+      },
+      "source": "*[Check Diplomacy Easy]* Offer 1000 Valuables.",
+      "risk": [
+        "numbers",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 3390,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:LostDetachment",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:LostDetachment",
+        "text_type": "Quest",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=LostDetachment_Begin",
+        "source_field": "Description"
+      },
+      "source": "You've found Luisa's corpse with the rest of her detachment in the mountains. Bring her medallion back to her husband Marin in Santo Domingo with the tragic news.",
+      "risk": [
+        "relationships",
+        "interaction"
+      ]
+    },
+    {
+      "ordinal": 3461,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:MadShaman",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:MadShaman",
+        "text_type": "Quest",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=MadShaman_GoalFailure",
+        "source_field": "Description"
+      },
+      "source": "You had to leave the mad shaman empty-handed. Return to Atl and find out if there's anything else he can do.",
+      "risk": [
+        "conditions",
+        "interaction"
+      ]
+    },
+    {
+      "ordinal": 3528,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:MaguanaMines",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:MaguanaMines",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=MaguanaMines_CombatSuccess ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "EstebanGallego"
+      },
+      "source": "\"If you don't surrender, there won't /be/ a next--\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 3608,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:NoriegasWarning",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:NoriegasWarning",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RandomTravelNoriegasWarning_Merge01 ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": ""
+      },
+      "source": "\"If they try to remove /me/, they will not find it such an easy task.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 3623,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:NorthCoastTribe",
+        "speaker": "EstebanGallego",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:NorthCoastTribe",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=NorthCoastTribe_Merge01",
+        "source_field": "Text"
+      },
+      "source": "\"You /animals!/ You sons of bitches! Disgusting savages! Filthy cowards! We had an understanding, FHeShe1 was not to be harmed before the sacrifice! You kill a FManWoman1, fine - but you get it over with! Look at this poor FBoyGirl1! Look what you've /done/ to FHimHer1!\"",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 3640,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:NorthCoastTribe",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:NorthCoastTribe",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=NorthCoastTribe_EstebanMerge01 ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "EstebanGallego"
+      },
+      "source": "\"First release FNameFirst1, FHeShe1 has no stake in this.\"",
+      "risk": [
+        "numbers",
+        "negation"
+      ]
+    },
+    {
+      "ordinal": 3656,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:NorthCoastTribe",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:NorthCoastTribe",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=NorthCoastTribe_EstebanMerge04",
+        "source_field": "Text"
+      },
+      "source": "Perhaps sensing that your debate is getting to Esteban, FNameFirst1 draws a knife from FHisHer1 boot and plunges it as deep into the huge man's chest as it will go. Esteban howls out in pain and momentarily releases his hold on FNameFirst1, but just as FHeShe1 writhes out of the giant's reach, Esteban's sword comes slashing down and tears right through FHisHer1 uniform, painting an arc of blood across the ground. Without a sound, FNameFirst1 collapses on the ground, and for the briefest of moments, all seems silent. Then all hell breaks loose as your people raise their weapons and hurl themselves at Esteban's tribal allies.",
+      "risk": [
+        "numbers",
+        "negation",
+        "long_text"
+      ]
+    },
+    {
+      "ordinal": 3697,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:NorthCoastTribe",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:NorthCoastTribe",
+        "text_type": "Quest",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=NorthCoastTribe_ReleaseEstebanWarning",
+        "source_field": "Description"
+      },
+      "source": "Leandra has sent a group of marauders to attack the village in Higuey. It might not be too late to stop them, if you're so inclined.",
+      "risk": [
+        "negation",
+        "conditions",
+        "interaction"
+      ]
+    },
+    {
+      "ordinal": 3829,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:QuintaraResidence",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:QuintaraResidence",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=QuintaraResidence_BuyTraps ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": ""
+      },
+      "source": "*[Check Diplomacy Medium]* \"I can't spare that kind of money. Have a good day, Señor Quintara.\"",
+      "risk": [
+        "negation",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 3878,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:RebelAmbush",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:RebelAmbush",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RebelAmbush_Begin ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": ""
+      },
+      "source": "\"I do not aim to be a threat to Capitán Vizcaino!\"",
+      "risk": [
+        "negation"
+      ]
+    },
+    {
+      "ordinal": 3941,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:RuinedTemple",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:RuinedTemple",
+        "text_type": "Quest",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RuinedTemple_CombatSuccess",
+        "source_field": "Description"
+      },
+      "source": "Report back to the Governor of Santo Domingo to let him know the cult won't trouble the town any longer.",
+      "risk": [
+        "negation",
+        "interaction"
+      ]
+    },
+    {
+      "ordinal": 3961,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:RuinedTemple",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:RuinedTemple",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RuinedTemple_IntroducingCasiguaya ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "Casiguaya"
+      },
+      "source": "*[Check Diplomacy Easy]* \"That sounds benign enough. I must ask you, however, to leave these ruins tonight after your ritual is finished.\"",
+      "risk": [
+        "conditions",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 3963,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:RuinedTemple",
+        "speaker": "Casiguaya",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:RuinedTemple",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RuinedTemple_IntroducingCasiguaya",
+        "source_field": "Text"
+      },
+      "source": "\"Capitán PNameLast, surely you do not mean to allow the heathens to go through with their ungodly ritual?\"",
+      "risk": [
+        "negation"
+      ]
+    },
+    {
+      "ordinal": 4030,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:SamanaPeninsula",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:SamanaPeninsula",
+        "text_type": "Quest",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=SamanaPeninsula_Begin",
+        "source_field": "Description"
+      },
+      "source": "Return to San Tiago and inform Leandra that Samana has no trace of the rebels.",
+      "risk": [
+        "negation",
+        "interaction"
+      ]
+    },
+    {
+      "ordinal": 4034,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:SanTiagoMarket",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:SanTiagoMarket",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=SanTiagoMarket_WordOfGod",
+        "source_field": "Text"
+      },
+      "source": "\"Ah! Yes, good. I am glad that the pious friar managed to find somebody willing to handle this for him. And if I am not mistaken, you were promised payment, yes? 1500 Valuables?\"",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 4106,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:SantoDomingoDocks",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:SantoDomingoDocks",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=SantoDomingoDocks_Slaves ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "UmbertoDeRossi"
+      },
+      "source": "\"No slaves. I want paid servants only.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 4129,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:SantoDomingoDocks",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:SantoDomingoDocks",
+        "text_type": "Biography",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=SantoDomingoDocks_IsabellaJoin",
+        "source_field": "Bio"
+      },
+      "source": "The daughter of Andres de Yruenes, who was a part of Columbus' crew. Isabela's mother was a Taíno woman, and as a child of two worlds, Isabela has never found it easy to fit in. Despite her difficulties in gaining the trust of her mother's tribesmen, and the often terrible treatment she sustained from the colonists in Santo Domingo, Isabela has stubbornly held on to a positive outlook on life. She is far from naive, having seen many of the worst sides of people, but she is a stoically polite and open-minded woman who fights for peace and reconciliation for both her peoples.",
+      "risk": [
+        "negation",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 4163,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:SantoDomingoDocks",
+        "speaker": "UmbertoDeRossi",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:SantoDomingoDocks",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=SantoDomingoDocks_Begin",
+        "source_field": "Text"
+      },
+      "source": "\"My father was a great explorer with a powerful lust for adventure. He was not much of a military man, but I must don the uniform to walk a similar path as he did, and I have done so without hesitation.\"",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 4372,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:SantoDomingoMarket",
+        "speaker": "",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:SantoDomingoMarket",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=SantoDomingoMarket_Barricades",
+        "source_field": "Text"
+      },
+      "source": "You dive right into a negotiation worthy of the markets of Sevilla, but after quite a bit of back and forth it's clear that the merchant won't budge. You'll either have to pay the 500 or take your business elsewhere.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 4555,
+      "category": "Level0",
+      "metadata": {
+        "group": "Level0:Tournament",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:772",
+        "scene": "Level0:Tournament",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Tournament_Battle02 ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "JuanNoriega"
+      },
+      "source": "\"I don't mean to be a spoil-sport, but I must ask that you call it now and skip the final battle.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 4688,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:START",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:START",
+        "text_type": "Biography",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Bio"
+      },
+      "source": "Teresa's mother died when she was giving birth, launching her father into a deep depression from which he never recovered. Seeing suffering all around her as a child, she grew determined to help people get well. Before joining your expedition, she was the local doctor in your area, where she excelled particularly in stitching wounds.",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 4725,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Amazons01",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Amazons01",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Amazons_Begin ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "Citlalli"
+      },
+      "source": "Give her Momoztli's headpiece.",
+      "risk": []
+    },
+    {
+      "ordinal": 4728,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Amazons01",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Amazons01",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Amazons_Begin ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "Citlalli"
+      },
+      "source": "\"I get a sense that you have some history with Momoztli.\"",
+      "risk": []
+    },
+    {
+      "ordinal": 4755,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Amazons01",
+        "speaker": "Citlalli",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Amazons01",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=AmazonsCitlalliJoins",
+        "source_field": "Text"
+      },
+      "source": "\"Besides... she has spoken highly if you, any time an opportunity for it arose. I will not be held responsible for keeping you apart.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 5116,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:GutierrezCross",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:GutierrezCross",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=GutierrezsCross_Begin",
+        "source_field": "Text"
+      },
+      "source": "The side of the cross facing away from the cliff is engraved with the outlines of a flower and nothing more. Into the backside the following inscription has been artfully carved:",
+      "risk": []
+    },
+    {
+      "ordinal": 5121,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:GutierrezCross",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:GutierrezCross",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=GutierrezsCross_Begin",
+        "source_field": "Text"
+      },
+      "source": "You recognise the helmet as soon as you pick it up: it belonged to the conquistador Felipe Gutiérrez, who was sent on an expedition three years prior to yours, from which nobody ever returned. Beneath the helmet is a small, distinctly feminine pouch full of medicinal herbs and remedies. The name \"Ines\" is stitched into it.",
+      "risk": []
+    },
+    {
+      "ordinal": 5471,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Chasm",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Chasm",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Chasm_EndLargeInjury",
+        "source_field": "Text"
+      },
+      "source": "At the top of the cliff, your men cheer as you climb over the edge, and you immediately create a stretcher for FNameLast1, who is grievously wounded. It occurs to you that if you'd sent a trained Scout down there, or perhaps somebody more cautious, FHisHer1 injury might not have been quite so bad.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 5582,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Cuautitlan",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Cuautitlan",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Cuautitlan_AztecQuest_Choices ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": ""
+      },
+      "source": "[Check Diplomacy Hard] \"I sympathise with your plight, but you have to pay your debts. I can buy the food from you, but not at full price.\"",
+      "risk": [
+        "negation",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 5739,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:CuautitlanMarket",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:CuautitlanMarket",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=CuautitlanMarket_SpikeTraps",
+        "source_field": "Text"
+      },
+      "source": "The son is clearly not an experienced merchant, and he quickly caves to your bargaining. He will sell you each trap for 400 Valuables.",
+      "risk": [
+        "numbers",
+        "negation",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 5786,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Curse",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Curse",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Curse_Hypocrit ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "FName1"
+      },
+      "source": "\"Do as I say, not as I do, FNameLast1.\"",
+      "risk": [
+        "numbers",
+        "negation"
+      ]
+    },
+    {
+      "ordinal": 5910,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:ElDoradoGildedGate",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:ElDoradoGildedGate",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=ElDoradoGildedGate_CombinationWrong",
+        "source_field": "Text"
+      },
+      "source": "Your FRank1 FName1 presses the fourth button. A loud rumble hints at the inner workings of old machinery, and then all four buttons burst back out of their recessions. FNameFirst1 falls coughing to the ground, enveloped in a small cloud of green smoke. After a minute, FHeShe1 regains FHisHer1 composure. The FType1 is coughing blood and does not seem to be in peak condition. The gate is still closed, however: you must have chosen the wrong combination.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 5978,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:ElDoradoSunPillar1",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:ElDoradoSunPillar1",
+        "text_type": "Event title",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Name"
+      },
+      "source": "Sun Pillar 1",
+      "risk": [
+        "numbers"
+      ]
+    },
+    {
+      "ordinal": 6063,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:ElDoradoTemple",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:ElDoradoTemple",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=ElDoradoTemple_ShoulderDevils_Done",
+        "source_field": "Text"
+      },
+      "source": "Despite your orders, FName1 can't resist the temptation to sneak a golden goblet into FHisHer1 sack before leaving the room. The exact moment the FRank1 crosses the doorstep to the temple with the goblet, a beam of blood red light seems to emanate from nowhere and everywhere. The light starkly illuminates the tall statue of a masculine person near the centre of the room.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 6201,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:EscapedSlaves",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:EscapedSlaves",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=EscapedSlavesPursuers",
+        "source_field": "Text"
+      },
+      "source": "You realise that you will not get out of this without a fight... unless you provide a decoy. As your eyes wander across your men, your eyes come to rest on FName1. The look in your eye says it all, and the rest of your people jump the distressed FType1. You all manage to tie FNameLast1 to a nearby tree before escaping into the jungle, being careful to not leave any tracks.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 6290,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Exorcism",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Exorcism",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Exorcism_NoLossJump ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": ""
+      },
+      "source": "\"You will not talk to me like this! I am leaving. If I see you again, I may not be so kind.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 6371,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:ExoticFlower",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:ExoticFlower",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=ExoticFlower_Begin ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "FName1"
+      },
+      "source": "\"Of course, FNameLast1. If this flower could be useful for medicine, we should examine it.\"",
+      "risk": [
+        "numbers",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 6790,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:FortalezaDeGutierrezTavern",
+        "speaker": "Necalli",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:FortalezaDeGutierrezTavern",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=FortalezaDeGutierrezTavern_NecalliMainChoice",
+        "source_field": "Text"
+      },
+      "source": "\"Necalli will challenge any one of you to fight him to the death! If Necalli wins, he will travel with you and participate in your battles against the Aztec.\"",
+      "risk": [
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 6812,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:FortalezaDeGutierrezTavern",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:FortalezaDeGutierrezTavern",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=FortalezaDeGutierrezTavern_MainOptions",
+        "source_field": "Text"
+      },
+      "source": "Buying a round of wine for everyone would certainly raise morale. Drink is hard to come by in this land though, and such a gesture would set you back no less than 1000 Valuables. It should also be noted that it probably wouldn't have any effect if your people are already Loyal.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 6855,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:FortalezaDeGutierrezTradingPost",
+        "speaker": "MaríaGrijalva",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:FortalezaDeGutierrezTradingPost",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=FortalezaDeGutierrezTradingPost_MainOptions",
+        "source_field": "Text"
+      },
+      "source": "\"I am so sorry, Capitán, such materials should be created locally, there is no sense in importing them by ship. Perhaps a workshop should be built here in the fortress if the acquisition of such materials is a pressing concern.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 6883,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:FortalezaDeGutierrezTribe",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:FortalezaDeGutierrezTribe",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=FortalezaDeGutierrezTribe_Begin ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "FName1"
+      },
+      "source": "\"We must not jump to conclusions. Let's make contact.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 7169,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:FountainOfYouth",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:FountainOfYouth",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=FountainOfYouth_MainOptions",
+        "source_field": "Text"
+      },
+      "source": "As the awe-inspiring sight is revealed, a furious dispute is ignited among your servants. You don't even have time to understand the cause of the argument before one of them produces a dagger and thrusts it into the throat of another servant. In the blink of an eye, you have a fight on your hands.",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 7267,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:MasayaVillage",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:MasayaVillage",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=MasayaVillage_Merge02 ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": ""
+      },
+      "source": "\"No, if we're going to fight someone, it might as well be you.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 7318,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:MasayaVillageTraders",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:MasayaVillageTraders",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=MasayaVillageTraders_Nets",
+        "source_field": "Text"
+      },
+      "source": "The girl is surprisingly resistant to haggling, but even she cannot resist your charm and your persuasiveness, and eventually she agrees to sell you /one/ net for 250 Valuables, but you'll have to pay full price if you want more.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 7372,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:MasayaVolcanoTunnel",
+        "speaker": "Xolotl",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:MasayaVolcanoTunnel",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=MasayaVolcanoTunnel_MainChoice",
+        "source_field": "Text"
+      },
+      "source": "\"You would sacrifice a subordinate to the gods of this land? That is most uncommon for those who do not serve Quetzalcoatl. Hmm... highly unusual. Very well, I will not reject such a unique proposal. The soul of a disbeliever, given willingly by FHimHer1self or FHisHer1 master, is an offering that pleases me greatly. I will claim the spirit of FName1 and guide it through the nine layers of Mictlan. Step forward, FNameFirst1!\"",
+      "risk": [
+        "numbers",
+        "negation",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 7502,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Papantla",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Papantla",
+        "text_type": "Quest",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Papantla_CombatFailure",
+        "source_field": "Description"
+      },
+      "source": "Your attempt to take Papantla failed, but the town is going nowhere. You can't return to Quappiatl until you've razed the city.",
+      "risk": [
+        "negation",
+        "conditions",
+        "interaction"
+      ]
+    },
+    {
+      "ordinal": 7657,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:PearlFishers",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:PearlFishers",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=PearlFishers_TayannaFeelings",
+        "source_field": "Text"
+      },
+      "source": "\"She's very beautiful. My father would never allow me to leave with you unless we're married. I guess I'm stuck here.\"",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 7778,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Scholar",
+        "speaker": "MiguelSicart",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Scholar",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Scholar_ReturnChoice",
+        "source_field": "Text"
+      },
+      "source": "\"I'm sorry, I'm simply not comfortable travelling as part of such a large group. The last group I was part of was hundreds of people! Group that large, a few bad eggs will just spoil it all. Come back if you have 13 people with you or less - 13 is a lucky number, isn't it?\"",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 7836,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Scholar",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Scholar",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Scholar_Merge03 ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "MiguelSicart"
+      },
+      "source": "\"So if I return here with no more than 13 followers, you'll join?\"",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 7859,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Scholar",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Scholar",
+        "text_type": "Biography",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Scholar_JoinFromFortress",
+        "source_field": "Bio"
+      },
+      "source": "Miguel Sicart is one of the few survivors of Felipe Gutiérrez's expedition that you've encountered on the mainland. You found him in a small hut that he'd built himself, and after a little adventure with a poisonous frog paella, you convinced him to join your expedition. Annoyingly he continues to evade all questions about Gutiérrez, but wastes no opportunity to call your predecessor a fool.",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 8026,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:SwampRuins",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:SwampRuins",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=SwampRuins_Begin",
+        "source_field": "Text"
+      },
+      "source": "After waiting for a period of time which by anybody's reckoning is too long, anguished screams and cries for help reverberate across the slick stone and reach your ears. There is no mistaking it, FNameFirst1 has run into trouble.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 8235,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:TempleOfDeath",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:TempleOfDeath",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=TempleOfDeath3",
+        "source_field": "Text"
+      },
+      "source": "With your limited medical knowledge, you can't be sure which pipe, if any, contains the correct anti-venom, so FNameLast1 chooses the middle pipe. Immediately after drinking, FHeShe1 clutches FHisHer1 throat, makes an unpleasant gurgling sound, and falls to the floor, writhing in pain. Two of your servants pick up the groaning FType1 and rush FHimHer1 back outside.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 8579,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:TenochtitlanMarket",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:TenochtitlanMarket",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=TenochtitlanMarket_MainChoice",
+        "source_field": "Text"
+      },
+      "source": "Most of the items on sale in the market are everyday objects of little use to you. However, after trawling through useless junk for the longest time, you manage to locate the few scattered stalls where artisans from outside the city are peddling supplies for trappers and warriors. Unfortunately, spike traps and net traps both sell for 400 Valuables a piece, and you can't afford that.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 8725,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:TenochtitlanMilitaryQuarter",
+        "speaker": "Quappiatl",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:TenochtitlanMilitaryQuarter",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=TenochtitlanMilitaryQuarter_Quappiatl_Merge",
+        "source_field": "Text"
+      },
+      "source": "\"Tepictoton's daughter has breached the palace with a group of the Totonac elite! The emperor's personal guard has fortified him in his garden, but they can't hold out much longer. You must come to Moctezuma's aid! If  the emperor falls, our victories here won't matter!\"",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 9211,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:TenochtitlanPalace",
+        "speaker": "Moctezuma",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:TenochtitlanPalace",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=TenochtitlanPalace_DefenceFailure",
+        "source_field": "Text"
+      },
+      "source": "\"I will spare your life, PName. Not because you deserve it. Not even because I /want/ to, but out of respect for my daughter. Leave this city and never return. If I ever see your face again, or the face of any one of your kind, I will kill you.\"",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 9722,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Texcoco",
+        "speaker": "Coyotl",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Texcoco",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Texcoco_Begin",
+        "source_field": "Text"
+      },
+      "source": "\"I don't know their names, I only heard the stories, and I saw the aftermath. Cholula was an impressive city, second in size only to Tenochtitlan. Now it stands in ruin.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 9931,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:TheSpottedCurse",
+        "speaker": "Patli",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:TheSpottedCurse",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=TheSpottedCurse_Begin",
+        "source_field": "Text"
+      },
+      "source": "\"I've sent the boy home. Don't worry, I gave him some remedies and supplies for the journey. He'll be fine. Before you leave, I want to thank you for bringing him here, unfortunately I don't have much to offer in terms of worldly goods. However...\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 10052,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:Tlalli",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:Tlalli",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Tlalli_Knife",
+        "source_field": "Text"
+      },
+      "source": "\"I just asked for it I think he was planning to go down in a courageous battle but he didn't really want to kill a 14-year-old girl especially in front of all these big tough guys. Oh and I told him we'd treat the idol with respect and there would be no bad blood between our tribes if he didn't want there to be any.\"",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 10140,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:ToltecTemple",
+        "speaker": "FName",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:ToltecTemple",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=ToltecTemple_Merge01",
+        "source_field": "Text"
+      },
+      "source": "\"Capitán PNameLast. An idea, if I may. The savages are tricky, we don't know what kind of traps they've laid for us down there. I suggest we enter the temple calmly, pretending we have no hostile intentions.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 10230,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:TotonacVillage",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:TotonacVillage",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=TotonacVillage_Begin",
+        "source_field": "Text"
+      },
+      "source": "This must be the village where Tepictoton instructed you to seek the holy idol that his father lost. It's not a big community, perhaps a few hundred people reside here, and it's difficult to imagine that such a small village could defeat Xalapa in battle.",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 10259,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:TotonacVillage",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:TotonacVillage",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=TotonacVillage_Merge05",
+        "source_field": "Text"
+      },
+      "source": "\"It doesn't /belong/ to Xalapa! My father took it fair and square after we beat them in a ball game!\"",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 10413,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:WoundedNative",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:WoundedNative",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=WoundedNative_FollowerChoice ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": ""
+      },
+      "source": "\"I'm sorry if you have misgivings, FNameLast1, but I will not ignore a person in need.\"",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 10455,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:XalapaAnacaona",
+        "speaker": "Anacaona",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:XalapaAnacaona",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Anacaona_MainChoice",
+        "source_field": "Text"
+      },
+      "source": "\"Uncle Miguel taught me - well he's not my real uncle but he might as well be family - but he left a few months ago because he thought it was dangerous to stay in Xalapa. He came with Capitán Gutiérrez but stayed behind when his expedition left because he liked it here and-- and he taught me lots of things about Spain and Europe and to understand and speak Spanish so I could translate for father.\"",
+      "risk": [
+        "negation",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 10492,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:XalapaAnacaona",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:XalapaAnacaona",
+        "text_type": "Biography",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Anacaona_Join",
+        "source_field": "Bio"
+      },
+      "source": "The daughter of the Totonac chief Tepictoton, Anacaona is a friendly and adventurous and somewhat hyperactive young girl burdened with a priviledged but bored upbringing. As the daughter of a local chieftain, she is a considerable diplomatic asset, and it helps that her Spanish is impeccable.",
+      "risk": [
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 10627,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:XalapaPalace",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:XalapaPalace",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Xalapa_PapantlaBusted ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "Tepictoton"
+      },
+      "source": "[Check Diplomacy Easy] \"Their chieftain, Xīlōxōch, had plans to murder me and my people. I won't guess at her motivations, but she must have seen me as a threat.\"",
+      "risk": [
+        "negation",
+        "conditions",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 10743,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:XalapaPalace",
+        "speaker": "Tepictoton",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:XalapaPalace",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Xalapa_Begin",
+        "source_field": "Text"
+      },
+      "source": "\"I know that! But you /killed/ 12 of our warriors! Twelve brave men and women who were only serving their chieftain! If my daughter wants to run off on some dangerous adventure that's between me and her, but did you really have to kill everybody who tried to stop you?!\"",
+      "risk": [
+        "numbers",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 10849,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:XalapaPalace",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:XalapaPalace",
+        "text_type": "Quest",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Xalapa_AztecQuest_Merge05",
+        "source_field": "Description"
+      },
+      "source": "In exchange for the safe return of his daughter, Tepictoton has sworn to keep Xalapa out of the Totonac attack on Tenochtitlan, though he can't stop the attack altogether. Return to Moctezuma to report the outcome of your mission.",
+      "risk": [
+        "negation",
+        "relationships",
+        "interaction"
+      ]
+    },
+    {
+      "ordinal": 11138,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:EnemyAztecPatrol",
+        "speaker": "",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:EnemyAztecPatrol",
+        "text_type": "Quest",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=EnemyAztecPatrol_MainChoices",
+        "source_field": "Title"
+      },
+      "source": "Papantla's Trust",
+      "risk": [
+        "interaction"
+      ]
+    },
+    {
+      "ordinal": 11306,
+      "category": "Level1",
+      "metadata": {
+        "group": "Level1:EnemyFarmer",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:793",
+        "scene": "Level1:EnemyFarmer",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=EnemyFarmer_BuyOneOx ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": ""
+      },
+      "source": "*[Check Diplomacy Medium]* \"I can't afford that. How about 150?\"",
+      "risk": [
+        "numbers",
+        "negation",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 11697,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Main_NearGameOver",
+        "speaker": "",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Main_NearGameOver",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Camping_NearGameOver_Merge03",
+        "source_field": "Text"
+      },
+      "source": "Six days pass with no news of FName1. It takes everything you've got to keep your people in stable condition, and you understand that if you had left, most of them would probably be dead by now. On the seventh day, a small group of Spaniards led by Juan Noriega rides into your camp.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 11956,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Main_Reconvalescence",
+        "speaker": "",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Main_Reconvalescence",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RandomCampingReconvalescence_Merge03",
+        "source_field": "Text"
+      },
+      "source": "As you leave the tent again, the FType1 doesn't say goodbye, FHeShe1 only folds FHisHer1 legs up under FHimHer1 and rests FHisHer1 head on FHisHer1 knees, staring off into the distance.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 12008,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Main_Abduction",
+        "speaker": "FName2",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Main_Abduction",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RandomCampingAbduction_Merge02",
+        "source_field": "Text"
+      },
+      "source": "\"I'm not doing this to get to you, /PNameFirst/. These are all the people I have left after you murdered my troops in that God damned ravine, when that self-obsessed /bastardo/ Leandra betrayed me and fell in my back. I need to curry favour with the Taíno, and FNameFirst1 here is my ballast.\"",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 12025,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Main_Abduction",
+        "speaker": "",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Main_Abduction",
+        "text_type": "Quest",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RandomCampingAbduction_Merge05",
+        "source_field": "Description"
+      },
+      "source": "Esteban has absconded with FNameFirst1. FNameFirst3 thinks he must be taking FHimHer1 to be sacrificed by the savage Caribs that live in the mountains near the coast to the north west. You probably have until the next full moon to prevent this.",
+      "risk": [
+        "numbers",
+        "conditions",
+        "interaction"
+      ]
+    },
+    {
+      "ordinal": 12218,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Guard_TribalAttack",
+        "speaker": "",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Guard_TribalAttack",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=CampGuardFailure02_MainChoice",
+        "source_field": "Text"
+      },
+      "source": "You find FName1 already bandaging a bleeding wound on a servant. You help FHimHer1 finish the job, and together you move through the camp, dragging the wounded out of harm's way and patching them up to at least stop the bleeding. After a while it looks like FNameFirst1 can take it from there, and the fighting throughout the camp is still going. It's time to address the situation more directly.",
+      "risk": [
+        "numbers",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 12247,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Hunting_Injury",
+        "speaker": "",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Hunting_Injury",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Hunting_Injury_Begin",
+        "source_field": "Text"
+      },
+      "source": "You manage to calm everyone down and give you a little peace to examine the wounded FType1 - FHisHer1 lower body is torn by powerful tooth marks. There is little doubt that you're dealing with another attack by /el lagarto/, the giant lizard. As before, FNameLast1 doesn't seem to be beyond repair, but will take a few days to heal from FHisHer1 injuries.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 12421,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Travel_Accident",
+        "speaker": "",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Travel_Accident",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Travel_Accident_Begin",
+        "source_field": "Text"
+      },
+      "source": "If only your doctor wasn't the one writhing in pain on the ground in front of you, FHisHer1 expertise in matters of health might be rather useful. Unfortunately you're not sure how best to treat spider venom poisoning, so you order your servants to administer some general-purpose remedies and make room in one of the carts for the unfortunate FNameLast1.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 12434,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Travel_Betrayal",
+        "speaker": "",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Travel_Betrayal",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RandomTravelBetrayal_Racism",
+        "source_field": "Text"
+      },
+      "source": "Your people don't seem to share the FType1's level of excitement, but it's pretty clear FHeShe1 would leave on FHisHer1 own if you don't do something. You might be able to talk FHimHer1 down if you've got a way with words, but keeping FHimHer1 around would almost certainly be bad for morale. Alternatively, it would undoubtedly strengthen the morale among your troops if you make an example of the agitator.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 12530,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Travel_Illness",
+        "speaker": "FName1",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Travel_Illness",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RandomTravelIllness_Merge01",
+        "source_field": "Text"
+      },
+      "source": "\"FNameFirst2 has a very strong fever, but I'm not seeing any other symptoms yet. It's some sort of disease, I can't tell which - could just be a cold, but either way it seems FHeShe2 will be out of commission for a while. Have the servants clear a place for FNameFirst2 on the carts, if you will.\"",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 12536,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Travel_Illness",
+        "speaker": "",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Travel_Illness",
+        "text_type": "Narrative",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Travel_Illness_Begin",
+        "source_field": "Text"
+      },
+      "source": "You put your knowledge of healing to use and check FNameFirst1 for all the possible symptoms you can think of, but all you can find is a fever. It's probably just a cold, but it might be some exotic new jungle disease that you've never encountered before. At your command, the servants carry the still unconscious FNameLast1 off, and once you're done administering some carefully selected remedies for the fever, everyone returns to their place in the caravan.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 12706,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Camping_Adventure",
+        "speaker": "Player",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Camping_Adventure",
+        "text_type": "Player choice",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RandomCampingAdventure_Merge01 ChoiceText 是玩家选项；dialogue_partner 表示对话对象，不是此条作者。",
+        "source_field": "ChoiceText",
+        "dialogue_partner": "FName1"
+      },
+      "source": "*[Check Leadership Medium]* \"I know I have let you all down until now. None of us came here to make war on slaves and Spanish soldiers. But I ask you to have patience with me, FNameFirst1 - I /will/ get us to the mainland, and then you will have more adventure than you could possibly find in Boaruco.\"",
+      "risk": [
+        "numbers",
+        "conditions",
+        "variables"
+      ]
+    },
+    {
+      "ordinal": 13030,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Camping_Blanca",
+        "speaker": "BlancaAlegria",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Camping_Blanca",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Camping_Blanca_Begin",
+        "source_field": "Text"
+      },
+      "source": "\"Un sobrynn' est' abadessa avi', a que mui gran ben \nqueria, que era men' e apost' e fremoso. \nEste, des que viu a monja, quis-lle mellor d'outra ren, \ne en guisar que a ouvesse foi tan aguçoso, que non era dia \nque ll' el muitas vegadas sa coita non dizia e lle prometia \nque sse con el sse fosse, con ela casaria.\"",
+      "risk": []
+    },
+    {
+      "ordinal": 13382,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Camping_Enrique",
+        "speaker": "EnriqueRuiz",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Camping_Enrique",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Camping_Enrique_Begin",
+        "source_field": "Text"
+      },
+      "source": "\"I can't stand that we allow FName2, that filthy savage, to sleep in our camp. If we /absolutely must/ suffer FHimHer2 to follow us around like some mangy stray dog, so be it - but at the very least you could make FHimHer2 sleep outside the camp.\"",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 13469,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Camping_Federico",
+        "speaker": "FedericoQuintero",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Camping_Federico",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Camping_Federico_Begin",
+        "source_field": "Text"
+      },
+      "source": "\"My wife was doing a fine enough job of raising and protecting my sons. I had not been there for them until then, and they did not seem to be worse off for suffering my absence. No, mi PSenorSenora: I do not belong in Spain - not any longer.\"",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 13528,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Camping_Isabela",
+        "speaker": "IsabelaYruenes",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Camping_Isabela",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=RandomCampingIsabela_Father",
+        "source_field": "Text"
+      },
+      "source": "\"Eh, my father wasn't a military man. I want to fight the rebels. I don't know if they even understand, but they're tearing Hispaniola apart. I thought I could fight the rebels with Noriega, but he's terrified to send his troops out of Santo Domingo anymore.\"",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 13587,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Camping_Julio",
+        "speaker": "JulioBarreto",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Camping_Julio",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Camping_Julio_Begin",
+        "source_field": "Text"
+      },
+      "source": "\"I am, but these are not to be memoirs. I have always been a keen student of, well... fiction. I find /such/ inspiration in the old Greek epics. I hope to add my own stories to those legendary works, that they might be found on the same shelf in the great library at home one day.\"",
+      "risk": [
+        "negation"
+      ]
+    },
+    {
+      "ordinal": 13704,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Camping_Rafael",
+        "speaker": "RafaelLopez",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Camping_Rafael",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Camping_Rafael_Agree",
+        "source_field": "Text"
+      },
+      "source": "\"I suppose you know the story of how I came to join your expedition. You have been told - I think - that I murdered my wife and my child in a fit of drunken rage. The truth is... in a way, not quite so unforgiveable... and yet worse.\"",
+      "risk": [
+        "negation",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 13835,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Camping_Rosalia",
+        "speaker": "RosaliaPadilla",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Camping_Rosalia",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Camping_Rosalia_Begin",
+        "source_field": "Text"
+      },
+      "source": "\"Your father always told me, don't wish for war. If there is a hell, it is like war.\"",
+      "risk": [
+        "negation",
+        "conditions",
+        "relationships"
+      ]
+    },
+    {
+      "ordinal": 13953,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Camping_Teresa",
+        "speaker": "",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Camping_Teresa",
+        "text_type": "Event title",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Name"
+      },
+      "source": "Do No Harm",
+      "risk": [
+        "negation"
+      ]
+    },
+    {
+      "ordinal": 13959,
+      "category": "RandomEvents",
+      "metadata": {
+        "group": "RandomEvents:Camping_Teresa",
+        "speaker": "TeresaSanchez",
+        "resource": "sharedassets1.assets:781",
+        "scene": "RandomEvents:Camping_Teresa",
+        "text_type": "Dialogue",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。NodeTag=Camping_Teresa_Begin",
+        "source_field": "Text"
+      },
+      "source": "\"The Greeks concerned themselves with medicine, among many other things. There is an oath, written many many centuries ago, that their healers used to make, which obligates them to use their skills and knowledge only to the benefit of the sick, never to their harm.\"",
+      "risk": [
+        "negation",
+        "conditions"
+      ]
+    },
+    {
+      "ordinal": 14155,
+      "category": "Codex",
+      "metadata": {
+        "group": "Codex:CODICES",
+        "speaker": "",
+        "resource": "sharedassets1.assets:796",
+        "scene": "Codex:CODICES",
+        "text_type": "Codex",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Title"
+      },
+      "source": "African Slaves of Hispaniola",
+      "risk": []
+    },
+    {
+      "ordinal": 14156,
+      "category": "Codex",
+      "metadata": {
+        "group": "Codex:CODICES",
+        "speaker": "",
+        "resource": "sharedassets1.assets:796",
+        "scene": "Codex:CODICES",
+        "text_type": "Codex",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Text"
+      },
+      "source": "The first African slaves landed on Hispaniola in 1501, and were destined for the mines. Spain was building an Empire and needed the riches of the new world; its gold and silver and the crops of sugarcanes.\n\nIn the early days of the Spanish conquest, the local Indians were used as free labour. Later they were enslaved and forced to work by the Spanish. But the Indian population decreased rapidly, partly because of the wars, but also due to diseases brought by the Europeans, such as measles and the flu. In 1500, it is estimated that there were about 50 million Indians in the Americas. By 1600, this number had been reduced to about 8 million.\n\nThe Spanish authorities were alarmed at this decline in the local Indian population. New laws made by the Spanish in 1542 put an end to them being taken as slaves. Instead, a new system (the encomienda) was introduced according to which the Indians were obliged to do a certain amount of work for the Spanish landowner on whose land they lived, they were now serfs instead of slaves - though the difference was negligible.\n\nTo keep up the output of the mines or the plantations, the number of imported African slaves was increased. At first they were brought from other colonies owned by Spain, such as the Canary Islands in the Atlantic Ocean. Later, slaves were brought in greater numbers from West Africa.\n\nThe licence to sell slaves went to whomever was prepared to pay the most for it. Often this meant that Portuguese, Dutch, German, British, or Genoese merchants were supplying slaves to the Spanish colonies. From 1550 to 1595, the official records show that 36,300 enslaved Africans were imported into the Spanish-owned parts of South America. The number was probably much higher, as more were smuggled in by unlicensed slave traders.\n\nIn 1574, a census taken of the Greater Antilles reported 1000 Spaniards and 12,000 African slaves on Hispaniola.",
+      "risk": [
+        "numbers",
+        "long_text"
+      ]
+    },
+    {
+      "ordinal": 14164,
+      "category": "Codex",
+      "metadata": {
+        "group": "Codex:CODICES",
+        "speaker": "",
+        "resource": "sharedassets1.assets:796",
+        "scene": "Codex:CODICES",
+        "text_type": "Codex",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Text"
+      },
+      "source": "Catedral de Santa María la Menor, aka. Cathedral of St. Mary of the Incarnation in Santo Domingo, is the oldest cathedral in the Americas. Consecrated by Pope Julius II in 1504, the construction of the Cathedral began in 1512 under the leadership of Bishop Fray García Padilla, was continued from 1519 by Bishop Alexander Geraldini, and lasted until 1540. The cathedral's very first stone was laid in 1502 by Christopher Columbus' son Diego Columbus. The construction was carried out by Luis Moya, according to plans designed by Alonso Rodriguez, of Seville, Spain. It was consecrated in 1541.\n\nThe walls of the cathedral are solid limestone. There are twelve side chapels, three aisles, and a nave. None of the side chapels were included in the original building, but have been added on later. The cathedral is fronted with a golden-tinted coral limestone façade, the church combines elements of both Gothic and Baroque with some lavish plateresque styles as exemplified by the high altar chiseled out of silver. There is also a treasury which has an excellent art collection of ancient woodcarvings, furnishings, funerary monuments, silver, and jewelry.\n\nThe remains of Christopher Columbus were once housed at the cathedral, before their final resting place in the Faro a Colon.\n\nCatedral de Santa María la Menor does not have a bell tower. Because of lacking funds, it took the Spanish 29 years to build, and some features had to be omitted due to lack of money. The biggest toll the cathedral took was when British pirate Sir Francis Drake captured it and used it as his fortress. The damage sustained by the cathedral during the Drake's attacks and subsequent looting and plundering left many of the artifacts and artwork damaged beyond recovery. As a matter of fact, the cathedral's most valued artwork - the Madonna from the Chapel of the Virgin of Antigua - was stolen and spirited off to Spain in 1520. It was not returned back to the Dominican Republic until 1892.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions",
+        "relationships",
+        "long_text"
+      ]
+    },
+    {
+      "ordinal": 14170,
+      "category": "Codex",
+      "metadata": {
+        "group": "Codex:CODICES",
+        "speaker": "",
+        "resource": "sharedassets1.assets:796",
+        "scene": "Codex:CODICES",
+        "text_type": "Codex",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Text"
+      },
+      "source": "Ozama is a Taino word that means wetlands or navigable waters. Fortaleza Ozama (Ozama Fortress) was built on the banks of the Ozama river, one of the most important rivers in the Dominican Republic. It springs in the North and runs 104 km (65 miles) until it reaches the Carribbean Ocean a few hundred meters from the Fortress.\n\nThe Fortaleza Ozama was constructed between 1502 and 1508 by order of the then Governor of Hispaniola, Fray Nicholas de Ovando, the founder of the city of Santo Domingo. It was built in order to defend the city against attacks by pirates and privateers. It has never been taken by force of arms.\n\nOne part of the Fortress is Torre del Homenaje or Tower of Homage. It was built in medieval style rising to a height of 18.5 meters (61 feet). It was built utilizing the labor of enslaved Tainos and Africans.\n\nThe tower is called Tower of Homage to glorify the Spanish conquistadors, who came there from Spain to conquer and colonise the newly discovered lands. It was from this fort in Old Santo Domingo that the famous expeditions of conquest began; Hernán Cortés in México, Diego Velásquez in Cuba, Francisco Pizarro in Perú, Alonso de Hojeda in Venezuela, Pazco Núñez Balboa in Panamá, and Ponce de León in Puerto Rico.\n\nThe tower was made of coral rock, which has the property of absorbing moisture, keeping the interior of the structure cool. No metals were used in the construction, and the cement - made of gypsum, clay, lime, and the blood of animals - becomes stronger with the passage of time.\n\nDiego Colón, the son of Cristóbal Colón (Christopher Columbus) and his wife María de Toledo, temporarily lived in the Torre del Homenaje, occupying all of the second level, while their servants lived on the first level. The couple remained there for two years.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions",
+        "relationships",
+        "long_text"
+      ]
+    },
+    {
+      "ordinal": 14176,
+      "category": "Codex",
+      "metadata": {
+        "group": "Codex:CODICES",
+        "speaker": "",
+        "resource": "sharedassets1.assets:796",
+        "scene": "Codex:CODICES",
+        "text_type": "Codex",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Text"
+      },
+      "source": "The Masaya Volcanom, or the Masaya caldera, was formed 2500 years ago by a basaltic eruption of the Las Sierras shield volcano. The Masaya caldera covers 6 by 11.5 km and has all of 13 openings through which there is a constant emission of sulphur dioxide gas.\n\nMasaya's last eruption of lava was in 1772. Since then, several minor explosions have occurred in addition to the emissions of gas.\n\nThe Masaya was feared both by the indigenous people and by the Spanish Conquistadors. It is told that the locals sought to appease the spirit of the volcano by sacrificing young girls, throwing them into the mouth of the volcano.\n\nThe Spanish Conquistadors at first thought the glistening lava was liquid gold, but as they experienced the heat and the poisonous fumes from the heart of the volcano, they named it \"La Boca del Inferno\" or \"the Mouth of Hell\". They also erected a cross on the edge of the crater and named it \"La Cruz de Bobadilla\" after Father Francisco Bobadilla, a Jesuit priest. By doing so, they hoped to exorcise the Devil.",
+      "risk": [
+        "numbers",
+        "conditions",
+        "relationships",
+        "long_text"
+      ]
+    },
+    {
+      "ordinal": 14178,
+      "category": "Codex",
+      "metadata": {
+        "group": "Codex:CODICES",
+        "speaker": "",
+        "resource": "sharedassets1.assets:796",
+        "scene": "Codex:CODICES",
+        "text_type": "Codex",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Text"
+      },
+      "source": "The Maya lived in three loosely defined zones: The Maya highlands, the Southern lowlands, and the Northern lowlands (all of the Yucatán peninsula). The height of the Maya empire was around 600 A.D. Their cities spread through Mesoamerica, and varied greatly depending on the topography. They evolved as nature dictated, even in the tropical rainforests.\n\nThe Maya excelled at agriculture, pottery, hieroglyph writing, calendar-making and mathematics, and left behind an astonishing amount of impressive architecture and symbolic artwork such as the stepped pyramids, similar to the architecture of the Toltec.\n\nMost of the great stone cities of the Maya were abandoned by 900 A.D., and by the time of the Spanish conquest, the Maya were primarily living in small farming communities. Development persisted in the northern centers and the cities of the northern lowlands in Yucatán continued to flourish for centuries more; some of the important sites in this era were Chichen Itza, Uxmal, Edzná, and Coba. After the decline of the ruling dynasties of Chichen and Uxmal, Mayapan ruled all of Yucatán until a revolt in 1450. After this point, the area degenerated into competing city-states until Yucatán was conquered by the Spanish.\n\nThe Spanish conquest of Yucatan lasted 170 years. Unlike the Aztec and Inca Empires, there was no single Maya political center, therefore the conquistadors had to subdue the numerous independent Maya states (polities) one by one, many of which fought fiercely.\n\nThe Maya survived the Spanish colonization. The Maya and their descendants form sizable populations throughout the Maya area and maintain a distinctive set of traditions and beliefs. Millions of people still speak Maya languages.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions",
+        "long_text"
+      ]
+    },
+    {
+      "ordinal": 14184,
+      "category": "Codex",
+      "metadata": {
+        "group": "Codex:CODICES",
+        "speaker": "",
+        "resource": "sharedassets1.assets:796",
+        "scene": "Codex:CODICES",
+        "text_type": "Codex",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Text"
+      },
+      "source": "San Tiago de los Caballeros (Saint James of the Knights) also known as San Tiago de los 30 Caballeros, is the capital of Santiago Province. Whether founded in 1494 by Christopher Columbus (as some historians claim) or in 1495 by his brother Bartolomeo, San Tiago was among the first European settlements in America during the first wave of European colonization of the New World.\n\nIt is situated on the Yaque del Norte River, in the heart of the fertile Cibao Valley.\n\nThe original colony was in the city of Jacagua. In 1504, 30 caballeros of the Order of St. James (San Tiago) moved from nearby La Isabela to San Tiago,  and from that time the city was known as San Tiago de los Caballeros.\n\nWhen the knights returned back to Spain they put a formal complaint before the king stating that their horses had been unfairly commissioned as beasts of burden and their weapons had been appropriated by Diego and Bartolome Columbus and that they had been made to do manual labor, something considered beneath their station as knights, who were meant to engage only in battle. The king compensated them for all their losses.\n\nAfter being destroyed by an earthquake in 1562, the city was rebuilt a few miles away, where Nibaje Stream meets the Yaque; ruins of the old city are still visible in the district of San Francisco de Jacagua. San Tiago survived numerous earthquakes and fires to serve repeatedly as the republic's capital.",
+      "risk": [
+        "numbers",
+        "conditions",
+        "relationships",
+        "long_text"
+      ]
+    },
+    {
+      "ordinal": 14196,
+      "category": "Codex",
+      "metadata": {
+        "group": "Codex:CODICES",
+        "speaker": "",
+        "resource": "sharedassets1.assets:796",
+        "scene": "Codex:CODICES",
+        "text_type": "Codex",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "Text"
+      },
+      "source": "In the 9th and 10th centuries, several groups of migrants came from the North and South to the Mesoamerican plains/The Mexican Basin. One of the first groups was the Toltecs, supposed to be escapees from the fall of Teotihuacán. The Toltecs founded the city of Tula or Tollan, which became the dominant city in Mesoamerica 900-1100, although it never reached the same size as Teotihuacán due to competing cities in the area.\n\nThe Toltec culture disappeared in the 12th century, possibly overrun by the Chichimecas. The Chichimecas' culture slowly disappeared, and central Mexico entered a chaotic dark age until the Aztecs rose to power in Tenochtitlán at what is now Mexico City, in the early 1300s.\n\nThe Aztecs respected the Toltecs as \"men of knowledge\", and rewrote some of their own history to show they were related to the Toltecs. The word Toltec is said to come from the Nahuatl language of that area, and means \"master builder\" or \"artist\".\n \nThere are no written records left by the Toltec. What we know about them is what we see in the ruins they left behind, and what later Mesoamerican people have written. We don't know what language they spoke, but it is supposed to have been some form of Nahuatl.\n\nWe also don't know whether the Toltec civilization was an empire in its own right (some call it the third of the great empires in the Basin of Mexico) or whether it was a mythical and philosophical construct by the Aztecs or other Mesoamericans that was used to symbolize the might and sophistication of several different civilizations. However, traces of their culture can be found even among the Mayans in Chichén Itza, 1500 km from Tula and in the Northamerican Southwest.",
+      "risk": [
+        "numbers",
+        "negation",
+        "conditions",
+        "relationships",
+        "long_text"
+      ]
+    },
+    {
+      "ordinal": 14204,
+      "category": "Map/UI",
+      "metadata": {
+        "group": "Map/UI:level0:HostGUI",
+        "speaker": "",
+        "resource": "level0:199",
+        "scene": "Map/UI",
+        "text_type": "Map/UI",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "title"
+      },
+      "source": "Tournament Round 1",
+      "risk": [
+        "numbers"
+      ]
+    },
+    {
+      "ordinal": 14228,
+      "category": "Map/UI",
+      "metadata": {
+        "group": "Map/UI:level2:MarkerInfo",
+        "speaker": "",
+        "resource": "level2:13780",
+        "scene": "Map/UI",
+        "text_type": "Map/UI",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "name"
+      },
+      "source": "Point of Interest",
+      "risk": []
+    },
+    {
+      "ordinal": 14229,
+      "category": "Map/UI",
+      "metadata": {
+        "group": "Map/UI:level2:EventInfo",
+        "speaker": "",
+        "resource": "level2:13813",
+        "scene": "Map/UI",
+        "text_type": "Map/UI",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "eventMapName"
+      },
+      "source": "Santo Domingo Market",
+      "risk": []
+    },
+    {
+      "ordinal": 14255,
+      "category": "Map/UI",
+      "metadata": {
+        "group": "Map/UI:level2:EventEnemy",
+        "speaker": "",
+        "resource": "level2:14076",
+        "scene": "Map/UI",
+        "text_type": "Map/UI",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "eventMapName"
+      },
+      "source": "Soldiers",
+      "risk": []
+    },
+    {
+      "ordinal": 14321,
+      "category": "Tutorial",
+      "metadata": {
+        "group": "Tutorial:level2:TutorialController",
+        "speaker": "",
+        "resource": "level2:14862",
+        "scene": "Tutorial",
+        "text_type": "Tutorial",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "headline"
+      },
+      "source": "Combat: Preparation Phase (1/2)",
+      "risk": [
+        "numbers"
+      ]
+    },
+    {
+      "ordinal": 14322,
+      "category": "Tutorial",
+      "metadata": {
+        "group": "Tutorial:level2:TutorialController",
+        "speaker": "",
+        "resource": "level2:14862",
+        "scene": "Tutorial",
+        "text_type": "Tutorial",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "headline"
+      },
+      "source": "Combat: Item Placement (2/2)",
+      "risk": [
+        "numbers"
+      ]
+    },
+    {
+      "ordinal": 14326,
+      "category": "Tutorial",
+      "metadata": {
+        "group": "Tutorial:level2:TutorialController",
+        "speaker": "",
+        "resource": "level2:14862",
+        "scene": "Tutorial",
+        "text_type": "Tutorial",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "headline"
+      },
+      "source": "Combat: Movement (1/2)",
+      "risk": [
+        "numbers"
+      ]
+    },
+    {
+      "ordinal": 14390,
+      "category": "Map/UI",
+      "metadata": {
+        "group": "Map/UI:level3:MarkerInfo",
+        "speaker": "",
+        "resource": "level3:33542",
+        "scene": "Map/UI",
+        "text_type": "Map/UI",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "name"
+      },
+      "source": "Point of Interest",
+      "risk": []
+    },
+    {
+      "ordinal": 14391,
+      "category": "Map/UI",
+      "metadata": {
+        "group": "Map/UI:level3:EventInfo",
+        "speaker": "",
+        "resource": "level3:33578",
+        "scene": "Map/UI",
+        "text_type": "Map/UI",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "eventMapName"
+      },
+      "source": "Camp",
+      "risk": []
+    },
+    {
+      "ordinal": 14436,
+      "category": "Tutorial",
+      "metadata": {
+        "group": "Tutorial:level3:TutorialController",
+        "speaker": "",
+        "resource": "level3:33724",
+        "scene": "Tutorial",
+        "text_type": "Tutorial",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "sideName"
+      },
+      "source": "No More Moves",
+      "risk": [
+        "negation"
+      ]
+    },
+    {
+      "ordinal": 14658,
+      "category": "Hardcoded UI",
+      "metadata": {
+        "group": "Hardcoded UI:CampaignSelectionGUI",
+        "speaker": "",
+        "resource": "Managed/Assembly-CSharp.dll:0x06000FDB",
+        "scene": "Hardcoded UI",
+        "text_type": "Hardcoded UI",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "UI"
+      },
+      "source": "Colombo Easy",
+      "risk": []
+    },
+    {
+      "ordinal": 14683,
+      "category": "Hardcoded UI",
+      "metadata": {
+        "group": "Hardcoded UI:HostGUI",
+        "speaker": "",
+        "resource": "Managed/Assembly-CSharp.dll:0x0600122E",
+        "scene": "Hardcoded UI",
+        "text_type": "Hardcoded UI",
+        "note": "内部变量不可译；专名按语境统一；此条源位置独立保留。",
+        "source_field": "UI"
+      },
+      "source": "Spanish Only",
+      "risk": [
+        "conditions"
+      ]
+    }
+  ]
+}

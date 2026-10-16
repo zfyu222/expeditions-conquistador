@@ -1,0 +1,1689 @@
+{
+  "status": "passed",
+  "new_records": 48,
+  "source_hash": "8f423070516d2885b773270e8d0f0d533d35d3457f1263cb4c5cc76c097c06eb",
+  "output_hash": "91ee2379b1ab126c49dc5e30bc263aef0af9a1e531d6686d4815ba564b27f060",
+  "provenance": [
+    {
+      "id": "T001",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "feac15dad35861f29e2c1f9736a7b1dd19d3803cfbcddb3af26601a41183455a",
+      "source_excerpt": "TheAutoAssignbuttonassigns1meattoeveryfollowerifyouhavemeat",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "自动分配有肉时每人1份肉，耗尽后其余人1份口粮；全部分配选定食物；夜间自动分肉。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "e29a8fffe6508faba401fbfba7e940ab62d97448ca870c16eb5147eb9156718e"
+    },
+    {
+      "id": "T002",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "d519ac64197cda0b72eace5867fb2e013b5ae03fb0cd66f0bf7e3c114b78a961",
+      "source_excerpt": "If you tryto movepast an enemy,",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "经过敌人会触发借机攻击；战术移动避免之但消耗行动。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "b103fc874b7f0d5446fe70e4151d1989f8d24ddfa380517a0b79aed9a912f5dd"
+    },
+    {
+      "id": "T003",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "dbab88a2005d65564bec819c679080f0ab4e64cadb820b35696ee21e885b7a80",
+      "source_excerpt": "Thetreatmentwindowiswhereyoutreatinjuredfollowers",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "治疗界面、受伤队员条件、未治疗夜间恶化均对应原文。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "b3d402c915be4972619768577e330c7adf8952f430a8213239c782185066519b"
+    },
+    {
+      "id": "T004",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "ab4acfa6ce556cc297de83d82114673784c998dd37e9d50bdab35323d7db4996",
+      "source_excerpt": "Making a Ranged attack at Melee range will",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "近战距离远程攻击会触发借机攻击；每单位每回合1次；提示显示是否仍有机会。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "cb78a9f9d34dd53803c351ab9b56d10ba4b00e4c22135da0bb3c1bcf637959c3"
+    },
+    {
+      "id": "T005",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "28955ffd653cbe61b3e474d86237dedff283f0c352b405fa21c1e9aa54aca826",
+      "source_excerpt": "You have triggered a battle",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "己方蓝色、敌方红色高亮，并点击己方士兵或头像。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "2380e8dc89b20b85c36b7b79211a880814430b053c935b4d84e7357ea549347d"
+    },
+    {
+      "id": "T006",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "8723b59fd559bad9141dde00736ff08639cc112592059e4bf4a394513db86e8a",
+      "source_excerpt": "TotreatafolloweryouneedtoassignaDoctortohimorher,",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "指派医生并备足药品；队长也计作医生。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "b3cf9f58a631146beeb66ebbd096d7f0f99072b9d50a401e6e61a0e2283bcd2e"
+    },
+    {
+      "id": "T007",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "2c734f933007582c8ba9071edb07f828cdcc1b0de8b9385758d729d2faefa533",
+      "source_excerpt": "One ofyour charactershavebecome incapacitated",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "失能角色；高等级医生可救活队员；伤势可能延续至世界地图并损失装备。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "5b4404b20f2d23e34f1106372daf4719e987d13101874ecc2ee21b91b9dedad5"
+    },
+    {
+      "id": "T008",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "6b4dbdb3181cd20bf780df57a1247e68b39f13cafffaaa35d7ad46ef1fc7bb95",
+      "source_excerpt": "WelcometoHispaniola!You'rereadingatutorialscreen",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "欢迎来到伊斯帕尼奥拉岛；继续/箭头前进；禁用教程后关闭。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "6e1f771b5bbba2bae4ee4b4fd4fc6fce17a2653364e28649e934d10a1ffc3aa9"
+    },
+    {
+      "id": "T009",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "d93cdcc1b3436482bd560f17bf7ed8d8b1440ce5a5cf7115dc3271a4e382985a",
+      "source_excerpt": "When you think you're finished,",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "沙漏结束回合；白旗用于撤退。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "60a57b129c5d12d3ae8d6de13af5bd87ca3f2d382fec59f1d6d14e350662dcda"
+    },
+    {
+      "id": "T010",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "0552b0cb15546c027400318bdb58898fd7590594204d1cf5d5850423bd99219a",
+      "source_excerpt": "Moving outofMeleerangeofanenemy also",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "离开敌人近战范围触发借机攻击；可用此机制困住敌方远程单位。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "e0aa17572ad689e8ba4dd3c34e6667d39873c70422663195f48c8947dedba647"
+    },
+    {
+      "id": "T011",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "d7531e81929ec83a0d458979ecf29d06725c5d5b536501ea03e06f175423ca8e",
+      "source_excerpt": "Interactiveobjectsintheworld arehighlightedwhenyouhoveroverthem",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "悬停可互动对象高亮；按住默认Alt的高亮键识别对象；点击前方士兵。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "8253da7abbacabe3c081b9ae0d03f452351830496a6f8e91904bed72ebbf161f"
+    },
+    {
+      "id": "T012",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "66242fd9a981975f2e500d1f9cb6a37e7f8b6a4933911a2cf8e024be00a6215c",
+      "source_excerpt": "The6stagesofaninjuryare:Harmless,Moderate,Severe,Critical,Fatal,andDead",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "伤势6阶段及两例恶化/治疗后的阶段变化均完整，数字保留阿拉伯数字。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "0104a3d471567b2b2d4a154fbb27a443a20957a7a77cbc6318cb2a696742415c"
+    },
+    {
+      "id": "T013",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "2bdcc3f6390363e6f26225fd389795c74b24d7c97d379799c8fa17d724a1d6b4",
+      "source_excerpt": "Thisbattleallows you to prepare before thefight",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "战前准备；查看并选择起始点移动；选择单位再点击另一名可换出2名队员；放置范围依起始点。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "8e4779f9217dfcd52128a323d8030f3c017eacbc6a7df7be589fd7ac1fff9746"
+    },
+    {
+      "id": "T014",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "4211a1c8dd3a4dee3014ec3f34893c76c240453b4d4aae7d186fb4596cc7bdb8",
+      "source_excerpt": "This is the camping system.Before you camp for the night you should assign",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "夜间露营前分配任务、口粮并治疗远征队伤员。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "0cd0ffb9951a56086e9d7890633b0125d42219362d713154a0275af3a0c74993"
+    },
+    {
+      "id": "T015",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "7dda8e460372f82b18f239301d2e98ba2393d5542e233df60e02647d2917ed2e",
+      "source_excerpt": "Each of your characters has a set of abilities",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "能力3类：攻击行动替代攻击、整回合行动耗尽回合、免费行动可免费使用。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "9438c7c63b26c6b93e5cd33d5749f3b3e67f279dd4af323712a9889617b97d47"
+    },
+    {
+      "id": "T016",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "ef9e3f7ba717533d30ca9d03b8c2236506a397aab60b42c688924edc7a4f0e4c",
+      "source_excerpt": "AfollowerneedsatleastonepointinTinkeringtobeabletoresearch newinventions",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "巧手至少1点研究新发明；技能高可研究更先进发明。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "d44ed3d43688dd88d08c2f39968e80d33567fd0048c7372e680ee7a0b0b6c29c"
+    },
+    {
+      "id": "T017",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "2df29736822500f691833eb8ef41f8539f27e56e4c247ed4f30a89cf967333db",
+      "source_excerpt": "APromotionimprovesthefollowerinseveralways:",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "晋升提升战斗能力、获1主动职业能力、获1自选被动能力及3点露营技能点。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "a8d260755e53c33118e003bb9bb5300ec52069748875a7049dad88b2bb1a95e9"
+    },
+    {
+      "id": "T018",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "1fb4b3e5c639d453b13cc374c46dffa837a0d195a65867325e839afc35f76851",
+      "source_excerpt": "FollowerManagementgivesyouanoverviewofthestatusofyourexpedition,",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "队员管理概览远征队状态，并支持晋升和装备队员。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "e350db6f0d30eb28a9e7b0fb93ad765be221cce31fc9255aebb324aa90007d24"
+    },
+    {
+      "id": "T019",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "cbd8ff86d01c7e6d77bdba7d07cbfd2787d93443fd2b618dbb13526d51de2d2d",
+      "source_excerpt": "Some objectsprovidefull cover,",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "完全掩护会阻止攻击其后的目标。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "ceeb9ade6d2bd2cfccf09154d0908706853cd85ae0d728e14c57d8d4bbb63758"
+    },
+    {
+      "id": "T020",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "465abeb714e9c389acc8fe69385db63e804cb66a29d40f71cf4c1e7ace257ed5",
+      "source_excerpt": "Oneof yourfollowers arewounded!Woundedfollowers are notabletohelpduring camping,",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "伤员露营期间无法帮忙；不治疗夜间可能恶化；从露营菜单选队员并进入治疗标签。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "981fb3e602e9aa8e943501a65c82246173825f17dcd60368ad2972301835fceb"
+    },
+    {
+      "id": "T021",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "3147870e022ba8eb522b989dc7ed1c1c4f5e58b8c32dc37104718f9539308df9",
+      "source_excerpt": "Thisis the trading screen",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "交易以物易物；结合左右栏语义，左侧为可从商人购买的资源，右侧为己方可交易资源。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "df37838e32d2b93be5422adf2bb6eba4fe093dee9de13ab44f63fdff41a9d4a4"
+    },
+    {
+      "id": "T022",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "f64849f1799b5b611ec05fb57a437e100b16fb6e41102e2583979ce3b3fb15b7",
+      "source_excerpt": "Tinkering is divided into Construction and Invention",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "巧手含建造和发明；分别指派队员造陷阱/装备、研究改良远征队装备。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "c36166280261b46902a1caa01c841d387fede27f7c513ffe3859fc580e57338e"
+    },
+    {
+      "id": "T023",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "66df335814d5ad9e732bc95d663647349d88e19d85fe064a71eaebbe0b460698",
+      "source_excerpt": "If you place two units on directly opposite sides of an enemy,",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "敌人正对两侧的2个单位都可侧翼攻击，伤害显著高于普通攻击。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "90123edf79df50ed3aa9eba0f12854ee22b9d8675ae8b4af7b4537a27538f842"
+    },
+    {
+      "id": "T024",
+      "author": "/root/tutorial_caption_translate_01",
+      "reviewer": "/root/tutorial_caption_review_01",
+      "review_hash": "a5e5373b3f031685a905cb4eb3d125cbc0efb14fa04f8541fa0bc147c2b273d4",
+      "source_excerpt": "You can place your barricades before the battle starts",
+      "reason": "原译准确自然；按教程语义及图中提示核对通过，无需改动。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "战前放置路障；点击路障物品图标再选位置；仅限绿色区域。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "原文各项说明及条件/结果均已覆盖。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "教程界面与战斗术语使用一致；适用术语按任务术语表。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达清晰简洁，符合游戏教程说明语气。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "条件与后果、操作顺序及左右栏关系连贯；未发现逻辑倒置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "未含需保留的格式占位符；阿拉伯数字及快捷键 Alt 均予保留。"
+        }
+      },
+      "translation_sha256": "a7d8e18f9ce0c03b923987f23808d1fe358fa80eb5906985d6d3b845639d8a94"
+    },
+    {
+      "id": "T025",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "d52926bd2d932de2397b066e0b9ced29790465292c0efe4c333c85f3980a3188",
+      "source_excerpt": "Forexample:to craft aTorch,you need 2unitsofWood and1unitof Oil",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：构造物品需要材料；火把配方数量为2木材、1油料；配方教授新制作方式。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：构造物品需要材料；火把配方数量为2木材、1油料；配方教授新制作方式。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：构造物品需要材料；火把配方数量为2木材、1油料；配方教授新制作方式。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：构造物品需要材料；火把配方数量为2木材、1油料；配方教授新制作方式。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "bc388f56bd10718c0201036421d574b16f87f2c782cb2f26ba878fcdbce857e9"
+    },
+    {
+      "id": "T026",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "a395958c68b63b71af97353c5bcaf94a769d56c2e841bc0b316196ee785a426c",
+      "source_excerpt": "Stay inside the light green area if",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：浅绿区域保留行动用于攻击；深绿区域用于将行动转为移动；黄色为移动指示，橙色为行动指示。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：浅绿区域保留行动用于攻击；深绿区域用于将行动转为移动；黄色为移动指示，橙色为行动指示。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：浅绿区域保留行动用于攻击；深绿区域用于将行动转为移动；黄色为移动指示，橙色为行动指示。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：浅绿区域保留行动用于攻击；深绿区域用于将行动转为移动；黄色为移动指示，橙色为行动指示。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "a3402996507496fff9e283ddc668c2844c83dc4191c4fefb8d2781eb09596a2a"
+    },
+    {
+      "id": "T027",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "c2d38ee90a30bc77ed2b38dd5a3b135258fb3bcd4144c245f60d73e92d998467",
+      "source_excerpt": "Eachtimeyoucampyoucan",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：每次扎营可分配队员任务；选队员并点右侧任务；队员右侧显示已分配任务图标。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：每次扎营可分配队员任务；选队员并点右侧任务；队员右侧显示已分配任务图标。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：每次扎营可分配队员任务；选队员并点右侧任务；队员右侧显示已分配任务图标。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：每次扎营可分配队员任务；选队员并点右侧任务；队员右侧显示已分配任务图标。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "7bbd11c0c9b07189d89e7bdcb8fdfeeec125da54340763475ce843a233d08ab1"
+    },
+    {
+      "id": "T028",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "ac53a795c9345ccf23a38d30cc1a45ff9569b72135758bc3270229f720f14dda",
+      "source_excerpt": "Alltraders areresetevery7days",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：低库存资源商人估价较高，高库存资源估价较低；建议买高库存、卖低库存；库存每7天重置。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：低库存资源商人估价较高，高库存资源估价较低；建议买高库存、卖低库存；库存每7天重置。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：低库存资源商人估价较高，高库存资源估价较低；建议买高库存、卖低库存；库存每7天重置。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：低库存资源商人估价较高，高库存资源估价较低；建议买高库存、卖低库存；库存每7天重置。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "8c281489ccd546dbd6700d9b7b6c69a983fb870ee13f333a539730d60e1635c4"
+    },
+    {
+      "id": "T029",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "664bd3aeff4ad21a87ea33aec67fecff406f1970d2dcdc0efaea64ef71406ff9",
+      "source_excerpt": "Thenselecttheinjuredperson torestoresome endurance",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：受伤队员可由医生使用恢复技能恢复一些耐力。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：受伤队员可由医生使用恢复技能恢复一些耐力。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：受伤队员可由医生使用恢复技能恢复一些耐力。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：受伤队员可由医生使用恢复技能恢复一些耐力。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "32d8a8340b141c5faf3cc8f886ce7838dc7e1ced0202c07f3eff5276389f0ed9"
+    },
+    {
+      "id": "T030",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "3ebac923743f19b75bad6cb536adde07191148df0f6805274b73f290582ecdc1",
+      "source_excerpt": "Thefartheryou arefromyourtarget,",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：远程攻击取决于视线和距离；距离越远命中概率越低。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：远程攻击取决于视线和距离；距离越远命中概率越低。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：远程攻击取决于视线和距离；距离越远命中概率越低。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：远程攻击取决于视线和距离；距离越远命中概率越低。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "557ca30bd7578cedd2af0d78ae8058d6befcaed5360d0fb8039cbf1bdb39be97"
+    },
+    {
+      "id": "T031",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "b852008c82d19a32e22b7bf6cba549923fb849b780b6210c37e9cba080ccdaad",
+      "source_excerpt": "thereis a risk he orshehasrecieved an injury,",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：胜利界面显示战后队员状态；曾失去行动能力者有受伤风险；需熟练医生治疗；也可能损失1点装备。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：胜利界面显示战后队员状态；曾失去行动能力者有受伤风险；需熟练医生治疗；也可能损失1点装备。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：胜利界面显示战后队员状态；曾失去行动能力者有受伤风险；需熟练医生治疗；也可能损失1点装备。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：胜利界面显示战后队员状态；曾失去行动能力者有受伤风险；需熟练医生治疗；也可能损失1点装备。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "b7f59b0c8323282d99f6b29514b439fb5fa0c656001b56e74b9acd257b0efb87"
+    },
+    {
+      "id": "T032",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "6c60bcba55b315f36bb4b4e12462f956eb02e21c6f3e13a95c9616be2d1c58a2",
+      "source_excerpt": "Youcannotaccessthismenuyet,asyoucan'tcampinsideacity",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：左上菜单含主菜单、队员管理、目标、物品栏；右上指南针打开地图；城市内不能扎营。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：左上菜单含主菜单、队员管理、目标、物品栏；右上指南针打开地图；城市内不能扎营。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：左上菜单含主菜单、队员管理、目标、物品栏；右上指南针打开地图；城市内不能扎营。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：左上菜单含主菜单、队员管理、目标、物品栏；右上指南针打开地图；城市内不能扎营。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "a3be59d8d4581e8271e6b02a2c9958b01599f9bb476582c1a28f1e2cf4992c20"
+    },
+    {
+      "id": "T033",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "3d36bbbb0548941ff9b292abfad2c0ebcd06bb652a0f9007911aa18b41a6f6ed",
+      "source_excerpt": "Click the BEGIN BATTLE button",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：准备就绪后点击“开始战斗”继续战斗回合；配图显示Preparation Phase。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：准备就绪后点击“开始战斗”继续战斗回合；配图显示Preparation Phase。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：准备就绪后点击“开始战斗”继续战斗回合；配图显示Preparation Phase。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：准备就绪后点击“开始战斗”继续战斗回合；配图显示Preparation Phase。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "b1b8b03ce9adfcd51212aa6ebf3b441b0ad8ddd279dd91c9cb7a2e73c87fd547"
+    },
+    {
+      "id": "T034",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "ef2db9f278da2067e3eaff01bc7358deda835cef90e44666a74783587d0486ea",
+      "source_excerpt": "reducing the chance to hit your target",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：部分掩体会降低命中目标的几率。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：部分掩体会降低命中目标的几率。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：部分掩体会降低命中目标的几率。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：部分掩体会降低命中目标的几率。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "f3ee2a6afa029b743339ee671bf26c40ddbb79c439b803000f55cabf3f59defc"
+    },
+    {
+      "id": "T035",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "817c290250e6839c861cb781e2bd9d443fb882d56a43932fcea82c8db28d97df",
+      "source_excerpt": "The red ring indicates that",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：蓝环表示可移动、红环表示可行动、灰环表示本回合已耗尽行动。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：蓝环表示可移动、红环表示可行动、灰环表示本回合已耗尽行动。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：蓝环表示可移动、红环表示可行动、灰环表示本回合已耗尽行动。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：蓝环表示可移动、红环表示可行动、灰环表示本回合已耗尽行动。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "916af0f759155dd8f5296faeffd5405cf4726564e10e57fb32642b02358486b3"
+    },
+    {
+      "id": "T036",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "633bfbc5655eca59067f290d2705c7727e83e161d23fc44d316ac99f26ddc1e6",
+      "source_excerpt": "presstheMake Campiconinthelowerrightsideof the screen",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：当天移动次数耗尽后需扎营过夜；右下角扎营图标打开营地管理菜单。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：当天移动次数耗尽后需扎营过夜；右下角扎营图标打开营地管理菜单。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：当天移动次数耗尽后需扎营过夜；右下角扎营图标打开营地管理菜单。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：当天移动次数耗尽后需扎营过夜；右下角扎营图标打开营地管理菜单。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "4ef5ade0207fa4c29acc1cb2a4e66a46f1bef88d96023c2609f1f777ac29028c"
+    },
+    {
+      "id": "T037",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "820356818335e75b79c81dd9de107dbd3283650897845794923868d9bdefae65",
+      "source_excerpt": "somind thedifficultyof the terrainbefore makingcamp.",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：不同区域扎营难度不同；扎营前注意地形；情境事件派人参加可能有益。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：不同区域扎营难度不同；扎营前注意地形；情境事件派人参加可能有益。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：不同区域扎营难度不同；扎营前注意地形；情境事件派人参加可能有益。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：不同区域扎营难度不同；扎营前注意地形；情境事件派人参加可能有益。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "bca7ee2920a11a6fb564db9f73509ef94b5af03ba494ad0a6c06a7921138923e"
+    },
+    {
+      "id": "T038",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "3ce3dab5ec2d57dfb83752a546f80691fc295ab94aec29c5a2851310232f48f4",
+      "source_excerpt": "Eachskillcorrespondstoataskwhenyoumakecamp",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：晋升后升级营地技能；技能对应扎营任务；成功率由分配队员技能总值决定。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：晋升后升级营地技能；技能对应扎营任务；成功率由分配队员技能总值决定。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：晋升后升级营地技能；技能对应扎营任务；成功率由分配队员技能总值决定。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：晋升后升级营地技能；技能对应扎营任务；成功率由分配队员技能总值决定。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "de0f79fc14dfde94b8285098d079f76fa33dcd5493e79f42870e71589274d3ad"
+    },
+    {
+      "id": "T039",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "eb76e1a4bc772496448eb432e11cc9d37cac25058b4cb41c461323d8c0be28f9",
+      "source_excerpt": "IfAutoCampischecked,youwillautomatically",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：自动分配按擅长度安排任务；下次扎营沿用，除非下新命令；移动耗尽时自动扎营。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：自动分配按擅长度安排任务；下次扎营沿用，除非下新命令；移动耗尽时自动扎营。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：自动分配按擅长度安排任务；下次扎营沿用，除非下新命令；移动耗尽时自动扎营。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：自动分配按擅长度安排任务；下次扎营沿用，除非下新命令；移动耗尽时自动扎营。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "c8098c85a19deb8a3b48bf96e943d85ab67cd6dedf5d7033bae14f75dc9611fc"
+    },
+    {
+      "id": "T040",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "e39d93c2ff4d5f8439b906630a3bfd4e50b17e0425f8fb194a82bdd174bee317",
+      "source_excerpt": "Simply clickonanempty slottofill the follower's equipment up to that slot",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：装备可提升武器护甲品质；晋升可装备更好装备；空栏点击后填充至该栏；箭头切换武器熟练项。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：装备可提升武器护甲品质；晋升可装备更好装备；空栏点击后填充至该栏；箭头切换武器熟练项。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：装备可提升武器护甲品质；晋升可装备更好装备；空栏点击后填充至该栏；箭头切换武器熟练项。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：装备可提升武器护甲品质；晋升可装备更好装备；空栏点击后填充至该栏；箭头切换武器熟练项。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "37d829ffc2cd4e6f92097dbc1c87b5a044b2012b2c87daeb82db0989a44b4eca"
+    },
+    {
+      "id": "T041",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "12a483bc942fd4ece54668f5381a1ba46c42094cd0754137fc1aeb663e4521bd",
+      "source_excerpt": "Thiscursorindicatesanaccessiblelocation",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：光标指示可达、不可达及当前所选地点；再次点击前往选中地点。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：光标指示可达、不可达及当前所选地点；再次点击前往选中地点。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：光标指示可达、不可达及当前所选地点；再次点击前往选中地点。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：光标指示可达、不可达及当前所选地点；再次点击前往选中地点。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "4ff54249cdf651e9fe0ea03edb3884b2ccc68a0b6192766bd937e8727b321881"
+    },
+    {
+      "id": "T042",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "5f601b054e9e485253e5d8e58f2e7e9355016e9214edca366e1d72bdc5bbcb77",
+      "source_excerpt": "Youcanonlyhave2Sergeantsand1Lieutenantatthesametime",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：经验足够时可在技能界面晋升；列出的军阶及名额限制正确。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：经验足够时可在技能界面晋升；列出的军阶及名额限制正确。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：经验足够时可在技能界面晋升；列出的军阶及名额限制正确。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：经验足够时可在技能界面晋升；列出的军阶及名额限制正确。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "4961c15c468cd7d3527e9410a818f95b8df3bf29b112a20e1a00572375d57b50"
+    },
+    {
+      "id": "T043",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "5cd66dd831f744aa4d9c6a2275a5803e14fa22e6968e066c1bbbb9beac4a4448",
+      "source_excerpt": "oruse the hotkey(Cbydefault)",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：离开圣多明各自由移动区后每天移动次数有限；耗尽需扎营；按钮或默认快捷键C。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：离开圣多明各自由移动区后每天移动次数有限；耗尽需扎营；按钮或默认快捷键C。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：离开圣多明各自由移动区后每天移动次数有限；耗尽需扎营；按钮或默认快捷键C。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：离开圣多明各自由移动区后每天移动次数有限；耗尽需扎营；按钮或默认快捷键C。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "94907a1b1ff206c2a56d5db8f8ec0eb072657d14ba06a1b6f4717a1dee579a06"
+    },
+    {
+      "id": "T044",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "c41f903ae8312e8592580ded7decc76d5b17ec9727dbbc2e532a08747a014d69",
+      "source_excerpt": "Thefollowerissettohuntformeattofeedtheexpedition",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：守卫防范夜间入侵；巡逻寻找兴趣点；狩猎供肉；左下显示各活动成功率。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：守卫防范夜间入侵；巡逻寻找兴趣点；狩猎供肉；左下显示各活动成功率。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：守卫防范夜间入侵；巡逻寻找兴趣点；狩猎供肉；左下显示各活动成功率。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：守卫防范夜间入侵；巡逻寻找兴趣点；狩猎供肉；左下显示各活动成功率。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "b939ff510cd358b7d0fd588e258044f608cd59d6cb88a99d4917c0dd2a0e6fe8"
+    },
+    {
+      "id": "T045",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "bf52879591591d171d633e79b724161f8b9863eca9730e8cee05549229d42e2b",
+      "source_excerpt": "Unpreservedmeatwillspoil during thenightifyoudonotpreserveitoreatit",
+      "reason": "“未处理”含义过宽，无法准确表达 unpreserved；改为“未腌制”以明确肉类的状态。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：草药经处理可制药；未腌制的肉若不腌制或立即食用会在夜间变质；左下显示今晚处理数量。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：草药经处理可制药；未腌制的肉若不腌制或立即食用会在夜间变质；左下显示今晚处理数量。"
+        },
+        "terminology": {
+          "status": "corrected",
+          "evidence": "将“未处理的肉”改为“未腌制的肉”，准确对应 unpreserved meat；其余术语沿用任务给定译法。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：草药经处理可制药；未腌制的肉若不腌制或立即食用会在夜间变质；左下显示今晚处理数量。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "b4e4c64829f949b4358cd3f5362fd38052533131cbc61880243a1859ac72f23e"
+    },
+    {
+      "id": "T046",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "e6a640df858298fc949d28eb963b02dd5e50d056414319fa4d5ca41098684817",
+      "source_excerpt": "Givingfollowersmore thanoneunitof",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：口粮页给队员分配食物；可按人设口粮种类和数量；超过1单位有几率提升士气。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：口粮页给队员分配食物；可按人设口粮种类和数量；超过1单位有几率提升士气。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：口粮页给队员分配食物；可按人设口粮种类和数量；超过1单位有几率提升士气。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：口粮页给队员分配食物；可按人设口粮种类和数量；超过1单位有几率提升士气。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "ace92d0256d2f76585c54edf75daa5a615f3bbaac00e31badc79464bdd5fc924"
+    },
+    {
+      "id": "T047",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "7412f3a9f679339f6b4d8b82d82cc4a14dbf9eeb2d6c8b4608d75b422c835646",
+      "source_excerpt": "Scouts can't shoot",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：单位可切换近战/远程；士兵擅长近战、斥候不能射击、猎人擅长远程。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：单位可切换近战/远程；士兵擅长近战、斥候不能射击、猎人擅长远程。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：单位可切换近战/远程；士兵擅长近战、斥候不能射击、猎人擅长远程。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：单位可切换近战/远程；士兵擅长近战、斥候不能射击、猎人擅长远程。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "c9a375980824ffca82023b51ab49f95d09e67fb07d0dfbba7517e23d9bef1427"
+    },
+    {
+      "id": "T048",
+      "author": "/root/tutorial_caption_translate_02",
+      "reviewer": "/root/tutorial_caption_review_02",
+      "review_hash": "1eab49c6e2b3c8d4405e6445924a1ae3a1729f1c50b61d327aad232b832bc89d",
+      "source_excerpt": "Tutorials",
+      "reason": "对照粘连原文及配图核对后，译文准确、完整且自然，无需修改。",
+      "checks": {
+        "accuracy": {
+          "status": "pass",
+          "evidence": "对照原文核实核心事实与因果关系；依据：标题仅为Tutorials，译为“教程”，未增加内容。"
+        },
+        "completeness": {
+          "status": "pass",
+          "evidence": "涵盖原文的条件、对象和结果；核对点：标题仅为Tutorials，译为“教程”，未增加内容。"
+        },
+        "terminology": {
+          "status": "pass",
+          "evidence": "关键术语符合任务内给定用语；核对点：标题仅为Tutorials，译为“教程”，未增加内容。"
+        },
+        "tone": {
+          "status": "pass",
+          "evidence": "表达简洁清楚，符合游戏教程说明文体。"
+        },
+        "logic": {
+          "status": "pass",
+          "evidence": "原文条件、操作及结果关系一致；核对点：标题仅为Tutorials，译为“教程”，未增加内容。"
+        },
+        "placeholders": {
+          "status": "pass",
+          "evidence": "无变量占位符需保留；阿拉伯数字及快捷键按原样保留。"
+        }
+      },
+      "translation_sha256": "8828e0fec4b05a409107d038f5872c85f59ab0d82bcfa01499e90e1cbd647c8e"
+    }
+  ],
+  "scope": "New tutorial captions only; original approved pilot and all 14691 translations preserved."
+}

@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "translation_sha256": "eaad404d187d8ff9ce67ec722bd4d9ead82f81c679f4998d1482bbabd5ca4b48",
+  "records": 14691,
+  "semantic_review": "full",
+  "polish": false,
+  "revision": 13,
+  "glossary": {
+    "hash": "0b9e22152b88ca7cf2d4dc242e15c63bc5931dfcb6665c4e0ccf177f051ab649",
+    "path": "glossary\\revision_10_fd73d738\\built\\glossary_reviewed.json",
+    "revision": 10
+  },
+  "ainiee": {
+    "actual_commit": "c50570c1dee7df7bd51316a253f0b42d10a8ca4c",
+    "expected_commit": "c50570c1dee7df7bd51316a253f0b42d10a8ca4c",
+    "license": "AGPL-3.0; Tools/AINiee/LICENSE",
+    "modules": {
+      "Domain/PromptBuilder/GlossaryHelper.py": "6b3072989b77c84787774439c79aaea7d4727fcda104667d8833b53bb490446f",
+      "Domain/TextProcessor/TextProcessor.py": "805f49f68302fab2c5832aad8c7597fb4c3382cea131618765248f30a5963eed",
+      "Infrastructure/LLMRequester/LLMClientFactory.py": "70d43af749640604813887241604edf0472a75afbbf106fb5e69cfd3753a1a4b",
+      "Infrastructure/LLMRequester/OpenaiRequester.py": "b2b1f5e6fd3a31727b2e1d2597e1bcca3e5e4db2cfec550ff6cfcd6a6cff3f79"
+    }
+  },
+  "path": "D:\\StaticHanHua\\Projects\\expeditions-conquistador\\expeditions-conquistador_text_translated.csv",
+  "quality_review": {
+    "report_hash": "4ab829a90ae0694f5f723122eb088a7650701f65045100a69481532f547e7b0e",
+    "reviewer": "sol"
+  },
+  "in_game_check": "pending_repack"
+}

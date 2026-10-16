@@ -1,0 +1,405 @@
+{
+  "reason": "冻结表的每条译名保持权威，禁止AINiee自动词族合并覆盖；只刷新未领取任务包",
+  "revision": 13,
+  "changed_tasks": [
+    {
+      "task_id": "translate-r13-00039-214032a9",
+      "attempts_preserved": 1,
+      "old_input_hash": "f46bac062fbbb45dc2f7bd129af23e3eb0cbb0caf120f94169ad8aaa9384cc46",
+      "new_input_hash": "5d804c71cbcfb844ddaa2f03d87a6d1d72c9d7a17ebb31225cdb267d3aef0d11"
+    },
+    {
+      "task_id": "translate-r13-00041-02b01186",
+      "attempts_preserved": 0,
+      "old_input_hash": "789a5df7c5c96b8145cd8c64d10a35de1da0cefeb87cfa470f01f5325c0c2e9a",
+      "new_input_hash": "2231585f245a2e2d8b759f2cb0bf87d4c7fedca9fbd93c62b998ea5268c41794"
+    },
+    {
+      "task_id": "translate-r13-00047-a22100b8",
+      "attempts_preserved": 0,
+      "old_input_hash": "8e75aaa987d31c07a5207c2382d38fb0f2a2c038ded35c8939a3b18e4ee4b651",
+      "new_input_hash": "4650377379c5d5838fb5322f58cbdb2010f834948316269ffaeb3175a4ffea37"
+    },
+    {
+      "task_id": "translate-r13-00048-b7839358",
+      "attempts_preserved": 0,
+      "old_input_hash": "93d46a2306fc1153cf40f2624a85f9081fb3a746a54252288710b2996d09a6f5",
+      "new_input_hash": "992680d10d66c7fa09c7c98723264ae2d40e5114b3bd3842785a10744cbf04e0"
+    },
+    {
+      "task_id": "translate-r13-00049-36dc2c62",
+      "attempts_preserved": 0,
+      "old_input_hash": "9d79ec7e269ba521ad8a7fd5d9a0ce2863b268db7f344332c5f22612d76dd618",
+      "new_input_hash": "a37d8e4f14e1179d65a25ebe8202553fb612ee3f7b6805e8deac5268885db0b1"
+    },
+    {
+      "task_id": "translate-r13-00050-9f1e0bbe",
+      "attempts_preserved": 0,
+      "old_input_hash": "1de5eb32eab7d83fb11804ad96083c07b72ba32b18a8e365a26f3747ed5cb1d7",
+      "new_input_hash": "ab88a38076ca40bd6b4c20bb485bb80d23ec30c83344aa102159b165216c25e7"
+    },
+    {
+      "task_id": "translate-r13-00053-d9a4bc15",
+      "attempts_preserved": 0,
+      "old_input_hash": "62cdb6ef9f19716d2ee13fd3f0dbf66edf0a8e997d109875dfa6149552003033",
+      "new_input_hash": "ba13805538efcfb3480c7319d377fcfb4ea049c10740cc6dd5f460014f70bc39"
+    },
+    {
+      "task_id": "translate-r13-00055-46f26ec5",
+      "attempts_preserved": 0,
+      "old_input_hash": "5d0ee73d0cd89606d717c6b3ecc9141d7355957eff8e6a2d1b29f314f93c4534",
+      "new_input_hash": "f8b99bdc6bce5d0bb7ce99e3e7b225e0dc3f2707067fe754c5def6a2a91b417c"
+    },
+    {
+      "task_id": "translate-r13-00057-73a2b3af",
+      "attempts_preserved": 0,
+      "old_input_hash": "9c598740dd9bfe6a402b614bec8f906b7b1fa114fc51c95b73476e81b34dee63",
+      "new_input_hash": "49b4d35f64115c63bb12f435ad7577a4e6fb215575f3aa6219eb49aca867b271"
+    },
+    {
+      "task_id": "translate-r13-00059-d4ade4da",
+      "attempts_preserved": 0,
+      "old_input_hash": "3ea0d762838d0b57e5d09b5685d8e7d53a02b9707cc1ff0b4b283b7ebeeff472",
+      "new_input_hash": "b4fd0f936881226b49e7811af43b41447156e3bc42380df9efa6ffe6d91ff818"
+    },
+    {
+      "task_id": "translate-r13-00060-6bd77dff",
+      "attempts_preserved": 0,
+      "old_input_hash": "2b8ee193c5e765a74c60d8d7d09b735ede55370e9c7a1180353644cd36bfa3aa",
+      "new_input_hash": "07cf2c738c8eb2976b9e6efa6547c5c3a68cd23628a9884bff857d8868b73b37"
+    },
+    {
+      "task_id": "translate-r13-00062-3ca39ad0",
+      "attempts_preserved": 0,
+      "old_input_hash": "d0a962159e01b17611ea466d1d8126421806ffe1cc52e9b6edba75cfaf7fd036",
+      "new_input_hash": "08b6d66207ad10bf9f3828d4e115bffd31c9a62e201e8e65165f8a4007aaf78f"
+    },
+    {
+      "task_id": "translate-r13-00063-aedc1a1c",
+      "attempts_preserved": 0,
+      "old_input_hash": "4954cad0e0a2c7df0ec6fb0702c81cbe0c58f4bd67bd7b5840397544dd23e2ff",
+      "new_input_hash": "501af29163d018735cba01c5600c585447223aedf499f61cca08229e39a6f479"
+    },
+    {
+      "task_id": "translate-r13-00065-51c27907",
+      "attempts_preserved": 0,
+      "old_input_hash": "6459111b7b32f2622f3815f2bb45d97fc6add7d5f7885cde791d478071aee8a5",
+      "new_input_hash": "4be7375fb163bfbcd1705c4685605d56fa0fb780678decc6e930ba12126f1664"
+    },
+    {
+      "task_id": "translate-r13-00066-b3164258",
+      "attempts_preserved": 0,
+      "old_input_hash": "b492ae404c03fd8a7ae837d363f26c7b38ef77d29cdd1ceca140d201e01b7b43",
+      "new_input_hash": "4123bf8bd124c8ba87638d9fa8390b9b81c50af90fb54b99038cf725228079b2"
+    },
+    {
+      "task_id": "translate-r13-00071-3a79f9d8",
+      "attempts_preserved": 0,
+      "old_input_hash": "fe5df2b33cfdf1b53cdf46712ebc7ce7d0e5f91d8eec892b1ced6181fa7151ae",
+      "new_input_hash": "9ed80f2feb26eb289614464d93ce09139c3953877e4356fac7e7d08cc2f5d084"
+    },
+    {
+      "task_id": "translate-r13-00079-2c50002a",
+      "attempts_preserved": 0,
+      "old_input_hash": "31c95ab61e52bf64c8cf2c455bf9c7c5cdc2266c8ba763c815f8f715c0277577",
+      "new_input_hash": "a56140ce4879a6de2a814bb273805c2a20fd6ad0782408c133199b46c04c797e"
+    },
+    {
+      "task_id": "translate-r13-00080-9d29ed8d",
+      "attempts_preserved": 0,
+      "old_input_hash": "e7bc5a95c6c705079e8cb4204dd113908847421b2c09cc83df34c20189f79b10",
+      "new_input_hash": "7d107e5b3b5be331d1843513d033d374d3b8628314fbbcbccc88afc44cc11800"
+    },
+    {
+      "task_id": "translate-r13-00085-d344b68e",
+      "attempts_preserved": 0,
+      "old_input_hash": "ef64b6bfce65fa0c79685903ceec3b2d09c4bcd5fcb54b95de5fdc734c6cb657",
+      "new_input_hash": "be6eefe74c09c61220a13fe096347d0e377c88c1f283a08b720e832937a5ae3f"
+    },
+    {
+      "task_id": "translate-r13-00086-dd5a5ecd",
+      "attempts_preserved": 0,
+      "old_input_hash": "87779473ed5e313981e0d1bebc0c7d905df98f8f0a4a147184f32f99cf79b89f",
+      "new_input_hash": "4d08112dec448abf3f7f6c9c2b212b518f5939deaa85f30c6930b8c824929f52"
+    },
+    {
+      "task_id": "translate-r13-00087-ec3a768a",
+      "attempts_preserved": 0,
+      "old_input_hash": "cebe1343a51f7812cbd0cee1bf622831a8f90ce763835b9cc4aae141599ca10d",
+      "new_input_hash": "61189a015123ae585070890c2d65d9e3fc29b5335dcf6e0867822225c9b879cc"
+    },
+    {
+      "task_id": "translate-r13-00088-9bb9f872",
+      "attempts_preserved": 0,
+      "old_input_hash": "8ccb9c3f4ab2ba3fcba961c53a7b7690ce796efe54d1cadb920ca4641283c3ab",
+      "new_input_hash": "236878adf5299a805bfb0e6818941701a77d502f3f3eab6e529c15339fdbfe14"
+    },
+    {
+      "task_id": "translate-r13-00090-65583de2",
+      "attempts_preserved": 0,
+      "old_input_hash": "e14e35ef711a56d1535369754ab0077bf3a9ff522569f5a203afc4684ad7cdbc",
+      "new_input_hash": "2269f02b5d6edfe09a04cd83f6f512c550ad795aba85f6d4f1df5a6713ddee36"
+    },
+    {
+      "task_id": "translate-r13-00091-44a3b6c8",
+      "attempts_preserved": 0,
+      "old_input_hash": "1d8578a848eadf44175147d22027891d0e9d45dcf763aaaaff656594a62790b1",
+      "new_input_hash": "9061ae5576c6b722742448ee874b525bf637c895bdcc24ab430ca6bcff1fb265"
+    },
+    {
+      "task_id": "translate-r13-00092-a35565c6",
+      "attempts_preserved": 0,
+      "old_input_hash": "84fea98d7232e7fd0ab4c86ca53a190286855aca4d5e74002ed53a5f1c4051af",
+      "new_input_hash": "27f430f3a88bfba041c2d1a260f7fdbbfca8c42f874f37b6b967ec143496eed3"
+    },
+    {
+      "task_id": "translate-r13-00096-d04df0e4",
+      "attempts_preserved": 0,
+      "old_input_hash": "668b1a547647d6e1e6f4ca95afa1ed1bece8648f6e82f1f7b48aace36e8a6de5",
+      "new_input_hash": "6b708f26766325f60e3428e45cc53dabe1ef500d3e4f55bb0952c901d0503770"
+    },
+    {
+      "task_id": "translate-r13-00103-bee7d422",
+      "attempts_preserved": 0,
+      "old_input_hash": "4663cfa10de8b3845af872cb8f0c9b8691ee6b0513dab0ec5209408fb65d56d3",
+      "new_input_hash": "be6e461667cee3db6ddee52069e13ce9b68c4d2c34504c1284a27d29fd9b78ff"
+    },
+    {
+      "task_id": "translate-r13-00104-7ce8ede3",
+      "attempts_preserved": 0,
+      "old_input_hash": "03217b37f6e219580d230598b24be37adb1ccc30d2bf3eb48b73c6dce329cf2f",
+      "new_input_hash": "899dfc7c3171f84c4661c20dc28d9f63f87c6aaa5c5476cce5301d7e2468f0ab"
+    },
+    {
+      "task_id": "translate-r13-00108-0b2cf186",
+      "attempts_preserved": 0,
+      "old_input_hash": "1c5e442cb253a1189ffd08b4f98719330e6b927247305aac663f5c0e7a8f2bd0",
+      "new_input_hash": "50bb3d74b25d1266b27a404ae2d7674540153527e75f5728f8b39c4b47bc74ec"
+    },
+    {
+      "task_id": "translate-r13-00110-cee31511",
+      "attempts_preserved": 0,
+      "old_input_hash": "ee7e79c154d20cd1446c356f185553cc622f9b07bd5d1572a1e87ce71d56a03c",
+      "new_input_hash": "63a363d8ecbb9126ce4ef3068e15271e1fe4986759d42a814172fdd21fe8b2e6"
+    },
+    {
+      "task_id": "translate-r13-00112-f0fda657",
+      "attempts_preserved": 0,
+      "old_input_hash": "c695590ec9b284027916e99126aa76d0dd72c4633a02529ca11a77ef97e9f1a0",
+      "new_input_hash": "516d3519a2951bad8d381c75b2e205168bd5eb97b719409b84b0ce18fe7357cf"
+    },
+    {
+      "task_id": "translate-r13-00113-f83425f6",
+      "attempts_preserved": 0,
+      "old_input_hash": "7f83b3a0e73d400541298a62cd79fcdc6291fd3b92dde27d488bd1fe92104817",
+      "new_input_hash": "819660bb5eb205f27d42a14efa9ad07e6bde2b93f8c05db19e9e6dd54dc70b46"
+    },
+    {
+      "task_id": "translate-r13-00114-03cb1d11",
+      "attempts_preserved": 0,
+      "old_input_hash": "3a8861292f573398ffdbaba449ed83f25b9cbf1421e7f700a1e82eaf3a1e611a",
+      "new_input_hash": "32d777f1568ed5fc9e1502aea31ceeb24afbe633ddf4bc1ad8d21b54706100c3"
+    },
+    {
+      "task_id": "translate-r13-00115-f53e8338",
+      "attempts_preserved": 0,
+      "old_input_hash": "68078cccb2c4319d85aef6f4333dd789eb1ff74eb2811046003ad0fc13b68ac9",
+      "new_input_hash": "dd0b7f55b5ff2d94c4ad3e5b78c072a5ffaddcdf085e1b014c26d9923cb17d17"
+    },
+    {
+      "task_id": "translate-r13-00116-03c09f5b",
+      "attempts_preserved": 0,
+      "old_input_hash": "5546433a84a3ce6bbceacfa63ce16ba32683a4f6541d9d5c8fb4f1b4b54c7f6c",
+      "new_input_hash": "4d1ca8997e7ea235563f24ed9dcced9406cb7786b3246d8cbd749c59d0cbd633"
+    },
+    {
+      "task_id": "translate-r13-00117-608d0a38",
+      "attempts_preserved": 0,
+      "old_input_hash": "138841a75a225230880654fa408dc671588155ef8c7abd49bb85c1d3328e4ad1",
+      "new_input_hash": "f88af8f3169fc0cf2978a56d71c0e4f0b15a2694dc79e0af091754a3370a66c7"
+    },
+    {
+      "task_id": "translate-r13-00119-703fd699",
+      "attempts_preserved": 0,
+      "old_input_hash": "295e17fba8d94ad92e1fd39d0a4202eb79d78e1c493a834bd429ad7b811ac831",
+      "new_input_hash": "ad164981bb772e2b0a0641041d8d8c48bd930e66eb3f3210be7a4a8964c2a201"
+    },
+    {
+      "task_id": "translate-r13-00120-6d366b9d",
+      "attempts_preserved": 0,
+      "old_input_hash": "cc23e1a39479b5375eaff74ac9ab41f4995a96dbf64d9c9c82db3c4a9d917d27",
+      "new_input_hash": "20d56ee55fa63d3c967694bbb04b1e6bc9ee4cb34134cd741a67c03c649ddadf"
+    },
+    {
+      "task_id": "translate-r13-00121-b3b3860c",
+      "attempts_preserved": 0,
+      "old_input_hash": "95fa4ad1182cb10dfe63805fda68c30ace90b37b31ace0657f0ce3cb6fe17835",
+      "new_input_hash": "bcc8907e64865608ff6cb9b8fea73165b26646ad51e9db060af8242763e652d1"
+    },
+    {
+      "task_id": "translate-r13-00122-d498050d",
+      "attempts_preserved": 0,
+      "old_input_hash": "e68a8b6ec0adbec3fd7f3964288503b027ef1e3307fa33dee44b0acb0506acb7",
+      "new_input_hash": "450195a0600807081541c4fa57969cec3c864bf6d82a04847231226871b98f69"
+    },
+    {
+      "task_id": "translate-r13-00123-a00122bc",
+      "attempts_preserved": 0,
+      "old_input_hash": "0063e2ba7de296543fbcd89a860231fb78fe87ef23509b4cadac92266625c7bf",
+      "new_input_hash": "f357e4c1c72337ebf5ea4e24010579c2b2ba1a639ba50d27557330e9573dd34c"
+    },
+    {
+      "task_id": "translate-r13-00125-98279792",
+      "attempts_preserved": 0,
+      "old_input_hash": "79ef1dcbe976664aa80e04b95c4f3b111e4cd476ee17a7d75d04f58f852d8764",
+      "new_input_hash": "fb96eda426d2f3b9eed336461da0940fd6cc18c45a69e78ce9a753f749239567"
+    },
+    {
+      "task_id": "translate-r13-00127-213f2a7f",
+      "attempts_preserved": 0,
+      "old_input_hash": "2de5df1307662bdc29ba379c8a2a57cc3a07aa6960d3a68697fe2cbb4dfa7095",
+      "new_input_hash": "441d5e6f6d6b5d50c5f88c30b5bb316dd56f0b115d23ba519977a429f8db775a"
+    },
+    {
+      "task_id": "translate-r13-00128-edcafad4",
+      "attempts_preserved": 0,
+      "old_input_hash": "fdc0c7144097cf1c0c60d43c3809526baa0b63c6284330da5610157f3d58cb35",
+      "new_input_hash": "be9d7cf681188538591e30f7e25c92e27338d76930d49a46325ea2012f812205"
+    },
+    {
+      "task_id": "translate-r13-00130-3ad1bef7",
+      "attempts_preserved": 0,
+      "old_input_hash": "f016a3fbe5795cdfed0e1f1f9830dd15d83f352c1a26441103bb2c89623b00c0",
+      "new_input_hash": "a71e1b767e8153f2130bdf8805cdd30989a8aecef22803cfff815179d1e0cfa2"
+    },
+    {
+      "task_id": "translate-r13-00132-211f4249",
+      "attempts_preserved": 0,
+      "old_input_hash": "13bbcf1305938026858feb9d3891181369f891e3875adea4215c140b2b7193ef",
+      "new_input_hash": "f7c88cbdbbe7468e60d88042ba4af658b01ffe8bd18add139210fc670ff352e8"
+    },
+    {
+      "task_id": "translate-r13-00137-616d8a53",
+      "attempts_preserved": 0,
+      "old_input_hash": "62e2408ab943f00802ee820d753bd6ad30aaccdd85b4e8b17735f02041bcf5f9",
+      "new_input_hash": "3eda8d7d77412292a690c94a5ad3cc576ce2637b95a4de2a5eb1f00788dfc276"
+    },
+    {
+      "task_id": "translate-r13-00140-ff1170df",
+      "attempts_preserved": 0,
+      "old_input_hash": "7fa59889c81764fc970969390091096fd9c179ce66fa447500b23412e6d1704e",
+      "new_input_hash": "077d1f5b1e0acc1c0d0640e6cfe8ca7412661484129470e42db7e66fe7f74a5e"
+    },
+    {
+      "task_id": "translate-r13-00141-c20a2968",
+      "attempts_preserved": 0,
+      "old_input_hash": "ed7f04aa98a14ec9c907d5a3611bb148274d1e643672f9a7481de0570a2c3206",
+      "new_input_hash": "6f44fd713de196e217920f1d4022c699155f5523da05fd2bddd18f3440a651af"
+    },
+    {
+      "task_id": "translate-r13-00143-5c9663d5",
+      "attempts_preserved": 0,
+      "old_input_hash": "97b4303cd93d2d228d5a6f2548cae266d082750b7e0b36029d3d2130d5dc2721",
+      "new_input_hash": "5c9562d4288bb11ce19fea291ef6ed17e421b1a6f4ab80d825670df892706d38"
+    },
+    {
+      "task_id": "translate-r13-00144-71c619e1",
+      "attempts_preserved": 0,
+      "old_input_hash": "0cf3d49cc7b202c1bd811abd186f6d9facf58d0f3113c710ffcd1e75395e6a69",
+      "new_input_hash": "af8c16d266ff59a36bf22396c4f39e7ed17c138e4f9c67d609963bc6878e80dd"
+    },
+    {
+      "task_id": "translate-r13-00145-bb8e426e",
+      "attempts_preserved": 0,
+      "old_input_hash": "91652985a1e3a3cf6e895d440c28b8650c2b317abc27828c9aa6d78822babaf3",
+      "new_input_hash": "fb1890cd4e402c3d401949e19f8230a4f08cf46d6c3263c7615ba558891e4b25"
+    },
+    {
+      "task_id": "translate-r13-00146-a0c15c1e",
+      "attempts_preserved": 0,
+      "old_input_hash": "0d7728949405f997795a704c7392626ca59b7b0ca3afa9ba49b13155d8951526",
+      "new_input_hash": "494facdf1bb96cdfc0033240fa7c3ab40e6117908492e4f528c53bf9a726a08d"
+    },
+    {
+      "task_id": "translate-r13-00151-0b9a65b3",
+      "attempts_preserved": 0,
+      "old_input_hash": "1e8fe0618ab2c3ddbfa3934f416b0f2c99a19daea44a2201077c4cc47f901723",
+      "new_input_hash": "431a9c34e5feeda686f301661efa06b3803ff0540e2f0c4fb84f3cd1aae4e23e"
+    },
+    {
+      "task_id": "translate-r13-00153-0a939fb3",
+      "attempts_preserved": 0,
+      "old_input_hash": "a2d1f4b9022f2624a94ebc4be40056f97cddc6ae8f69c21ef22cbcd995fa7388",
+      "new_input_hash": "034a11f1aaeba8c113266687f357b8159a8287396f7ab3c7a5f735200da4b31c"
+    },
+    {
+      "task_id": "translate-r13-00154-deceb874",
+      "attempts_preserved": 0,
+      "old_input_hash": "6a4e3852d193b947923c2d8e5cbfa0336cbc6f6ddb213a2b18cf454227dc65e2",
+      "new_input_hash": "bfc26c152149afbe72b1a6ce8c1c3cd486d0a8b8ef6e40cfbd91a310d9d380a1"
+    },
+    {
+      "task_id": "translate-r13-00155-0ce61b65",
+      "attempts_preserved": 0,
+      "old_input_hash": "bd474f1c21abc06dc8dbe151233bb71dc8e75da5e15729d0b118a85d82168548",
+      "new_input_hash": "58136d44fd59a00ecc323823178d7a11cd91952851dd3efafcd307f5285badf9"
+    },
+    {
+      "task_id": "translate-r13-00156-46a37d24",
+      "attempts_preserved": 0,
+      "old_input_hash": "75b0b95ae3cc8d52d178c89ff7fee54805b2a166e64d95cd111dcf165bc1bc0f",
+      "new_input_hash": "096e8c750c435a3c48a33089ab6d9b05db7a7dce764fb3664be23f3bfbd79298"
+    },
+    {
+      "task_id": "translate-r13-00158-578a5094",
+      "attempts_preserved": 0,
+      "old_input_hash": "a541a221e9b15bc55a8182b5ee4a422bf22aa9fe5b86e46fc80487d208e8df0f",
+      "new_input_hash": "3a7c8176dc3a80d9795e8d8b7e1974ebf84e03a965343cbd73cb9c0d35b81489"
+    },
+    {
+      "task_id": "translate-r13-00159-4ec94578",
+      "attempts_preserved": 0,
+      "old_input_hash": "bed3a2dbfed287c8b45a7b6e1d7a6f9f350ed057a75838790f2f4ea708521f66",
+      "new_input_hash": "39e997610cc2509f16204cad95fcb2a3f17f8703e07d74072258a3e96a24aea6"
+    },
+    {
+      "task_id": "translate-r13-00160-6f85f7d3",
+      "attempts_preserved": 0,
+      "old_input_hash": "a5d4f2f1a934dd339c5159d5e8049b899cf065eed7c43b1edcf24f9a9a614f2b",
+      "new_input_hash": "c141feffcd0453db60e1ab97de1914efdc009a32103ca6693430a003f8b3f589"
+    },
+    {
+      "task_id": "translate-r13-00165-f70dc3b2",
+      "attempts_preserved": 0,
+      "old_input_hash": "09d080dc7bfe63509a34812dadaa7d9bad2e1e4b29eb39898ab74527432b3e08",
+      "new_input_hash": "d2f0a893b2f59b8a8e4dadbe9940c23c129eb5ce8e60c55dccfe4adcab0cb01a"
+    },
+    {
+      "task_id": "translate-r13-00167-7ad66e93",
+      "attempts_preserved": 0,
+      "old_input_hash": "09cf76556c66ecae8c69ef6a2c12f95a8f5bc839eb78094fbb43a2b1337c3d44",
+      "new_input_hash": "6494aaac71610dfecc70e8e40ff505e98ff66e0308e90989247b460fab8427eb"
+    },
+    {
+      "task_id": "translate-r13-00171-61015946",
+      "attempts_preserved": 0,
+      "old_input_hash": "be3f874ced2837483a8e2ecb85ca1bdfffb8cbf1ec6d3b77b95f0484b75b469f",
+      "new_input_hash": "39deacfd8e2c2037cb54966e5c4a511ca245d28596239d5123ec5e58b0e01f8b"
+    },
+    {
+      "task_id": "translate-r13-00174-d037ff89",
+      "attempts_preserved": 0,
+      "old_input_hash": "0f8a4f8e1d15d830ffb4da2b79d88b52a7f3b46313721f434cef707777cb0ea6",
+      "new_input_hash": "c4a5f6901b17dc7f3af1130fe9835405bf446f9082eca3dbd39f604fcb429131"
+    }
+  ],
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "glossary": {
+    "hash": "0b9e22152b88ca7cf2d4dc242e15c63bc5931dfcb6665c4e0ccf177f051ab649",
+    "path": "glossary\\revision_10_fd73d738\\built\\glossary_reviewed.json",
+    "revision": 10
+  },
+  "saved_records_unchanged": true,
+  "attempts_not_reset": true,
+  "pilot_not_reopened": true
+}

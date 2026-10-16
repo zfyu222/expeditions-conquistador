@@ -1,0 +1,39 @@
+{
+  "recorded_at": "2026-10-15T18:21:24.795463+08:00",
+  "revision": 13,
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "glossary": {
+    "hash": "0b9e22152b88ca7cf2d4dc242e15c63bc5931dfcb6665c4e0ccf177f051ab649",
+    "path": "glossary\\revision_10_fd73d738\\built\\glossary_reviewed.json",
+    "revision": 10
+  },
+  "quality": {
+    "pilot": {
+      "report_hash": "ce4c4bbec230762af6f16decb9a469bd61453eb72450a9b098bd44a1b7268a6e",
+      "reviewer": "sol"
+    }
+  },
+  "records": {
+    "translate": 14691
+  },
+  "production_tasks": [
+    {
+      "stage": "translate",
+      "status": "done",
+      "n": 185
+    },
+    {
+      "stage": "translate",
+      "status": "pending",
+      "n": 21
+    }
+  ],
+  "attention": [],
+  "note": "translate counts are saved drafts, not full semantic approval; no formal CSV export or repack yet.",
+  "frozen_matcher_fix": {
+    "scope": "Preserve each frozen row translation; pending input packages refreshed without resetting attempts or drafts.",
+    "refresh_report": "frozen_matcher_refresh.json",
+    "completed_drafts": "Retained for the required full independent review after translation completes."
+  },
+  "validator_sha256": "64271aac4c0dd2ab2e9b465130201e4d68f3fa231f69dda7f851b119794036cb"
+}

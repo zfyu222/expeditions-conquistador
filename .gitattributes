@@ -1,0 +1,6 @@
+# Preserve the exact CSV bytes and embedded newline conventions for alignment/hashes.
+*.csv -text
+*.json -text
+# Keep third-party license and validation evidence hashes byte-exact.
+Repack/Licenses/* -text
+Repack/reports/* -text

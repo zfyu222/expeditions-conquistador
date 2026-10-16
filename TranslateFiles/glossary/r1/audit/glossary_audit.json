@@ -1,0 +1,3285 @@
+{
+  "format_version": 1,
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "snapshot_sha256": "d01de27e04d418325c3b3c8621a73934b3887dc8c40e63403375215da5824785",
+  "original_counts": {
+    "characters": 214,
+    "terms": 1014,
+    "non_translate": 0
+  },
+  "findings": [
+    {
+      "id": "F0000",
+      "code": "category",
+      "refs": [
+        "characters:176"
+      ],
+      "message": "Unsupported AINiee category: 身份"
+    },
+    {
+      "id": "F0001",
+      "code": "category",
+      "refs": [
+        "terms:520"
+      ],
+      "message": "Unsupported AINiee category: 人物身份"
+    },
+    {
+      "id": "F0002",
+      "code": "category",
+      "refs": [
+        "terms:535"
+      ],
+      "message": "Unsupported AINiee category: 女性"
+    },
+    {
+      "id": "F0003",
+      "code": "category",
+      "refs": [
+        "terms:668"
+      ],
+      "message": "Unsupported AINiee category: 男性"
+    },
+    {
+      "id": "F0004",
+      "code": "category",
+      "refs": [
+        "terms:669"
+      ],
+      "message": "Unsupported AINiee category: 女性"
+    },
+    {
+      "id": "F0005",
+      "code": "category",
+      "refs": [
+        "terms:670"
+      ],
+      "message": "Unsupported AINiee category: 男性"
+    },
+    {
+      "id": "F0006",
+      "code": "category",
+      "refs": [
+        "terms:671"
+      ],
+      "message": "Unsupported AINiee category: 男性"
+    },
+    {
+      "id": "F0007",
+      "code": "category",
+      "refs": [
+        "terms:672"
+      ],
+      "message": "Unsupported AINiee category: 男性"
+    },
+    {
+      "id": "F0008",
+      "code": "category",
+      "refs": [
+        "terms:673"
+      ],
+      "message": "Unsupported AINiee category: 男性"
+    },
+    {
+      "id": "F0009",
+      "code": "category",
+      "refs": [
+        "terms:680"
+      ],
+      "message": "Unsupported AINiee category: 男性"
+    },
+    {
+      "id": "F0010",
+      "code": "category",
+      "refs": [
+        "terms:684"
+      ],
+      "message": "Unsupported AINiee category: 男性"
+    },
+    {
+      "id": "F0011",
+      "code": "category",
+      "refs": [
+        "terms:685"
+      ],
+      "message": "Unsupported AINiee category: 男性"
+    },
+    {
+      "id": "F0012",
+      "code": "category",
+      "refs": [
+        "terms:686"
+      ],
+      "message": "Unsupported AINiee category: 男性"
+    },
+    {
+      "id": "F0013",
+      "code": "category",
+      "refs": [
+        "terms:688"
+      ],
+      "message": "Unsupported AINiee category: 男性"
+    },
+    {
+      "id": "F0014",
+      "code": "category",
+      "refs": [
+        "terms:764"
+      ],
+      "message": "Unsupported AINiee category: 男性"
+    },
+    {
+      "id": "F0015",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:4",
+        "terms:248"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0016",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:5",
+        "terms:249"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0017",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:6",
+        "terms:250"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0018",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:7",
+        "terms:251"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0019",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:34",
+        "characters:65"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0020",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:35",
+        "characters:64"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0021",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:36",
+        "characters:89"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0022",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:43",
+        "characters:77"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0023",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:46",
+        "characters:75"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0024",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:48",
+        "terms:535"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0025",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:49",
+        "terms:542",
+        "terms:669"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0026",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:54",
+        "characters:190"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0027",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:59",
+        "characters:154",
+        "terms:520",
+        "terms:668"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0028",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:61",
+        "terms:764"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0029",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:67",
+        "characters:81"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0030",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:69",
+        "characters:145"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0031",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:76",
+        "characters:92",
+        "characters:95"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0032",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:87",
+        "terms:670"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0033",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:94",
+        "terms:839"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0034",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:100",
+        "characters:102",
+        "terms:781"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0035",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:103",
+        "characters:167"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0036",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:104",
+        "terms:576"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0037",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:105",
+        "characters:113",
+        "terms:673"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0038",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:106",
+        "terms:667"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0039",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:111",
+        "characters:153"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0040",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:112",
+        "characters:130",
+        "terms:672",
+        "terms:744"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0041",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:114",
+        "terms:671"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0042",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:115",
+        "terms:662"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0043",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:118",
+        "terms:614"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0044",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:120",
+        "characters:156"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0045",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:123",
+        "terms:933"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0046",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:124",
+        "terms:734"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0047",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:128",
+        "terms:643"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0048",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:137",
+        "characters:165"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0049",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:146",
+        "characters:178"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0050",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:150",
+        "terms:731"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0051",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:155",
+        "terms:765"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0052",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:158",
+        "characters:162"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0053",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:160",
+        "characters:205",
+        "terms:914"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0054",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:163",
+        "characters:166",
+        "terms:793"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0055",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:176",
+        "terms:404"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0056",
+      "code": "duplicate_source",
+      "refs": [
+        "characters:211",
+        "terms:934"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0057",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:5",
+        "terms:122",
+        "terms:391"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0058",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:7",
+        "terms:392",
+        "terms:777"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0059",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:8",
+        "terms:502"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0060",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:10",
+        "terms:602"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0061",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:14",
+        "terms:822"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0062",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:19",
+        "terms:503"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0063",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:20",
+        "terms:550",
+        "terms:911"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0064",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:21",
+        "terms:433"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0065",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:23",
+        "terms:590",
+        "terms:827"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0066",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:32",
+        "terms:802"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0067",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:34",
+        "terms:406"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0068",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:41",
+        "terms:732"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0069",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:43",
+        "terms:436"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0070",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:45",
+        "terms:538"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0071",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:47",
+        "terms:916",
+        "terms:962"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0072",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:53",
+        "terms:123",
+        "terms:883"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0073",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:55",
+        "terms:678"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0074",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:59",
+        "terms:821"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0075",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:62",
+        "terms:831"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0076",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:65",
+        "terms:791",
+        "terms:823"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0077",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:67",
+        "terms:820"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0078",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:69",
+        "terms:594"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0079",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:70",
+        "terms:663"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0080",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:76",
+        "terms:377"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0081",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:78",
+        "terms:664"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0082",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:83",
+        "terms:298"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0083",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:85",
+        "terms:407"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0084",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:87",
+        "terms:277",
+        "terms:292",
+        "terms:625",
+        "terms:682"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0085",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:89",
+        "terms:692"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0086",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:97",
+        "terms:383"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0087",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:98",
+        "terms:142"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0088",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:99",
+        "terms:253"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0089",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:104",
+        "terms:113"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0090",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:105",
+        "terms:214",
+        "terms:276"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0091",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:106",
+        "terms:544"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0092",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:107",
+        "terms:693"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0093",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:108",
+        "terms:390"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0094",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:109",
+        "terms:515"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0095",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:111",
+        "terms:495"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0096",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:116",
+        "terms:213"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0097",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:117",
+        "terms:500"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0098",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:118",
+        "terms:212",
+        "terms:723",
+        "terms:803",
+        "terms:806"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0099",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:121",
+        "terms:211",
+        "terms:851"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0100",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:124",
+        "terms:318"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0101",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:136",
+        "terms:387"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0102",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:138",
+        "terms:193",
+        "terms:229"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0103",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:140",
+        "terms:371"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0104",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:141",
+        "terms:234"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0105",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:154",
+        "terms:247"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0106",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:163",
+        "terms:237"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0107",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:164",
+        "terms:232",
+        "terms:372"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0108",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:165",
+        "terms:388",
+        "terms:396",
+        "terms:517"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0109",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:166",
+        "terms:242",
+        "terms:389",
+        "terms:786"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0110",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:169",
+        "terms:694"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0111",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:172",
+        "terms:243",
+        "terms:695"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0112",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:175",
+        "terms:452",
+        "terms:780"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0113",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:180",
+        "terms:696"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0114",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:184",
+        "terms:286"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0115",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:190",
+        "terms:463"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0116",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:204",
+        "terms:661"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0117",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:215",
+        "terms:279",
+        "terms:294"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0118",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:216",
+        "terms:275",
+        "terms:291"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0119",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:218",
+        "terms:278",
+        "terms:293"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0120",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:222",
+        "terms:332"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0121",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:223",
+        "terms:319"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0122",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:225",
+        "terms:320"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0123",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:231",
+        "terms:370"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0124",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:239",
+        "terms:373"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0125",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:245",
+        "terms:700",
+        "terms:912"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0126",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:256",
+        "terms:393"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0127",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:260",
+        "terms:395"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0128",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:273",
+        "terms:289"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0129",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:274",
+        "terms:290",
+        "terms:348"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0130",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:280",
+        "terms:295",
+        "terms:328"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0131",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:288",
+        "terms:312"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0132",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:296",
+        "terms:562"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0133",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:313",
+        "terms:365"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0134",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:315",
+        "terms:367",
+        "terms:394"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0135",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:316",
+        "terms:368"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0136",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:329",
+        "terms:854"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0137",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:338",
+        "terms:770"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0138",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:382",
+        "terms:984"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0139",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:397",
+        "terms:399",
+        "terms:524"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0140",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:409",
+        "terms:871"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0141",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:410",
+        "terms:477"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0142",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:416",
+        "terms:549",
+        "terms:964"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0143",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:418",
+        "terms:429"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0144",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:422",
+        "terms:437"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0145",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:441",
+        "terms:560"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0146",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:442",
+        "terms:541"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0147",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:448",
+        "terms:561"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0148",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:449",
+        "terms:499",
+        "terms:521"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0149",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:461",
+        "terms:519"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0150",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:488",
+        "terms:981"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0151",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:493",
+        "terms:852"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0152",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:496",
+        "terms:929"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0153",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:507",
+        "terms:797"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0154",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:509",
+        "terms:534"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0155",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:563",
+        "terms:783"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0156",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:564",
+        "terms:573",
+        "terms:782"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0157",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:566",
+        "terms:572"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0158",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:577",
+        "terms:747"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0159",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:596",
+        "terms:790"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0160",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:597",
+        "terms:739",
+        "terms:750"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0161",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:598",
+        "terms:610"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0162",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:604",
+        "terms:738",
+        "terms:749"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0163",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:613",
+        "terms:737"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0164",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:618",
+        "terms:766"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0165",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:620",
+        "terms:621"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0166",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:653",
+        "terms:666",
+        "terms:907",
+        "terms:956"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0167",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:687",
+        "terms:787"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0168",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:708",
+        "terms:913"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0169",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:718",
+        "terms:720"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0170",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:724",
+        "terms:825"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0171",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:745",
+        "terms:1011"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0172",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:748",
+        "terms:761"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0173",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:756",
+        "terms:776"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0174",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:758",
+        "terms:792"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0175",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:769",
+        "terms:789"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0176",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:772",
+        "terms:952"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0177",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:773",
+        "terms:824"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0178",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:965",
+        "terms:983"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0179",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:966",
+        "terms:985"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0180",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:967",
+        "terms:987"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0181",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:968",
+        "terms:990"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0182",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:969",
+        "terms:992"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0183",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:971",
+        "terms:993"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0184",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:972",
+        "terms:994"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0185",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:973",
+        "terms:995"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0186",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:974",
+        "terms:1002"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0187",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:975",
+        "terms:1003"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0188",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:977",
+        "terms:1004"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0189",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:978",
+        "terms:1005"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0190",
+      "code": "duplicate_source",
+      "refs": [
+        "terms:982",
+        "terms:1013"
+      ],
+      "message": "Exact source collision across project tables (case-insensitive)."
+    },
+    {
+      "id": "F0191",
+      "code": "shared_translation",
+      "refs": [
+        "characters:1",
+        "characters:8"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0192",
+      "code": "shared_translation",
+      "refs": [
+        "characters:2",
+        "characters:185",
+        "characters:206"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0193",
+      "code": "shared_translation",
+      "refs": [
+        "characters:4",
+        "characters:94",
+        "terms:248",
+        "terms:839"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0194",
+      "code": "shared_translation",
+      "refs": [
+        "characters:5",
+        "characters:186",
+        "characters:213",
+        "terms:249"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0195",
+      "code": "shared_translation",
+      "refs": [
+        "characters:6",
+        "terms:250"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0196",
+      "code": "shared_translation",
+      "refs": [
+        "characters:7",
+        "terms:251"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0197",
+      "code": "shared_translation",
+      "refs": [
+        "characters:33",
+        "characters:154"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0198",
+      "code": "shared_translation",
+      "refs": [
+        "characters:46",
+        "characters:75"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0199",
+      "code": "shared_translation",
+      "refs": [
+        "characters:49",
+        "terms:542",
+        "terms:669"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0200",
+      "code": "shared_translation",
+      "refs": [
+        "characters:59",
+        "terms:520",
+        "terms:668"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0201",
+      "code": "shared_translation",
+      "refs": [
+        "characters:61",
+        "terms:764"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0202",
+      "code": "shared_translation",
+      "refs": [
+        "characters:70",
+        "characters:146"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0203",
+      "code": "shared_translation",
+      "refs": [
+        "characters:87",
+        "terms:670"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0204",
+      "code": "shared_translation",
+      "refs": [
+        "characters:92",
+        "characters:95"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0205",
+      "code": "shared_translation",
+      "refs": [
+        "characters:100",
+        "terms:781"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0206",
+      "code": "shared_translation",
+      "refs": [
+        "characters:104",
+        "terms:575",
+        "terms:576"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0207",
+      "code": "shared_translation",
+      "refs": [
+        "characters:106",
+        "terms:667"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0208",
+      "code": "shared_translation",
+      "refs": [
+        "characters:107",
+        "characters:108"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0209",
+      "code": "shared_translation",
+      "refs": [
+        "characters:112",
+        "terms:744"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0210",
+      "code": "shared_translation",
+      "refs": [
+        "characters:113",
+        "terms:673"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0211",
+      "code": "shared_translation",
+      "refs": [
+        "characters:114",
+        "terms:671"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0212",
+      "code": "shared_translation",
+      "refs": [
+        "characters:115",
+        "terms:662"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0213",
+      "code": "shared_translation",
+      "refs": [
+        "characters:118",
+        "terms:614"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0214",
+      "code": "shared_translation",
+      "refs": [
+        "characters:123",
+        "terms:933"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0215",
+      "code": "shared_translation",
+      "refs": [
+        "characters:124",
+        "terms:734"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0216",
+      "code": "shared_translation",
+      "refs": [
+        "characters:128",
+        "terms:643"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0217",
+      "code": "shared_translation",
+      "refs": [
+        "characters:130",
+        "terms:672"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0218",
+      "code": "shared_translation",
+      "refs": [
+        "characters:150",
+        "terms:731"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0219",
+      "code": "shared_translation",
+      "refs": [
+        "characters:152",
+        "characters:155",
+        "terms:765"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0220",
+      "code": "shared_translation",
+      "refs": [
+        "characters:163",
+        "terms:793"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0221",
+      "code": "shared_translation",
+      "refs": [
+        "characters:176",
+        "terms:404"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0222",
+      "code": "shared_translation",
+      "refs": [
+        "characters:205",
+        "terms:914"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0223",
+      "code": "shared_translation",
+      "refs": [
+        "characters:211",
+        "terms:934"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0224",
+      "code": "shared_translation",
+      "refs": [
+        "terms:0",
+        "terms:6",
+        "terms:616"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0225",
+      "code": "shared_translation",
+      "refs": [
+        "terms:1",
+        "terms:416"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0226",
+      "code": "shared_translation",
+      "refs": [
+        "terms:5",
+        "terms:391"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0227",
+      "code": "shared_translation",
+      "refs": [
+        "terms:7",
+        "terms:392",
+        "terms:556"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0228",
+      "code": "shared_translation",
+      "refs": [
+        "terms:8",
+        "terms:502"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0229",
+      "code": "shared_translation",
+      "refs": [
+        "terms:9",
+        "terms:963"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0230",
+      "code": "shared_translation",
+      "refs": [
+        "terms:10",
+        "terms:602",
+        "terms:788"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0231",
+      "code": "shared_translation",
+      "refs": [
+        "terms:12",
+        "terms:496",
+        "terms:929"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0232",
+      "code": "shared_translation",
+      "refs": [
+        "terms:17",
+        "terms:652"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0233",
+      "code": "shared_translation",
+      "refs": [
+        "terms:19",
+        "terms:503"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0234",
+      "code": "shared_translation",
+      "refs": [
+        "terms:21",
+        "terms:433"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0235",
+      "code": "shared_translation",
+      "refs": [
+        "terms:23",
+        "terms:590",
+        "terms:827",
+        "terms:982",
+        "terms:1013"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0236",
+      "code": "shared_translation",
+      "refs": [
+        "terms:27",
+        "terms:460",
+        "terms:488",
+        "terms:707",
+        "terms:981"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0237",
+      "code": "shared_translation",
+      "refs": [
+        "terms:32",
+        "terms:913"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0238",
+      "code": "shared_translation",
+      "refs": [
+        "terms:34",
+        "terms:406",
+        "terms:445"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0239",
+      "code": "shared_translation",
+      "refs": [
+        "terms:41",
+        "terms:722",
+        "terms:732"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0240",
+      "code": "shared_translation",
+      "refs": [
+        "terms:43",
+        "terms:436"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0241",
+      "code": "shared_translation",
+      "refs": [
+        "terms:46",
+        "terms:442",
+        "terms:541"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0242",
+      "code": "shared_translation",
+      "refs": [
+        "terms:52",
+        "terms:100"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0243",
+      "code": "shared_translation",
+      "refs": [
+        "terms:53",
+        "terms:412"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0244",
+      "code": "shared_translation",
+      "refs": [
+        "terms:55",
+        "terms:665",
+        "terms:678"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0245",
+      "code": "shared_translation",
+      "refs": [
+        "terms:58",
+        "terms:379"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0246",
+      "code": "shared_translation",
+      "refs": [
+        "terms:62",
+        "terms:683"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0247",
+      "code": "shared_translation",
+      "refs": [
+        "terms:65",
+        "terms:772"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0248",
+      "code": "shared_translation",
+      "refs": [
+        "terms:67",
+        "terms:820"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0249",
+      "code": "shared_translation",
+      "refs": [
+        "terms:70",
+        "terms:663"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0250",
+      "code": "shared_translation",
+      "refs": [
+        "terms:76",
+        "terms:377"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0251",
+      "code": "shared_translation",
+      "refs": [
+        "terms:78",
+        "terms:664"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0252",
+      "code": "shared_translation",
+      "refs": [
+        "terms:83",
+        "terms:298"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0253",
+      "code": "shared_translation",
+      "refs": [
+        "terms:85",
+        "terms:407",
+        "terms:425"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0254",
+      "code": "shared_translation",
+      "refs": [
+        "terms:87",
+        "terms:682",
+        "terms:752"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0255",
+      "code": "shared_translation",
+      "refs": [
+        "terms:88",
+        "terms:172",
+        "terms:695"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0256",
+      "code": "shared_translation",
+      "refs": [
+        "terms:89",
+        "terms:166",
+        "terms:389"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0257",
+      "code": "shared_translation",
+      "refs": [
+        "terms:91",
+        "terms:190"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0258",
+      "code": "shared_translation",
+      "refs": [
+        "terms:93",
+        "terms:191"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0259",
+      "code": "shared_translation",
+      "refs": [
+        "terms:95",
+        "terms:355"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0260",
+      "code": "shared_translation",
+      "refs": [
+        "terms:97",
+        "terms:383"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0261",
+      "code": "shared_translation",
+      "refs": [
+        "terms:101",
+        "terms:115",
+        "terms:803",
+        "terms:852"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0262",
+      "code": "shared_translation",
+      "refs": [
+        "terms:102",
+        "terms:114"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0263",
+      "code": "shared_translation",
+      "refs": [
+        "terms:103",
+        "terms:832"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0264",
+      "code": "shared_translation",
+      "refs": [
+        "terms:105",
+        "terms:214"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0265",
+      "code": "shared_translation",
+      "refs": [
+        "terms:106",
+        "terms:107",
+        "terms:544",
+        "terms:693"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0266",
+      "code": "shared_translation",
+      "refs": [
+        "terms:108",
+        "terms:168",
+        "terms:390"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0267",
+      "code": "shared_translation",
+      "refs": [
+        "terms:109",
+        "terms:165",
+        "terms:388",
+        "terms:396",
+        "terms:515",
+        "terms:517"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0268",
+      "code": "shared_translation",
+      "refs": [
+        "terms:110",
+        "terms:167"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0269",
+      "code": "shared_translation",
+      "refs": [
+        "terms:111",
+        "terms:495",
+        "terms:527"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0270",
+      "code": "shared_translation",
+      "refs": [
+        "terms:116",
+        "terms:571",
+        "terms:574"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0271",
+      "code": "shared_translation",
+      "refs": [
+        "terms:117",
+        "terms:500"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0272",
+      "code": "shared_translation",
+      "refs": [
+        "terms:122",
+        "terms:518"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0273",
+      "code": "shared_translation",
+      "refs": [
+        "terms:123",
+        "terms:443"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0274",
+      "code": "shared_translation",
+      "refs": [
+        "terms:126",
+        "terms:141"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0275",
+      "code": "shared_translation",
+      "refs": [
+        "terms:127",
+        "terms:142"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0276",
+      "code": "shared_translation",
+      "refs": [
+        "terms:129",
+        "terms:147"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0277",
+      "code": "shared_translation",
+      "refs": [
+        "terms:131",
+        "terms:235"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0278",
+      "code": "shared_translation",
+      "refs": [
+        "terms:133",
+        "terms:233"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0279",
+      "code": "shared_translation",
+      "refs": [
+        "terms:136",
+        "terms:387",
+        "terms:991"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0280",
+      "code": "shared_translation",
+      "refs": [
+        "terms:137",
+        "terms:988"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0281",
+      "code": "shared_translation",
+      "refs": [
+        "terms:153",
+        "terms:229"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0282",
+      "code": "shared_translation",
+      "refs": [
+        "terms:158",
+        "terms:315",
+        "terms:367",
+        "terms:394"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0283",
+      "code": "shared_translation",
+      "refs": [
+        "terms:160",
+        "terms:230"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0284",
+      "code": "shared_translation",
+      "refs": [
+        "terms:163",
+        "terms:237"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0285",
+      "code": "shared_translation",
+      "refs": [
+        "terms:164",
+        "terms:372"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0286",
+      "code": "shared_translation",
+      "refs": [
+        "terms:169",
+        "terms:694"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0287",
+      "code": "shared_translation",
+      "refs": [
+        "terms:173",
+        "terms:566"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0288",
+      "code": "shared_translation",
+      "refs": [
+        "terms:185",
+        "terms:989"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0289",
+      "code": "shared_translation",
+      "refs": [
+        "terms:192",
+        "terms:224"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0290",
+      "code": "shared_translation",
+      "refs": [
+        "terms:193",
+        "terms:319"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0291",
+      "code": "shared_translation",
+      "refs": [
+        "terms:211",
+        "terms:851"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0292",
+      "code": "shared_translation",
+      "refs": [
+        "terms:213",
+        "terms:563"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0293",
+      "code": "shared_translation",
+      "refs": [
+        "terms:215",
+        "terms:294"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0294",
+      "code": "shared_translation",
+      "refs": [
+        "terms:216",
+        "terms:291"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0295",
+      "code": "shared_translation",
+      "refs": [
+        "terms:218",
+        "terms:293",
+        "terms:344",
+        "terms:505"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0296",
+      "code": "shared_translation",
+      "refs": [
+        "terms:219",
+        "terms:289"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0297",
+      "code": "shared_translation",
+      "refs": [
+        "terms:221",
+        "terms:331"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0298",
+      "code": "shared_translation",
+      "refs": [
+        "terms:222",
+        "terms:332"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0299",
+      "code": "shared_translation",
+      "refs": [
+        "terms:242",
+        "terms:692"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0300",
+      "code": "shared_translation",
+      "refs": [
+        "terms:245",
+        "terms:700"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0301",
+      "code": "shared_translation",
+      "refs": [
+        "terms:290",
+        "terms:348"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0302",
+      "code": "shared_translation",
+      "refs": [
+        "terms:295",
+        "terms:328"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0303",
+      "code": "shared_translation",
+      "refs": [
+        "terms:305",
+        "terms:834"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0304",
+      "code": "shared_translation",
+      "refs": [
+        "terms:311",
+        "terms:356",
+        "terms:364"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0305",
+      "code": "shared_translation",
+      "refs": [
+        "terms:316",
+        "terms:368"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0306",
+      "code": "shared_translation",
+      "refs": [
+        "terms:318",
+        "terms:430",
+        "terms:469"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0307",
+      "code": "shared_translation",
+      "refs": [
+        "terms:338",
+        "terms:770"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0308",
+      "code": "shared_translation",
+      "refs": [
+        "terms:382",
+        "terms:984"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0309",
+      "code": "shared_translation",
+      "refs": [
+        "terms:384",
+        "terms:970"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0310",
+      "code": "shared_translation",
+      "refs": [
+        "terms:397",
+        "terms:399",
+        "terms:524"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0311",
+      "code": "shared_translation",
+      "refs": [
+        "terms:409",
+        "terms:871"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0312",
+      "code": "shared_translation",
+      "refs": [
+        "terms:410",
+        "terms:477"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0313",
+      "code": "shared_translation",
+      "refs": [
+        "terms:415",
+        "terms:676"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0314",
+      "code": "shared_translation",
+      "refs": [
+        "terms:419",
+        "terms:428"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0315",
+      "code": "shared_translation",
+      "refs": [
+        "terms:461",
+        "terms:462"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0316",
+      "code": "shared_translation",
+      "refs": [
+        "terms:467",
+        "terms:893"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0317",
+      "code": "shared_translation",
+      "refs": [
+        "terms:479",
+        "terms:481"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0318",
+      "code": "shared_translation",
+      "refs": [
+        "terms:484",
+        "terms:485"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0319",
+      "code": "shared_translation",
+      "refs": [
+        "terms:490",
+        "terms:746"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0320",
+      "code": "shared_translation",
+      "refs": [
+        "terms:493",
+        "terms:723"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0321",
+      "code": "shared_translation",
+      "refs": [
+        "terms:501",
+        "terms:618"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0322",
+      "code": "shared_translation",
+      "refs": [
+        "terms:507",
+        "terms:797"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0323",
+      "code": "shared_translation",
+      "refs": [
+        "terms:509",
+        "terms:534"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0324",
+      "code": "shared_translation",
+      "refs": [
+        "terms:526",
+        "terms:603"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0325",
+      "code": "shared_translation",
+      "refs": [
+        "terms:528",
+        "terms:529"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0326",
+      "code": "shared_translation",
+      "refs": [
+        "terms:540",
+        "terms:919"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0327",
+      "code": "shared_translation",
+      "refs": [
+        "terms:549",
+        "terms:964"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0328",
+      "code": "shared_translation",
+      "refs": [
+        "terms:552",
+        "terms:736"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0329",
+      "code": "shared_translation",
+      "refs": [
+        "terms:577",
+        "terms:597",
+        "terms:739"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0330",
+      "code": "shared_translation",
+      "refs": [
+        "terms:594",
+        "terms:612"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0331",
+      "code": "shared_translation",
+      "refs": [
+        "terms:596",
+        "terms:773"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0332",
+      "code": "shared_translation",
+      "refs": [
+        "terms:598",
+        "terms:604",
+        "terms:738"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0333",
+      "code": "shared_translation",
+      "refs": [
+        "terms:601",
+        "terms:754"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0334",
+      "code": "shared_translation",
+      "refs": [
+        "terms:610",
+        "terms:749"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0335",
+      "code": "shared_translation",
+      "refs": [
+        "terms:613",
+        "terms:647",
+        "terms:737"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0336",
+      "code": "shared_translation",
+      "refs": [
+        "terms:621",
+        "terms:626"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0337",
+      "code": "shared_translation",
+      "refs": [
+        "terms:653",
+        "terms:666",
+        "terms:687",
+        "terms:697",
+        "terms:724"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0338",
+      "code": "shared_translation",
+      "refs": [
+        "terms:708",
+        "terms:802"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0339",
+      "code": "shared_translation",
+      "refs": [
+        "terms:747",
+        "terms:750"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0340",
+      "code": "shared_translation",
+      "refs": [
+        "terms:756",
+        "terms:776"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0341",
+      "code": "shared_translation",
+      "refs": [
+        "terms:767",
+        "terms:942"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0342",
+      "code": "shared_translation",
+      "refs": [
+        "terms:787",
+        "terms:825",
+        "terms:907",
+        "terms:956"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0343",
+      "code": "shared_translation",
+      "refs": [
+        "terms:823",
+        "terms:952"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0344",
+      "code": "shared_translation",
+      "refs": [
+        "terms:847",
+        "terms:870"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0345",
+      "code": "shared_translation",
+      "refs": [
+        "terms:874",
+        "terms:875"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0346",
+      "code": "shared_translation",
+      "refs": [
+        "terms:965",
+        "terms:983"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0347",
+      "code": "shared_translation",
+      "refs": [
+        "terms:967",
+        "terms:987"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0348",
+      "code": "shared_translation",
+      "refs": [
+        "terms:968",
+        "terms:990"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0349",
+      "code": "shared_translation",
+      "refs": [
+        "terms:969",
+        "terms:992"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0350",
+      "code": "shared_translation",
+      "refs": [
+        "terms:971",
+        "terms:993"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0351",
+      "code": "shared_translation",
+      "refs": [
+        "terms:973",
+        "terms:995"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0352",
+      "code": "shared_translation",
+      "refs": [
+        "terms:975",
+        "terms:1003"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    },
+    {
+      "id": "F0353",
+      "code": "shared_translation",
+      "refs": [
+        "terms:977",
+        "terms:1004"
+      ],
+      "message": "Different names share a translation; verify aliases/context."
+    }
+  ]
+}

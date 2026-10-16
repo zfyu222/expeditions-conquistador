@@ -1,0 +1,258 @@
+{
+  "schema": 2,
+  "kind": "final",
+  "pilot_key": "b8a4c15eed32d040a87f37c7f61998c1166c7ab7eb3758e326dab51c458dc989",
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "glossary": {
+    "hash": "0b9e22152b88ca7cf2d4dc242e15c63bc5931dfcb6665c4e0ccf177f051ab649",
+    "path": "glossary\\revision_10_fd73d738\\built\\glossary_reviewed.json",
+    "revision": 10
+  },
+  "snapshot_hash": "c3646d1ac3d0649479d1580f70d40b3a56bc342b2d7a46654cffcb5ea35d25fd",
+  "coverage": {
+    "records": 14691,
+    "text_types": {
+      "UI label/fragment": 1599,
+      "UI description": 174,
+      "Biography": 82,
+      "Event title": 263,
+      "Narrative": 4120,
+      "Dialogue": 2551,
+      "Player choice": 4887,
+      "Quest": 478,
+      "Codex": 48,
+      "Map/UI": 321,
+      "Tutorial": 134,
+      "Hardcoded UI": 34
+    },
+    "missing_context": 0,
+    "risk_records": 5627,
+    "ordinary_sample": 0,
+    "sol_records": 21
+  },
+  "risk_detection": "Heuristic candidates plus reviewer findings; absence of flags is not proof of correctness.",
+  "records_to_check": [],
+  "consistency": [],
+  "glossary_checks": [],
+  "pilot_batch_summaries": {},
+  "check_signatures": {
+    "R0000353_55f9a7105e": "f160fd480a5ae15d8df0d9c8ef92267c45220c26e0b402eeeece181e2475dcf4",
+    "R0001641_2c2cdaf296": "151a94492ab7291a25f384a88e4763f56ac1abaab756d080bc0c6ef97000ef79",
+    "R0002161_87e165ae29": "408277a49f9c8b0806c2085648a2efba81bdba507cf53cdb1268aeb2849f841d",
+    "R0003841_634dfd432d": "6593b2bea7cd5ea72f1e0a0bdc11587177b63eecc2d8b2b76d081161df0748c4",
+    "R0003971_9383934030": "7c1a7b38c80a804fb55c14ee49f1debfc23af31a5c597a7d8b12b1458126b54e",
+    "R0004716_f65f4b5f71": "096e69f58846e82ee4c1ad32fb6979839f8ccd7fc4d29b7edf42f13ffe9f48e1",
+    "R0004775_45b7e3356a": "00e1f1d26353de0c95c67cd549a26348da78234d1c295e0c9a615f2b7f1c19ad",
+    "R0004779_c41328d399": "ebc8a6bb420805ff5bce342f875f56de4967e028a42503f5b1832d9424f4de55",
+    "R0005593_a63b9ac907": "74304f953efd6c4395fd63e110493b6dbac4e53b3b5f887e29338fdf2f8a88aa",
+    "R0006067_c86d990fc9": "e7b7475acf01bf63e93efc67e402235d2973df1685cbf7132c4578c3da8c8429",
+    "R0006532_8d0bd1744a": "6fe7d5250409db7f1374d75f354ba493a3fa31da0f478eadf1aae52712caae9a",
+    "R0006539_7fe2b84494": "568f5f41089e4f743a417141192c1797277518a795b44e83bda23ffccab46df5",
+    "R0006540_00162ac42c": "8b74e13e685e750a6201fc4487f60657647ce38dcbd66ae1045fefa6639f5edb",
+    "R0006795_77bcf5d840": "d1d662a46f534e5f867a237dba638ab0f0802ecaca1bdb3a6ef389a27ca8558c",
+    "R0007959_08ca345f0d": "f633b679d8c268d4f2a721010b69358fc078a842ee975c680c8751bbee5eb35a",
+    "R0009871_c1795cc976": "ffebc8b695e4098c4bf83df669efcfa91737711fae83f7da65bf959bda1f08e0",
+    "R0010110_f3daf29418": "e81133c754023b68b9e0f9677defac8b9007121a586df93d5bd9ae8ef1afa82e",
+    "R0010112_f3daf29418": "7c0f618f4807fca66bad735c4a55913c5e71bf5c83a37f7dc1389f6098b19dc9",
+    "R0010118_f3daf29418": "747c219fe6984467fe2d1d4152cb51ec1afabf6259a85b12d16100abab099894",
+    "R0010122_d62d5a3847": "f65c2441146cb9e0037cce5f5dad59848c4cc2875033c3e5744289bf5ad70ed8",
+    "R0010125_a2d736f97e": "7f32a92ab8d29f20bfb84361a7e09296141f2725ae5ba42949cbb01c6eff307a"
+  },
+  "reused_decisions": {
+    "R0000353_55f9a7105e": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0000353_55f9a7105e",
+        "reason": "这是动态数字后的后缀；保留前导空格并表达“名敌人剩余”，与数字拼接结构相符。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "f160fd480a5ae15d8df0d9c8ef92267c45220c26e0b402eeeece181e2475dcf4"
+    },
+    "R0001641_2c2cdaf296": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0001641_2c2cdaf296",
+        "reason": "more turns 对应“更多回合”，增量含义与源文前导空格均保留。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "151a94492ab7291a25f384a88e4763f56ac1abaab756d080bc0c6ef97000ef79"
+    },
+    "R0002161_87e165ae29": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0002161_87e165ae29",
+        "reason": "/not/禁止触碰的否定强调被译成“/不/准碰”，旧译双重否定已修正，标记作用范围保留。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "408277a49f9c8b0806c2085648a2efba81bdba507cf53cdb1268aeb2849f841d"
+    },
+    "R0003841_634dfd432d": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0003841_634dfd432d",
+        "reason": "准确保留商贩今晚要忙以及明早先交付两只陷阱；与订单数量不一致是源文问题，译文忠实保留。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "6593b2bea7cd5ea72f1e0a0bdc11587177b63eecc2d8b2b76d081161df0748c4"
+    },
+    "R0003971_9383934030": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0003971_9383934030",
+        "reason": "Casiguaya 在 RuinedTemple 说明部族传统；原文 following the right 语法不顺，结合 spend a week、祖先守护下狩猎的仪式语境，审校将其按疑似 rite 笔误处理为“遵循仪式”有依据。现译保留一周停留、狩猎及留至行程结束的信息。源文拼写核对建议不构成当前译文的未解决语义错误。"
+      },
+      "report_hash": "67a4a90df6c14dd302fedeff3bf52ec177cbf2f1c6f49b6e33bc077f7d44c7ed",
+      "signature": "7c1a7b38c80a804fb55c14ee49f1debfc23af31a5c597a7d8b12b1458126b54e"
+    },
+    "R0004716_f65f4b5f71": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0004716_f65f4b5f71",
+        "reason": "隐秘行动能力、斥候优势、众多情人及对流言蔑视无动于衷均准确；原文姓名拼写不一致已在审校记录中说明。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "096e69f58846e82ee4c1ad32fb6979839f8ccd7fc4d29b7edf42f13ffe9f48e1"
+    },
+    "R0004775_45b7e3356a": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0004775_45b7e3356a",
+        "reason": "已修正“加入你”的搭配歧义；当前“加入你们”明确表达加入玩家一行。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "00e1f1d26353de0c95c67cd549a26348da78234d1c295e0c9a615f2b7f1c19ad"
+    },
+    "R0004779_c41328d399": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0004779_c41328d399",
+        "reason": "准确表达玩家确有帮助，并承诺不会让其得不到报偿。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "ebc8a6bb420805ff5bce342f875f56de4967e028a42503f5b1832d9424f4de55"
+    },
+    "R0005593_a63b9ac907": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0005593_a63b9ac907",
+        "reason": "本条是 Cuautitlan 的玩家选项，原文要求50 Medicine 治疗病人；当前译文保留50、治疗用途和 ASCII 双引号。独立审校明确说明本条术语字段为 Medicine→药品，现译遵循该字段；旧诊断要求“药剂”与之冲突，但没有本条依据推翻已冻结的“药品”，无需改写译文。"
+      },
+      "report_hash": "67a4a90df6c14dd302fedeff3bf52ec177cbf2f1c6f49b6e33bc077f7d44c7ed",
+      "signature": "74304f953efd6c4395fd63e110493b6dbac4e53b3b5f887e29338fdf2f8a88aa"
+    },
+    "R0006067_c86d990fc9": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0006067_c86d990fc9",
+        "reason": "雕像传出洪亮的声音，准确表达 booming voice，未额外指定为吼叫。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "e7b7475acf01bf63e93efc67e402235d2973df1685cbf7132c4578c3da8c8429"
+    },
+    "R0006532_8d0bd1744a": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0006532_8d0bd1744a",
+        "reason": "科约特尔曾是杰出的阿兹特克鹰战士，因反对贵族漠视平民苦难而违令，失去指挥权并离开驻扎的特斯科科城，最后加入远征队；术语和因果准确。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "6fe7d5250409db7f1374d75f354ba493a3fa31da0f478eadf1aae52712caae9a"
+    },
+    "R0006539_7fe2b84494": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0006539_7fe2b84494",
+        "reason": "科约特尔拿起装有私人物品的袋子，沿主楼梯前往长期居住处，动作与地点准确。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "568f5f41089e4f743a417141192c1797277518a795b44e83bda23ffccab46df5"
+    },
+    "R0006540_00162ac42c": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0006540_00162ac42c",
+        "reason": "经上下文修订后，明确表示拒绝科约特尔加入队伍，消除了原句的歧义。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "8b74e13e685e750a6201fc4487f60657647ce38dcbd66ae1045fefa6639f5edb"
+    },
+    "R0006795_77bcf5d840": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0006795_77bcf5d840",
+        "reason": "此前修订准确保留向他开枪的命令，不额外断定杀死结果。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "d1d662a46f534e5f867a237dba638ab0f0802ecaca1bdb3a6ef389a27ca8558c"
+    },
+    "R0007959_08ca345f0d": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0007959_08ca345f0d",
+        "reason": "ShipInTheTreesClimbRope 的原文只叙述沿绳索登船、船身略斜但仍能站在甲板上；现译逐项对应。独立审校提示的 Fortress of Gutiérrez 不在本条原文，也不在当前译文，故该诊断不构成本条未解决问题。"
+      },
+      "report_hash": "67a4a90df6c14dd302fedeff3bf52ec177cbf2f1c6f49b6e33bc077f7d44c7ed",
+      "signature": "f633b679d8c268d4f2a721010b69358fc078a842ee975c680c8751bbee5eb35a"
+    },
+    "R0009871_c1795cc976": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0009871_c1795cc976",
+        "reason": "Texcoco 玩家选项先拒听借口，再以西班牙语 Hombres 呼喊众人攻击；当前“弟兄们……攻击！”保留呼语对象和命令语气，独立审校已把未译的 Hombres 修正并恢复 ASCII 外层双引号。对“男人们/弟兄们”的释义提示只是可接受译法的选择，没有遗留语义错误。"
+      },
+      "report_hash": "67a4a90df6c14dd302fedeff3bf52ec177cbf2f1c6f49b6e33bc077f7d44c7ed",
+      "signature": "ffebc8b695e4098c4bf83df669efcfa91737711fae83f7da65bf959bda1f08e0"
+    },
+    "R0010110_f3daf29418": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0010110_f3daf29418",
+        "reason": "Continue译为“继续”，修正了先前误配内容。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "e81133c754023b68b9e0f9677defac8b9007121a586df93d5bd9ae8ef1afa82e"
+    },
+    "R0010112_f3daf29418": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0010112_f3daf29418",
+        "reason": "Continue译为“继续”，修正了先前误配内容。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "7c0f618f4807fca66bad735c4a55913c5e71bf5c83a37f7dc1389f6098b19dc9"
+    },
+    "R0010118_f3daf29418": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0010118_f3daf29418",
+        "reason": "Continue译为“继续”，准确替换了先前误配内容。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "747c219fe6984467fe2d1d4152cb51ec1afabf6259a85b12d16100abab099894"
+    },
+    "R0010122_d62d5a3847": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0010122_d62d5a3847",
+        "reason": "Leave译为“离开”，修正了先前误配内容。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "f65c2441146cb9e0037cce5f5dad59848c4cc2875033c3e5744289bf5ad70ed8"
+    },
+    "R0010125_a2d736f97e": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0010125_a2d736f97e",
+        "reason": "Kill the servants译为“杀死仆人”，修正了先前误配内容。"
+      },
+      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
+      "signature": "7f32a92ab8d29f20bfb84361a7e09296141f2725ae5ba42949cbb01c6eff307a"
+    }
+  },
+  "required_decisions": [],
+  "sol_scope_policy": "disputes_only_v1",
+  "carried_findings": {},
+  "selection_explanation": "Only explicit unresolved reviewer issues need Sol adjudication. Risk flags, corrections, ordinary samples, duplicate-source groups and speaker groups do not trigger Sol. Known Sol repair findings are carried to standard repair without re-reading; exhausted or regressing repairs use the existing targeted Sol escalation route.",
+  "report_hash": "4ab829a90ae0694f5f723122eb088a7650701f65045100a69481532f547e7b0e",
+  "round_scope": []
+}

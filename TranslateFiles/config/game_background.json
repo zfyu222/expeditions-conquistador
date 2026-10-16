@@ -1,0 +1,14 @@
+{
+  "text": "## 游戏信息\n- 原名：Expeditions: Conquistador\n- 中文名：远征：征服者（本项目暂译名，非官方中文名）\n- 开发商：Logic Artists\n- 发行商：THQ Nordic（当前 Steam 商店标示）\n- 发行平台：Steam；商店列出 Windows、macOS、Linux，本项目针对 Windows Steam 版\n- 发售日期：2013-05-30\n- 引擎：Unity 4.3.2f1，Mono / .NET 托管程序集；初始化时本地运行日志记载该引擎版本，目录存在 `Managed/` 和 `Mono/`\n- 进程架构：x86（初始化时本地运行日志记载）\n- 翻译源语言：英语；Steam 本地安装配置为 `english`\n- 官方支持语言：英语、西班牙语（西班牙）、意大利语、德语、俄语；商店未列出中文\n- 本地 Steam Build ID：1752467（来自 `steamapps/appmanifest_237430.acf`，不等同于游戏内部版本号）\n- 游戏内部版本：1.6.6.1（`level0` 的 `VersionLabel`，pathID 186）；语言 XML 版本：1.6\n- 安装目录：`D:\\Program Files (x86)\\Steam\\steamapps\\common\\Expeditions Conquistador`\n- 游戏链接：`Game/` 为指向上述目录的 junction，不复制游戏文件，不纳入 Git\n- 网页资料：[Steam 官方商店](https://store.steampowered.com/app/237430/?l=english)（检索日期：2026-10-13）\n\n## 游戏简介\n\n游戏以十六世纪西班牙远征美洲为背景，结合回合制战术战斗、队伍培养、资源管理和剧情选择。玩家招募具有不同性格与立场的队员，在探索中应对生存困难，并通过外交或战斗影响故事走向。资料来源：[Steam 官方商店](https://store.steampowered.com/app/237430/?l=english)。\n\n## 汉化目标\n- 范围：以剧情、对话、任务及 UI 等可提取的玩家可见文本为目标，实际覆盖范围在提取后确认\n- 目标语言：简体中文",
+  "sha256": "eeebdf9a467b0632e3c4c266d90eca289adf62b13909126406804c30791ffc6e",
+  "source": {
+    "kind": "readme",
+    "path": "README.md",
+    "sha256": "092792694f1e021185c52a800b508ecb0ebe8cedfb1ff9fb016382a701ce80cf",
+    "sections": [
+      "游戏信息",
+      "游戏简介",
+      "汉化目标"
+    ]
+  }
+}

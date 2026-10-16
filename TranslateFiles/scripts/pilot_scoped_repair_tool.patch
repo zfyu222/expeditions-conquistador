@@ -1,0 +1,70 @@
+--- a/Tools/localization/translation_workflow.py
++++ b/Tools/localization/translation_workflow.py
+@@ -610,8 +610,11 @@
+                 raise ValueError('Independent reviewer instance required; this worker produced the assigned text')
+             if not task:
+                 return None
+-            if stage.startswith('pilot_') and self.pilot_spent(db) + (1 if stage == 'pilot_translate' else 0) >= config.get('pilot_call_limit', 6):
+-                raise ValueError('Pilot execution budget exhausted; stop spawning agents and let Sol inspect existing results')
++            if stage.startswith('pilot_'):
++                limit = config.get('pilot_call_limit', 6)
++                limit = self.pilot_claim_limit(db, task, limit)
++                if self.pilot_spent(db) + (1 if stage == 'pilot_translate' else 0) >= limit:
++                    raise ValueError('Pilot execution budget exhausted; stop spawning agents and let Sol inspect existing results')
+             if json.loads(task['payload']).get('context'):
+                 raise ValueError('Legacy task contains adjacent text; pause/configure context_records=0 and prepare a new revision before claiming')
+             if backend == 'codex':
+--- a/Tools/localization/workflow_quality.py
++++ b/Tools/localization/workflow_quality.py
+@@ -119,6 +119,15 @@
+ 
+ 
+ class QualityMixin:
++    def pilot_claim_limit(self, db, task, default_limit):
++        grant = self.meta(db, 'pilot_repair_grant', {})
++        if grant and task['id'] in grant.get('task_ids', []):
++            if (grant.get('additional_calls') != 2 or not grant.get('authorization', {}).get('human_answer')
++                    or set(json.loads(task['ids'])) != set(grant['record_ids'])):
++                raise ValueError('Repair task exceeds human-authorized record scope/budget')
++            return grant['baseline_spent'] + grant['additional_calls']
++        return default_limit
++
+     def pilot_spent(self, db):
+         # Retries and obsolete revisions count. Scheduling/style changes do not refresh
+         # the calibration budget. Legacy runs start counting when this policy is enabled.
+@@ -138,8 +147,9 @@
+             selected = self.pilot_ids(db, rows, config)
+             scope = [r for r in rows if r['id'] in selected]
+             count = config.get('pilot_batch_count') or 1
+-            untranslated = [r for r in scope if r['stage'] not in ('pilot_translate', 'pilot_review')]
+-            unreviewed = [r for r in scope if r['stage'] != 'pilot_review']
++            approved = self.pilot_approved(db, config)
++            untranslated = [] if approved else [r for r in scope if r['stage'] not in ('pilot_translate', 'pilot_review')]
++            unreviewed = [] if approved else [r for r in scope if r['stage'] != 'pilot_review']
+             translate = sum(bool(g) for g in self.fixed_pilot_batches(scope, untranslated, count))
+             review = sum(bool(g) for g in self.fixed_pilot_batches(scope, unreviewed, count))
+             pending = db.execute('SELECT stage,payload FROM tasks WHERE revision=? AND status IN ("pending","failed") '
+@@ -149,12 +159,22 @@
+             maximum = max((sum(len(x) for x in prompt(json.loads(t['payload']))) for t in pending), default=0)
+             running = db.execute('SELECT count(*) FROM tasks WHERE status="running" AND stage IN ("pilot_translate","pilot_review")').fetchone()[0]
+             spent = self.pilot_spent(db); limit = config.get('pilot_call_limit', 6)
++            grant = self.meta(db, 'pilot_repair_grant', {})
++            if grant:
++                limit = grant['baseline_spent'] + grant['additional_calls']
++                repair_tasks = [db.execute('SELECT stage,status FROM tasks WHERE id=?', (i,)).fetchone()
++                                for i in grant['task_ids']]
++                translate = int(not any(t['stage'] == 'pilot_translate' and t['status'] == 'done' for t in repair_tasks))
++                review = int(not any(t['stage'] == 'pilot_review' and t['status'] == 'done' for t in repair_tasks))
++                # In-flight leases already count as spent; reserve only future calls.
++                translate -= int(any(t['stage'] == 'pilot_translate' and t['status'] == 'running' for t in repair_tasks))
++                review -= int(any(t['stage'] == 'pilot_review' and t['status'] == 'running' for t in repair_tasks))
+             return {'sample_records': len(scope), 'translated_records': len(scope) - len(untranslated),
+                     'reviewed_records': len(scope) - len(unreviewed), 'translation_batches': translate,
+                     'review_batches': review, 'executions_used': spent, 'execution_limit': limit,
+                     'running_tasks': running, 'maximum_prepared_input_chars': maximum,
+                     'within_budget': spent + translate + review <= limit and maximum + (128 if maximum else 0) <= config.get('task_input_chars', 48000),
+-                    'note': 'No agent spawned; all claims/retries after policy activation count across revisions.'}
++                    'note': 'No agent spawned; all claims/retries count across revisions. Explicit repair grant, if present, applies only to its tasks.'}
+ 
+     def reduce_pilot(self, count, reason):
+         """Adopt a smaller calibration sample without discarding its accepted work."""

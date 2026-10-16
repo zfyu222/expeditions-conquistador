@@ -1,0 +1,1404 @@
+[
+  {
+    "id": "T001",
+    "name": "TutorialCamping11-EN",
+    "source": "TheAutoAssignbuttonassigns1meattoeveryfollowerifyouhavemeat\nWhenyourunoutofmeat,1rationisassignedtoeverybodyelse\nTheAssigntoall button assignstheselectedtype andquantityoffoodtoeveryfollower\nIfAutoAllocateNewMeatischecked,AutoAssignwillbedoneautomaticallyeachnight",
+    "image": "Analysis/tutorial_images/4_TutorialCamping11-EN.png",
+    "ocr_lines": [
+      {
+        "text": "TheAutoAssignbuttonassigns1meattoeveryfollowerifyouhavemeat",
+        "y": 464.0,
+        "confidence": 0.9975517442670919
+      },
+      {
+        "text": "Whenyourunoutofmeat,1rationisassignedtoeverybodyelse",
+        "y": 487.0,
+        "confidence": 0.9867377946010003
+      },
+      {
+        "text": "TheAssigntoall button assignstheselectedtype andquantityoffoodtoeveryfollower",
+        "y": 519.0,
+        "confidence": 0.9800038918272241
+      },
+      {
+        "text": "IfAutoAllocateNewMeatischecked,AutoAssignwillbedoneautomaticallyeachnight",
+        "y": 560.0,
+        "confidence": 0.9910180764655544
+      }
+    ]
+  },
+  {
+    "id": "T002",
+    "name": "TutorialAOO01-EN",
+    "source": "If you tryto movepast an enemy,\nthey will get a free attack on you\n(called AttackofOpportunity)\nUseTacticalMovetoavoidthat,\nat the cost of spending your action",
+    "image": "Analysis/tutorial_images/18_TutorialAOO01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "If you tryto movepast an enemy,",
+        "y": 470.0,
+        "confidence": 0.9366079857272487
+      },
+      {
+        "text": "they will get a free attack on you",
+        "y": 500.0,
+        "confidence": 0.9571170228369096
+      },
+      {
+        "text": "(called AttackofOpportunity)",
+        "y": 523.0,
+        "confidence": 0.9776107754026141
+      },
+      {
+        "text": "UseTacticalMovetoavoidthat,",
+        "y": 521.0,
+        "confidence": 0.9888640465559783
+      },
+      {
+        "text": "at the cost of spending your action",
+        "y": 550.0,
+        "confidence": 0.9804245352745056
+      }
+    ]
+  },
+  {
+    "id": "T003",
+    "name": "TutorialCamping12-EN",
+    "source": "Thetreatmentwindowiswhereyoutreatinjuredfollowers\nThistabisonlyavailablewhenyouhaveselectedawoundedfollower\nThehealthofawoundedfollowermaydeteriorateduring thenightif leftuntreated",
+    "image": "Analysis/tutorial_images/20_TutorialCamping12-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Thetreatmentwindowiswhereyoutreatinjuredfollowers",
+        "y": 470.0,
+        "confidence": 0.9979393895791502
+      },
+      {
+        "text": "Thistabisonlyavailablewhenyouhaveselectedawoundedfollower",
+        "y": 511.0,
+        "confidence": 0.997158918464393
+      },
+      {
+        "text": "Thehealthofawoundedfollowermaydeteriorateduring thenightif leftuntreated",
+        "y": 551.0,
+        "confidence": 0.9853915729456477
+      }
+    ]
+  },
+  {
+    "id": "T004",
+    "name": "TutorialAOO02-EN",
+    "source": "Making a Ranged attack at Melee range will\nalsoprovokeanAttackofOpportunity\nEachunitcan only make1free attackevery turn!\nThetooltipshowsif theystill have theirAttackofOpportunity",
+    "image": "Analysis/tutorial_images/32_TutorialAOO02-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Making a Ranged attack at Melee range will",
+        "y": 470.0,
+        "confidence": 0.9750126359008607
+      },
+      {
+        "text": "alsoprovokeanAttackofOpportunity",
+        "y": 501.0,
+        "confidence": 0.9965999834239483
+      },
+      {
+        "text": "Eachunitcan only make1free attackevery turn!",
+        "y": 537.0,
+        "confidence": 0.9569656916640021
+      },
+      {
+        "text": "Thetooltipshowsif theystill have theirAttackofOpportunity",
+        "y": 558.0,
+        "confidence": 0.9714814319945219
+      }
+    ]
+  },
+  {
+    "id": "T005",
+    "name": "TutorialInitial-EN",
+    "source": "You have triggered a battle\nYourpeople arehighlighted with blue\nTheenemiesarehighlightedwithred\nClick on one of your troops or their portrait",
+    "image": "Analysis/tutorial_images/45_TutorialInitial-EN.png",
+    "ocr_lines": [
+      {
+        "text": "You have triggered a battle",
+        "y": 462.0,
+        "confidence": 0.9830072257253859
+      },
+      {
+        "text": "Yourpeople arehighlighted with blue",
+        "y": 501.0,
+        "confidence": 0.9643957904406957
+      },
+      {
+        "text": "Theenemiesarehighlightedwithred",
+        "y": 523.0,
+        "confidence": 0.9962095502884157
+      },
+      {
+        "text": "Click on one of your troops or their portrait",
+        "y": 559.0,
+        "confidence": 0.988385083940294
+      }
+    ]
+  },
+  {
+    "id": "T006",
+    "name": "TutorialCamping13-EN",
+    "source": "TotreatafolloweryouneedtoassignaDoctortohimorher,\nandhavetherequiredamountofmedicine\nAsCaptain,youcountasa doctoraswellforthepurposeoftreatment",
+    "image": "Analysis/tutorial_images/75_TutorialCamping13-EN.png",
+    "ocr_lines": [
+      {
+        "text": "TotreatafolloweryouneedtoassignaDoctortohimorher,",
+        "y": 481.0,
+        "confidence": 0.9878815874761465
+      },
+      {
+        "text": "andhavetherequiredamountofmedicine",
+        "y": 505.0,
+        "confidence": 0.9951918808852925
+      },
+      {
+        "text": "AsCaptain,youcountasa doctoraswellforthepurposeoftreatment",
+        "y": 545.0,
+        "confidence": 0.9858298712763293
+      }
+    ]
+  },
+  {
+    "id": "T007",
+    "name": "TutorialIncapacitated-EN",
+    "source": "One ofyour charactershavebecome incapacitated\nThe character'sinjurymay carry overinto the\nIf youhavea Doctor of high enough rank,\nworldmapandyoumaylosesomeequipment\nyoucanreviveyourfallenfollower",
+    "image": "Analysis/tutorial_images/85_TutorialIncapacitated-EN.png",
+    "ocr_lines": [
+      {
+        "text": "One ofyour charactershavebecome incapacitated",
+        "y": 473.0,
+        "confidence": 0.9652779261271159
+      },
+      {
+        "text": "The character'sinjurymay carry overinto the",
+        "y": 525.0,
+        "confidence": 0.9602762973585794
+      },
+      {
+        "text": "If youhavea Doctor of high enough rank,",
+        "y": 527.0,
+        "confidence": 0.936018841388898
+      },
+      {
+        "text": "worldmapandyoumaylosesomeequipment",
+        "y": 548.0,
+        "confidence": 0.9944319935405955
+      },
+      {
+        "text": "youcanreviveyourfallenfollower",
+        "y": 548.0,
+        "confidence": 0.9979887147744496
+      }
+    ]
+  },
+  {
+    "id": "T008",
+    "name": "TutorialMapInitial01-EN",
+    "source": "WelcometoHispaniola!You'rereadingatutorialscreen\nClickonContinueorthearrowtotherighttoproceed\nIf youwanttodisabletutorialsyoucan clickDisable and thenClose",
+    "image": "Analysis/tutorial_images/87_TutorialMapInitial01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "WelcometoHispaniola!You'rereadingatutorialscreen",
+        "y": 465.0,
+        "confidence": 0.992759911964337
+      },
+      {
+        "text": "ClickonContinueorthearrowtotherighttoproceed",
+        "y": 513.0,
+        "confidence": 0.9973344829949465
+      },
+      {
+        "text": "If youwanttodisabletutorialsyoucan clickDisable and thenClose",
+        "y": 562.0,
+        "confidence": 0.9707063768730789
+      }
+    ]
+  },
+  {
+    "id": "T009",
+    "name": "TutorialEndTurn-EN",
+    "source": "When you think you're finished,\nclick the hourglassto end your turn\nIfyouknowyou'regoingtolose,\nclickthewhite flag toretreat",
+    "image": "Analysis/tutorial_images/110_TutorialEndTurn-EN.png",
+    "ocr_lines": [
+      {
+        "text": "When you think you're finished,",
+        "y": 470.0,
+        "confidence": 0.9703438897286693
+      },
+      {
+        "text": "click the hourglassto end your turn",
+        "y": 500.0,
+        "confidence": 0.9554821695600237
+      },
+      {
+        "text": "Ifyouknowyou'regoingtolose,",
+        "y": 523.0,
+        "confidence": 0.9887168297061214
+      },
+      {
+        "text": "clickthewhite flag toretreat",
+        "y": 551.0,
+        "confidence": 0.9377889377730233
+      }
+    ]
+  },
+  {
+    "id": "T010",
+    "name": "TutorialAOO03-EN",
+    "source": "Moving outofMeleerangeofanenemy also\nprovokesanAttackofOpportunity\nExploit this to trap the enemy's Ranged units",
+    "image": "Analysis/tutorial_images/113_TutorialAOO03-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Moving outofMeleerangeofanenemy also",
+        "y": 471.0,
+        "confidence": 0.9766138245662054
+      },
+      {
+        "text": "provokesanAttackofOpportunity",
+        "y": 500.0,
+        "confidence": 0.99776658518561
+      },
+      {
+        "text": "Exploit this to trap the enemy's Ranged units",
+        "y": 543.0,
+        "confidence": 0.9753764033317566
+      }
+    ]
+  },
+  {
+    "id": "T011",
+    "name": "TutorialMapInitial04-EN",
+    "source": "Interactiveobjectsintheworld arehighlightedwhenyouhoveroverthem\nYoucanholddowntheHighlightbutton(Altbydefault)\ntoseewhichobjectsonthescreenareinteractive\nPleaseclickonthesoldierinfrontofyoutoproceed",
+    "image": "Analysis/tutorial_images/126_TutorialMapInitial04-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Interactiveobjectsintheworld arehighlightedwhenyouhoveroverthem",
+        "y": 469.0,
+        "confidence": 0.985064911463904
+      },
+      {
+        "text": "YoucanholddowntheHighlightbutton(Altbydefault)",
+        "y": 506.0,
+        "confidence": 0.9892446061839228
+      },
+      {
+        "text": "toseewhichobjectsonthescreenareinteractive",
+        "y": 529.0,
+        "confidence": 0.997318317492803
+      },
+      {
+        "text": "Pleaseclickonthesoldierinfrontofyoutoproceed",
+        "y": 564.0,
+        "confidence": 0.9904605394059961
+      }
+    ]
+  },
+  {
+    "id": "T012",
+    "name": "TutorialCamping14-EN",
+    "source": "The6stagesofaninjuryare:Harmless,Moderate,Severe,Critical,Fatal,andDead\nExample1:IfafollowerwithaModeratewoundisleftuntreated,\nthewoundmaydeterioratetoaSeverewoundduringthenight\nExample2:IfafollowerwithaFatalwound istreated,\nthewoundwill beataCritical stagebythefollowing morning",
+    "image": "Analysis/tutorial_images/144_TutorialCamping14-EN.png",
+    "ocr_lines": [
+      {
+        "text": "The6stagesofaninjuryare:Harmless,Moderate,Severe,Critical,Fatal,andDead",
+        "y": 464.0,
+        "confidence": 0.8916175801989058
+      },
+      {
+        "text": "Example1:IfafollowerwithaModeratewoundisleftuntreated,",
+        "y": 496.0,
+        "confidence": 0.9905018475320604
+      },
+      {
+        "text": "thewoundmaydeterioratetoaSeverewoundduringthenight",
+        "y": 517.0,
+        "confidence": 0.9967580950260162
+      },
+      {
+        "text": "Example2:IfafollowerwithaFatalwound istreated,",
+        "y": 545.0,
+        "confidence": 0.9659956291965817
+      },
+      {
+        "text": "thewoundwill beataCritical stagebythefollowing morning",
+        "y": 566.0,
+        "confidence": 0.970265233958209
+      }
+    ]
+  },
+  {
+    "id": "T013",
+    "name": "TutorialPreparationPhase-EN",
+    "source": "Thisbattleallows you to prepare before thefight\nSelect a follower to see your available start points and click any of them to move them\nYoucanswitchouttwofollowersby selecting one unit and thenclicking another\nTheitemplacementradiusdependsonthestartpointsyouselect",
+    "image": "Analysis/tutorial_images/145_TutorialPreparationPhase-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Thisbattleallows you to prepare before thefight",
+        "y": 466.0,
+        "confidence": 0.9681240459705921
+      },
+      {
+        "text": "Select a follower to see your available start points and click any of them to move them",
+        "y": 501.0,
+        "confidence": 0.9760847961765596
+      },
+      {
+        "text": "Youcanswitchouttwofollowersby selecting one unit and thenclicking another",
+        "y": 525.0,
+        "confidence": 0.9722992222603053
+      },
+      {
+        "text": "Theitemplacementradiusdependsonthestartpointsyouselect",
+        "y": 558.0,
+        "confidence": 0.9967097849757584
+      }
+    ]
+  },
+  {
+    "id": "T014",
+    "name": "TutorialCamping01-EN",
+    "source": "This is the camping system.Before you camp for the night you should assign\ntaskstoyourfollowers,distributerations,aswellastreatanyinjuredmembers\nofyourexpedition",
+    "image": "Analysis/tutorial_images/157_TutorialCamping01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "This is the camping system.Before you camp for the night you should assign",
+        "y": 474.0,
+        "confidence": 0.9848722501381023
+      },
+      {
+        "text": "taskstoyourfollowers,distributerations,aswellastreatanyinjuredmembers",
+        "y": 500.0,
+        "confidence": 0.9921988412953805
+      },
+      {
+        "text": "ofyourexpedition",
+        "y": 521.0,
+        "confidence": 0.9975457526743412
+      }
+    ]
+  },
+  {
+    "id": "T015",
+    "name": "TutorialAbilities-EN",
+    "source": "Each of your characters has a set of abilities\nThere are three majortypesofabilities:\n-AttackAction\nUsed insteadofyourAttack\n-Full Turn Action\nSpendsyourentireturn\n-FreeAction\nFreetouse",
+    "image": "Analysis/tutorial_images/197_TutorialAbilities-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Each of your characters has a set of abilities",
+        "y": 469.0,
+        "confidence": 0.9672022073165231
+      },
+      {
+        "text": "There are three majortypesofabilities:",
+        "y": 511.0,
+        "confidence": 0.9592808861481515
+      },
+      {
+        "text": "-AttackAction",
+        "y": 511.0,
+        "confidence": 0.9972483882537255
+      },
+      {
+        "text": "Used insteadofyourAttack",
+        "y": 511.0,
+        "confidence": 0.9788101638356844
+      },
+      {
+        "text": "-Full Turn Action",
+        "y": 532.0,
+        "confidence": 0.9773778985528385
+      },
+      {
+        "text": "Spendsyourentireturn",
+        "y": 534.0,
+        "confidence": 0.9973608702421188
+      },
+      {
+        "text": "-FreeAction",
+        "y": 553.0,
+        "confidence": 0.9971360564231873
+      },
+      {
+        "text": "Freetouse",
+        "y": 555.0,
+        "confidence": 0.9982892142401801
+      }
+    ]
+  },
+  {
+    "id": "T016",
+    "name": "TutorialCamping09-EN",
+    "source": "AfollowerneedsatleastonepointinTinkeringtobeabletoresearch newinventions\nAfollowerwithhightinkeringskillcanresearchmoreadvancedinventions",
+    "image": "Analysis/tutorial_images/205_TutorialCamping09-EN.png",
+    "ocr_lines": [
+      {
+        "text": "AfollowerneedsatleastonepointinTinkeringtobeabletoresearch newinventions",
+        "y": 495.0,
+        "confidence": 0.9908799992667304
+      },
+      {
+        "text": "Afollowerwithhightinkeringskillcanresearchmoreadvancedinventions",
+        "y": 535.0,
+        "confidence": 0.990458719432354
+      }
+    ]
+  },
+  {
+    "id": "T017",
+    "name": "TutorialFollowerManagement03-EN",
+    "source": "APromotionimprovesthefollowerinseveralways:\n-Their combat effectiveness is improved\n-They gain1Active Class Ability\n-Theygain1PassiveAbilityofyour choosing\n-Theygain3points toincrease theirCamping Skills",
+    "image": "Analysis/tutorial_images/235_TutorialFollowerManagement03-EN.png",
+    "ocr_lines": [
+      {
+        "text": "APromotionimprovesthefollowerinseveralways:",
+        "y": 466.0,
+        "confidence": 0.9921222661816796
+      },
+      {
+        "text": "-Their combat effectiveness is improved",
+        "y": 494.0,
+        "confidence": 0.9671106735865275
+      },
+      {
+        "text": "-They gain1Active Class Ability",
+        "y": 516.0,
+        "confidence": 0.9561927453164132
+      },
+      {
+        "text": "-Theygain1PassiveAbilityofyour choosing",
+        "y": 537.0,
+        "confidence": 0.986297132113041
+      },
+      {
+        "text": "-Theygain3points toincrease theirCamping Skills",
+        "y": 559.0,
+        "confidence": 0.9727355393957584
+      }
+    ]
+  },
+  {
+    "id": "T018",
+    "name": "TutorialFollowerManagement01-EN",
+    "source": "FollowerManagementgivesyouanoverviewofthestatusofyourexpedition,\naswellaslettingyouPromoteandEquipyourfollowers",
+    "image": "Analysis/tutorial_images/262_TutorialFollowerManagement01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "FollowerManagementgivesyouanoverviewofthestatusofyourexpedition,",
+        "y": 493.0,
+        "confidence": 0.9869145080447197
+      },
+      {
+        "text": "aswellaslettingyouPromoteandEquipyourfollowers",
+        "y": 518.0,
+        "confidence": 0.9947920182476873
+      }
+    ]
+  },
+  {
+    "id": "T019",
+    "name": "TutorialRanged03-EN",
+    "source": "Some objectsprovidefull cover,\npreventing you from attacking targetsbehind them",
+    "image": "Analysis/tutorial_images/298_TutorialRanged03-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Some objectsprovidefull cover,",
+        "y": 499.0,
+        "confidence": 0.9797660946846009
+      },
+      {
+        "text": "preventing you from attacking targetsbehind them",
+        "y": 520.0,
+        "confidence": 0.9664542252818743
+      }
+    ]
+  },
+  {
+    "id": "T020",
+    "name": "TutorialWoundedFollower-EN",
+    "source": "Oneof yourfollowers arewounded!Woundedfollowers are notabletohelpduring camping,\nandifleftuntreatedthewoundmightdeteriorateduringthenight.\nTotreatinjuredfollowers,selectthemintheCampingmenu,\nandgototheTreatmenttab",
+    "image": "Analysis/tutorial_images/303_TutorialWoundedFollower-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Oneof yourfollowers arewounded!Woundedfollowers are notabletohelpduring camping,",
+        "y": 463.0,
+        "confidence": 0.9683852210640908
+      },
+      {
+        "text": "andifleftuntreatedthewoundmightdeteriorateduringthenight.",
+        "y": 487.0,
+        "confidence": 0.9957729055170428
+      },
+      {
+        "text": "Totreatinjuredfollowers,selectthemintheCampingmenu,",
+        "y": 523.0,
+        "confidence": 0.989491833191292
+      },
+      {
+        "text": "andgototheTreatmenttab",
+        "y": 545.0,
+        "confidence": 0.9952304715459998
+      }
+    ]
+  },
+  {
+    "id": "T021",
+    "name": "TutorialTrading01-EN",
+    "source": "Thisis the trading screen\nTrading is a bartering system where you trade your resources for the merchant's goods\nOntheleftside,youcanseethe\nOntherightside,you cansee\nmerchant'spurchasableresources\nyourowntradeableresources",
+    "image": "Analysis/tutorial_images/326_TutorialTrading01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Thisis the trading screen",
+        "y": 466.0,
+        "confidence": 0.9622622346878051
+      },
+      {
+        "text": "Trading is a bartering system where you trade your resources for the merchant's goods",
+        "y": 499.0,
+        "confidence": 0.9819617720211253
+      },
+      {
+        "text": "Ontheleftside,youcanseethe",
+        "y": 540.0,
+        "confidence": 0.9866856657541715
+      },
+      {
+        "text": "Ontherightside,you cansee",
+        "y": 540.0,
+        "confidence": 0.967012391090393
+      },
+      {
+        "text": "merchant'spurchasableresources",
+        "y": 564.0,
+        "confidence": 0.9964930713176727
+      },
+      {
+        "text": "yourowntradeableresources",
+        "y": 562.0,
+        "confidence": 0.998317518234253
+      }
+    ]
+  },
+  {
+    "id": "T022",
+    "name": "TutorialCamping07-EN",
+    "source": "Tinkering is divided into Construction and Invention\nConstruction allowsyou toassignfollowerstoconstruct traps and equipment\nInventionallowsyoutoassignfollowerstoresearch\nimprovementstotheexpedition'sgearandequipment",
+    "image": "Analysis/tutorial_images/350_TutorialCamping07-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Tinkering is divided into Construction and Invention",
+        "y": 467.0,
+        "confidence": 0.9580604434013367
+      },
+      {
+        "text": "Construction allowsyou toassignfollowerstoconstruct traps and equipment",
+        "y": 505.0,
+        "confidence": 0.9673768987118359
+      },
+      {
+        "text": "Inventionallowsyoutoassignfollowerstoresearch",
+        "y": 540.0,
+        "confidence": 0.9959842946794298
+      },
+      {
+        "text": "improvementstotheexpedition'sgearandequipment",
+        "y": 562.0,
+        "confidence": 0.9929189907179938
+      }
+    ]
+  },
+  {
+    "id": "T023",
+    "name": "TutorialFlanking-EN",
+    "source": "If you place two units on directly opposite sides of an enemy,\nboth units can make a Flanking Strike on that enemy\nA flanking strike deals substantially more damage than a normal attack",
+    "image": "Analysis/tutorial_images/354_TutorialFlanking-EN.png",
+    "ocr_lines": [
+      {
+        "text": "If you place two units on directly opposite sides of an enemy,",
+        "y": 468.0,
+        "confidence": 0.970080009391231
+      },
+      {
+        "text": "both units can make a Flanking Strike on that enemy",
+        "y": 497.0,
+        "confidence": 0.9675723618152094
+      },
+      {
+        "text": "A flanking strike deals substantially more damage than a normal attack",
+        "y": 545.0,
+        "confidence": 0.966298223393304
+      }
+    ]
+  },
+  {
+    "id": "T024",
+    "name": "TutorialItemPlacement-EN",
+    "source": "You can place your barricades before the battle starts\nClickontheBarricadeltemiconand\nthenclickwhereyouwishtoplaceit\nYou can only place items inside the green area",
+    "image": "Analysis/tutorial_images/392_TutorialItemPlacement-EN.png",
+    "ocr_lines": [
+      {
+        "text": "You can place your barricades before the battle starts",
+        "y": 468.0,
+        "confidence": 0.9878064449186679
+      },
+      {
+        "text": "ClickontheBarricadeltemiconand",
+        "y": 501.0,
+        "confidence": 0.972377140323321
+      },
+      {
+        "text": "thenclickwhereyouwishtoplaceit",
+        "y": 527.0,
+        "confidence": 0.9827940066655477
+      },
+      {
+        "text": "You can only place items inside the green area",
+        "y": 558.0,
+        "confidence": 0.9772214902483899
+      }
+    ]
+  },
+  {
+    "id": "T025",
+    "name": "TutorialCamping08-EN",
+    "source": "Constructinganitemcostsmaterials\nForexample:to craft aTorch,you need 2unitsofWood and1unitof Oil\nDuring the campaign,you will find recipes that\nteachyouhowtocraftnewtrapsanditems",
+    "image": "Analysis/tutorial_images/397_TutorialCamping08-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Constructinganitemcostsmaterials",
+        "y": 467.0,
+        "confidence": 0.9975943807512522
+      },
+      {
+        "text": "Forexample:to craft aTorch,you need 2unitsofWood and1unitof Oil",
+        "y": 504.0,
+        "confidence": 0.9511109335081918
+      },
+      {
+        "text": "During the campaign,you will find recipes that",
+        "y": 539.0,
+        "confidence": 0.97924347286639
+      },
+      {
+        "text": "teachyouhowtocraftnewtrapsanditems",
+        "y": 562.0,
+        "confidence": 0.9977573366726146
+      }
+    ]
+  },
+  {
+    "id": "T026",
+    "name": "TutorialMovement-EN",
+    "source": "The grid shows how far you can move\nStay inside the light green area if\nConvert your action into moves\nyou also want to attack this turn\nby walking into the dark green area\nYellowmovementindicator\nOrange movementindicator",
+    "image": "Analysis/tutorial_images/410_TutorialMovement-EN.png",
+    "ocr_lines": [
+      {
+        "text": "The grid shows how far you can move",
+        "y": 465.0,
+        "confidence": 0.981423362663814
+      },
+      {
+        "text": "Stay inside the light green area if",
+        "y": 497.0,
+        "confidence": 0.9860400761876787
+      },
+      {
+        "text": "Convert your action into moves",
+        "y": 499.0,
+        "confidence": 0.9799105763435364
+      },
+      {
+        "text": "you also want to attack this turn",
+        "y": 519.0,
+        "confidence": 0.9360322807774399
+      },
+      {
+        "text": "by walking into the dark green area",
+        "y": 521.0,
+        "confidence": 0.9671583328928266
+      },
+      {
+        "text": "Yellowmovementindicator",
+        "y": 557.0,
+        "confidence": 0.9968905682149141
+      },
+      {
+        "text": "Orange movementindicator",
+        "y": 558.0,
+        "confidence": 0.9823348994056383
+      }
+    ]
+  },
+  {
+    "id": "T027",
+    "name": "TutorialCamping02-EN",
+    "source": "Eachtimeyoucampyoucan\nassigntaskstoyourfollowers\nYou assigntasksbyselectingafollower,\nand clicking on theintended taskon the rightside\nTheiconfortheassignedtaskwillappear\nontherightsideofthefollower",
+    "image": "Analysis/tutorial_images/425_TutorialCamping02-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Eachtimeyoucampyoucan",
+        "y": 462.0,
+        "confidence": 0.9973277421224684
+      },
+      {
+        "text": "assigntaskstoyourfollowers",
+        "y": 486.0,
+        "confidence": 0.9816571565774771
+      },
+      {
+        "text": "You assigntasksbyselectingafollower,",
+        "y": 488.0,
+        "confidence": 0.9801278875933753
+      },
+      {
+        "text": "and clicking on theintended taskon the rightside",
+        "y": 511.0,
+        "confidence": 0.9495936011274656
+      },
+      {
+        "text": "Theiconfortheassignedtaskwillappear",
+        "y": 545.0,
+        "confidence": 0.9973596521786281
+      },
+      {
+        "text": "ontherightsideofthefollower",
+        "y": 567.0,
+        "confidence": 0.9982765471493756
+      }
+    ]
+  },
+  {
+    "id": "T028",
+    "name": "TutorialTrading02-EN",
+    "source": "IfamerchanthasaLowSupplyofaresource,\nWheneverpossible,\ntheywill value thatresourcehigher than usual\naimtobuyresourcesinHighSupply\nandsell resourcesin LowSupply\nIfthemerchanthasaHighSupplyofaresource,\ntheywillvaluethatresourcelowerthannormal\nAlltraders areresetevery7days",
+    "image": "Analysis/tutorial_images/442_TutorialTrading02-EN.png",
+    "ocr_lines": [
+      {
+        "text": "IfamerchanthasaLowSupplyofaresource,",
+        "y": 467.0,
+        "confidence": 0.9903889132870568
+      },
+      {
+        "text": "Wheneverpossible,",
+        "y": 469.0,
+        "confidence": 0.9935580036219429
+      },
+      {
+        "text": "theywill value thatresourcehigher than usual",
+        "y": 492.0,
+        "confidence": 0.9592657915570519
+      },
+      {
+        "text": "aimtobuyresourcesinHighSupply",
+        "y": 492.0,
+        "confidence": 0.9969691202558321
+      },
+      {
+        "text": "andsell resourcesin LowSupply",
+        "y": 513.0,
+        "confidence": 0.9717938673907313
+      },
+      {
+        "text": "IfthemerchanthasaHighSupplyofaresource,",
+        "y": 530.0,
+        "confidence": 0.9897665320298611
+      },
+      {
+        "text": "theywillvaluethatresourcelowerthannormal",
+        "y": 554.0,
+        "confidence": 0.9952321276068687
+      },
+      {
+        "text": "Alltraders areresetevery7days",
+        "y": 552.0,
+        "confidence": 0.9843490329282037
+      }
+    ]
+  },
+  {
+    "id": "T029",
+    "name": "TutorialRestore-EN",
+    "source": "Ifany of your people are injured,\nselect your Doctor and click on theRestore ability\nThenselecttheinjuredperson torestoresome endurance",
+    "image": "Analysis/tutorial_images/492_TutorialRestore-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Ifany of your people are injured,",
+        "y": 464.0,
+        "confidence": 0.950398761214632
+      },
+      {
+        "text": "select your Doctor and click on theRestore ability",
+        "y": 487.0,
+        "confidence": 0.9462623536586762
+      },
+      {
+        "text": "Thenselecttheinjuredperson torestoresome endurance",
+        "y": 544.0,
+        "confidence": 0.9823462271690369
+      }
+    ]
+  },
+  {
+    "id": "T030",
+    "name": "TutorialRanged01-EN",
+    "source": "Ranged attacks depend on line of sight and distance\nThefartheryou arefromyourtarget,\nthelesslikelyyouare tohit",
+    "image": "Analysis/tutorial_images/515_TutorialRanged01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Ranged attacks depend on line of sight and distance",
+        "y": 474.0,
+        "confidence": 0.9904994193245383
+      },
+      {
+        "text": "Thefartheryou arefromyourtarget,",
+        "y": 527.0,
+        "confidence": 0.9799285717308521
+      },
+      {
+        "text": "thelesslikelyyouare tohit",
+        "y": 549.0,
+        "confidence": 0.9530143404006958
+      }
+    ]
+  },
+  {
+    "id": "T031",
+    "name": "TutorialVictoryScreen-EN",
+    "source": "Thevictoryscreenshowsthestatusof\nIfafollowerhasbeenincapacitatedatanypoint,\nyourfollowersafterthebattle\nthereis a risk he orshehasrecieved an injury,\nwhichmustbetreatedbyaskilledDoctor\nAninjuredfollowermayalsoloseonepointofequipment",
+    "image": "Analysis/tutorial_images/528_TutorialVictoryScreen-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Thevictoryscreenshowsthestatusof",
+        "y": 470.0,
+        "confidence": 0.9975707288831472
+      },
+      {
+        "text": "Ifafollowerhasbeenincapacitatedatanypoint,",
+        "y": 466.0,
+        "confidence": 0.9886605186121804
+      },
+      {
+        "text": "yourfollowersafterthebattle",
+        "y": 492.0,
+        "confidence": 0.9852719240718417
+      },
+      {
+        "text": "thereis a risk he orshehasrecieved an injury,",
+        "y": 487.0,
+        "confidence": 0.9455365075005425
+      },
+      {
+        "text": "whichmustbetreatedbyaskilledDoctor",
+        "y": 510.0,
+        "confidence": 0.9977385051110211
+      },
+      {
+        "text": "Aninjuredfollowermayalsoloseonepointofequipment",
+        "y": 552.0,
+        "confidence": 0.9971568457623745
+      }
+    ]
+  },
+  {
+    "id": "T032",
+    "name": "TutorialMapInitial02-EN",
+    "source": "In thetopleftcorneryoucanfind theMenubuttons\nFromhereyoucanaccesstheMainMenu,FollowerManagement,Goals,and Inventory\nIn the top right corner you can see the Compass - clicking on this opens the map\nIn the lower right corner you can find the Make Camp button\nYoucannotaccessthismenuyet,asyoucan'tcampinsideacity",
+    "image": "Analysis/tutorial_images/552_TutorialMapInitial02-EN.png",
+    "ocr_lines": [
+      {
+        "text": "In thetopleftcorneryoucanfind theMenubuttons",
+        "y": 464.0,
+        "confidence": 0.9789648408239539
+      },
+      {
+        "text": "FromhereyoucanaccesstheMainMenu,FollowerManagement,Goals,and Inventory",
+        "y": 487.0,
+        "confidence": 0.9696241753441946
+      },
+      {
+        "text": "In the top right corner you can see the Compass - clicking on this opens the map",
+        "y": 513.0,
+        "confidence": 0.9766026586294174
+      },
+      {
+        "text": "In the lower right corner you can find the Make Camp button",
+        "y": 540.0,
+        "confidence": 0.9744915335865344
+      },
+      {
+        "text": "Youcannotaccessthismenuyet,asyoucan'tcampinsideacity",
+        "y": 562.0,
+        "confidence": 0.9898130595684052
+      }
+    ]
+  },
+  {
+    "id": "T033",
+    "name": "TutorialItemPlacementEnd-EN",
+    "source": "Whenyou'redonewithyourpreparations,\nClick the BEGIN BATTLE button toproceed with your turn",
+    "image": "Analysis/tutorial_images/562_TutorialItemPlacementEnd-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Whenyou'redonewithyourpreparations,",
+        "y": 487.0,
+        "confidence": 0.9921654564993722
+      },
+      {
+        "text": "Click the BEGIN BATTLE button toproceed with your turn",
+        "y": 534.0,
+        "confidence": 0.9536909725930955
+      }
+    ]
+  },
+  {
+    "id": "T034",
+    "name": "TutorialRanged02-EN",
+    "source": "Some objects provide partial cover,\nreducing the chance to hit your target",
+    "image": "Analysis/tutorial_images/574_TutorialRanged02-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Some objects provide partial cover,",
+        "y": 493.0,
+        "confidence": 0.9941542199679784
+      },
+      {
+        "text": "reducing the chance to hit your target",
+        "y": 517.0,
+        "confidence": 0.9886068466462588
+      }
+    ]
+  },
+  {
+    "id": "T035",
+    "name": "TutorialIndicatorRing-EN",
+    "source": "The character rings indicate what you can do this turn\nThebluering indicates\nThe red ring indicates that\nGray rings mean that the\nthat you can still move\nyoucanperformanaction\ncharacterhasspentitsturn",
+    "image": "Analysis/tutorial_images/588_TutorialIndicatorRing-EN.png",
+    "ocr_lines": [
+      {
+        "text": "The character rings indicate what you can do this turn",
+        "y": 469.0,
+        "confidence": 0.9772460129525926
+      },
+      {
+        "text": "Thebluering indicates",
+        "y": 509.0,
+        "confidence": 0.978836252575829
+      },
+      {
+        "text": "The red ring indicates that",
+        "y": 508.0,
+        "confidence": 0.9961289785526417
+      },
+      {
+        "text": "Gray rings mean that the",
+        "y": 509.0,
+        "confidence": 0.9484795729319254
+      },
+      {
+        "text": "that you can still move",
+        "y": 533.0,
+        "confidence": 0.9394273265548374
+      },
+      {
+        "text": "youcanperformanaction",
+        "y": 532.0,
+        "confidence": 0.9970422727721078
+      },
+      {
+        "text": "characterhasspentitsturn",
+        "y": 531.0,
+        "confidence": 0.9863546242316564
+      }
+    ]
+  },
+  {
+    "id": "T036",
+    "name": "TutorialNoMoves-EN",
+    "source": "Youhave nomore movesleft and therefore cannot travel anyfurthertoday\nYoumustcampforthenightbeforeyou are abletomove again\nToopenthecampmanagementmenu,\npresstheMake Campiconinthelowerrightsideof the screen",
+    "image": "Analysis/tutorial_images/607_TutorialNoMoves-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Youhave nomore movesleft and therefore cannot travel anyfurthertoday",
+        "y": 465.0,
+        "confidence": 0.9647942360709695
+      },
+      {
+        "text": "Youmustcampforthenightbeforeyou are abletomove again",
+        "y": 505.0,
+        "confidence": 0.9787148328927847
+      },
+      {
+        "text": "Toopenthecampmanagementmenu,",
+        "y": 540.0,
+        "confidence": 0.9934888929128647
+      },
+      {
+        "text": "presstheMake Campiconinthelowerrightsideof the screen",
+        "y": 562.0,
+        "confidence": 0.9745200568774961
+      }
+    ]
+  },
+  {
+    "id": "T037",
+    "name": "TutorialCamping05-EN",
+    "source": "Some areasare moredifficulttocampinthan others,\nsomind thedifficultyof the terrainbefore makingcamp.\nBeonthelookoutforcontextualevents,asassigning\npeople to them could benefit yourexpedition.",
+    "image": "Analysis/tutorial_images/610_TutorialCamping05-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Some areasare moredifficulttocampinthan others,",
+        "y": 462.0,
+        "confidence": 0.9707133744625335
+      },
+      {
+        "text": "somind thedifficultyof the terrainbefore makingcamp.",
+        "y": 483.0,
+        "confidence": 0.9603728583225837
+      },
+      {
+        "text": "Beonthelookoutforcontextualevents,asassigning",
+        "y": 518.0,
+        "confidence": 0.9924912108315362
+      },
+      {
+        "text": "people to them could benefit yourexpedition.",
+        "y": 540.0,
+        "confidence": 0.9565938331864097
+      }
+    ]
+  },
+  {
+    "id": "T038",
+    "name": "TutorialFollowerManagement04-EN",
+    "source": "Remembertoupgradeyourfollowers'CampingSkillsafterpromotingthem\nEachskillcorrespondstoataskwhenyoumakecamp\nYouroverallchanceofsuccessineachtaskisdeterminedby\nthetotalskillvalueofallfollowersassignedtothattask",
+    "image": "Analysis/tutorial_images/630_TutorialFollowerManagement04-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Remembertoupgradeyourfollowers'CampingSkillsafterpromotingthem",
+        "y": 470.0,
+        "confidence": 0.9953892567465382
+      },
+      {
+        "text": "Eachskillcorrespondstoataskwhenyoumakecamp",
+        "y": 501.0,
+        "confidence": 0.9978920278095064
+      },
+      {
+        "text": "Youroverallchanceofsuccessineachtaskisdeterminedby",
+        "y": 536.0,
+        "confidence": 0.9970848631858825
+      },
+      {
+        "text": "thetotalskillvalueofallfollowersassignedtothattask",
+        "y": 559.0,
+        "confidence": 0.9890013468265534
+      }
+    ]
+  },
+  {
+    "id": "T039",
+    "name": "TutorialCamping06-EN",
+    "source": "TheAutoAssignbuttonassignseachfollowertothetaskthey aremostskilled at\nAllofyourfollowerswillcontinuetodotheirassignedtaskthe\nnexttimeyoucamp,unlesstheygetneworders\nIfAutoCampischecked,youwillautomatically\ncampwhenyou runoutofmoves",
+    "image": "Analysis/tutorial_images/639_TutorialCamping06-EN.png",
+    "ocr_lines": [
+      {
+        "text": "TheAutoAssignbuttonassignseachfollowertothetaskthey aremostskilled at",
+        "y": 461.0,
+        "confidence": 0.9847202033236406
+      },
+      {
+        "text": "Allofyourfollowerswillcontinuetodotheirassignedtaskthe",
+        "y": 496.0,
+        "confidence": 0.9945189047742773
+      },
+      {
+        "text": "nexttimeyoucamp,unlesstheygetneworders",
+        "y": 521.0,
+        "confidence": 0.989261081344203
+      },
+      {
+        "text": "IfAutoCampischecked,youwillautomatically",
+        "y": 554.0,
+        "confidence": 0.9893031120300293
+      },
+      {
+        "text": "campwhenyou runoutofmoves",
+        "y": 577.0,
+        "confidence": 0.9788454627990723
+      }
+    ]
+  },
+  {
+    "id": "T040",
+    "name": "TutorialFollowerManagement05-EN",
+    "source": "You canuseEquipmenttoupgrade thequalityofweapons andarmour\nAsyoupromote them,yourfollowerswill beabletoequipbettergear\nSimply clickonanempty slottofill the follower's equipment up to that slot\nIfanexpeditionmemberhasmultipleweaponproficiencies,\nyoucanswitchbetweentheirweaponswiththearrowbuttons",
+    "image": "Analysis/tutorial_images/652_TutorialFollowerManagement05-EN.png",
+    "ocr_lines": [
+      {
+        "text": "You canuseEquipmenttoupgrade thequalityofweapons andarmour",
+        "y": 457.0,
+        "confidence": 0.9753093842802376
+      },
+      {
+        "text": "Asyoupromote them,yourfollowerswill beabletoequipbettergear",
+        "y": 480.0,
+        "confidence": 0.9773885779461619
+      },
+      {
+        "text": "Simply clickonanempty slottofill the follower's equipment up to that slot",
+        "y": 514.0,
+        "confidence": 0.9493305879096462
+      },
+      {
+        "text": "Ifanexpeditionmemberhasmultipleweaponproficiencies,",
+        "y": 546.0,
+        "confidence": 0.9862359364827474
+      },
+      {
+        "text": "youcanswitchbetweentheirweaponswiththearrowbuttons",
+        "y": 568.0,
+        "confidence": 0.9921394550800323
+      }
+    ]
+  },
+  {
+    "id": "T041",
+    "name": "TutorialMapInitial03-EN",
+    "source": "Yourmousecursorchangestoshowwhereyou canand cannotgo\nThiscursorindicatesanaccessiblelocation\nThiscursorindicatesaninaccessiblelocation\nThiscursorindicatesthecurrentlyselectedlocation\nClickhere againtomovetotheselectedlocation",
+    "image": "Analysis/tutorial_images/659_TutorialMapInitial03-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Yourmousecursorchangestoshowwhereyou canand cannotgo",
+        "y": 463.0,
+        "confidence": 0.9833388110766044
+      },
+      {
+        "text": "Thiscursorindicatesanaccessiblelocation",
+        "y": 494.0,
+        "confidence": 0.9968072038430434
+      },
+      {
+        "text": "Thiscursorindicatesaninaccessiblelocation",
+        "y": 523.0,
+        "confidence": 0.9976503863567259
+      },
+      {
+        "text": "Thiscursorindicatesthecurrentlyselectedlocation",
+        "y": 547.0,
+        "confidence": 0.9959887874887344
+      },
+      {
+        "text": "Clickhere againtomovetotheselectedlocation",
+        "y": 568.0,
+        "confidence": 0.9735573189599174
+      }
+    ]
+  },
+  {
+    "id": "T042",
+    "name": "TutorialFollowerManagement02-EN",
+    "source": "TheSkillstabletsyouPromoteyourfollowersifyou haveenoughExperience\nThepossibleranks are:Recruit,Man-At-Arms,Veteran,Sergeant,and Lieutenant\nYoucanonlyhave2Sergeantsand1Lieutenantatthesametime",
+    "image": "Analysis/tutorial_images/787_TutorialFollowerManagement02-EN.png",
+    "ocr_lines": [
+      {
+        "text": "TheSkillstabletsyouPromoteyourfollowersifyou haveenoughExperience",
+        "y": 459.0,
+        "confidence": 0.9862774216211759
+      },
+      {
+        "text": "Thepossibleranks are:Recruit,Man-At-Arms,Veteran,Sergeant,and Lieutenant",
+        "y": 503.0,
+        "confidence": 0.9095926889114909
+      },
+      {
+        "text": "Youcanonlyhave2Sergeantsand1Lieutenantatthesametime",
+        "y": 547.0,
+        "confidence": 0.990100083397884
+      }
+    ]
+  },
+  {
+    "id": "T043",
+    "name": "TutorialLeavingCity01-EN",
+    "source": "You arenowleaving thefreemovezone around thecityofSantoDomingo\nWhenyou'renotinsideone of thesezones,you have a certain amount\nofmoveseachdaybeforeyouhavetomakecampforthenight\nWhenyourun outof movesfortheday,presstheMakeCamp\nbuttonin the lowerrightcorner oruse the hotkey(Cbydefault)",
+    "image": "Analysis/tutorial_images/803_TutorialLeavingCity01-EN.png",
+    "ocr_lines": [
+      {
+        "text": "You arenowleaving thefreemovezone around thecityofSantoDomingo",
+        "y": 465.0,
+        "confidence": 0.9673855939219075
+      },
+      {
+        "text": "Whenyou'renotinsideone of thesezones,you have a certain amount",
+        "y": 494.0,
+        "confidence": 0.9523278532489654
+      },
+      {
+        "text": "ofmoveseachdaybeforeyouhavetomakecampforthenight",
+        "y": 517.0,
+        "confidence": 0.9908184632658958
+      },
+      {
+        "text": "Whenyourun outof movesfortheday,presstheMakeCamp",
+        "y": 544.0,
+        "confidence": 0.974610605587562
+      },
+      {
+        "text": "buttonin the lowerrightcorner oruse the hotkey(Cbydefault)",
+        "y": 567.0,
+        "confidence": 0.9525598236199083
+      }
+    ]
+  },
+  {
+    "id": "T044",
+    "name": "TutorialCamping03-EN",
+    "source": "Guarding:\nThefollowerissettodefendthecampfrompossibleintrudersduringthenight\nPatrolling:\nThefollowerissettopatrolthesurroundingarealookingforpointsof interest\nHunting:\nThefollowerissettohuntformeattofeedtheexpedition\nThebottom leftshowsyourtotal percentagechance ofsuccessforeachofthese activities",
+    "image": "Analysis/tutorial_images/806_TutorialCamping03-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Guarding:",
+        "y": 463.0,
+        "confidence": 0.99522332350413
+      },
+      {
+        "text": "Thefollowerissettodefendthecampfrompossibleintrudersduringthenight",
+        "y": 464.0,
+        "confidence": 0.9975054598215854
+      },
+      {
+        "text": "Patrolling:",
+        "y": 491.0,
+        "confidence": 0.9974919015711005
+      },
+      {
+        "text": "Thefollowerissettopatrolthesurroundingarealookingforpointsof interest",
+        "y": 493.0,
+        "confidence": 0.9911124930865522
+      },
+      {
+        "text": "Hunting:",
+        "y": 522.0,
+        "confidence": 0.9957049414515495
+      },
+      {
+        "text": "Thefollowerissettohuntformeattofeedtheexpedition",
+        "y": 524.0,
+        "confidence": 0.9972076416015625
+      },
+      {
+        "text": "Thebottom leftshowsyourtotal percentagechance ofsuccessforeachofthese activities",
+        "y": 562.0,
+        "confidence": 0.9799294471740723
+      }
+    ]
+  },
+  {
+    "id": "T045",
+    "name": "TutorialCamping04-EN",
+    "source": "Herbalism:\nHerbsyoupickupduringyourtravelscanbeusedformedicine,if processed\nPreserving:\nUnpreservedmeatwillspoil during thenightifyoudonotpreserveitoreatit\nimmediately.lfyouhaveanexcessofmeat,preserveitforlateruse\nIn thebottomleftyoucanseehowmuchmeatand howmanyherbsyou'll processtonight",
+    "image": "Analysis/tutorial_images/814_TutorialCamping04-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Herbalism:",
+        "y": 466.0,
+        "confidence": 0.9964076459407807
+      },
+      {
+        "text": "Herbsyoupickupduringyourtravelscanbeusedformedicine,if processed",
+        "y": 466.0,
+        "confidence": 0.9877970265224576
+      },
+      {
+        "text": "Preserving:",
+        "y": 500.0,
+        "confidence": 0.9939418001608415
+      },
+      {
+        "text": "Unpreservedmeatwillspoil during thenightifyoudonotpreserveitoreatit",
+        "y": 501.0,
+        "confidence": 0.9841229034893548
+      },
+      {
+        "text": "immediately.lfyouhaveanexcessofmeat,preserveitforlateruse",
+        "y": 523.0,
+        "confidence": 0.9827414155006409
+      },
+      {
+        "text": "In thebottomleftyoucanseehowmuchmeatand howmanyherbsyou'll processtonight",
+        "y": 557.0,
+        "confidence": 0.981006288365142
+      }
+    ]
+  },
+  {
+    "id": "T046",
+    "name": "TutorialCamping10-EN",
+    "source": "Therationstabiswhereyou distributefoodtoyourexpeditionmembers\nYoucanselectindividualrationingbyselectingthefollower\nand choosing ration type and quantity\nGivingfollowersmore thanoneunitof\nfoodhasachancetoincreasetheirmorale",
+    "image": "Analysis/tutorial_images/818_TutorialCamping10-EN.png",
+    "ocr_lines": [
+      {
+        "text": "Therationstabiswhereyou distributefoodtoyourexpeditionmembers",
+        "y": 464.0,
+        "confidence": 0.9907276102753936
+      },
+      {
+        "text": "Youcanselectindividualrationingbyselectingthefollower",
+        "y": 499.0,
+        "confidence": 0.9970648446173038
+      },
+      {
+        "text": "and choosing ration type and quantity",
+        "y": 523.0,
+        "confidence": 0.9520840419305338
+      },
+      {
+        "text": "Givingfollowersmore thanoneunitof",
+        "y": 537.0,
+        "confidence": 0.9854246811433272
+      },
+      {
+        "text": "foodhasachancetoincreasetheirmorale",
+        "y": 560.0,
+        "confidence": 0.9972877281052726
+      }
+    ]
+  },
+  {
+    "id": "T047",
+    "name": "TutorialWeaponSwitch-EN",
+    "source": "You can switch a unit between Melee and Ranged\nSoldiersarebestinMelee\nScouts can't shoot\nHuntersarebestatRange",
+    "image": "Analysis/tutorial_images/821_TutorialWeaponSwitch-EN.png",
+    "ocr_lines": [
+      {
+        "text": "You can switch a unit between Melee and Ranged",
+        "y": 471.0,
+        "confidence": 0.9486282117988752
+      },
+      {
+        "text": "SoldiersarebestinMelee",
+        "y": 514.0,
+        "confidence": 0.9961645874110135
+      },
+      {
+        "text": "Scouts can't shoot",
+        "y": 529.0,
+        "confidence": 0.955435550875134
+      },
+      {
+        "text": "HuntersarebestatRange",
+        "y": 543.0,
+        "confidence": 0.9979299959682283
+      }
+    ]
+  },
+  {
+    "id": "T048",
+    "name": "Tutorials",
+    "source": "Tutorials",
+    "image": "Right-hand tutorial header texture"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "untouched_records_unchanged": true,
+  "repair_record_count": 11,
+  "additional_claims_used": 2,
+  "additional_call_limit": 2,
+  "tasks": [
+    {
+      "id": "pilot_translate-r13-repair-4e15ca0e",
+      "stage": "pilot_translate",
+      "status": "done"
+    },
+    {
+      "id": "pilot_review-r13-repair-8d94f11c",
+      "stage": "pilot_review",
+      "status": "done"
+    }
+  ],
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e"
+}

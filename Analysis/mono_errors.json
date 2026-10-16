@@ -1,0 +1,2774 @@
+[
+  {
+    "file": "level0",
+    "path_id": 196,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level10",
+    "path_id": 268,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level10",
+    "path_id": 269,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level10",
+    "path_id": 301,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level10",
+    "path_id": 304,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level10",
+    "path_id": 305,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level11",
+    "path_id": 1156,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level11",
+    "path_id": 1157,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level11",
+    "path_id": 1159,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level11",
+    "path_id": 1160,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level11",
+    "path_id": 1174,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level12",
+    "path_id": 349,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level12",
+    "path_id": 350,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level12",
+    "path_id": 383,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level12",
+    "path_id": 389,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level12",
+    "path_id": 390,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level13",
+    "path_id": 581,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level13",
+    "path_id": 589,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level13",
+    "path_id": 590,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level13",
+    "path_id": 594,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level13",
+    "path_id": 595,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level13",
+    "path_id": 596,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level14",
+    "path_id": 157,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level14",
+    "path_id": 158,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level14",
+    "path_id": 168,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level14",
+    "path_id": 174,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level14",
+    "path_id": 175,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level15",
+    "path_id": 290,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level15",
+    "path_id": 291,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level15",
+    "path_id": 301,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level15",
+    "path_id": 306,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level15",
+    "path_id": 307,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level16",
+    "path_id": 242,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level16",
+    "path_id": 243,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level16",
+    "path_id": 246,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level16",
+    "path_id": 247,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level16",
+    "path_id": 269,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level17",
+    "path_id": 265,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level17",
+    "path_id": 266,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level17",
+    "path_id": 278,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level17",
+    "path_id": 279,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level17",
+    "path_id": 281,
+    "class": "Vignetting",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level17",
+    "path_id": 282,
+    "class": "Crease",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level17",
+    "path_id": 285,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level17",
+    "path_id": 297,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level18",
+    "path_id": 444,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level18",
+    "path_id": 445,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level18",
+    "path_id": 464,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level18",
+    "path_id": 465,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level18",
+    "path_id": 482,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level19",
+    "path_id": 433,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level19",
+    "path_id": 434,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level19",
+    "path_id": 446,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level19",
+    "path_id": 447,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level19",
+    "path_id": 471,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level2",
+    "path_id": 14153,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level2",
+    "path_id": 14154,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level2",
+    "path_id": 14155,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level2",
+    "path_id": 14160,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level2",
+    "path_id": 14161,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level2",
+    "path_id": 14162,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level2",
+    "path_id": 14325,
+    "class": "AstarPath",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level2",
+    "path_id": 14399,
+    "class": "BackgroundMusicPlayer",
+    "error": "Expected to read 104 bytes, but only read 92 bytes"
+  },
+  {
+    "file": "level20",
+    "path_id": 329,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level20",
+    "path_id": 333,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level20",
+    "path_id": 334,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level20",
+    "path_id": 336,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level20",
+    "path_id": 338,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level20",
+    "path_id": 340,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level21",
+    "path_id": 363,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level21",
+    "path_id": 364,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level21",
+    "path_id": 369,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level21",
+    "path_id": 370,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level21",
+    "path_id": 402,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level22",
+    "path_id": 515,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level22",
+    "path_id": 516,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level22",
+    "path_id": 526,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level22",
+    "path_id": 543,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level22",
+    "path_id": 544,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level23",
+    "path_id": 602,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level23",
+    "path_id": 603,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level23",
+    "path_id": 613,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level23",
+    "path_id": 648,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level23",
+    "path_id": 649,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level24",
+    "path_id": 4650,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level24",
+    "path_id": 4651,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level24",
+    "path_id": 4655,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level24",
+    "path_id": 4656,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level24",
+    "path_id": 4671,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level25",
+    "path_id": 5019,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level25",
+    "path_id": 5020,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level25",
+    "path_id": 5023,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level25",
+    "path_id": 5024,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level25",
+    "path_id": 5039,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level26",
+    "path_id": 3491,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level26",
+    "path_id": 3492,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level26",
+    "path_id": 3499,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level26",
+    "path_id": 3500,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level26",
+    "path_id": 3504,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level26",
+    "path_id": 3516,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level27",
+    "path_id": 553,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level27",
+    "path_id": 554,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level27",
+    "path_id": 563,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level27",
+    "path_id": 566,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level27",
+    "path_id": 567,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level27",
+    "path_id": 609,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level28",
+    "path_id": 958,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level28",
+    "path_id": 959,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level28",
+    "path_id": 961,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level28",
+    "path_id": 994,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level28",
+    "path_id": 997,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level28",
+    "path_id": 998,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level29",
+    "path_id": 1721,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level29",
+    "path_id": 1722,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level29",
+    "path_id": 1731,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level29",
+    "path_id": 1734,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level29",
+    "path_id": 1735,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level29",
+    "path_id": 1759,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level3",
+    "path_id": 33556,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level3",
+    "path_id": 33561,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level3",
+    "path_id": 33562,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level3",
+    "path_id": 33563,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level3",
+    "path_id": 33564,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level3",
+    "path_id": 33565,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level3",
+    "path_id": 34916,
+    "class": "AstarPath",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level3",
+    "path_id": 35814,
+    "class": "BackgroundMusicPlayer",
+    "error": "Expected to read 104 bytes, but only read 92 bytes"
+  },
+  {
+    "file": "level30",
+    "path_id": 1745,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level30",
+    "path_id": 1746,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level30",
+    "path_id": 1755,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level30",
+    "path_id": 1758,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level30",
+    "path_id": 1759,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level30",
+    "path_id": 1782,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level31",
+    "path_id": 1721,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level31",
+    "path_id": 1722,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level31",
+    "path_id": 1731,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level31",
+    "path_id": 1734,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level31",
+    "path_id": 1735,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level31",
+    "path_id": 1759,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level32",
+    "path_id": 1991,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level32",
+    "path_id": 1992,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level32",
+    "path_id": 2005,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level32",
+    "path_id": 2010,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level32",
+    "path_id": 2011,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level32",
+    "path_id": 2014,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level32",
+    "path_id": 2037,
+    "class": "AttachedRiverScript",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level33",
+    "path_id": 2122,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level33",
+    "path_id": 2123,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level33",
+    "path_id": 2137,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level33",
+    "path_id": 2141,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level33",
+    "path_id": 2142,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level33",
+    "path_id": 2145,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level33",
+    "path_id": 2168,
+    "class": "AttachedRiverScript",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level34",
+    "path_id": 2122,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level34",
+    "path_id": 2123,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level34",
+    "path_id": 2137,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level34",
+    "path_id": 2141,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level34",
+    "path_id": 2142,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level34",
+    "path_id": 2145,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level34",
+    "path_id": 2168,
+    "class": "AttachedRiverScript",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level35",
+    "path_id": 501,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level35",
+    "path_id": 504,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level35",
+    "path_id": 505,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level35",
+    "path_id": 508,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level35",
+    "path_id": 509,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level35",
+    "path_id": 511,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level36",
+    "path_id": 279,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level36",
+    "path_id": 280,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level36",
+    "path_id": 292,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level36",
+    "path_id": 294,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level36",
+    "path_id": 295,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level36",
+    "path_id": 298,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level37",
+    "path_id": 365,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level37",
+    "path_id": 366,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level37",
+    "path_id": 382,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level37",
+    "path_id": 385,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level37",
+    "path_id": 388,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level37",
+    "path_id": 389,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level38",
+    "path_id": 188,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level38",
+    "path_id": 189,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level38",
+    "path_id": 196,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level38",
+    "path_id": 197,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level38",
+    "path_id": 222,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level39",
+    "path_id": 124,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level39",
+    "path_id": 125,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level39",
+    "path_id": 142,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level39",
+    "path_id": 145,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level39",
+    "path_id": 148,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level39",
+    "path_id": 149,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level4",
+    "path_id": 140,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level40",
+    "path_id": 409,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level40",
+    "path_id": 410,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level40",
+    "path_id": 416,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level40",
+    "path_id": 441,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level40",
+    "path_id": 442,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level40",
+    "path_id": 445,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level41",
+    "path_id": 210,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level41",
+    "path_id": 211,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level41",
+    "path_id": 225,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level41",
+    "path_id": 231,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level41",
+    "path_id": 234,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level41",
+    "path_id": 235,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level42",
+    "path_id": 518,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level42",
+    "path_id": 519,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level42",
+    "path_id": 521,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level42",
+    "path_id": 522,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level42",
+    "path_id": 525,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level42",
+    "path_id": 555,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level43",
+    "path_id": 344,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level43",
+    "path_id": 345,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level43",
+    "path_id": 348,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level43",
+    "path_id": 349,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level43",
+    "path_id": 376,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level44",
+    "path_id": 175,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level44",
+    "path_id": 176,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level44",
+    "path_id": 195,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level44",
+    "path_id": 202,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level44",
+    "path_id": 205,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level44",
+    "path_id": 206,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level45",
+    "path_id": 167,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level45",
+    "path_id": 168,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level45",
+    "path_id": 184,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level45",
+    "path_id": 198,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level45",
+    "path_id": 199,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level46",
+    "path_id": 393,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level46",
+    "path_id": 394,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level46",
+    "path_id": 400,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level46",
+    "path_id": 403,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level46",
+    "path_id": 404,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level46",
+    "path_id": 439,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level47",
+    "path_id": 1349,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level47",
+    "path_id": 1350,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level47",
+    "path_id": 1353,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level47",
+    "path_id": 1354,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level47",
+    "path_id": 1389,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level48",
+    "path_id": 800,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level48",
+    "path_id": 801,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level48",
+    "path_id": 803,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level48",
+    "path_id": 838,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level48",
+    "path_id": 841,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level48",
+    "path_id": 842,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level49",
+    "path_id": 1119,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level49",
+    "path_id": 1120,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level49",
+    "path_id": 1122,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level49",
+    "path_id": 1173,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level49",
+    "path_id": 1176,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level49",
+    "path_id": 1177,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level5",
+    "path_id": 590,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level5",
+    "path_id": 591,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level5",
+    "path_id": 605,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level5",
+    "path_id": 619,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level5",
+    "path_id": 620,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level50",
+    "path_id": 727,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level50",
+    "path_id": 728,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level50",
+    "path_id": 762,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level50",
+    "path_id": 769,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level50",
+    "path_id": 770,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level51",
+    "path_id": 979,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level51",
+    "path_id": 980,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level51",
+    "path_id": 986,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level51",
+    "path_id": 1011,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level51",
+    "path_id": 1012,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level51",
+    "path_id": 1015,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level52",
+    "path_id": 629,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level52",
+    "path_id": 657,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level52",
+    "path_id": 658,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level52",
+    "path_id": 661,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level52",
+    "path_id": 662,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level52",
+    "path_id": 663,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level53",
+    "path_id": 225,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level53",
+    "path_id": 226,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level53",
+    "path_id": 232,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level53",
+    "path_id": 235,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level53",
+    "path_id": 236,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level53",
+    "path_id": 273,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level54",
+    "path_id": 1411,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level54",
+    "path_id": 1412,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level54",
+    "path_id": 1417,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level54",
+    "path_id": 1418,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level54",
+    "path_id": 1421,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level54",
+    "path_id": 1425,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level55",
+    "path_id": 561,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level55",
+    "path_id": 562,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level55",
+    "path_id": 564,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level55",
+    "path_id": 565,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level55",
+    "path_id": 568,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level55",
+    "path_id": 599,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level56",
+    "path_id": 1582,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level56",
+    "path_id": 1583,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level56",
+    "path_id": 1596,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level56",
+    "path_id": 1610,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level56",
+    "path_id": 1613,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level56",
+    "path_id": 1614,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level57",
+    "path_id": 1721,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level57",
+    "path_id": 1722,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level57",
+    "path_id": 1744,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level57",
+    "path_id": 1760,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level57",
+    "path_id": 1763,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level57",
+    "path_id": 1764,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level58",
+    "path_id": 2165,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level58",
+    "path_id": 2166,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level58",
+    "path_id": 2178,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level58",
+    "path_id": 2192,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level58",
+    "path_id": 2195,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level58",
+    "path_id": 2196,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level59",
+    "path_id": 1703,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level59",
+    "path_id": 1776,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level59",
+    "path_id": 1777,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level59",
+    "path_id": 1780,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level59",
+    "path_id": 1781,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level6",
+    "path_id": 1085,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level6",
+    "path_id": 1086,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level6",
+    "path_id": 1102,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level6",
+    "path_id": 1123,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level6",
+    "path_id": 1124,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level60",
+    "path_id": 962,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level60",
+    "path_id": 963,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level60",
+    "path_id": 982,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level60",
+    "path_id": 1000,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level60",
+    "path_id": 1001,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level61",
+    "path_id": 1143,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level61",
+    "path_id": 1163,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level61",
+    "path_id": 1164,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level61",
+    "path_id": 1167,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level61",
+    "path_id": 1168,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level62",
+    "path_id": 1190,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level62",
+    "path_id": 1193,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level62",
+    "path_id": 1194,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level62",
+    "path_id": 1197,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level62",
+    "path_id": 1230,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level63",
+    "path_id": 531,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level63",
+    "path_id": 532,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level63",
+    "path_id": 544,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level63",
+    "path_id": 559,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level63",
+    "path_id": 562,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level63",
+    "path_id": 563,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level64",
+    "path_id": 1066,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level64",
+    "path_id": 1094,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level64",
+    "path_id": 1095,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level64",
+    "path_id": 1098,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level64",
+    "path_id": 1099,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level65",
+    "path_id": 1018,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level65",
+    "path_id": 1019,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level65",
+    "path_id": 1048,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level65",
+    "path_id": 1049,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level65",
+    "path_id": 1071,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level66",
+    "path_id": 1093,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level66",
+    "path_id": 1094,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level66",
+    "path_id": 1120,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level66",
+    "path_id": 1121,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level66",
+    "path_id": 1141,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level67",
+    "path_id": 250,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level67",
+    "path_id": 251,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level67",
+    "path_id": 253,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level67",
+    "path_id": 254,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level67",
+    "path_id": 277,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level68",
+    "path_id": 2233,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level68",
+    "path_id": 2274,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level68",
+    "path_id": 2277,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level68",
+    "path_id": 2278,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level68",
+    "path_id": 2281,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level69",
+    "path_id": 1737,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level69",
+    "path_id": 1784,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level69",
+    "path_id": 1787,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level69",
+    "path_id": 1788,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level69",
+    "path_id": 1791,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level69",
+    "path_id": 1792,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level7",
+    "path_id": 1017,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level7",
+    "path_id": 1018,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level7",
+    "path_id": 1020,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level7",
+    "path_id": 1054,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level7",
+    "path_id": 1057,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level7",
+    "path_id": 1058,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level70",
+    "path_id": 505,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level70",
+    "path_id": 523,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level70",
+    "path_id": 524,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level70",
+    "path_id": 528,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level70",
+    "path_id": 529,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level70",
+    "path_id": 530,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level71",
+    "path_id": 516,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level71",
+    "path_id": 528,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level71",
+    "path_id": 529,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level71",
+    "path_id": 533,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level71",
+    "path_id": 534,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level72",
+    "path_id": 427,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level72",
+    "path_id": 428,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level72",
+    "path_id": 440,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level72",
+    "path_id": 442,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level72",
+    "path_id": 443,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level72",
+    "path_id": 446,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level73",
+    "path_id": 360,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level73",
+    "path_id": 374,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level73",
+    "path_id": 375,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level73",
+    "path_id": 378,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level73",
+    "path_id": 379,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level74",
+    "path_id": 437,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level74",
+    "path_id": 452,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level74",
+    "path_id": 453,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level74",
+    "path_id": 456,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level74",
+    "path_id": 457,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level75",
+    "path_id": 385,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level75",
+    "path_id": 386,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level75",
+    "path_id": 404,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level75",
+    "path_id": 416,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level75",
+    "path_id": 417,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level76",
+    "path_id": 488,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level76",
+    "path_id": 503,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level76",
+    "path_id": 504,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level76",
+    "path_id": 507,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level76",
+    "path_id": 508,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level76",
+    "path_id": 509,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level77",
+    "path_id": 324,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level77",
+    "path_id": 325,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level77",
+    "path_id": 341,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level77",
+    "path_id": 355,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level77",
+    "path_id": 356,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level77",
+    "path_id": 358,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level78",
+    "path_id": 377,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level78",
+    "path_id": 378,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level78",
+    "path_id": 393,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level78",
+    "path_id": 406,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level78",
+    "path_id": 407,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level79",
+    "path_id": 395,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level79",
+    "path_id": 403,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level79",
+    "path_id": 404,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level79",
+    "path_id": 408,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level79",
+    "path_id": 409,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level8",
+    "path_id": 271,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level8",
+    "path_id": 272,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level8",
+    "path_id": 281,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level8",
+    "path_id": 282,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level8",
+    "path_id": 308,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level80",
+    "path_id": 326,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level80",
+    "path_id": 327,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level80",
+    "path_id": 344,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level80",
+    "path_id": 358,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level80",
+    "path_id": 359,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level81",
+    "path_id": 278,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level81",
+    "path_id": 286,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level81",
+    "path_id": 289,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level81",
+    "path_id": 290,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level81",
+    "path_id": 293,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level81",
+    "path_id": 294,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level82",
+    "path_id": 552,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level82",
+    "path_id": 553,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level82",
+    "path_id": 561,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level82",
+    "path_id": 562,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level82",
+    "path_id": 586,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level9",
+    "path_id": 224,
+    "class": "AntialiasingAsPostEffect",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level9",
+    "path_id": 225,
+    "class": "BloomAndLensFlares",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level9",
+    "path_id": 243,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "level9",
+    "path_id": 256,
+    "class": "ColorCorrectionCurves",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level9",
+    "path_id": 257,
+    "class": "ContrastEnhance",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "level9",
+    "path_id": 260,
+    "class": "GlobalFog",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "sharedassets6.assets",
+    "path_id": 85446,
+    "class": "NetVisual",
+    "error": "read_int out of bounds"
+  },
+  {
+    "file": "sharedassets6.assets",
+    "path_id": 85447,
+    "class": "TimedObjectDestructor",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "sharedassets6.assets",
+    "path_id": 85448,
+    "class": "TimedObjectDestructor",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "sharedassets6.assets",
+    "path_id": 85449,
+    "class": "TimedObjectDestructor",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "sharedassets6.assets",
+    "path_id": 85450,
+    "class": "TimedObjectDestructor",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "sharedassets6.assets",
+    "path_id": 85524,
+    "class": "soGoldenSpear",
+    "error": "Expected to read 152 bytes, but only read 128 bytes"
+  },
+  {
+    "file": "sharedassets6.assets",
+    "path_id": 85549,
+    "class": "TimedObjectDestructor",
+    "error": "failed to dump nodes raw"
+  },
+  {
+    "file": "sharedassets6.assets",
+    "path_id": 85615,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  },
+  {
+    "file": "sharedassets6.assets",
+    "path_id": 85616,
+    "class": "CombatMessageManager",
+    "error": "read_float out of bounds"
+  }
+]

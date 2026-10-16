@@ -1,0 +1,68 @@
+{
+  "evidence_id": "ev_40d670e9aa8c7c454aadcf00116e8569ac483e06132dbaf9ca0c51d42349c804",
+  "provider": {
+    "id": "rea-dotnet-static",
+    "name": "REA managed static analysis provider",
+    "version": "1"
+  },
+  "artifact": {
+    "path": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\Expeditions Conquistador\\Expeditions Conquistador_Data\\Managed\\Assembly-CSharp.dll",
+    "sha256": "1b1dbf3001f5c1fc3909c694e59fc3aa57f39446948e8055319c5cfac02cf8a8",
+    "byte_length": 2761728,
+    "format": "pe"
+  },
+  "classification": {
+    "status": "managed",
+    "container": "pe",
+    "runtime_family": "unity-mono",
+    "implementation": "cil",
+    "managed_architecture": "anycpu",
+    "evidence": [
+      {
+        "code": "cli-header-observed",
+        "detail": "A file-backed PE CLI header and metadata root were admitted.",
+        "file_offset": 612
+      },
+      {
+        "code": "unity-reference-observed",
+        "detail": "The admitted AssemblyRef table contains a UnityEngine reference.",
+        "file_offset": 2151178
+      },
+      {
+        "code": "managed-architecture-derived",
+        "detail": "Managed architecture anycpu is derived from PE machine and CLI flags.",
+        "file_offset": 628
+      }
+    ]
+  },
+  "module": {
+    "name": "Assembly-CSharp.dll",
+    "generation": 0,
+    "mvid": "11680888-35f7-4fb9-aa45-92609c16ffdd",
+    "enc_id": null,
+    "enc_base_id": null,
+    "token": "0x00000001",
+    "row_offset": 1808012
+  },
+  "coverage": {
+    "state": "complete",
+    "issues": []
+  },
+  "limitations": [
+    "Static inspection did not load the assembly, resolve dependencies through a CLR, decompile C#, or execute target code."
+  ],
+  "member_inspection": {
+    "evidence_id": "ev_7205270a7f7b7062378d4037bae0dc95277644f50c795a06a5b9e1ffc2e33103",
+    "coverage": {
+      "state": "unavailable",
+      "issues": [
+        {
+          "code": "resource-limit",
+          "scope": "metadata.representation",
+          "offset": 193364,
+          "detail": "Managed metadata exceeds the 67108864 byte representation budget"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "method": "Read-only SQLite snapshot + immutable round reports and submitted handoff inputs. Categories use first failing gate only; regression_overlap is non-exclusive. Meaning counts include regression suffixes. No semantic correctness verdict is inferred. Change field counts are occurrences, not unique records.",
+  "rounds": [
+    {
+      "archive": "review_00001.json",
+      "checked": 14691,
+      "passed": 11628,
+      "failed": 3063,
+      "first_failure_categories": {
+        "review_record_contract": 3011,
+        "regression_overlap": 59,
+        "structure_gate": 19,
+        "terminology_gate": 32,
+        "reported_blocking_semantic_issue": 1
+      },
+      "diagnostics": {
+        "Meaning/completeness/logic checks cannot be skipped for non-empty text": 1819,
+        "Invalid review change evidence": 197,
+        "Review source_excerpt must cite the assigned original text": 335,
+        "Review correction requires before/after and an error category": 30,
+        "Each review check requires status and specific evidence: accuracy": 40,
+        "R0003204_b4cadc26c0: structural mismatch ['exclusion_1']": 1,
+        "Context exception must be an object": 260,
+        "R0003408_0ff6549007: terminology mismatch ['battle']": 1,
+        "R0003514_15b33c7d64: structural mismatch ['exclusion_1']": 1,
+        "R0003535_3937a669bb: structural mismatch ['exclusion_1']": 1,
+        "Every record requires explicit semantic review and evidence/reason": 40,
+        "R0003774_b79ddc66b0: terminology mismatch ['tribal']": 1,
+        "Issues require severity and reason": 40,
+        "R0003946_f7961fe3b3: terminology mismatch ['cult']": 1,
+        "R0003955_bc782c2e4d: terminology mismatch ['tribal']": 1,
+        "R0004043_26e495a26f: structural mismatch ['exclusion_1']": 1,
+        "R0004046_3d9b794ae3: structural mismatch ['exclusion_1']": 1,
+        "Context exceptions must be a list or a single object": 96,
+        "Context exceptions need source and reason": 106,
+        "R0005328_1e2a92a603: terminology mismatch ['Totonac']": 1,
+        "R0005331_e85ffd0ace: terminology mismatch ['Tlaxcalteca']": 1,
+        "R0005343_1e2a92a603: terminology mismatch ['Totonac']": 1,
+        "R0005346_e85ffd0ace: terminology mismatch ['Tlaxcalteca']": 1,
+        "R0005396_fa9b0c6a3c: terminology mismatch ['causeway']": 1,
+        "R0005405_0cd67379e1: terminology mismatch ['Totonac']": 1,
+        "R0005484_b676460c93: terminology mismatch ['expedition members']": 1,
+        "R0005687_f666ba7b5e: terminology mismatch ['attack']": 1,
+        "R0005689_5dc690fd09: terminology mismatch ['gold']": 1,
+        "R0005706_ae3d54e067: terminology mismatch ['Totonac control']": 1,
+        "Corrected translation must identify a corrected check": 7,
+        "Review changes must be a list": 40,
+        "R0007277_5c222d264d: terminology mismatch ['Itzel']": 1,
+        "R0008574_158406e554: terminology mismatch ['Spanish']": 1,
+        "Unresolved blocking semantic issue": 1,
+        "R0009223_2f4b06f32e: terminology mismatch ['Totonac', 'tribal']": 1,
+        "R0009703_e7c3c3e967: structural mismatch ['exclusion_1']": 1,
+        "R0009757_0d358055aa: terminology mismatch ['Warrior']": 1,
+        "R0009762_c854c22c06: terminology mismatch ['move']": 1,
+        "R0009787_3087e16dae: terminology mismatch ['Aztec', 'Warrior']": 1,
+        "R0010098_69fa519c73: terminology mismatch ['fortify']": 1,
+        "R0010100_548ccdf5e1: terminology mismatch ['fortify']": 1,
+        "R0010102_135511c896: terminology mismatch ['Totonac']": 1,
+        "R0010695_2cf163e011: terminology mismatch ['Totonac']": 1,
+        "R0011092_1bccf77155: terminology mismatch ['Aztec']": 1,
+        "R0011492_81194133c8: terminology mismatch ['defend']": 1,
+        "R0011497_9e52b51253: structural mismatch ['exclusion_1']": 1,
+        "R0012263_ea423dc068: structural mismatch ['exclusion_1']": 1,
+        "R0012437_beb57ce6e6: structural mismatch ['exclusion_1']": 1,
+        "R0012449_cf75fb0543: structural mismatch ['exclusion_1']": 1,
+        "R0012518_0a36d51af3: structural mismatch ['exclusion_1']": 1,
+        "R0012520_0a36d51af3: structural mismatch ['exclusion_1']": 1,
+        "R0012527_5b2f5ff822: structural mismatch ['exclusion_1']": 1,
+        "R0012529_2bcc70f3ae: structural mismatch ['exclusion_1']": 1,
+        "R0012470_2015639233: terminology mismatch ['combat', 'ravine', 'rebels', 'battle', 'Esteban', 'Leandra']": 1,
+        "R0012472_0fad55df86: terminology mismatch ['Leandra', 'jungle', 'Esteban']": 1,
+        "R0012617_3e8bba9e2d: structural mismatch ['exclusion_1']": 1,
+        "R0012651_7c14a2f98a: terminology mismatch ['tribal']": 1,
+        "R0012711_efeee65e2f: structural mismatch ['exclusion_1']": 1,
+        "R0012774_dc93c062ba: structural mismatch ['exclusion_1']": 1,
+        "R0013252_1c41bd67cb: terminology mismatch ['tribute']": 1,
+        "R0013452_1b22d04413: terminology mismatch ['patrol']": 1,
+        "R0013553_8f9cfda18b: structural mismatch ['exclusion_1']": 1,
+        "R0013589_e6dd4c1a8e: structural mismatch ['exclusion_1']": 1,
+        "R0013424_1ff619a2f0: terminology mismatch ['married']": 1,
+        "Context exception refers to an unrelated term": 1
+      },
+      "forbidden_not_applicable_dimensions": {
+        "logic": 1819
+      },
+      "meaning_failure_records": 1819,
+      "meaning_failure_translation_unchanged": 1786,
+      "repeated_meaning_failure_from_previous_round": 0,
+      "invalid_change_fields_occurrences": {
+        "excerpt_not_record_excerpt": 188,
+        "before_not_task_translation": 9,
+        "after_not_full_translation": 4,
+        "unchanged_translation": 5
+      },
+      "failed_task_input_files": 236,
+      "input_files_with_conflicting_instruction": 236
+    },
+    {
+      "archive": "review_00002.json",
+      "checked": 3063,
+      "passed": 1187,
+      "failed": 1876,
+      "first_failure_categories": {
+        "review_record_contract": 1838,
+        "regression_overlap": 4,
+        "terminology_gate": 19,
+        "structure_gate": 18,
+        "reported_blocking_semantic_issue": 1
+      },
+      "diagnostics": {
+        "Meaning/completeness/logic checks cannot be skipped for non-empty text": 1587,
+        "Invalid review change evidence": 103,
+        "Context exception must be an object": 114,
+        "R0010695_2cf163e011: terminology mismatch ['Totonac']": 1,
+        "R0012061_68328060e2: structural mismatch ['exclusion_1']": 1,
+        "Review correction requires before/after and an error category": 5,
+        "R0003774_b79ddc66b0: terminology mismatch ['tribal']": 1,
+        "R0007164_f6c0e1f1c8: structural mismatch ['exclusion_1']": 1,
+        "R0007413_b5c4c63824: terminology mismatch ['Aztec']": 1,
+        "R0009787_3087e16dae: terminology mismatch ['Aztec', 'Warrior']": 1,
+        "Review source_excerpt must cite the assigned original text": 1,
+        "R0013252_1c41bd67cb: terminology mismatch ['tribute']": 1,
+        "R0013452_1b22d04413: terminology mismatch ['patrol']": 1,
+        "R0004346_034d9e8f72: terminology mismatch ['patrol']": 1,
+        "Context exceptions must be a list or a single object": 28,
+        "R0005146_2b6e5c4fef: terminology mismatch ['tribal']": 1,
+        "R0010098_69fa519c73: terminology mismatch ['fortify']": 1,
+        "R0010100_548ccdf5e1: terminology mismatch ['fortify']": 1,
+        "R0010102_135511c896: terminology mismatch ['Totonac']": 1,
+        "R0003514_15b33c7d64: structural mismatch ['exclusion_1']": 1,
+        "R0005689_5dc690fd09: terminology mismatch ['gold']": 1,
+        "R0011413_2a72f80ae6: structural mismatch ['exclusion_1']": 1,
+        "R0011492_81194133c8: terminology mismatch ['defend']": 1,
+        "R0011497_9e52b51253: structural mismatch ['exclusion_1']": 1,
+        "R0009452_e3917ce769: structural mismatch ['exclusion_0']": 1,
+        "R0009703_e7c3c3e967: structural mismatch ['exclusion_1']": 1,
+        "R0009757_0d358055aa: terminology mismatch ['Warrior']": 1,
+        "R0009762_c854c22c06: terminology mismatch ['move']": 1,
+        "Unresolved blocking semantic issue": 1,
+        "R0008827_4c21a79a18: structural mismatch ['exclusion_0']": 1,
+        "R0005160_09ef430527: terminology mismatch ['settlement']": 1,
+        "R0012320_093d506573: structural mismatch ['exclusion_1']": 1,
+        "R0012263_ea423dc068: structural mismatch ['exclusion_1']": 1,
+        "R0012357_51a62729ce: structural mismatch ['exclusion_1']": 1,
+        "R0012437_beb57ce6e6: structural mismatch ['exclusion_1']": 1,
+        "R0012449_cf75fb0543: structural mismatch ['exclusion_1']": 1,
+        "R0012527_5b2f5ff822: structural mismatch ['exclusion_1']": 1,
+        "R0012529_2bcc70f3ae: structural mismatch ['exclusion_1']": 1,
+        "R0012585_8a1ecb7379: structural mismatch ['exclusion_1']": 1,
+        "R0012617_3e8bba9e2d: structural mismatch ['exclusion_1']": 1,
+        "R0012651_7c14a2f98a: terminology mismatch ['tribal']": 1,
+        "R0012711_efeee65e2f: structural mismatch ['exclusion_1']": 1,
+        "R0010577_7e3e384aec: terminology mismatch ['defend', 'attack']": 1,
+        "R0010579_91b4c621be: terminology mismatch ['silver']": 1
+      },
+      "forbidden_not_applicable_dimensions": {
+        "logic": 1587,
+        "accuracy": 14
+      },
+      "meaning_failure_records": 1587,
+      "meaning_failure_translation_unchanged": 1553,
+      "repeated_meaning_failure_from_previous_round": 1523,
+      "invalid_change_fields_occurrences": {
+        "excerpt_not_record_excerpt": 96,
+        "unchanged_translation": 5,
+        "before_not_task_translation": 3,
+        "after_not_full_translation": 4
+      },
+      "failed_task_input_files": 75,
+      "input_files_with_conflicting_instruction": 75
+    },
+    {
+      "archive": "review_00003.json",
+      "checked": 1876,
+      "passed": 298,
+      "failed": 1578,
+      "first_failure_categories": {
+        "review_record_contract": 1558,
+        "regression_overlap": 3,
+        "terminology_gate": 13,
+        "structure_gate": 7
+      },
+      "diagnostics": {
+        "Meaning/completeness/logic checks cannot be skipped for non-empty text": 1474,
+        "R0010695_2cf163e011: terminology mismatch ['Totonac']": 1,
+        "R0005160_09ef430527: terminology mismatch ['settlement']": 1,
+        "R0005233_7b0d2c14c9: terminology mismatch ['Aztec']": 1,
+        "Invalid review change evidence": 59,
+        "Context exception must be an object": 3,
+        "Corrected translation must identify a corrected check": 13,
+        "R0005689_5dc690fd09: terminology mismatch ['gold']": 1,
+        "R0011413_2a72f80ae6: structural mismatch ['exclusion_1']": 1,
+        "R0011492_81194133c8: terminology mismatch ['defend']": 1,
+        "R0011497_9e52b51253: structural mismatch ['exclusion_1']": 1,
+        "R0005146_2b6e5c4fef: terminology mismatch ['tribal']": 1,
+        "R0013553_8f9cfda18b: structural mismatch ['exclusion_1']": 1,
+        "R0013589_e6dd4c1a8e: structural mismatch ['exclusion_1']": 1,
+        "R0013723_78a19da148: structural mismatch ['exclusion_1']": 1,
+        "R0013424_1ff619a2f0: terminology mismatch ['married']": 1,
+        "Review correction requires before/after and an error category": 2,
+        "R0010577_7e3e384aec: terminology mismatch ['defend', 'attack']": 1,
+        "R0010579_91b4c621be: terminology mismatch ['silver']": 1,
+        "R0010098_69fa519c73: terminology mismatch ['fortify']": 1,
+        "R0010100_548ccdf5e1: terminology mismatch ['fortify']": 1,
+        "R0010102_135511c896: terminology mismatch ['Totonac']": 1,
+        "R0010256_4446c40b48: structural mismatch ['exclusion_0']": 1,
+        "R0004700_dd39e62ace: terminology mismatch ['married']": 1,
+        "Context exceptions must be a list or a single object": 7,
+        "R0012774_dc93c062ba: structural mismatch ['exclusion_1']": 1
+      },
+      "forbidden_not_applicable_dimensions": {
+        "logic": 1474
+      },
+      "meaning_failure_records": 1474,
+      "meaning_failure_translation_unchanged": 1431,
+      "repeated_meaning_failure_from_previous_round": 1431,
+      "invalid_change_fields_occurrences": {
+        "excerpt_not_record_excerpt": 61
+      },
+      "failed_task_input_files": 47,
+      "input_files_with_conflicting_instruction": 47
+    },
+    {
+      "archive": "review_00004.json",
+      "checked": 1578,
+      "passed": 138,
+      "failed": 1440,
+      "first_failure_categories": {
+        "review_record_contract": 1429,
+        "regression_overlap": 3,
+        "terminology_gate": 6,
+        "structure_gate": 5
+      },
+      "diagnostics": {
+        "Meaning/completeness/logic checks cannot be skipped for non-empty text": 1377,
+        "Invalid review change evidence": 52,
+        "R0010098_69fa519c73: terminology mismatch ['fortify']": 1,
+        "R0010100_548ccdf5e1: terminology mismatch ['fortify']": 1,
+        "R0012774_dc93c062ba: structural mismatch ['exclusion_1']": 1,
+        "R0009703_e7c3c3e967: structural mismatch ['exclusion_1']": 1,
+        "R0013553_8f9cfda18b: structural mismatch ['exclusion_1']": 1,
+        "R0005689_5dc690fd09: terminology mismatch ['gold']": 1,
+        "R0011413_2a72f80ae6: structural mismatch ['exclusion_1']": 1,
+        "R0011492_81194133c8: terminology mismatch ['defend']": 1,
+        "R0011497_9e52b51253: structural mismatch ['exclusion_1']": 1,
+        "R0012651_7c14a2f98a: terminology mismatch ['tribal']": 1,
+        "R0008574_158406e554: terminology mismatch ['Aztec']": 1
+      },
+      "forbidden_not_applicable_dimensions": {
+        "logic": 1377
+      },
+      "meaning_failure_records": 1377,
+      "meaning_failure_translation_unchanged": 1342,
+      "repeated_meaning_failure_from_previous_round": 1360,
+      "invalid_change_fields_occurrences": {
+        "excerpt_not_record_excerpt": 53
+      },
+      "failed_task_input_files": 39,
+      "input_files_with_conflicting_instruction": 39
+    }
+  ],
+  "examples": [
+    {
+      "round": "review_00001.json",
+      "id": "R0000081_2bfdd797b2",
+      "source": "Masaya",
+      "translation": "马萨亚",
+      "checks": {
+        "accuracy": {
+          "evidence": "专名“马萨亚”符合条目术语，作为地点标签准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "“Masaya”的核心信息在“马萨亚”中完整表达。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "孤立名词标签，不含否定、条件、数量关系或动作逻辑。",
+          "status": "not_applicable"
+        },
+        "placeholders": {
+          "evidence": "原文和译文均无变量、控制标签或保护标记。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "对照本条术语核对；命中术语采用冻结译法，其他标签译义准确。",
+          "status": "pass"
+        },
+        "tone": {
+          "evidence": "孤立UI标签采用简洁清晰的名词表达。",
+          "status": "pass"
+        }
+      }
+    },
+    {
+      "round": "review_00001.json",
+      "id": "R0000082_12a84e545b",
+      "source": "Pearl Fishers",
+      "translation": "采珠人",
+      "checks": {
+        "accuracy": {
+          "evidence": "指采珠者群体，译义准确简练。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "“Pearl Fishers”的核心信息在“采珠人”中完整表达。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "孤立名词标签，不含否定、条件、数量关系或动作逻辑。",
+          "status": "not_applicable"
+        },
+        "placeholders": {
+          "evidence": "原文和译文均无变量、控制标签或保护标记。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "对照本条术语核对；命中术语采用冻结译法，其他标签译义准确。",
+          "status": "pass"
+        },
+        "tone": {
+          "evidence": "孤立UI标签采用简洁清晰的名词表达。",
+          "status": "pass"
+        }
+      }
+    },
+    {
+      "round": "review_00001.json",
+      "id": "R0000083_f15945a58a",
+      "source": "Totonac Village",
+      "translation": "托托纳克村庄",
+      "checks": {
+        "accuracy": {
+          "evidence": "族名与地点类别均保留。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "“Totonac Village”的核心信息在“托托纳克村庄”中完整表达。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "孤立名词标签，不含否定、条件、数量关系或动作逻辑。",
+          "status": "not_applicable"
+        },
+        "placeholders": {
+          "evidence": "原文和译文均无变量、控制标签或保护标记。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "对照本条术语核对；命中术语采用冻结译法，其他标签译义准确。",
+          "status": "pass"
+        },
+        "tone": {
+          "evidence": "孤立UI标签采用简洁清晰的名词表达。",
+          "status": "pass"
+        }
+      }
+    }
+  ]
+}

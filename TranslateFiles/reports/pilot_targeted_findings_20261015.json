@@ -1,0 +1,41 @@
+{
+  "report_hash": "2d260de4044e1cdc97bf540c3b84f0eb64cda26b10c36ba9aa001472ee64b218",
+  "reviewer": "sol",
+  "status": "needs_targeted_revision_not_approved",
+  "scope": "保留全部150条现有成果；仅列出实际主审发现，不重新运行整轮试译。",
+  "findings": [
+    {
+      "ordinal": 7372,
+      "id": "R0007372_4b4bb4c2c8",
+      "severity": "critical",
+      "source_excerpt": "those who do not serve Quetzalcoatl",
+      "translation_excerpt": "侍奉羽蛇神的人可不常这么做",
+      "reason": "漏掉do not，导致所指人群反转。独立审校的pass不能作为此条通过依据。",
+      "requirement": "由修订实例只修此条否定关系，保留全部动态变量及其余正确内容。"
+    },
+    {
+      "ordinal": 10230,
+      "id": "R0010230_afcdd72ee0",
+      "severity": "major",
+      "source_excerpt": "the village where Tepictoton instructed you to seek the holy idol that his father lost",
+      "translation_excerpt": "他父亲当年把神像遗失在了这里",
+      "reason": "原文明确寻找地点，未断言父亲当年在这里遗失；译文增加地点和时间。",
+      "requirement": "仅消除原文没有确认的时间、丢失地点和方式，不增加邻行剧情推断。"
+    },
+    {
+      "ordinal": 10259,
+      "id": "R0010259_b64c4b1573",
+      "severity": "major",
+      "source_excerpt": "My father took it fair and square after we beat them in a ball game!",
+      "translation_excerpt": "我父亲在球赛中打败他们后",
+      "reason": "we的比赛主体被缩成父亲。另斜体从belong扩到不属于，需核对作用范围；已修好的归属否定必须保留。",
+      "requirement": "恢复比赛主体和原斜体作用范围，只修此条。"
+    }
+  ],
+  "budget": {
+    "pilot_executions_used": 6,
+    "pilot_execution_limit": 6,
+    "new_agents_spawned_for_this_audit": 0,
+    "action": "保存定向修订要求；不绕过执行上限，不批准关键错误，不整轮重跑。"
+  }
+}

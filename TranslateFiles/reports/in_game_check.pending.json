@@ -1,0 +1,10 @@
+{
+  "status": "completed",
+  "reason": "User explicitly confirmed biographies, quests and tutorial captions all display correctly; final installation roundtrips passed and record-game-check/release-check passed.",
+  "candidate_manifest": "Repack/reports/candidate_payload_manifest.json",
+  "candidate_validation": "Repack/reports/candidate_validation.json",
+  "previous_game_check": "in_game_check.json describes the initial tested build and is stale for the new candidate. release-check rejects changed evidence hashes.",
+  "required_checks": [],
+  "deployment_report": "Repack/reports/candidate_deployment.json",
+  "final_report": "TranslateFiles/reports/in_game_check.json"
+}

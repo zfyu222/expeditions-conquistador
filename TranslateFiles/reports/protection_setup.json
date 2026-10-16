@@ -1,0 +1,36 @@
+{
+  "tested": true,
+  "example": "PNameLast, /listen/ [HOTKEY] [Check Diplomacy Medium] FNameFirst2 {0} XX",
+  "protected": "⟪SHH_d083ce8078e3_0⟫, ⟪SHH_d083ce8078e3_1⟫listen⟪SHH_d083ce8078e3_2⟫ ⟪SHH_d083ce8078e3_3⟫ [Check Diplomacy Medium] ⟪SHH_d083ce8078e3_4⟫ ⟪SHH_d083ce8078e3_5⟫ ⟪SHH_d083ce8078e3_6⟫",
+  "mapping": [
+    {
+      "placeholder": "⟪SHH_d083ce8078e3_0⟫",
+      "original": "PNameLast"
+    },
+    {
+      "placeholder": "⟪SHH_d083ce8078e3_1⟫",
+      "original": "/"
+    },
+    {
+      "placeholder": "⟪SHH_d083ce8078e3_2⟫",
+      "original": "/"
+    },
+    {
+      "placeholder": "⟪SHH_d083ce8078e3_3⟫",
+      "original": "[HOTKEY]"
+    },
+    {
+      "placeholder": "⟪SHH_d083ce8078e3_4⟫",
+      "original": "FNameFirst2"
+    },
+    {
+      "placeholder": "⟪SHH_d083ce8078e3_5⟫",
+      "original": "{0}"
+    },
+    {
+      "placeholder": "⟪SHH_d083ce8078e3_6⟫",
+      "original": "XX"
+    }
+  ],
+  "notes": "Default families unchanged without overrides; Check player text remains translatable."
+}

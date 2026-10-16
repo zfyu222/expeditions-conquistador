@@ -1,0 +1,23 @@
+{
+  "records": 14691,
+  "speaker_metadata_changes": 7874,
+  "text_types": {
+    "UI label/fragment": 1599,
+    "UI description": 174,
+    "Biography": 82,
+    "Event title": 263,
+    "Narrative": 4120,
+    "Dialogue": 2551,
+    "Player choice": 4887,
+    "Quest": 478,
+    "Codex": 48,
+    "Map/UI": 321,
+    "Tutorial": 134,
+    "Hardcoded UI": 34
+  },
+  "limitations": [
+    "No speaker invented for unattributed Dialogue.",
+    "Player choice author separated from dialogue recipient.",
+    "Original text, source positions and scene grouping are unchanged."
+  ]
+}

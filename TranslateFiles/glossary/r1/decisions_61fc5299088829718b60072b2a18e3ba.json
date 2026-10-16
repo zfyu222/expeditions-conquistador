@@ -1,0 +1,813 @@
+{
+  "snapshot_sha256": "a936e03e07076179490b318d366ad0db4013dd767b8210900298506db9314c22",
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "review_complete": true,
+  "review_summary": "逐项核对本批 180 条词条的语境证据、译名、类别和专名一致性。按规则隔离重复源项；修正人物名类别、营级部队类别、古铁雷斯要塞译名、异拼武器译名、族名和陷阱物品译名。",
+  "reviewed_refs": [
+    "terms:686",
+    "terms:687",
+    "terms:688",
+    "terms:689",
+    "terms:690",
+    "terms:691",
+    "terms:692",
+    "terms:693",
+    "terms:694",
+    "terms:695",
+    "terms:696",
+    "terms:697",
+    "terms:698",
+    "terms:699",
+    "terms:700",
+    "terms:701",
+    "terms:702",
+    "terms:703",
+    "terms:704",
+    "terms:705",
+    "terms:706",
+    "terms:707",
+    "terms:708",
+    "terms:709",
+    "terms:710",
+    "terms:711",
+    "terms:712",
+    "terms:713",
+    "terms:714",
+    "terms:715",
+    "terms:716",
+    "terms:717",
+    "terms:718",
+    "terms:719",
+    "terms:720",
+    "terms:721",
+    "terms:722",
+    "terms:723",
+    "terms:724",
+    "terms:725",
+    "terms:726",
+    "terms:727",
+    "terms:728",
+    "terms:729",
+    "terms:730",
+    "terms:731",
+    "terms:732",
+    "terms:733",
+    "terms:734",
+    "terms:735",
+    "terms:736",
+    "terms:737",
+    "terms:738",
+    "terms:739",
+    "terms:740",
+    "terms:741",
+    "terms:742",
+    "terms:743",
+    "terms:744",
+    "terms:745",
+    "terms:746",
+    "terms:747",
+    "terms:748",
+    "terms:749",
+    "terms:750",
+    "terms:751",
+    "terms:752",
+    "terms:753",
+    "terms:754",
+    "terms:755",
+    "terms:756",
+    "terms:757",
+    "terms:758",
+    "terms:759",
+    "terms:760",
+    "terms:761",
+    "terms:762",
+    "terms:763",
+    "terms:764",
+    "terms:765",
+    "terms:766",
+    "terms:767",
+    "terms:768",
+    "terms:769",
+    "terms:770",
+    "terms:771",
+    "terms:772",
+    "terms:773",
+    "terms:774",
+    "terms:775",
+    "terms:776",
+    "terms:777",
+    "terms:778",
+    "terms:779",
+    "terms:780",
+    "terms:781",
+    "terms:782",
+    "terms:783",
+    "terms:784",
+    "terms:785",
+    "terms:786",
+    "terms:787",
+    "terms:788",
+    "terms:789",
+    "terms:790",
+    "terms:791",
+    "terms:792",
+    "terms:793",
+    "terms:794",
+    "terms:795",
+    "terms:796",
+    "terms:797",
+    "terms:798",
+    "terms:799",
+    "terms:800",
+    "terms:801",
+    "terms:802",
+    "terms:803",
+    "terms:804",
+    "terms:805",
+    "terms:806",
+    "terms:807",
+    "terms:808",
+    "terms:809",
+    "terms:810",
+    "terms:811",
+    "terms:812",
+    "terms:813",
+    "terms:814",
+    "terms:815",
+    "terms:816",
+    "terms:817",
+    "terms:818",
+    "terms:819",
+    "terms:820",
+    "terms:821",
+    "terms:822",
+    "terms:823",
+    "terms:824",
+    "terms:825",
+    "terms:826",
+    "terms:827",
+    "terms:828",
+    "terms:829",
+    "terms:830",
+    "terms:831",
+    "terms:832",
+    "terms:833",
+    "terms:834",
+    "terms:835",
+    "terms:836",
+    "terms:837",
+    "terms:838",
+    "terms:839",
+    "terms:840",
+    "terms:841",
+    "terms:842",
+    "terms:843",
+    "terms:844",
+    "terms:845",
+    "terms:846",
+    "terms:847",
+    "terms:848",
+    "terms:849",
+    "terms:850",
+    "terms:851",
+    "terms:852",
+    "terms:853",
+    "terms:854",
+    "terms:855",
+    "terms:856",
+    "terms:857",
+    "terms:858",
+    "terms:859",
+    "terms:860",
+    "terms:861",
+    "terms:862",
+    "terms:863",
+    "terms:864",
+    "terms:865"
+  ],
+  "acknowledged_findings": [
+    "F0012",
+    "F0013",
+    "F0014",
+    "F0028",
+    "F0033",
+    "F0034",
+    "F0040",
+    "F0046",
+    "F0050",
+    "F0051",
+    "F0054",
+    "F0058",
+    "F0061",
+    "F0065",
+    "F0066",
+    "F0068",
+    "F0074",
+    "F0075",
+    "F0076",
+    "F0077",
+    "F0085",
+    "F0092",
+    "F0098",
+    "F0099",
+    "F0109",
+    "F0110",
+    "F0111",
+    "F0112",
+    "F0113",
+    "F0125",
+    "F0136",
+    "F0137",
+    "F0151",
+    "F0153",
+    "F0155",
+    "F0156",
+    "F0158",
+    "F0159",
+    "F0160",
+    "F0162",
+    "F0163",
+    "F0164",
+    "F0167",
+    "F0168",
+    "F0169",
+    "F0170",
+    "F0171",
+    "F0172",
+    "F0173",
+    "F0174",
+    "F0175",
+    "F0176",
+    "F0177",
+    "F0193",
+    "F0201",
+    "F0205",
+    "F0209",
+    "F0215",
+    "F0218",
+    "F0219",
+    "F0220",
+    "F0230",
+    "F0235",
+    "F0236",
+    "F0239",
+    "F0247",
+    "F0248",
+    "F0254",
+    "F0255",
+    "F0261",
+    "F0263",
+    "F0265",
+    "F0286",
+    "F0291",
+    "F0299",
+    "F0300",
+    "F0303",
+    "F0307",
+    "F0319",
+    "F0320",
+    "F0322",
+    "F0328",
+    "F0329",
+    "F0331",
+    "F0332",
+    "F0333",
+    "F0334",
+    "F0335",
+    "F0337",
+    "F0338",
+    "F0339",
+    "F0340",
+    "F0341",
+    "F0342",
+    "F0343",
+    "F0344"
+  ],
+  "edits": [
+    {
+      "table": "terms",
+      "index": 686,
+      "patch": {
+        "category_path": "人物"
+      },
+      "reason": "ordinal 6838 明确以全名自我介绍，属于人物专名；“男性”不是本表支持的类别，应归入人物。",
+      "evidence_rows": [
+        6838
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 688,
+      "patch": {
+        "category_path": "人物"
+      },
+      "reason": "ordinals 6863、7073 以 Señor Diniz 称呼该人物，并以人名/称谓使用；改用支持的人物类别。",
+      "evidence_rows": [
+        6863
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 687,
+      "patch": {
+        "recommended_translation": "古铁雷斯要塞"
+      },
+      "reason": "ordinal 6840 将 Fortaleza Gutiérrez 用作正式地点名；Fortaleza 在此指要塞，统一为“古铁雷斯要塞”。",
+      "evidence_rows": [
+        6840
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 697,
+      "patch": {
+        "recommended_translation": "古铁雷斯要塞"
+      },
+      "reason": "ordinals 7044/7058 指向同一 Fortaleza De Gutierrez 地点；按军事据点含义统一为“古铁雷斯要塞”。",
+      "evidence_rows": [
+        7044
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 698,
+      "patch": {
+        "category_path": "组织"
+      },
+      "reason": "ordinal 7073 明确 batallón 是由 500 人组成、为作战集结的营级军事单位；当前“身份”分类不当，应归组织。",
+      "evidence_rows": [
+        7073
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 752,
+      "patch": {
+        "recommended_translation": "马夸维特尔"
+      },
+      "reason": "ordinal 9065 中 maquahuitl 是与匕首并列的武器名称。译名应采用统一音译“马夸维特尔”，不把解释性括号放入推荐译名。",
+      "evidence_rows": [
+        9065
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 853,
+      "patch": {
+        "recommended_translation": "毒蒺藜"
+      },
+      "reason": "ordinal 12384 指可投放的 poison caltrops；caltrops 是蒺藜类撒布陷阱，不是拒马钉，改为“毒蒺藜”。",
+      "evidence_rows": [
+        12384
+      ]
+    }
+  ],
+  "quarantine": [
+    {
+      "table": "terms",
+      "index": 764,
+      "reason": "重复源项；依表顺序保留唯一主条目 characters:61，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        9720,
+        9723
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 839,
+      "reason": "重复源项；依表顺序保留唯一主条目 characters:94，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        12018,
+        12019
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 781,
+      "reason": "重复源项；依表顺序保留唯一主条目 characters:100，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10394
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 744,
+      "reason": "重复源项；依表顺序保留唯一主条目 characters:112，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        8716,
+        8725
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 734,
+      "reason": "重复源项；依表顺序保留唯一主条目 characters:124，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        8231
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 731,
+      "reason": "重复源项；依表顺序保留唯一主条目 characters:150，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        8101
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 765,
+      "reason": "重复源项；依表顺序保留唯一主条目 characters:155，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        9816,
+        9827
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 793,
+      "reason": "重复源项；依表顺序保留唯一主条目 characters:163，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11018
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 777,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:7，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10145,
+        10148,
+        10149,
+        11359
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 822,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:14，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11602,
+        11604
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 827,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:23，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11616,
+        11642
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 802,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:32，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11346,
+        11359
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 732,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:41，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        8144
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 821,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:59，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11598,
+        14563
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 831,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:62，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11644
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 791,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:65，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10793,
+        10801
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 823,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:65，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11608,
+        14602
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 820,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:67，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11596
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 692,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:89，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        6945,
+        6946
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 693,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:107，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        6945,
+        6946
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 723,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:118，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        7648
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 803,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:118，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11374,
+        11375
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 806,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:118，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11399,
+        11537
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 851,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:121，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        12345
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 786,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:166，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10516
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 694,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:169，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        6949,
+        6981
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 695,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:172，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        6945,
+        6946
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 780,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:175，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10272,
+        10516
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 696,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:180，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        6958,
+        7002
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 700,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:245，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        7111,
+        7181
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 854,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:329，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        12461
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 770,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:338，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10031
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 852,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:493，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        12345
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 797,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:507，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11198,
+        11208
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 783,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:563，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10347
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 782,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:564，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10347
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 747,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:577，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        8810,
+        9389
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 790,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:596，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10796
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 739,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:597，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        8416
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 750,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:597，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        9096,
+        9227
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 738,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:604，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        8355
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 749,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:604，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        8985,
+        9110
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 737,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:613，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        8260
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 766,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:618，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        9900,
+        9904
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 787,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:687，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10591
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 720,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:718，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        7535
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 825,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:724，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11610
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 761,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:748，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        9552,
+        9560
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 776,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:756，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10124
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 792,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:758，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10903
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 789,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:769，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        10775
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 824,
+      "reason": "重复源项；依表顺序保留唯一主条目 terms:773，本条隔离以统一术语译名。",
+      "evidence_rows": [
+        11608
+      ]
+    }
+  ],
+  "additions": [],
+  "allow_no_match": []
+}

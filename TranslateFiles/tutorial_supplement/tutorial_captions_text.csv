@@ -1,0 +1,205 @@
+﻿"TheAutoAssignbuttonassigns1meattoeveryfollowerifyouhavemeat
+Whenyourunoutofmeat,1rationisassignedtoeverybodyelse
+TheAssigntoall button assignstheselectedtype andquantityoffoodtoeveryfollower
+IfAutoAllocateNewMeatischecked,AutoAssignwillbedoneautomaticallyeachnight"
+"If you tryto movepast an enemy,
+they will get a free attack on you
+(called AttackofOpportunity)
+UseTacticalMovetoavoidthat,
+at the cost of spending your action"
+"Thetreatmentwindowiswhereyoutreatinjuredfollowers
+Thistabisonlyavailablewhenyouhaveselectedawoundedfollower
+Thehealthofawoundedfollowermaydeteriorateduring thenightif leftuntreated"
+"Making a Ranged attack at Melee range will
+alsoprovokeanAttackofOpportunity
+Eachunitcan only make1free attackevery turn!
+Thetooltipshowsif theystill have theirAttackofOpportunity"
+"You have triggered a battle
+Yourpeople arehighlighted with blue
+Theenemiesarehighlightedwithred
+Click on one of your troops or their portrait"
+"TotreatafolloweryouneedtoassignaDoctortohimorher,
+andhavetherequiredamountofmedicine
+AsCaptain,youcountasa doctoraswellforthepurposeoftreatment"
+"One ofyour charactershavebecome incapacitated
+The character'sinjurymay carry overinto the
+If youhavea Doctor of high enough rank,
+worldmapandyoumaylosesomeequipment
+youcanreviveyourfallenfollower"
+"WelcometoHispaniola!You'rereadingatutorialscreen
+ClickonContinueorthearrowtotherighttoproceed
+If youwanttodisabletutorialsyoucan clickDisable and thenClose"
+"When you think you're finished,
+click the hourglassto end your turn
+Ifyouknowyou'regoingtolose,
+clickthewhite flag toretreat"
+"Moving outofMeleerangeofanenemy also
+provokesanAttackofOpportunity
+Exploit this to trap the enemy's Ranged units"
+"Interactiveobjectsintheworld arehighlightedwhenyouhoveroverthem
+YoucanholddowntheHighlightbutton(Altbydefault)
+toseewhichobjectsonthescreenareinteractive
+Pleaseclickonthesoldierinfrontofyoutoproceed"
+"The6stagesofaninjuryare:Harmless,Moderate,Severe,Critical,Fatal,andDead
+Example1:IfafollowerwithaModeratewoundisleftuntreated,
+thewoundmaydeterioratetoaSeverewoundduringthenight
+Example2:IfafollowerwithaFatalwound istreated,
+thewoundwill beataCritical stagebythefollowing morning"
+"Thisbattleallows you to prepare before thefight
+Select a follower to see your available start points and click any of them to move them
+Youcanswitchouttwofollowersby selecting one unit and thenclicking another
+Theitemplacementradiusdependsonthestartpointsyouselect"
+"This is the camping system.Before you camp for the night you should assign
+taskstoyourfollowers,distributerations,aswellastreatanyinjuredmembers
+ofyourexpedition"
+"Each of your characters has a set of abilities
+There are three majortypesofabilities:
+-AttackAction
+Used insteadofyourAttack
+-Full Turn Action
+Spendsyourentireturn
+-FreeAction
+Freetouse"
+"AfollowerneedsatleastonepointinTinkeringtobeabletoresearch newinventions
+Afollowerwithhightinkeringskillcanresearchmoreadvancedinventions"
+"APromotionimprovesthefollowerinseveralways:
+-Their combat effectiveness is improved
+-They gain1Active Class Ability
+-Theygain1PassiveAbilityofyour choosing
+-Theygain3points toincrease theirCamping Skills"
+"FollowerManagementgivesyouanoverviewofthestatusofyourexpedition,
+aswellaslettingyouPromoteandEquipyourfollowers"
+"Some objectsprovidefull cover,
+preventing you from attacking targetsbehind them"
+"Oneof yourfollowers arewounded!Woundedfollowers are notabletohelpduring camping,
+andifleftuntreatedthewoundmightdeteriorateduringthenight.
+Totreatinjuredfollowers,selectthemintheCampingmenu,
+andgototheTreatmenttab"
+"Thisis the trading screen
+Trading is a bartering system where you trade your resources for the merchant's goods
+Ontheleftside,youcanseethe
+Ontherightside,you cansee
+merchant'spurchasableresources
+yourowntradeableresources"
+"Tinkering is divided into Construction and Invention
+Construction allowsyou toassignfollowerstoconstruct traps and equipment
+Inventionallowsyoutoassignfollowerstoresearch
+improvementstotheexpedition'sgearandequipment"
+"If you place two units on directly opposite sides of an enemy,
+both units can make a Flanking Strike on that enemy
+A flanking strike deals substantially more damage than a normal attack"
+"You can place your barricades before the battle starts
+ClickontheBarricadeltemiconand
+thenclickwhereyouwishtoplaceit
+You can only place items inside the green area"
+"Constructinganitemcostsmaterials
+Forexample:to craft aTorch,you need 2unitsofWood and1unitof Oil
+During the campaign,you will find recipes that
+teachyouhowtocraftnewtrapsanditems"
+"The grid shows how far you can move
+Stay inside the light green area if
+Convert your action into moves
+you also want to attack this turn
+by walking into the dark green area
+Yellowmovementindicator
+Orange movementindicator"
+"Eachtimeyoucampyoucan
+assigntaskstoyourfollowers
+You assigntasksbyselectingafollower,
+and clicking on theintended taskon the rightside
+Theiconfortheassignedtaskwillappear
+ontherightsideofthefollower"
+"IfamerchanthasaLowSupplyofaresource,
+Wheneverpossible,
+theywill value thatresourcehigher than usual
+aimtobuyresourcesinHighSupply
+andsell resourcesin LowSupply
+IfthemerchanthasaHighSupplyofaresource,
+theywillvaluethatresourcelowerthannormal
+Alltraders areresetevery7days"
+"Ifany of your people are injured,
+select your Doctor and click on theRestore ability
+Thenselecttheinjuredperson torestoresome endurance"
+"Ranged attacks depend on line of sight and distance
+Thefartheryou arefromyourtarget,
+thelesslikelyyouare tohit"
+"Thevictoryscreenshowsthestatusof
+Ifafollowerhasbeenincapacitatedatanypoint,
+yourfollowersafterthebattle
+thereis a risk he orshehasrecieved an injury,
+whichmustbetreatedbyaskilledDoctor
+Aninjuredfollowermayalsoloseonepointofequipment"
+"In thetopleftcorneryoucanfind theMenubuttons
+FromhereyoucanaccesstheMainMenu,FollowerManagement,Goals,and Inventory
+In the top right corner you can see the Compass - clicking on this opens the map
+In the lower right corner you can find the Make Camp button
+Youcannotaccessthismenuyet,asyoucan'tcampinsideacity"
+"Whenyou'redonewithyourpreparations,
+Click the BEGIN BATTLE button toproceed with your turn"
+"Some objects provide partial cover,
+reducing the chance to hit your target"
+"The character rings indicate what you can do this turn
+Thebluering indicates
+The red ring indicates that
+Gray rings mean that the
+that you can still move
+youcanperformanaction
+characterhasspentitsturn"
+"Youhave nomore movesleft and therefore cannot travel anyfurthertoday
+Youmustcampforthenightbeforeyou are abletomove again
+Toopenthecampmanagementmenu,
+presstheMake Campiconinthelowerrightsideof the screen"
+"Some areasare moredifficulttocampinthan others,
+somind thedifficultyof the terrainbefore makingcamp.
+Beonthelookoutforcontextualevents,asassigning
+people to them could benefit yourexpedition."
+"Remembertoupgradeyourfollowers'CampingSkillsafterpromotingthem
+Eachskillcorrespondstoataskwhenyoumakecamp
+Youroverallchanceofsuccessineachtaskisdeterminedby
+thetotalskillvalueofallfollowersassignedtothattask"
+"TheAutoAssignbuttonassignseachfollowertothetaskthey aremostskilled at
+Allofyourfollowerswillcontinuetodotheirassignedtaskthe
+nexttimeyoucamp,unlesstheygetneworders
+IfAutoCampischecked,youwillautomatically
+campwhenyou runoutofmoves"
+"You canuseEquipmenttoupgrade thequalityofweapons andarmour
+Asyoupromote them,yourfollowerswill beabletoequipbettergear
+Simply clickonanempty slottofill the follower's equipment up to that slot
+Ifanexpeditionmemberhasmultipleweaponproficiencies,
+youcanswitchbetweentheirweaponswiththearrowbuttons"
+"Yourmousecursorchangestoshowwhereyou canand cannotgo
+Thiscursorindicatesanaccessiblelocation
+Thiscursorindicatesaninaccessiblelocation
+Thiscursorindicatesthecurrentlyselectedlocation
+Clickhere againtomovetotheselectedlocation"
+"TheSkillstabletsyouPromoteyourfollowersifyou haveenoughExperience
+Thepossibleranks are:Recruit,Man-At-Arms,Veteran,Sergeant,and Lieutenant
+Youcanonlyhave2Sergeantsand1Lieutenantatthesametime"
+"You arenowleaving thefreemovezone around thecityofSantoDomingo
+Whenyou'renotinsideone of thesezones,you have a certain amount
+ofmoveseachdaybeforeyouhavetomakecampforthenight
+Whenyourun outof movesfortheday,presstheMakeCamp
+buttonin the lowerrightcorner oruse the hotkey(Cbydefault)"
+"Guarding:
+Thefollowerissettodefendthecampfrompossibleintrudersduringthenight
+Patrolling:
+Thefollowerissettopatrolthesurroundingarealookingforpointsof interest
+Hunting:
+Thefollowerissettohuntformeattofeedtheexpedition
+Thebottom leftshowsyourtotal percentagechance ofsuccessforeachofthese activities"
+"Herbalism:
+Herbsyoupickupduringyourtravelscanbeusedformedicine,if processed
+Preserving:
+Unpreservedmeatwillspoil during thenightifyoudonotpreserveitoreatit
+immediately.lfyouhaveanexcessofmeat,preserveitforlateruse
+In thebottomleftyoucanseehowmuchmeatand howmanyherbsyou'll processtonight"
+"Therationstabiswhereyou distributefoodtoyourexpeditionmembers
+Youcanselectindividualrationingbyselectingthefollower
+and choosing ration type and quantity
+Givingfollowersmore thanoneunitof
+foodhasachancetoincreasetheirmorale"
+"You can switch a unit between Melee and Ranged
+SoldiersarebestinMelee
+Scouts can't shoot
+HuntersarebestatRange"
+Tutorials

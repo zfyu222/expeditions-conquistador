@@ -1,0 +1,536 @@
+{
+  "translation_sha256": "eaad404d187d8ff9ce67ec722bd4d9ead82f81c679f4998d1482bbabd5ca4b48",
+  "game_version": "Steam 1752467 / game 1.6.6.1",
+  "platform": "Steam Windows x86",
+  "payload_files": [
+    {
+      "path": "Repack/Build/PatchKit/ChinesePatch/deltas/Assembly-CSharp.dll.vcdiff",
+      "game_path": "ChinesePatch/deltas/Assembly-CSharp.dll.vcdiff",
+      "sha256": "b86518e25f25503b9bf2c9514363b1c98d785cc2c87b889e7030c4ade0785f87"
+    },
+    {
+      "path": "Repack/Build/PatchKit/ChinesePatch/deltas/level0.vcdiff",
+      "game_path": "ChinesePatch/deltas/level0.vcdiff",
+      "sha256": "2d713077c672e66833a98d69688ea8b2f9fedf6b8aee0eceef70469524f1fbfc"
+    },
+    {
+      "path": "Repack/Build/PatchKit/ChinesePatch/deltas/level2.vcdiff",
+      "game_path": "ChinesePatch/deltas/level2.vcdiff",
+      "sha256": "b392fde99f8a9fee731c097cf060edbdf04824c2b0aa731d097b4c63cb248ae4"
+    },
+    {
+      "path": "Repack/Build/PatchKit/ChinesePatch/deltas/level3.vcdiff",
+      "game_path": "ChinesePatch/deltas/level3.vcdiff",
+      "sha256": "3749c86000f81608899b7350727d3dd9d4ac30aed23e64607b62846a3e25da99"
+    },
+    {
+      "path": "Repack/Build/PatchKit/ChinesePatch/deltas/sharedassets0.assets.vcdiff",
+      "game_path": "ChinesePatch/deltas/sharedassets0.assets.vcdiff",
+      "sha256": "ad130242c784eb524d8204c14ee09381f416f9bbea02f818d4c2ee01484711e1"
+    },
+    {
+      "path": "Repack/Build/PatchKit/ChinesePatch/deltas/sharedassets1.assets.vcdiff",
+      "game_path": "ChinesePatch/deltas/sharedassets1.assets.vcdiff",
+      "sha256": "4eb05a53a2a89ecc4146a30a427ce9b09eded74da81a8dbce488680752a33b5e"
+    },
+    {
+      "path": "Repack/Build/PatchKit/ChinesePatch/files/ConquistadorChinese.dll",
+      "game_path": "ChinesePatch/files/ConquistadorChinese.dll",
+      "sha256": "64413a1386274d4efcdce5b6f8ce27263fd7eaef72eb857b2d75e5a55978f448"
+    },
+    {
+      "path": "Repack/Build/PatchKit/ChinesePatch/Licenses/NotoSansSC-OFL.txt",
+      "game_path": "ChinesePatch/Licenses/NotoSansSC-OFL.txt",
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "path": "Repack/Build/PatchKit/ChinesePatch/Licenses/NotoSerifSC-OFL.txt",
+      "game_path": "ChinesePatch/Licenses/NotoSerifSC-OFL.txt",
+      "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "path": "Repack/Build/PatchKit/ChinesePatch/Licenses/xdelta-LICENSE.txt",
+      "game_path": "ChinesePatch/Licenses/xdelta-LICENSE.txt",
+      "sha256": "6cf63d87586c7c25c3ab8e62eef5c75bbaa982b0a6f9c00c59e2720255aac9ec"
+    },
+    {
+      "path": "Repack/Build/PatchKit/ChinesePatch/patch_manifest.json",
+      "game_path": "ChinesePatch/patch_manifest.json",
+      "sha256": "9076e864e2f099c89b56417ba5848677eb5c3c5410a46b3df7df9a0c1e63faeb"
+    },
+    {
+      "path": "Repack/Build/PatchKit/ChinesePatch/tools/xdelta3decode.exe",
+      "game_path": "ChinesePatch/tools/xdelta3decode.exe",
+      "sha256": "732980d52f9220dc81817ccdd0c295eadce8a0048a24c2a771a73f791ac824e9"
+    },
+    {
+      "path": "Repack/Build/PatchKit/安装汉化.exe",
+      "game_path": "安装汉化.exe",
+      "sha256": "b8a01871e1150691361e58f1de627cd35d33767ca10a022066e9bd5cee17bdaa"
+    }
+  ],
+  "installed_outputs": [
+    {
+      "game_path": "Expeditions Conquistador_Data/sharedassets0.assets",
+      "source_sha256": "ab24b38c3bbde8745f8036ab3ed8becb2d53fe90a8556b2efc05bc6ef5f9976f",
+      "sha256": "eaf771e177c730aeeefb8be8bd5c28b60633381396a16418b28db4153ae45cc4",
+      "size": 8408008,
+      "text_records": 1773,
+      "changed_objects": [
+        16
+      ],
+      "fonts": [],
+      "unchanged_objects_verified": 548,
+      "path": "Repack/Build/Game/Expeditions Conquistador_Data/sharedassets0.assets"
+    },
+    {
+      "game_path": "Expeditions Conquistador_Data/sharedassets1.assets",
+      "source_sha256": "b8ffa9629ed64c66447bfdb71f0d2d77b2ba8d9dcf1ebad4d8bbedb63a0f12a8",
+      "sha256": "b2bc81a1330a6d8e83d00d8f1d5de27373a9c7fa91499507308ac44b6460b905",
+      "size": 341014896,
+      "text_records": 12429,
+      "changed_objects": [
+        772,
+        781,
+        793,
+        796,
+        856,
+        857,
+        858,
+        859,
+        860,
+        861,
+        862,
+        863,
+        864,
+        865,
+        866
+      ],
+      "fonts": [
+        {
+          "path_id": 856,
+          "font": "ZFYNotoSerifSC-Regular.ttf",
+          "sha256": "e6e987fe56482f81e67cb82365567ff6de7e65e2cb6aee6b9d527f7fcde9cfea"
+        },
+        {
+          "path_id": 857,
+          "font": "ZFYNotoSerifSC-Bold.ttf",
+          "sha256": "1296fb3e53b721d179ae2583c98e7fc0918f2b5081d3d3843d68a35d57ed3d84"
+        },
+        {
+          "path_id": 858,
+          "font": "ZFYNotoSerifSC-Bold.ttf",
+          "sha256": "1296fb3e53b721d179ae2583c98e7fc0918f2b5081d3d3843d68a35d57ed3d84"
+        },
+        {
+          "path_id": 859,
+          "font": "ZFYNotoSerifSC-Regular.ttf",
+          "sha256": "e6e987fe56482f81e67cb82365567ff6de7e65e2cb6aee6b9d527f7fcde9cfea"
+        },
+        {
+          "path_id": 860,
+          "font": "ZFYNotoSerifSC-Regular.ttf",
+          "sha256": "e6e987fe56482f81e67cb82365567ff6de7e65e2cb6aee6b9d527f7fcde9cfea"
+        },
+        {
+          "path_id": 861,
+          "font": "ZFYNotoSansSC-Regular.ttf",
+          "sha256": "75a9a8c77e9eea275ce82fc10a819fddae2d00fc73ce4d071e1d9a7f76433fb5"
+        },
+        {
+          "path_id": 862,
+          "font": "ZFYNotoSansSC-Bold.ttf",
+          "sha256": "eaa53b5a05e268b03c2eb6d26d2f0ba2538ccc6f3dd668150bfe6678df5519c9"
+        },
+        {
+          "path_id": 863,
+          "font": "ZFYNotoSerifSC-Bold.ttf",
+          "sha256": "1296fb3e53b721d179ae2583c98e7fc0918f2b5081d3d3843d68a35d57ed3d84"
+        },
+        {
+          "path_id": 864,
+          "font": "ZFYNotoSerifSC-Bold.ttf",
+          "sha256": "1296fb3e53b721d179ae2583c98e7fc0918f2b5081d3d3843d68a35d57ed3d84"
+        },
+        {
+          "path_id": 865,
+          "font": "ZFYNotoSansSC-Regular.ttf",
+          "sha256": "75a9a8c77e9eea275ce82fc10a819fddae2d00fc73ce4d071e1d9a7f76433fb5"
+        },
+        {
+          "path_id": 866,
+          "font": "ZFYNotoSansSC-Bold.ttf",
+          "sha256": "eaa53b5a05e268b03c2eb6d26d2f0ba2538ccc6f3dd668150bfe6678df5519c9"
+        }
+      ],
+      "unchanged_objects_verified": 2072,
+      "path": "Repack/Build/Game/Expeditions Conquistador_Data/sharedassets1.assets"
+    },
+    {
+      "game_path": "Expeditions Conquistador_Data/level0",
+      "source_sha256": "6273f34bca3965c3ddfa18c2a9d12f7606f8a9cad1c1f0cb08e4462b37478400",
+      "sha256": "5487b91ec1afb622c95d43f8c5c1f3422a32f90fd8d14ff0c39c198bd8979240",
+      "size": 109784,
+      "text_records": 25,
+      "changed_objects": [
+        199
+      ],
+      "fonts": [],
+      "unchanged_objects_verified": 200,
+      "path": "Repack/Build/Game/Expeditions Conquistador_Data/level0"
+    },
+    {
+      "game_path": "Expeditions Conquistador_Data/level2",
+      "source_sha256": "1a26df8fcda56277ab38f15dbe1ee5ce6c43d6fe4ba552b1c003ca6466dbcf02",
+      "sha256": "323c3d2658a1b5dffdc519ee27207d1d6fc63d9a924461a1c6a69b6d7b183c37",
+      "size": 30265616,
+      "text_records": 162,
+      "changed_objects": [
+        13780,
+        13813,
+        13818,
+        13855,
+        13863,
+        13872,
+        13883,
+        13889,
+        13901,
+        13926,
+        13930,
+        13932,
+        13959,
+        13967,
+        13970,
+        13978,
+        13992,
+        14022,
+        14058,
+        14076,
+        14085,
+        14089,
+        14101,
+        14119,
+        14164,
+        14167,
+        14179,
+        14187,
+        14203,
+        14218,
+        14224,
+        14236,
+        14242,
+        14251,
+        14315,
+        14330,
+        14359,
+        14378,
+        14382,
+        14467,
+        14484,
+        14509,
+        14511,
+        14581,
+        14597,
+        14602,
+        14615,
+        14637,
+        14644,
+        14648,
+        14664,
+        14669,
+        14682,
+        14696,
+        14699,
+        14727,
+        14733,
+        14756,
+        14759,
+        14765,
+        14777,
+        14780,
+        14791,
+        14801,
+        14806,
+        14828,
+        14840,
+        14862,
+        14878,
+        14880,
+        14899,
+        14909
+      ],
+      "fonts": [],
+      "unchanged_objects_verified": 14842,
+      "path": "Repack/Build/Game/Expeditions Conquistador_Data/level2"
+    },
+    {
+      "game_path": "Expeditions Conquistador_Data/level3",
+      "source_sha256": "972038d0b835c1a57d63375caf911958267933bed126acefe378c91896892802",
+      "sha256": "345d34432e54c3bd670eed96f4f55b9bc3a2b05835963686d21060b73ef52d0a",
+      "size": 43761504,
+      "text_records": 268,
+      "changed_objects": [
+        33542,
+        33578,
+        33581,
+        33605,
+        33612,
+        33642,
+        33652,
+        33666,
+        33698,
+        33705,
+        33706,
+        33724,
+        33729,
+        33737,
+        33742,
+        33757,
+        33772,
+        33793,
+        33812,
+        33820,
+        33869,
+        33876,
+        33880,
+        33901,
+        33906,
+        33913,
+        33916,
+        33921,
+        33940,
+        33975,
+        33985,
+        33990,
+        34011,
+        34018,
+        34021,
+        34024,
+        34035,
+        34060,
+        34093,
+        34095,
+        34101,
+        34136,
+        34160,
+        34162,
+        34166,
+        34196,
+        34199,
+        34202,
+        34207,
+        34214,
+        34218,
+        34241,
+        34243,
+        34296,
+        34319,
+        34323,
+        34335,
+        34366,
+        34380,
+        34395,
+        34412,
+        34437,
+        34440,
+        34453,
+        34474,
+        34482,
+        34504,
+        34513,
+        34525,
+        34542,
+        34545,
+        34547,
+        34568,
+        34590,
+        34619,
+        34628,
+        34631,
+        34633,
+        34637,
+        34648,
+        34668,
+        34726,
+        34731,
+        34737,
+        34740,
+        34747,
+        34760,
+        34769,
+        34792,
+        34812,
+        34820,
+        34832,
+        34855,
+        34864,
+        34873,
+        34886,
+        34908,
+        34913,
+        34956,
+        34958,
+        34973,
+        35015,
+        35027,
+        35032,
+        35035,
+        35039,
+        35053,
+        35075,
+        35103,
+        35109,
+        35110,
+        35113,
+        35123,
+        35136,
+        35138,
+        35144,
+        35174,
+        35182,
+        35195,
+        35210,
+        35212,
+        35224,
+        35232,
+        35239,
+        35244,
+        35255,
+        35263,
+        35295,
+        35325,
+        35335,
+        35339,
+        35388,
+        35413,
+        35432,
+        35441,
+        35451,
+        35467,
+        35489,
+        35507,
+        35523,
+        35584,
+        35585,
+        35588,
+        35610,
+        35616,
+        35646,
+        35652,
+        35666,
+        35670,
+        35695,
+        35697,
+        35708,
+        35738,
+        35791,
+        35812,
+        35816,
+        35821,
+        35828,
+        35837,
+        35843,
+        35860,
+        35892
+      ],
+      "fonts": [],
+      "unchanged_objects_verified": 35775,
+      "path": "Repack/Build/Game/Expeditions Conquistador_Data/level3"
+    },
+    {
+      "game_path": "Expeditions Conquistador_Data/Managed/Assembly-CSharp.dll",
+      "source_sha256": "1b1dbf3001f5c1fc3909c694e59fc3aa57f39446948e8055319c5cfac02cf8a8",
+      "sha256": "37551346584c9c837b20d55160604487e0d00222b499d8a3415659c4cf70a9a3",
+      "path": "Repack/Build/Game/Expeditions Conquistador_Data/Managed/Assembly-CSharp.dll"
+    },
+    {
+      "game_path": "Expeditions Conquistador_Data/Managed/ConquistadorChinese.dll",
+      "source_sha256": null,
+      "sha256": "64413a1386274d4efcdce5b6f8ce27263fd7eaef72eb857b2d75e5a55978f448",
+      "path": "Repack/Build/Game/Expeditions Conquistador_Data/Managed/ConquistadorChinese.dll"
+    }
+  ],
+  "evidence_files": [
+    {
+      "path": "Repack/reports/runtime_validation.md",
+      "sha256": "e6857ae985fcedd2ffe3950845929531a3c54e7b77d6e59cd3a7ec8c317365a6"
+    },
+    {
+      "path": "Repack/reports/installer_test.json",
+      "sha256": "dde77f037e44920f41416bcecc95642822663789737be3e5c83f76faa06d7d3b"
+    },
+    {
+      "path": "Repack/reports/assets_build.json",
+      "sha256": "2dccfd22bdb22878c1f818ecf1d44b5c0cc2435f5e07eda07599df8a9b2e6300"
+    },
+    {
+      "path": "Repack/reports/managed_build.json",
+      "sha256": "0c7dc0ab696cef8367c277a3847f69c6bf8204f0b7bd2b62537ede98356fdfd7"
+    },
+    {
+      "path": "Repack/reports/font_build.json",
+      "sha256": "cd7cff3dbeccbdf21199abd2c4d77d6bc2b7e98236935336a945a534256eceda"
+    },
+    {
+      "path": "Repack/Evidence/10-port-dialogue.png",
+      "sha256": "a3d4835d2968a2f57206a61970e3ea35cfd6d36d70aa91a7006a07d237e02daa"
+    },
+    {
+      "path": "Repack/Evidence/11-dialogue-scroll.png",
+      "sha256": "4a99f1044eb67736d920ef4f1ede31e92561bd1253d708d06b2c1517c4f8f643"
+    },
+    {
+      "path": "Repack/Evidence/12-quest-objective.png",
+      "sha256": "9296c8b5c898f2bd31f5d4943e208dbe501951c88fdd4cb0e58894a96665ebd9"
+    },
+    {
+      "path": "Repack/Evidence/13-installed-main-menu.png",
+      "sha256": "4170443c1bbf98f11184a6b78f44725a6531c8f68ee7fe46442872abaed91c00"
+    },
+    {
+      "path": "Repack/Evidence/07-cinematic-known-limitation.png",
+      "sha256": "470e2370d279a12fe1a683fdc69d1aba442d91e8d8a466cb7baede671a9e1f6c"
+    },
+    {
+      "path": "Repack/Evidence/09-tutorial-known-limitation.png",
+      "sha256": "10a8f463f6628be8952ba31d8f2ec881dd2e2efa4c8bf71523cb22d55b579bb2"
+    }
+  ],
+  "checks": [
+    {
+      "category": "fonts",
+      "status": "pass",
+      "scene": "首章港口没收对话、任务目标、最终安装后主菜单",
+      "notes": "中文、中文标点和拉丁姓名变量正常；字体构建覆盖3156个所需字符，无缺字；图片和视频原文不在文本回填范围。"
+    },
+    {
+      "category": "layout",
+      "status": "pass",
+      "scene": "港口多轮对白及其滚动结尾、角色指南和队员传记",
+      "notes": "中文叙述和选项按面板宽度换行，连续对话自动滚动后结束事件选项可操作；未全面重做固定尺寸UI缩放。"
+    },
+    {
+      "category": "ui",
+      "status": "pass",
+      "scene": "主菜单、战役选择、角色与队员创建、保存游戏、最终安装后主菜单",
+      "notes": "中文按钮与实际创建、推进、保存功能相对应；难度及设置内部键保留英语，显示值单独汉化。"
+    },
+    {
+      "category": "dialogue",
+      "status": "pass",
+      "scene": "圣多明各港口没收事件",
+      "notes": "多次选择中文回应后NPC继续回答，姓名变量Alejandra Estrada正常；末尾结束事件返回地图，修复后无类型加载异常。"
+    },
+    {
+      "category": "quest",
+      "status": "pass",
+      "scene": "港口事件后角色与目标页",
+      "notes": "再次启航目标的已开始状态和说明显示中文；选择配合港口没收后资源扣除由20/100/90/800到0，与事件分支相符。仅验证目标显示及首段事件推进，未完成全任务。"
+    }
+  ],
+  "pending_followup": [
+    "安装后读取独立测试存档尚未复测",
+    "仅本地打包，按用户要求暂不上传发布"
+  ],
+  "scope": "首章代表性场景；不等于全流程通关。安装包13文件已在真实游戏目录安装并验证生成7个目标文件，与实机场景载荷哈希相同。"
+}

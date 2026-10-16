@@ -1,0 +1,48 @@
+{
+  "source_records": 14691,
+  "old_regex": "(?<![A-Za-z])(?:[PF](?:Name(?:First|Last)?|HeShe|HimHer|HisHer|SenorSenora|SenorSenorita|ManWoman|BoyGirl|SonDaughter)|F(?:Type|Rank))\\d*(?![A-Za-z])|\\bPNAME(?:FIRST|LAST)?\\b|\\b(?:RationsLost|MedicineGathered|Int_[A-Za-z0-9_]+|ManAtArms)\\b",
+  "new_regex": "(?<![A-Za-z])(?:[PF](?:Name(?:First|Last)?|HeShe|HimHer|HisHer|SenorSenora|SenorSenorita|ManWoman|BoyGirl|SonDaughter)|F(?:Type|Rank))\\d*(?![A-Za-z0-9_])|\\bPNAME(?:FIRST|LAST)?\\b|\\b(?:RationsLost|MedicineGathered|Int_[A-Za-z0-9_]+|ManAtArms)\\b|(?<![A-Za-z])(?:[PF]HimHer)\\d*(?=self\\b)",
+  "affected": [
+    {
+      "ordinal": 7372,
+      "templates": [
+        "FHimHer1self"
+      ]
+    },
+    {
+      "ordinal": 7622,
+      "templates": [
+        "FHimHer1self",
+        "FHimHer1self"
+      ]
+    },
+    {
+      "ordinal": 8009,
+      "templates": [
+        "FHimHer1self"
+      ]
+    },
+    {
+      "ordinal": 11050,
+      "templates": [
+        "FHimHer1self"
+      ]
+    },
+    {
+      "ordinal": 12398,
+      "templates": [
+        "FHimHer1self"
+      ]
+    },
+    {
+      "ordinal": 14015,
+      "templates": [
+        "FHimHer1self"
+      ]
+    }
+  ],
+  "boundary_examples": 6,
+  "result": "passed",
+  "reason": "Prevent numeric-index backtracking; preserve HimHer index before translatable reflexive suffix self",
+  "formal_export_exists": false
+}

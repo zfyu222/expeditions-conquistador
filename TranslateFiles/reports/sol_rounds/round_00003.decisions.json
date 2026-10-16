@@ -1,0 +1,33 @@
+{
+  "report_hash": "67a4a90df6c14dd302fedeff3bf52ec177cbf2f1c6f49b6e33bc077f7d44c7ed",
+  "reviewer": "sol",
+  "summary": "仅核对第3轮输入包的5项显式遗留问题，逐项对照原文、当前译文、场景/字段元数据及独立审校的修订和六维证据。1项存在未获原文支持的增译，4项可按现有证据通过或说明语境后通过。",
+  "decisions": [
+    {
+      "id": "R0003971_9383934030",
+      "disposition": "contextual",
+      "reason": "Casiguaya 在 RuinedTemple 说明部族传统；原文 following the right 语法不顺，结合 spend a week、祖先守护下狩猎的仪式语境，审校将其按疑似 rite 笔误处理为“遵循仪式”有依据。现译保留一周停留、狩猎及留至行程结束的信息。源文拼写核对建议不构成当前译文的未解决语义错误。"
+    },
+    {
+      "id": "R0005593_a63b9ac907",
+      "disposition": "contextual",
+      "reason": "本条是 Cuautitlan 的玩家选项，原文要求50 Medicine 治疗病人；当前译文保留50、治疗用途和 ASCII 双引号。独立审校明确说明本条术语字段为 Medicine→药品，现译遵循该字段；旧诊断要求“药剂”与之冲突，但没有本条依据推翻已冻结的“药品”，无需改写译文。"
+    },
+    {
+      "id": "R0007959_08ca345f0d",
+      "disposition": "pass",
+      "reason": "ShipInTheTreesClimbRope 的原文只叙述沿绳索登船、船身略斜但仍能站在甲板上；现译逐项对应。独立审校提示的 Fortress of Gutiérrez 不在本条原文，也不在当前译文，故该诊断不构成本条未解决问题。"
+    },
+    {
+      "id": "R0008820_f239d07377",
+      "disposition": "repair",
+      "record_ids": ["R0008820_f239d07377"],
+      "reason": "Moctezuma 的首句原文仅为省略式 Does PHeShe now?，本条原文和场景元数据都未说明 PHeShe 做了什么；现译“现在PHeShe才明白吗”增添了“明白”及“才”的时间判断，独立审校也明确保留此疑问。仅退回本条核实该省略所指；若无可靠上下文支持，应去掉无依据的具体动作和时间判断，同时保留 PHeShe、PHisHer 变量、后两句质问及原文 ASCII 外层双引号。"
+    },
+    {
+      "id": "R0009871_c1795cc976",
+      "disposition": "pass",
+      "reason": "Texcoco 玩家选项先拒听借口，再以西班牙语 Hombres 呼喊众人攻击；当前“弟兄们……攻击！”保留呼语对象和命令语气，独立审校已把未译的 Hombres 修正并恢复 ASCII 外层双引号。对“男人们/弟兄们”的释义提示只是可接受译法的选择，没有遗留语义错误。"
+    }
+  ]
+}

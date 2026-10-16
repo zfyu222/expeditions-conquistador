@@ -1,0 +1,305 @@
+{
+  "stage": "review",
+  "phase": "round_checked",
+  "scope": "review_round",
+  "checked_records": 26,
+  "checks": [
+    {
+      "id": "R0001537_bc51479bb5",
+      "instance": "/root/edge_space_repair_a",
+      "task_id": "review-round-25ee0b15936946a4",
+      "result": "failed",
+      "diagnostic": "Corrected translation must identify a corrected check",
+      "diagnostic_detail": {
+        "category": "review_record_contract",
+        "code": "validation_error",
+        "message": "Corrected translation must identify a corrected check"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0000255_2690a797e1",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001617_295247c847",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001637_3823bc075f",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001640_d972ca2f36",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001642_3fe304c0a5",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001722_ccb2f8fb3c",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001725_729cceb9c3",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001730_0da8ca7c97",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001731_19628420ff",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001735_49c40749fb",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001736_707322d0df",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001738_c0296bf653",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001740_f143be2033",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001742_b9e4659936",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001743_e4849a0326",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001744_01623e6654",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001745_3099b62c6a",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001760_6a61ea397b",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001764_394c2b8076",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001766_729cceb9c3",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001767_685f5451e2",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001768_df596c5637",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001769_c434533449",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0009891_3b340b744d",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0010055_817f5bff0e",
+      "instance": "/root/edge_space_repair_b",
+      "task_id": "review-round-e998f7bc5bb440d3",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    }
+  ],
+  "passed_ids": [
+    "R0000255_2690a797e1",
+    "R0001617_295247c847",
+    "R0001637_3823bc075f",
+    "R0001640_d972ca2f36",
+    "R0001642_3fe304c0a5",
+    "R0001722_ccb2f8fb3c",
+    "R0001725_729cceb9c3",
+    "R0001730_0da8ca7c97",
+    "R0001731_19628420ff",
+    "R0001735_49c40749fb",
+    "R0001736_707322d0df",
+    "R0001738_c0296bf653",
+    "R0001740_f143be2033",
+    "R0001742_b9e4659936",
+    "R0001743_e4849a0326",
+    "R0001744_01623e6654",
+    "R0001745_3099b62c6a",
+    "R0001760_6a61ea397b",
+    "R0001764_394c2b8076",
+    "R0001766_729cceb9c3",
+    "R0001767_685f5451e2",
+    "R0001768_df596c5637",
+    "R0001769_c434533449",
+    "R0009891_3b340b744d",
+    "R0010055_817f5bff0e"
+  ],
+  "failure_summary": {
+    "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+    "checked_failures": {
+      "review_record_contract": 1
+    },
+    "outstanding_failures": {
+      "review_record_contract": 1
+    },
+    "regression_overlap": 0
+  },
+  "failed_records": 1,
+  "problems": {
+    "R0001537_bc51479bb5": "Corrected translation must identify a corrected check"
+  },
+  "repair_tasks": [
+    "review-round-1149d5b9b5b449f3"
+  ],
+  "repair_dispatch": [
+    {
+      "task_id": "review-round-1149d5b9b5b449f3",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0001537_bc51479bb5": 7
+      },
+      "automatic_escalation": true
+    }
+  ],
+  "needs_attention_ids": [],
+  "clean": false,
+  "round": 21
+}

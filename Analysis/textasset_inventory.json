@@ -1,0 +1,1338 @@
+[
+  {
+    "asset_file": "resources.assets",
+    "path_id": 840,
+    "name": "BattleC1TenochtitlanPalaceGardenDefence",
+    "export": "Analysis/textassets/resources.assets/840_BattleC1TenochtitlanPalaceGardenDefence.txt",
+    "size": 5129,
+    "sha256": "fc52eca7f929c2429663539fb3777d043f4957d8690a8149dd42163448fb3959"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 841,
+    "name": "BattleEmpty",
+    "export": "Analysis/textassets/resources.assets/841_BattleEmpty.txt",
+    "size": 396,
+    "sha256": "2b96e65eb568e0ad8d08a7a9056272b082ce3b8d3e90de72a9643dfa88e761eb"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 842,
+    "name": "BattleC1EscapedSlavesAmbush",
+    "export": "Analysis/textassets/resources.assets/842_BattleC1EscapedSlavesAmbush.txt",
+    "size": 9859,
+    "sha256": "28bc69644a21147a0fdd60cb1e256fe603c460589138f02e0bafa1322eec6c3c"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 843,
+    "name": "DemoRandomEvents",
+    "export": "Analysis/textassets/resources.assets/843_DemoRandomEvents.txt",
+    "size": 459779,
+    "sha256": "b54569a280b299987af96e7a25327578b2ce12236df5cf7b0cabb0a6357fcd99"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 844,
+    "name": "BattleC0MadShamanReflections",
+    "export": "Analysis/textassets/resources.assets/844_BattleC0MadShamanReflections.txt",
+    "size": 9219,
+    "sha256": "b5f8c472189be2e596a622c6f923ebeb114e62faed8f119b818d8de66fac2111"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 845,
+    "name": "DemoRandomEvents_ES",
+    "export": "Analysis/textassets/resources.assets/845_DemoRandomEvents_ES.txt",
+    "size": 490568,
+    "sha256": "f407654c18ec024e20fff58b7f8b8f7948dd7bf0721b136a25278da4fa563cee"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 846,
+    "name": "BattleC1ToltecTemple",
+    "export": "Analysis/textassets/resources.assets/846_BattleC1ToltecTemple.txt",
+    "size": 4397,
+    "sha256": "fa93876a3f80752d96d4edf96249735743e12ab5b88fe21b57653a87fcc15bac"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 847,
+    "name": "NewRandomEventsForTranslation",
+    "export": "Analysis/textassets/resources.assets/847_NewRandomEventsForTranslation.txt",
+    "size": 162810,
+    "sha256": "70933d5a9bf8f21b6cc17c56c649595f3e88e2b84357055d91da2214302dbfed"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 848,
+    "name": "BattleC1EscapedSlavesCivilians",
+    "export": "Analysis/textassets/resources.assets/848_BattleC1EscapedSlavesCivilians.txt",
+    "size": 9937,
+    "sha256": "274264abc087b97affcaedb8ea5ff0339c10ea85b76d8fb5e5dce2f72b172256"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 849,
+    "name": "BattleC1TenochtitlanMarketScouted",
+    "export": "Analysis/textassets/resources.assets/849_BattleC1TenochtitlanMarketScouted.txt",
+    "size": 5697,
+    "sha256": "1d9f62b1ef5d570d9b5ca84927f920d252be82374d2c759067080e97d673e52d"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 850,
+    "name": "BattleTest2",
+    "export": "Analysis/textassets/resources.assets/850_BattleTest2.txt",
+    "size": 814,
+    "sha256": "cc61dbe3b37e3acef83204f2ee34443e0be2e22ece258731a3d311e9bc49d84e"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 851,
+    "name": "BattleRGDiversionEngaged",
+    "export": "Analysis/textassets/resources.assets/851_BattleRGDiversionEngaged.txt",
+    "size": 20255,
+    "sha256": "fe4100cc3fc4f6ca7a89a6555b4d328b0ff20d8e18ba36055e75a55c1fa1801a"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 852,
+    "name": "BattleC1TlaxcalaTomb",
+    "export": "Analysis/textassets/resources.assets/852_BattleC1TlaxcalaTomb.txt",
+    "size": 4935,
+    "sha256": "d431f42abf1abdd81dae0747b1a5a9a7764d05e066c7ddacc2093af6e755cc5c"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 853,
+    "name": "BattleC0FlotsamSurround",
+    "export": "Analysis/textassets/resources.assets/853_BattleC0FlotsamSurround.txt",
+    "size": 1287,
+    "sha256": "08427466d135052e46024c19968ce49644bb12cfecadcfeffed58aecca8f77e5"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 854,
+    "name": "BattleC0FortalezaOzamaBarricades",
+    "export": "Analysis/textassets/resources.assets/854_BattleC0FortalezaOzamaBarricades.txt",
+    "size": 2295,
+    "sha256": "e6dc10b61bf052e8614910341d5706a50d53c87ea23a719ee764888d5b80fc6f"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 855,
+    "name": "BattleC1TenochtitlanPalaceScouted",
+    "export": "Analysis/textassets/resources.assets/855_BattleC1TenochtitlanPalaceScouted.txt",
+    "size": 10619,
+    "sha256": "49786009efd73b3fc5ff88df64832cbec393660cb62109f3d12116388d427e7e"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 856,
+    "name": "BattleC1SwampVillage",
+    "export": "Analysis/textassets/resources.assets/856_BattleC1SwampVillage.txt",
+    "size": 5693,
+    "sha256": "29146f06579df8c409bba693ef10ab43a95d7dac761c7cf05acf79da1f2ca69f"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 857,
+    "name": "BattleC1TenochtitlanMilitaryQuarterScouted",
+    "export": "Analysis/textassets/resources.assets/857_BattleC1TenochtitlanMilitaryQuarterScouted.txt",
+    "size": 9603,
+    "sha256": "d187b016b23927541eb88e708fd0ce40d123098c11407576547720b12f3cbb10"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 858,
+    "name": "BattleRGTotonacAttackOffensive",
+    "export": "Analysis/textassets/resources.assets/858_BattleRGTotonacAttackOffensive.txt",
+    "size": 3189,
+    "sha256": "1f7ceaec5b7497deaa58dffc4ebafa534c2306cc7e2c3149c515ab68a0204b0e"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 859,
+    "name": "BattleRGTribalAttackScattered",
+    "export": "Analysis/textassets/resources.assets/859_BattleRGTribalAttackScattered.txt",
+    "size": 9533,
+    "sha256": "0aa2588f9ddf682ef9e85e2989494eca8414b3448e178f9039920543eca3e537"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 860,
+    "name": "BattleC1SwampRuinsSneaky",
+    "export": "Analysis/textassets/resources.assets/860_BattleC1SwampRuinsSneaky.txt",
+    "size": 7171,
+    "sha256": "648d616264fe34c138391ec2ff74a0577404aef629381038aeed2aba443e983a"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 861,
+    "name": "BattleC1GutierrezFortressAware",
+    "export": "Analysis/textassets/resources.assets/861_BattleC1GutierrezFortressAware.txt",
+    "size": 9645,
+    "sha256": "1d9abc3ef49439e4873da5ab1581eb49cf7386ea4ed450158c091c7f5bcce238"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 862,
+    "name": "BattleC0HalfBuriedTreasureSurround",
+    "export": "Analysis/textassets/resources.assets/862_BattleC0HalfBuriedTreasureSurround.txt",
+    "size": 1943,
+    "sha256": "6151749b912ef71891763e9f65a15a67c311ed65c7bca351b6682b8c193b9854"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 863,
+    "name": "BattleC1EscapedSlaves",
+    "export": "Analysis/textassets/resources.assets/863_BattleC1EscapedSlaves.txt",
+    "size": 9861,
+    "sha256": "e786e88223c8851778326bf96e528e5f63719ac471ed41c3ad36c70f84d6c5da"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 864,
+    "name": "BattleRTEnemyDividedCoverSplit",
+    "export": "Analysis/textassets/resources.assets/864_BattleRTEnemyDividedCoverSplit.txt",
+    "size": 8631,
+    "sha256": "35a61b3487c1ebef69dfe7c655053141f0a12e5a97d67db59bb706c8b3f59113"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 865,
+    "name": "DemoLevel0_ES",
+    "export": "Analysis/textassets/resources.assets/865_DemoLevel0_ES.txt",
+    "size": 705198,
+    "sha256": "121689fa466611af757f8c9644f0f3bdf1496487d690c919810d02b5f92af550"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 866,
+    "name": "BattleC1AztecFarmsEscape",
+    "export": "Analysis/textassets/resources.assets/866_BattleC1AztecFarmsEscape.txt",
+    "size": 5175,
+    "sha256": "12bfd331511e1c714909c71587b5af445c2407df7334698bbf1f15f707272630"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 867,
+    "name": "BattleC1EnemyStarvingTribalsTight",
+    "export": "Analysis/textassets/resources.assets/867_BattleC1EnemyStarvingTribalsTight.txt",
+    "size": 3831,
+    "sha256": "4a65ee6bf367640ef1ddd7d2728dab798a31a295a12b7b8a16b5fb65c3471442"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 868,
+    "name": "BattleC0FortalezaOzama",
+    "export": "Analysis/textassets/resources.assets/868_BattleC0FortalezaOzama.txt",
+    "size": 2141,
+    "sha256": "b6c1f4bbf36097ea7faf737986ac660319330e0277f36e9e86a9ba986da17bcc"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 869,
+    "name": "BattleTest",
+    "export": "Analysis/textassets/resources.assets/869_BattleTest.txt",
+    "size": 600,
+    "sha256": "c1c369e85f680a429fbb81446e2a2101082f8dd64755477545ffce1d125b1d54"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 870,
+    "name": "BattleC1TenochtitlanPalace",
+    "export": "Analysis/textassets/resources.assets/870_BattleC1TenochtitlanPalace.txt",
+    "size": 10617,
+    "sha256": "7bef35a9a707a527f0717d92b0707cccc7a626206944576543ff61a7c0ec59e0"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 871,
+    "name": "GridInfo",
+    "export": "Analysis/textassets/resources.assets/871_GridInfo.txt",
+    "size": 462,
+    "sha256": "bf229392bef54156ef4d25b6c976e7a2f3373c3947bb336b41ecef024a662e0c"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 872,
+    "name": "BattleC1Plains01",
+    "export": "Analysis/textassets/resources.assets/872_BattleC1Plains01.txt",
+    "size": 4633,
+    "sha256": "854d6a73c4e2ec8a06b406bf3e2d3fef9a5d861e273539a974f968c5e58bbf0f"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 873,
+    "name": "BattleC1AztecFarmsDefence",
+    "export": "Analysis/textassets/resources.assets/873_BattleC1AztecFarmsDefence.txt",
+    "size": 5621,
+    "sha256": "eac5b255394d0ed5053796c33808c94edd825ac1aeefc5de0741d0e91c155213"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 874,
+    "name": "Hispaniola",
+    "export": "Analysis/textassets/resources.assets/874_Hispaniola.txt",
+    "size": 146579,
+    "sha256": "c28a6214dc778c9ea3b65e7e6d4845ed1357be6a3295574cdf5b48a7a8a2199e"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 875,
+    "name": "BattleRoads01",
+    "export": "Analysis/textassets/resources.assets/875_BattleRoads01.txt",
+    "size": 3373,
+    "sha256": "0e5dcc353a5a0ce517aff7854982be595bc30a452209e0b03efa021f178baaec"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 876,
+    "name": "DemoLevel0",
+    "export": "Analysis/textassets/resources.assets/876_DemoLevel0.txt",
+    "size": 589927,
+    "sha256": "aac237d77152a5854c9553402e39586d62a6e93740b3c2bf2cad0bccee85b3eb"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 877,
+    "name": "BattleRTEnemyDividedCover",
+    "export": "Analysis/textassets/resources.assets/877_BattleRTEnemyDividedCover.txt",
+    "size": 8715,
+    "sha256": "78b380cb14b019f0c2cf9c079ba26a0118308686c34e07cd0f062a05bd028299"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 878,
+    "name": "BattleC1ToltecTempleAware",
+    "export": "Analysis/textassets/resources.assets/878_BattleC1ToltecTempleAware.txt",
+    "size": 4399,
+    "sha256": "7e03124baf96ee2fe13e3cda7dc8773d737bbb94a862467452d8cd75cba1a73a"
+  },
+  {
+    "asset_file": "resources.assets",
+    "path_id": 879,
+    "name": "BattleC0JungleVillageSkirmish",
+    "export": "Analysis/textassets/resources.assets/879_BattleC0JungleVillageSkirmish.txt",
+    "size": 3915,
+    "sha256": "236644a29ef79115a7f369a518774032311baf04c6fac6c3b9a2ab080243ff81"
+  },
+  {
+    "asset_file": "sharedassets0.assets",
+    "path_id": 14,
+    "name": "GUI-it",
+    "export": "Analysis/textassets/sharedassets0.assets/14_GUI-it.txt",
+    "size": 133557,
+    "sha256": "03d78af915f19ea36ff75fa48560b4d04eee2ae31bf181194bec2ac3107c5b4c"
+  },
+  {
+    "asset_file": "sharedassets0.assets",
+    "path_id": 15,
+    "name": "GUI-de",
+    "export": "Analysis/textassets/sharedassets0.assets/15_GUI-de.txt",
+    "size": 135600,
+    "sha256": "23e2ae23b01bf64cad7c02a46334bd5f141f5465ac89af2ad42bed3c02f241fb"
+  },
+  {
+    "asset_file": "sharedassets0.assets",
+    "path_id": 16,
+    "name": "GUI-en",
+    "export": "Analysis/textassets/sharedassets0.assets/16_GUI-en.txt",
+    "size": 125919,
+    "sha256": "c352e1dfe7f586056879772fec31981cb3a6e6d6e33e3d0113bd7f4f6c45d866"
+  },
+  {
+    "asset_file": "sharedassets0.assets",
+    "path_id": 17,
+    "name": "GUI-ru",
+    "export": "Analysis/textassets/sharedassets0.assets/17_GUI-ru.txt",
+    "size": 177434,
+    "sha256": "b781f28f16c1c75f6ee287430e5b5dccd979bef2166a66f62729c28442e693b1"
+  },
+  {
+    "asset_file": "sharedassets0.assets",
+    "path_id": 18,
+    "name": "GUI-es",
+    "export": "Analysis/textassets/sharedassets0.assets/18_GUI-es.txt",
+    "size": 133141,
+    "sha256": "4ce4a48ddfbd60bf64f7ad65bf533b875ace31ecc070e0c403b86c6808837459"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 753,
+    "name": "BattleMPGutierrezFortress",
+    "export": "Analysis/textassets/sharedassets1.assets/753_BattleMPGutierrezFortress.txt",
+    "size": 8631,
+    "sha256": "4967332387693285391696169d15865b3e558502b91da978f1eee172337138bb"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 754,
+    "name": "BattleMPTexcoco",
+    "export": "Analysis/textassets/sharedassets1.assets/754_BattleMPTexcoco.txt",
+    "size": 1597,
+    "sha256": "6feb77b52d4cb568441b1b14142f42b0ffbb1c4a5feac9e03d8d960a2862b70a"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 755,
+    "name": "BattleMPFortalezaOzama",
+    "export": "Analysis/textassets/sharedassets1.assets/755_BattleMPFortalezaOzama.txt",
+    "size": 2027,
+    "sha256": "d8f8717ca58c65cbbe78c8f72a578b6e5d5dcbc5d1da974126ddc4aa4b77faea"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 756,
+    "name": "BattleMPAztecSlavers",
+    "export": "Analysis/textassets/sharedassets1.assets/756_BattleMPAztecSlavers.txt",
+    "size": 9603,
+    "sha256": "09559b93b3b92d6130f86f6d638632f00fc74ad10446a1c1ade08c05a0dcdfe3"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 757,
+    "name": "BattleMPRuinedTempleNight",
+    "export": "Analysis/textassets/sharedassets1.assets/757_BattleMPRuinedTempleNight.txt",
+    "size": 2045,
+    "sha256": "c0966aabf1c70721c74bc39b476ff882303dcf5c635ec3b70425d75eaeff915a"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 758,
+    "name": "BattleMPTournament01",
+    "export": "Analysis/textassets/sharedassets1.assets/758_BattleMPTournament01.txt",
+    "size": 1217,
+    "sha256": "69ee6eceaf88ceb2078c2f607e7130f140bf4b40e3971da032efe714e3400b04"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 759,
+    "name": "BattleMPCuautitlan",
+    "export": "Analysis/textassets/sharedassets1.assets/759_BattleMPCuautitlan.txt",
+    "size": 21275,
+    "sha256": "8cb21d6acd2ea4517b0692fb294ccdaa5011cfb2e9089a010c212bc9746defb7"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 760,
+    "name": "RandomEvents",
+    "export": "Analysis/textassets/sharedassets1.assets/760_RandomEvents.txt",
+    "size": 1976916,
+    "sha256": "cd5d47aee7e631b69c5bf54f33bfb74333bfb04589b6691b9fb323a2533d0fb9"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 761,
+    "name": "BattleMPXalapa",
+    "export": "Analysis/textassets/sharedassets1.assets/761_BattleMPXalapa.txt",
+    "size": 17517,
+    "sha256": "2cffc8653204de035661248df7d3fb4754abd66c0dd661a4240859d54abe80cd"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 762,
+    "name": "BattleMPFountainOfYouth",
+    "export": "Analysis/textassets/sharedassets1.assets/762_BattleMPFountainOfYouth.txt",
+    "size": 6069,
+    "sha256": "94e3172f166f68d4797b4b7d8e481cc98cdf4449c38cd56e1867b2f7e406043b"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 763,
+    "name": "Codex",
+    "export": "Analysis/textassets/sharedassets1.assets/763_Codex.txt",
+    "size": 36339,
+    "sha256": "1a8c8ce33ba3eb5f6cf5bf8769cbe5e55f9b44f78b2aebbadba5611d931ec085"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 764,
+    "name": "BattleMPCauseways",
+    "export": "Analysis/textassets/sharedassets1.assets/764_BattleMPCauseways.txt",
+    "size": 12863,
+    "sha256": "b0678fa4bc71258d28f65d2c37aa86da0c3d6e94e2b231423a48177a4e3119a1"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 765,
+    "name": "BattleMPHalfBuriedTreasure",
+    "export": "Analysis/textassets/sharedassets1.assets/765_BattleMPHalfBuriedTreasure.txt",
+    "size": 1411,
+    "sha256": "1ceaa2d6eedc2869989fe5c9803afb5476f14775e6123d45737f2ea698866219"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 766,
+    "name": "CodexXML_ES",
+    "export": "Analysis/textassets/sharedassets1.assets/766_CodexXML_ES.txt",
+    "size": 37234,
+    "sha256": "8015bfe24b1130b27606d98d1e538a5bb4ad2e2ed355c9d12d31338eeaf1a331"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 767,
+    "name": "BattleMPTournament02",
+    "export": "Analysis/textassets/sharedassets1.assets/767_BattleMPTournament02.txt",
+    "size": 1381,
+    "sha256": "eea69f09f05dea04f386d08f86a9b92fda6929368340b4ab19b60adb7f8a65c8"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 768,
+    "name": "BattleMPTournament03",
+    "export": "Analysis/textassets/sharedassets1.assets/768_BattleMPTournament03.txt",
+    "size": 1419,
+    "sha256": "e3cd5fe3b5094816cce5c41131301b64e955c7ad538563d2c8b7588b9c90a130"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 769,
+    "name": "BattleMPNorthCoastTribe",
+    "export": "Analysis/textassets/sharedassets1.assets/769_BattleMPNorthCoastTribe.txt",
+    "size": 15013,
+    "sha256": "2e5dab8f337852fdb3974104ad5767eec1be6918af7ad934fa5442d707aad7e5"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 770,
+    "name": "BattleMPTenochtitlanMarketNight",
+    "export": "Analysis/textassets/sharedassets1.assets/770_BattleMPTenochtitlanMarketNight.txt",
+    "size": 6269,
+    "sha256": "b279521db1ccac231d89e76e81f13382f74c9a9a28924bd76b2a958343093414"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 771,
+    "name": "Level0",
+    "export": "Analysis/textassets/sharedassets1.assets/771_Level0.txt",
+    "size": 2031824,
+    "sha256": "50cf55e6e6cb05025a7dc00ed34c182b2d643b9549f1b183e0e5df4093093ac5"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 772,
+    "name": "Level0",
+    "export": "Analysis/textassets/sharedassets1.assets/772_Level0.txt",
+    "size": 2539383,
+    "sha256": "116e2af3b0d68f854d78ced4d42581e588bf69244177f7abc3066e642915813f"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 773,
+    "name": "BattleMPElDorado",
+    "export": "Analysis/textassets/sharedassets1.assets/773_BattleMPElDorado.txt",
+    "size": 6049,
+    "sha256": "305433906caf26ee158796eede74733567e5d248b4e93f9736a29543dd7d02b9"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 774,
+    "name": "BattleMPTlaxcalaTomb",
+    "export": "Analysis/textassets/sharedassets1.assets/774_BattleMPTlaxcalaTomb.txt",
+    "size": 4507,
+    "sha256": "a5b04102c4a9c562768edce5ee4e498c06cfd40584b24e5da0e711a4dea75d63"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 775,
+    "name": "Codex",
+    "export": "Analysis/textassets/sharedassets1.assets/775_Codex.txt",
+    "size": 59034,
+    "sha256": "18167f30414dacdee4a78288926e8c97a531a91f72993ab247d94d239016fb15"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 776,
+    "name": "README",
+    "export": "Analysis/textassets/sharedassets1.assets/776_README.txt",
+    "size": 1433,
+    "sha256": "9e2569f4355c46872194c0b66d3a67395ed5bfcb4ff78f2080639402f4171ac7"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 777,
+    "name": "Level0",
+    "export": "Analysis/textassets/sharedassets1.assets/777_Level0.txt",
+    "size": 2505321,
+    "sha256": "33c9921c942bd982b1232410ee3b36240570e9b5a2ed21afef63389312037bc3"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 778,
+    "name": "BattleMPPapantla",
+    "export": "Analysis/textassets/sharedassets1.assets/778_BattleMPPapantla.txt",
+    "size": 4971,
+    "sha256": "312aab35502cf530550fe74bb527c55b906fb7ec9a161b72dcc0654b6501980f"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 779,
+    "name": "Level0_ES",
+    "export": "Analysis/textassets/sharedassets1.assets/779_Level0_ES.txt",
+    "size": 2557855,
+    "sha256": "7efc9b4cd5bb1de193fe583edff9a6514c37df6e4cdad0bf4aaf368dde4f5bbb"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 780,
+    "name": "Level1",
+    "export": "Analysis/textassets/sharedassets1.assets/780_Level1.txt",
+    "size": 5966722,
+    "sha256": "d7ea233a25a7dfd2a830a58d76e55efff89cb33cdafaaec8b2bea4933b88b896"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 781,
+    "name": "RandomEvents",
+    "export": "Analysis/textassets/sharedassets1.assets/781_RandomEvents.txt",
+    "size": 1879083,
+    "sha256": "517ac1c09e6dcf24a0350c6b6c8f9cf08a8cc7819723d5bd104c3d91d7c15542"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 782,
+    "name": "Codex",
+    "export": "Analysis/textassets/sharedassets1.assets/782_Codex.txt",
+    "size": 35870,
+    "sha256": "ad33fbaa8cc2faa1af70b8c0bdd6a29e1aeba44a81ecfb94c9b1ceb212d7321d"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 783,
+    "name": "BattleMPMountainRaiders",
+    "export": "Analysis/textassets/sharedassets1.assets/783_BattleMPMountainRaiders.txt",
+    "size": 12059,
+    "sha256": "8cf0d6343d15b666c5a7e8982386cc38768057a87fab9ec039f50d485f194eff"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 784,
+    "name": "BattleMPMasayaVillage",
+    "export": "Analysis/textassets/sharedassets1.assets/784_BattleMPMasayaVillage.txt",
+    "size": 6033,
+    "sha256": "7e980129928a78bbb3b374e4cadc0a0ffe45fda406a3f4cf50096612c406e142"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 785,
+    "name": "BattleMPTenochtitlanPalace",
+    "export": "Analysis/textassets/sharedassets1.assets/785_BattleMPTenochtitlanPalace.txt",
+    "size": 9645,
+    "sha256": "04aa598d569fff6af5c5ff67bebd261ac536542678ca439a1edba5cd5b93e380"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 786,
+    "name": "RandomEvents_ES",
+    "export": "Analysis/textassets/sharedassets1.assets/786_RandomEvents_ES.txt",
+    "size": 1803749,
+    "sha256": "45abcc6c7d5d0126900fc8f308eb247f3eb56e5d374fd4d6f71e57057d94f6c8"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 787,
+    "name": "BattleMPSwampEncounter",
+    "export": "Analysis/textassets/sharedassets1.assets/787_BattleMPSwampEncounter.txt",
+    "size": 2845,
+    "sha256": "d5bbd0d279b4a0c021a2a3aa9ac38b0f3ae74f4ed6d7264918d9d20abd79ed9a"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 788,
+    "name": "Level0",
+    "export": "Analysis/textassets/sharedassets1.assets/788_Level0.txt",
+    "size": 2569775,
+    "sha256": "d30d6e487114016289765446b79c84c866b4bcec4878deb29bee10bfdee12798"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 789,
+    "name": "Level1_ES",
+    "export": "Analysis/textassets/sharedassets1.assets/789_Level1_ES.txt",
+    "size": 6547299,
+    "sha256": "da0d642952b0a842c2aebdaf1af6249e7d34fd1b9982f592659afb1ccddd596b"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 790,
+    "name": "BattleMPAztecPatrol",
+    "export": "Analysis/textassets/sharedassets1.assets/790_BattleMPAztecPatrol.txt",
+    "size": 3591,
+    "sha256": "ea44346573e712d0f00faf9a0b3a2427ae63b0048cf9cad92fc5f2d682514b1c"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 791,
+    "name": "RandomEvents",
+    "export": "Analysis/textassets/sharedassets1.assets/791_RandomEvents.txt",
+    "size": 1837487,
+    "sha256": "78ef66075d4722258a4e8644b21b5d9cc386f80699cf20132f2c46b2c4733db0"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 792,
+    "name": "BattleMPMayanBandits",
+    "export": "Analysis/textassets/sharedassets1.assets/792_BattleMPMayanBandits.txt",
+    "size": 6249,
+    "sha256": "9a57fa427d0ba8ce1c0e2733d64b50447a4d5c2b04b539734d2b977afbcff44f"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 793,
+    "name": "Level1",
+    "export": "Analysis/textassets/sharedassets1.assets/793_Level1.txt",
+    "size": 6515109,
+    "sha256": "6d6ac02d5d42fd8b0c064feda61424ff7afb26d105201a6b7d388bb9a64e4e33"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 794,
+    "name": "Level1",
+    "export": "Analysis/textassets/sharedassets1.assets/794_Level1.txt",
+    "size": 5017550,
+    "sha256": "356f39c3cfaa4788f0a899d3da44cd7e9c8934699f41a49d5e13b131cae2c37b"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 795,
+    "name": "RandomEvents",
+    "export": "Analysis/textassets/sharedassets1.assets/795_RandomEvents.txt",
+    "size": 1806689,
+    "sha256": "6ae25e41e1f41b8579826bbe65a987288fa237663d8883e5a185eb703b5bf32c"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 796,
+    "name": "Codex",
+    "export": "Analysis/textassets/sharedassets1.assets/796_Codex.txt",
+    "size": 35087,
+    "sha256": "c470d10c21f5d19c225174f6c1b77ecd8660ed0cdd328a05671f05aef0d91d60"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 797,
+    "name": "BattleMPCornered",
+    "export": "Analysis/textassets/sharedassets1.assets/797_BattleMPCornered.txt",
+    "size": 4285,
+    "sha256": "f106a848236225601c6a90d977229e4b9818bc8da23c01c32d0c5cc3c014a119"
+  },
+  {
+    "asset_file": "sharedassets1.assets",
+    "path_id": 798,
+    "name": "Level1",
+    "export": "Analysis/textassets/sharedassets1.assets/798_Level1.txt",
+    "size": 6045270,
+    "sha256": "35a72b8630b9bd0d342e7cf379080e1db31dbb459dc05af733a0bbe3fb1cebc0"
+  },
+  {
+    "asset_file": "sharedassets10.assets",
+    "path_id": 6,
+    "name": "BattleC0EnemyTainoMerchants",
+    "export": "Analysis/textassets/sharedassets10.assets/6_BattleC0EnemyTainoMerchants.txt",
+    "size": 4103,
+    "sha256": "4d3cd898d0d4eb14d872129d67caa64e810fdc1282993f8817df16db0fa8b33e"
+  },
+  {
+    "asset_file": "sharedassets11.assets",
+    "path_id": 7,
+    "name": "BattleC0Flotsam",
+    "export": "Analysis/textassets/sharedassets11.assets/7_BattleC0Flotsam.txt",
+    "size": 1499,
+    "sha256": "e45fbac01f2bc57678e1e8a4dd1d6ecf32ad45e98a3a447105ebaf2fea06744e"
+  },
+  {
+    "asset_file": "sharedassets13.assets",
+    "path_id": 2,
+    "name": "BattleC0HalfBuriedTreasure",
+    "export": "Analysis/textassets/sharedassets13.assets/2_BattleC0HalfBuriedTreasure.txt",
+    "size": 1899,
+    "sha256": "88e9be47830d4765796f3f8d5382689b0046d20d70518b7fd96c55032118396a"
+  },
+  {
+    "asset_file": "sharedassets14.assets",
+    "path_id": 31,
+    "name": "BattleC0HigueyVillageBurned",
+    "export": "Analysis/textassets/sharedassets14.assets/31_BattleC0HigueyVillageBurned.txt",
+    "size": 4925,
+    "sha256": "0d5230358c790696a511b4a670ed086e18e23b7790e7910dac6e0332d33e38c3"
+  },
+  {
+    "asset_file": "sharedassets15.assets",
+    "path_id": 17,
+    "name": "BattleC0JungleHunters",
+    "export": "Analysis/textassets/sharedassets15.assets/17_BattleC0JungleHunters.txt",
+    "size": 1117,
+    "sha256": "22de8d193dcfe667bef02f857b5414794798e43660c271292b15ed0c0123480c"
+  },
+  {
+    "asset_file": "sharedassets16.assets",
+    "path_id": 3,
+    "name": "BattleC0JungleVillage",
+    "export": "Analysis/textassets/sharedassets16.assets/3_BattleC0JungleVillage.txt",
+    "size": 4119,
+    "sha256": "60492b9fc82ba9e51761278f324a8cce7d26834aa4ae358a8ab52d5468b267c7"
+  },
+  {
+    "asset_file": "sharedassets17.assets",
+    "path_id": 7,
+    "name": "BattleC0LostDetachment",
+    "export": "Analysis/textassets/sharedassets17.assets/7_BattleC0LostDetachment.txt",
+    "size": 42169,
+    "sha256": "f6eac98bbd55311d3ba00614f0ba44b03b15180a9b6961800397abb3c6da69fc"
+  },
+  {
+    "asset_file": "sharedassets18.assets",
+    "path_id": 8,
+    "name": "BattleC0MadShaman",
+    "export": "Analysis/textassets/sharedassets18.assets/8_BattleC0MadShaman.txt",
+    "size": 9135,
+    "sha256": "35d551d64204bc1cc0d9ac58550661877b706563a8186b5f7c367a77519f7212"
+  },
+  {
+    "asset_file": "sharedassets19.assets",
+    "path_id": 11,
+    "name": "BattleC0MaguanaMines",
+    "export": "Analysis/textassets/sharedassets19.assets/11_BattleC0MaguanaMines.txt",
+    "size": 5317,
+    "sha256": "5082c9654eb7034ad92f17aa53886c67852f49d044d5152b420eebf9ee5edc49"
+  },
+  {
+    "asset_file": "sharedassets20.assets",
+    "path_id": 2,
+    "name": "BattleC0MaguanaMinesAmbush",
+    "export": "Analysis/textassets/sharedassets20.assets/2_BattleC0MaguanaMinesAmbush.txt",
+    "size": 4303,
+    "sha256": "c79e14e610a8559b3d319ca12ffdb87fd56c3e820c8ba02e33e47586fe7f6439"
+  },
+  {
+    "asset_file": "sharedassets21.assets",
+    "path_id": 2,
+    "name": "BattleC0NorthCoastTribe",
+    "export": "Analysis/textassets/sharedassets21.assets/2_BattleC0NorthCoastTribe.txt",
+    "size": 15811,
+    "sha256": "72bb08474ab353032a3a8109ba05e0142faebbace8f2833ded1c53f3ee20dac5"
+  },
+  {
+    "asset_file": "sharedassets22.assets",
+    "path_id": 4,
+    "name": "BattleC0RebelAmbush",
+    "export": "Analysis/textassets/sharedassets22.assets/4_BattleC0RebelAmbush.txt",
+    "size": 4387,
+    "sha256": "a3afd3ba6a40002b12337bd71f57169b7ef5be28d5a863bdb7453126d4dbae24"
+  },
+  {
+    "asset_file": "sharedassets23.assets",
+    "path_id": 9,
+    "name": "BattleC0RuinedTemple",
+    "export": "Analysis/textassets/sharedassets23.assets/9_BattleC0RuinedTemple.txt",
+    "size": 2189,
+    "sha256": "7d8b412b166752ea2e4a88e67ee3c23e5cc80d15b969ec924ee64d77cdd6d56d"
+  },
+  {
+    "asset_file": "sharedassets24.assets",
+    "path_id": 2,
+    "name": "BattleC0RuinedTempleNight",
+    "export": "Analysis/textassets/sharedassets24.assets/2_BattleC0RuinedTempleNight.txt",
+    "size": 2455,
+    "sha256": "3ade51ac75c64924866e8a270a90812130b8b0b44545d05fd72a78045cb37a37"
+  },
+  {
+    "asset_file": "sharedassets25.assets",
+    "path_id": 16,
+    "name": "BattleC0Tournament01",
+    "export": "Analysis/textassets/sharedassets25.assets/16_BattleC0Tournament01.txt",
+    "size": 1397,
+    "sha256": "9e926cb56662616eb2bc73822ad3eeac56282d76e425b89be5eec260b497d0e2"
+  },
+  {
+    "asset_file": "sharedassets26.assets",
+    "path_id": 2,
+    "name": "BattleC0Tournament02",
+    "export": "Analysis/textassets/sharedassets26.assets/2_BattleC0Tournament02.txt",
+    "size": 1577,
+    "sha256": "fec67a691cc75fa7ddc77afdafd4c3fbc01d5db66f48fb49217265fc5216150a"
+  },
+  {
+    "asset_file": "sharedassets27.assets",
+    "path_id": 2,
+    "name": "BattleC0Tournament03",
+    "export": "Analysis/textassets/sharedassets27.assets/2_BattleC0Tournament03.txt",
+    "size": 1745,
+    "sha256": "ae5d639ca1b03b991be02d73c1f517d23b939ffd04382b91f46583f85aa07bd9"
+  },
+  {
+    "asset_file": "sharedassets28.assets",
+    "path_id": 12,
+    "name": "BattleC1Amazons",
+    "export": "Analysis/textassets/sharedassets28.assets/12_BattleC1Amazons.txt",
+    "size": 3081,
+    "sha256": "95c5be169a0613f86fb3d14bc3ec6c2fd7470a5782b086eb31bbc038a335a638"
+  },
+  {
+    "asset_file": "sharedassets29.assets",
+    "path_id": 2,
+    "name": "BattleC1AztecFarmsAssault",
+    "export": "Analysis/textassets/sharedassets29.assets/2_BattleC1AztecFarmsAssault.txt",
+    "size": 5489,
+    "sha256": "865a7e9cc1a2401158374d1de8511eabd3bacccc5b73695de3755c1210d07eb2"
+  },
+  {
+    "asset_file": "sharedassets30.assets",
+    "path_id": 54,
+    "name": "BattleC1CausewaysAttack",
+    "export": "Analysis/textassets/sharedassets30.assets/54_BattleC1CausewaysAttack.txt",
+    "size": 13815,
+    "sha256": "01f5f669945c3df2822a3e51b6c1735031b9674fcd072d00a359f48ed74f4697"
+  },
+  {
+    "asset_file": "sharedassets31.assets",
+    "path_id": 4,
+    "name": "BattleC1CausewaysCollapsed",
+    "export": "Analysis/textassets/sharedassets31.assets/4_BattleC1CausewaysCollapsed.txt",
+    "size": 14925,
+    "sha256": "892337ceab3e6aef82c9ac6cfaffc020974908b859a613cb5469962ceec394b2"
+  },
+  {
+    "asset_file": "sharedassets32.assets",
+    "path_id": 2,
+    "name": "BattleC1CausewaysDefence",
+    "export": "Analysis/textassets/sharedassets32.assets/2_BattleC1CausewaysDefence.txt",
+    "size": 14745,
+    "sha256": "9cd7270967609dc617e7959fba7542df14546c9312440ad142a6e15f0d7e1943"
+  },
+  {
+    "asset_file": "sharedassets33.assets",
+    "path_id": 127,
+    "name": "BattleC1Cuautitlan",
+    "export": "Analysis/textassets/sharedassets33.assets/127_BattleC1Cuautitlan.txt",
+    "size": 4531,
+    "sha256": "6a45819b92cc68960298dc9294b0e99970f396880e52286c6dfb3cb93c83b9bf"
+  },
+  {
+    "asset_file": "sharedassets34.assets",
+    "path_id": 4,
+    "name": "BattleC1CuautitlanEscape",
+    "export": "Analysis/textassets/sharedassets34.assets/4_BattleC1CuautitlanEscape.txt",
+    "size": 18131,
+    "sha256": "6a4ebcd9ed2e30334ad0e99b59738dae102e80916e0eab9e42b876e8b109f4a9"
+  },
+  {
+    "asset_file": "sharedassets36.assets",
+    "path_id": 13,
+    "name": "BattleC1ElDorado",
+    "export": "Analysis/textassets/sharedassets36.assets/13_BattleC1ElDorado.txt",
+    "size": 8001,
+    "sha256": "589e1225cb58d93b38940054a0b8a0f37e04ab7425895c7132961b379cce2f39"
+  },
+  {
+    "asset_file": "sharedassets37.assets",
+    "path_id": 5,
+    "name": "BattleC1EnemyAztecPatrol",
+    "export": "Analysis/textassets/sharedassets37.assets/5_BattleC1EnemyAztecPatrol.txt",
+    "size": 3871,
+    "sha256": "ffc70f51f4dbf6dccdb49d990656aa3a8f2998fa3241680d150d3eb90caa4916"
+  },
+  {
+    "asset_file": "sharedassets38.assets",
+    "path_id": 4,
+    "name": "BattleC1EnemyAztecSlavers",
+    "export": "Analysis/textassets/sharedassets38.assets/4_BattleC1EnemyAztecSlavers.txt",
+    "size": 9969,
+    "sha256": "ba7283669f7dfd3eee2bd29e1d7b1c5d39a0560493a1b996ea444f9e127902c4"
+  },
+  {
+    "asset_file": "sharedassets39.assets",
+    "path_id": 3,
+    "name": "BattleC1EnemyCannibals",
+    "export": "Analysis/textassets/sharedassets39.assets/3_BattleC1EnemyCannibals.txt",
+    "size": 2221,
+    "sha256": "defb2479fe72bb6ade039b1265f15db8b765908b5c35db14b33622555a742048"
+  },
+  {
+    "asset_file": "sharedassets4.assets",
+    "path_id": 481,
+    "name": "graphYucatan",
+    "export": "Analysis/textassets/sharedassets4.assets/481_graphYucatan.txt",
+    "size": 1810099,
+    "sha256": "65d708e2f9f04e7d56e3a6b6043f9baa67a01609153fac3d4376e4896f7c2240"
+  },
+  {
+    "asset_file": "sharedassets40.assets",
+    "path_id": 2,
+    "name": "BattleC1EnemyFarmer",
+    "export": "Analysis/textassets/sharedassets40.assets/2_BattleC1EnemyFarmer.txt",
+    "size": 4065,
+    "sha256": "c66969f143d39a08fd22d3bb53a3c58b1f3530f47ee0a085db0a548a51325f42"
+  },
+  {
+    "asset_file": "sharedassets41.assets",
+    "path_id": 4,
+    "name": "BattleC1EnemyMayanBandits",
+    "export": "Analysis/textassets/sharedassets41.assets/4_BattleC1EnemyMayanBandits.txt",
+    "size": 6869,
+    "sha256": "21e62ac2ecb3f1402a60db82cad3f9d0b43d2f744272f80ccc3705c431bc2747"
+  },
+  {
+    "asset_file": "sharedassets42.assets",
+    "path_id": 4,
+    "name": "BattleC1EnemyStarvingTribalsNormal",
+    "export": "Analysis/textassets/sharedassets42.assets/4_BattleC1EnemyStarvingTribalsNormal.txt",
+    "size": 3837,
+    "sha256": "87c97b9480c3108cce844432a07eea7a11dd10f199af2b6b3e35e7931b85681d"
+  },
+  {
+    "asset_file": "sharedassets43.assets",
+    "path_id": 2,
+    "name": "BattleC1EnemySwampEncounter",
+    "export": "Analysis/textassets/sharedassets43.assets/2_BattleC1EnemySwampEncounter.txt",
+    "size": 2929,
+    "sha256": "ff1aeff4f99b3795df9fa7f2b835add133fd0b8449189d2f90525a4827f38ece"
+  },
+  {
+    "asset_file": "sharedassets44.assets",
+    "path_id": 21,
+    "name": "BattleC1EnemyTempleGuardians",
+    "export": "Analysis/textassets/sharedassets44.assets/21_BattleC1EnemyTempleGuardians.txt",
+    "size": 6911,
+    "sha256": "480ec61b9fc801711edf0e9bd0e8f4838efa470a7bc68e95c8f21d0c97353c59"
+  },
+  {
+    "asset_file": "sharedassets45.assets",
+    "path_id": 3,
+    "name": "BattleC1EnemyTotonacHunters",
+    "export": "Analysis/textassets/sharedassets45.assets/3_BattleC1EnemyTotonacHunters.txt",
+    "size": 5835,
+    "sha256": "fe703e35aa8a0c10e27093e0be5a2f3abfc1d4d62a9162eca530a2f60aa4fb19"
+  },
+  {
+    "asset_file": "sharedassets46.assets",
+    "path_id": 3,
+    "name": "BattleC1EnemyTotonacMerchants",
+    "export": "Analysis/textassets/sharedassets46.assets/3_BattleC1EnemyTotonacMerchants.txt",
+    "size": 1303,
+    "sha256": "49023750ebf8361aae545ea986fea753163f61be52b0164a6a9a6c4e487af7ac"
+  },
+  {
+    "asset_file": "sharedassets47.assets",
+    "path_id": 2,
+    "name": "BattleC1EscapedSlavesCiviliansFail",
+    "export": "Analysis/textassets/sharedassets47.assets/2_BattleC1EscapedSlavesCiviliansFail.txt",
+    "size": 9937,
+    "sha256": "b785502556792135e8b448c121b90c23f2b029fc6840021655837d811f9b7fdd"
+  },
+  {
+    "asset_file": "sharedassets48.assets",
+    "path_id": 18,
+    "name": "BattleC1FountainOfYouth",
+    "export": "Analysis/textassets/sharedassets48.assets/18_BattleC1FountainOfYouth.txt",
+    "size": 6595,
+    "sha256": "0f8a456346e224ae6c1a8b985198daf9a6827c6bbcb1a9ee39ff07c840400ac8"
+  },
+  {
+    "asset_file": "sharedassets49.assets",
+    "path_id": 5,
+    "name": "BattleC1GutierrezFortress",
+    "export": "Analysis/textassets/sharedassets49.assets/5_BattleC1GutierrezFortress.txt",
+    "size": 9779,
+    "sha256": "19571674b6b8669e4ac691dc9933c35ea451b3d41413c26a08e7ab84e8e48acf"
+  },
+  {
+    "asset_file": "sharedassets50.assets",
+    "path_id": 6,
+    "name": "BattleC1GutierrezFortressDefence",
+    "export": "Analysis/textassets/sharedassets50.assets/6_BattleC1GutierrezFortressDefence.txt",
+    "size": 99447,
+    "sha256": "37ac1b4183d9f1676ab6cb873dcbcd5c4275a6c0e7d263d01f70811d0ecb95fb"
+  },
+  {
+    "asset_file": "sharedassets51.assets",
+    "path_id": 2,
+    "name": "BattleC1GutierrezRevenge",
+    "export": "Analysis/textassets/sharedassets51.assets/2_BattleC1GutierrezRevenge.txt",
+    "size": 3525,
+    "sha256": "9a5ab4c70202a3acf3ad84ebedb4f8ff7aaa73bd9c708a56860aa2e76701d86d"
+  },
+  {
+    "asset_file": "sharedassets52.assets",
+    "path_id": 2,
+    "name": "BattleC1MasayaVillage",
+    "export": "Analysis/textassets/sharedassets52.assets/2_BattleC1MasayaVillage.txt",
+    "size": 6623,
+    "sha256": "b0caf412ee443f1e6d74b328b4e516a1d3e5769883d51123d009e46a10785edc"
+  },
+  {
+    "asset_file": "sharedassets53.assets",
+    "path_id": 4,
+    "name": "BattleC1Papantla",
+    "export": "Analysis/textassets/sharedassets53.assets/4_BattleC1Papantla.txt",
+    "size": 5837,
+    "sha256": "8f2e5f7474644a859c330bb4f063bb81b8ba3e1d30c088514a745b38eb37bd5d"
+  },
+  {
+    "asset_file": "sharedassets54.assets",
+    "path_id": 2,
+    "name": "BattleC1Shaman",
+    "export": "Analysis/textassets/sharedassets54.assets/2_BattleC1Shaman.txt",
+    "size": 2707,
+    "sha256": "216e38373191b5ae72452a31d452b498289dd984366fbeefcd38041b3538fa24"
+  },
+  {
+    "asset_file": "sharedassets55.assets",
+    "path_id": 13,
+    "name": "BattleC1SwampRuins",
+    "export": "Analysis/textassets/sharedassets55.assets/13_BattleC1SwampRuins.txt",
+    "size": 7201,
+    "sha256": "e471244f09f72f5dfeffa86cb05b0807c97c69d216f92d670e88f2e8464cab56"
+  },
+  {
+    "asset_file": "sharedassets56.assets",
+    "path_id": 4,
+    "name": "BattleC1SwampVillageCentral",
+    "export": "Analysis/textassets/sharedassets56.assets/4_BattleC1SwampVillageCentral.txt",
+    "size": 5697,
+    "sha256": "e3ded4026574ce33aa2e10f68de0daa931d596eba397d0ff59e7bc30895ad893"
+  },
+  {
+    "asset_file": "sharedassets57.assets",
+    "path_id": 27,
+    "name": "BattleC1TenochtitlanMarket",
+    "export": "Analysis/textassets/sharedassets57.assets/27_BattleC1TenochtitlanMarket.txt",
+    "size": 5701,
+    "sha256": "96848858e8cafe91363a52402b95245cc50cd1ec95d5723a4d5098de209284ee"
+  },
+  {
+    "asset_file": "sharedassets58.assets",
+    "path_id": 2,
+    "name": "BattleC1TenochtitlanMarketEscape",
+    "export": "Analysis/textassets/sharedassets58.assets/2_BattleC1TenochtitlanMarketEscape.txt",
+    "size": 6571,
+    "sha256": "840ad659b3a653184c48ee81ade8d195c6bc9a29b91df56455ae014e78bb5c58"
+  },
+  {
+    "asset_file": "sharedassets59.assets",
+    "path_id": 3,
+    "name": "BattleC1TenochtitlanMilitaryQuarter",
+    "export": "Analysis/textassets/sharedassets59.assets/3_BattleC1TenochtitlanMilitaryQuarter.txt",
+    "size": 9631,
+    "sha256": "0b1b42ceaadb4b267b4803d14035cd93bf120953612ab5e137a76e402be669b6"
+  },
+  {
+    "asset_file": "sharedassets6.assets",
+    "path_id": 1886,
+    "name": "BattleC0AlcazarDeColon",
+    "export": "Analysis/textassets/sharedassets6.assets/1886_BattleC0AlcazarDeColon.txt",
+    "size": 5187,
+    "sha256": "c86d418fba8787d2e5adbdd7f2ca8657b9a1a227f50aa0c2db5e37c822beffc0"
+  },
+  {
+    "asset_file": "sharedassets6.assets",
+    "path_id": 1887,
+    "name": "BattleRGNightThieves",
+    "export": "Analysis/textassets/sharedassets6.assets/1887_BattleRGNightThieves.txt",
+    "size": 3051,
+    "sha256": "03876069bd42509d4705ebaaccbfc2b2cd42ef72d095efb795c979215d61a56b"
+  },
+  {
+    "asset_file": "sharedassets61.assets",
+    "path_id": 6,
+    "name": "BattleC1TenochtitlanPalaceGardenAttack",
+    "export": "Analysis/textassets/sharedassets61.assets/6_BattleC1TenochtitlanPalaceGardenAttack.txt",
+    "size": 5227,
+    "sha256": "25c8b11e4d93be71bdc6a4c24259dffdca7db99b0b1331aeb10ae8636ba20662"
+  },
+  {
+    "asset_file": "sharedassets62.assets",
+    "path_id": 2,
+    "name": "BattleC1TenochtitlanPalaceGardenNight",
+    "export": "Analysis/textassets/sharedassets62.assets/2_BattleC1TenochtitlanPalaceGardenNight.txt",
+    "size": 5311,
+    "sha256": "0a683e6e5ce3eb97f9ea26f5b3589cb844e278517120a5818de74d115bb957fb"
+  },
+  {
+    "asset_file": "sharedassets63.assets",
+    "path_id": 3,
+    "name": "BattleC1TenochtitlanTemples",
+    "export": "Analysis/textassets/sharedassets63.assets/3_BattleC1TenochtitlanTemples.txt",
+    "size": 2665,
+    "sha256": "573e979e080071eb22f2c8595974e780a5ec11469eb865075869377ec886f416"
+  },
+  {
+    "asset_file": "sharedassets64.assets",
+    "path_id": 2,
+    "name": "BattleC1Texcoco",
+    "export": "Analysis/textassets/sharedassets64.assets/2_BattleC1Texcoco.txt",
+    "size": 1933,
+    "sha256": "2a5842922f4a5de688d8fa709fc4b64421a90d07e8a5c90959daba3ab6f6d140"
+  },
+  {
+    "asset_file": "sharedassets65.assets",
+    "path_id": 4,
+    "name": "BattleC1TlaxcalaTombGuards",
+    "export": "Analysis/textassets/sharedassets65.assets/4_BattleC1TlaxcalaTombGuards.txt",
+    "size": 4681,
+    "sha256": "e81f83f60aba3ff68b8f8b11f92894eec2be33ba19a039eec2fe1e52fcb24d4a"
+  },
+  {
+    "asset_file": "sharedassets66.assets",
+    "path_id": 8,
+    "name": "BattleC1ToltecTempleTricked",
+    "export": "Analysis/textassets/sharedassets66.assets/8_BattleC1ToltecTempleTricked.txt",
+    "size": 4369,
+    "sha256": "6f5f59e93d486068ee18545cc33de86bf0a65aa147f02d71964d367016fe90b2"
+  },
+  {
+    "asset_file": "sharedassets67.assets",
+    "path_id": 3,
+    "name": "BattleC1ToltecTempleCollapsed",
+    "export": "Analysis/textassets/sharedassets67.assets/3_BattleC1ToltecTempleCollapsed.txt",
+    "size": 4289,
+    "sha256": "af6797a2942f79962b5493fda6670c07a31a8183ba4e1c2f728fd3f9f6c55f13"
+  },
+  {
+    "asset_file": "sharedassets68.assets",
+    "path_id": 2,
+    "name": "BattleC1WarriorWomen",
+    "export": "Analysis/textassets/sharedassets68.assets/2_BattleC1WarriorWomen.txt",
+    "size": 1551,
+    "sha256": "88b97229e659e2fb8c9a8e6df97a82802a42fae4f9da51de2d66e14c54be954b"
+  },
+  {
+    "asset_file": "sharedassets69.assets",
+    "path_id": 4,
+    "name": "BattleC1Xalapa",
+    "export": "Analysis/textassets/sharedassets69.assets/4_BattleC1Xalapa.txt",
+    "size": 18371,
+    "sha256": "0fe8d7f61366b26de0c7c009bb52367d351d8b7ddd00e15b87bb0dca093328ac"
+  },
+  {
+    "asset_file": "sharedassets7.assets",
+    "path_id": 10,
+    "name": "BattleC0Cornered",
+    "export": "Analysis/textassets/sharedassets7.assets/10_BattleC0Cornered.txt",
+    "size": 4877,
+    "sha256": "1c03e93c04651a7d3c17589dbca371c9701f5f928e8c08b45f2ba916557e9584"
+  },
+  {
+    "asset_file": "sharedassets70.assets",
+    "path_id": 2,
+    "name": "BattleC1XalapaEscape",
+    "export": "Analysis/textassets/sharedassets70.assets/2_BattleC1XalapaEscape.txt",
+    "size": 15597,
+    "sha256": "d04edc5b51b057ce59b61e05703c526aa5e37a6fe6974a053fd6d65d87fa7223"
+  },
+  {
+    "asset_file": "sharedassets71.assets",
+    "path_id": 6,
+    "name": "BattleRCRebelAssault",
+    "export": "Analysis/textassets/sharedassets71.assets/6_BattleRCRebelAssault.txt",
+    "size": 5007,
+    "sha256": "7104af74ffb9f08d140d96c09fb3551aaff9b3e1a1215930d1a13c04af068bf3"
+  },
+  {
+    "asset_file": "sharedassets72.assets",
+    "path_id": 3,
+    "name": "BattleRCSlavesRiseUp",
+    "export": "Analysis/textassets/sharedassets72.assets/3_BattleRCSlavesRiseUp.txt",
+    "size": 3301,
+    "sha256": "7fa17984dbd7b3ee61c793335d4ea1ea15d8f24e2b2c9d3e23c3826c573276a0"
+  },
+  {
+    "asset_file": "sharedassets73.assets",
+    "path_id": 10,
+    "name": "BattleRGAztecAttack",
+    "export": "Analysis/textassets/sharedassets73.assets/10_BattleRGAztecAttack.txt",
+    "size": 3151,
+    "sha256": "6cb0a55b14c193cfed7a9b255d02336c9a67d4a3d8f702046e35563044144265"
+  },
+  {
+    "asset_file": "sharedassets74.assets",
+    "path_id": 4,
+    "name": "BattleRGCaughtPantsDown",
+    "export": "Analysis/textassets/sharedassets74.assets/4_BattleRGCaughtPantsDown.txt",
+    "size": 5333,
+    "sha256": "8976be6d6919c4016f7b743aab201e2d59dccd4e43974c9624efd1a941ccca5a"
+  },
+  {
+    "asset_file": "sharedassets75.assets",
+    "path_id": 2,
+    "name": "BattleRGDiversion",
+    "export": "Analysis/textassets/sharedassets75.assets/2_BattleRGDiversion.txt",
+    "size": 20255,
+    "sha256": "d9ce40d6f2d77c8efc6073e08d4913a242eef9edd3c0ed4c50476a59c3c16bd3"
+  },
+  {
+    "asset_file": "sharedassets77.assets",
+    "path_id": 2,
+    "name": "BattleRGRiseToTheOccasion",
+    "export": "Analysis/textassets/sharedassets77.assets/2_BattleRGRiseToTheOccasion.txt",
+    "size": 2613,
+    "sha256": "548ed8cad7c256b2750ce398a52ae16188f0fa563ded1baa2fe9aa839381f072"
+  },
+  {
+    "asset_file": "sharedassets78.assets",
+    "path_id": 2,
+    "name": "BattleRGTotonacAttackDefensive",
+    "export": "Analysis/textassets/sharedassets78.assets/2_BattleRGTotonacAttackDefensive.txt",
+    "size": 3189,
+    "sha256": "ec89bdc9901616166f63948f32cc9f1d2853ef2c4e304cb04c166493cdea84e0"
+  },
+  {
+    "asset_file": "sharedassets79.assets",
+    "path_id": 2,
+    "name": "BattleRGTribalAttackTight",
+    "export": "Analysis/textassets/sharedassets79.assets/2_BattleRGTribalAttackTight.txt",
+    "size": 9773,
+    "sha256": "00981b1e9887ce7f3873ef21805d364735dff5cb3ca1dfa5803286725e9b6ee4"
+  },
+  {
+    "asset_file": "sharedassets8.assets",
+    "path_id": 20,
+    "name": "BattleC0EnemyMountainRaiders",
+    "export": "Analysis/textassets/sharedassets8.assets/20_BattleC0EnemyMountainRaiders.txt",
+    "size": 13225,
+    "sha256": "b552608d5f33d156f7c473c89843c42e22e0888e63f2a99b9a3c52cd72d02960"
+  },
+  {
+    "asset_file": "sharedassets80.assets",
+    "path_id": 2,
+    "name": "BattleRMAbduction",
+    "export": "Analysis/textassets/sharedassets80.assets/2_BattleRMAbduction.txt",
+    "size": 3185,
+    "sha256": "2905e4eea827f57f920061ea61357d3790d608ce65f40d9ae0ff7541cb2871c9"
+  },
+  {
+    "asset_file": "sharedassets81.assets",
+    "path_id": 2,
+    "name": "BattleRMMutiny",
+    "export": "Analysis/textassets/sharedassets81.assets/2_BattleRMMutiny.txt",
+    "size": 11461,
+    "sha256": "07a7ec3c42092762585a46dfcc0cc114ecff0db45a8c5bd71f83443156d20488"
+  },
+  {
+    "asset_file": "sharedassets82.assets",
+    "path_id": 2,
+    "name": "BattleRPTribalHuntingCamp",
+    "export": "Analysis/textassets/sharedassets82.assets/2_BattleRPTribalHuntingCamp.txt",
+    "size": 3999,
+    "sha256": "80ac9d3c1fbb47f337e325efb7f648ca99e32efa8c485e1fb9bdd053ae02b410"
+  },
+  {
+    "asset_file": "sharedassets83.assets",
+    "path_id": 3,
+    "name": "BattleRTEnemyDivided",
+    "export": "Analysis/textassets/sharedassets83.assets/3_BattleRTEnemyDivided.txt",
+    "size": 9275,
+    "sha256": "91ccaa59a30a8465a0669ac531ae9223ac3ed28ac2ff7c36ad2ffc9afe0edecf"
+  },
+  {
+    "asset_file": "sharedassets9.assets",
+    "path_id": 7,
+    "name": "BattleC0EnemyRoamingRebels",
+    "export": "Analysis/textassets/sharedassets9.assets/7_BattleC0EnemyRoamingRebels.txt",
+    "size": 2307,
+    "sha256": "339effb1a0fbdff140d747f502805d21b03f67ffa562017fc321db4303e75374"
+  }
+]

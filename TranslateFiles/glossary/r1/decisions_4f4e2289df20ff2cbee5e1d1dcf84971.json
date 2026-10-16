@@ -1,0 +1,708 @@
+{
+  "snapshot_sha256": "a936e03e07076179490b318d366ad0db4013dd767b8210900298506db9314c22",
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "review_complete": true,
+  "review_summary": "Reviewed 180 assigned entries; 12 edits and 31 quarantines; all other assigned rows reviewed and retained.",
+  "reviewed_refs": [
+    "characters:180",
+    "characters:181",
+    "characters:182",
+    "characters:183",
+    "characters:184",
+    "characters:185",
+    "characters:186",
+    "characters:187",
+    "characters:188",
+    "characters:189",
+    "characters:190",
+    "characters:191",
+    "characters:192",
+    "characters:193",
+    "characters:194",
+    "characters:195",
+    "characters:196",
+    "characters:197",
+    "characters:198",
+    "characters:199",
+    "characters:200",
+    "characters:201",
+    "characters:202",
+    "characters:203",
+    "characters:204",
+    "characters:205",
+    "characters:206",
+    "characters:207",
+    "characters:208",
+    "characters:209",
+    "characters:210",
+    "characters:211",
+    "characters:212",
+    "characters:213",
+    "terms:0",
+    "terms:1",
+    "terms:2",
+    "terms:3",
+    "terms:4",
+    "terms:5",
+    "terms:6",
+    "terms:7",
+    "terms:8",
+    "terms:9",
+    "terms:10",
+    "terms:11",
+    "terms:12",
+    "terms:13",
+    "terms:14",
+    "terms:15",
+    "terms:16",
+    "terms:17",
+    "terms:18",
+    "terms:19",
+    "terms:20",
+    "terms:21",
+    "terms:22",
+    "terms:23",
+    "terms:24",
+    "terms:25",
+    "terms:26",
+    "terms:27",
+    "terms:28",
+    "terms:29",
+    "terms:30",
+    "terms:31",
+    "terms:32",
+    "terms:33",
+    "terms:34",
+    "terms:35",
+    "terms:36",
+    "terms:37",
+    "terms:38",
+    "terms:39",
+    "terms:40",
+    "terms:41",
+    "terms:42",
+    "terms:43",
+    "terms:44",
+    "terms:45",
+    "terms:46",
+    "terms:47",
+    "terms:48",
+    "terms:49",
+    "terms:50",
+    "terms:51",
+    "terms:52",
+    "terms:53",
+    "terms:54",
+    "terms:55",
+    "terms:56",
+    "terms:57",
+    "terms:58",
+    "terms:59",
+    "terms:60",
+    "terms:61",
+    "terms:62",
+    "terms:63",
+    "terms:64",
+    "terms:65",
+    "terms:66",
+    "terms:67",
+    "terms:68",
+    "terms:69",
+    "terms:70",
+    "terms:71",
+    "terms:72",
+    "terms:73",
+    "terms:74",
+    "terms:75",
+    "terms:76",
+    "terms:77",
+    "terms:78",
+    "terms:79",
+    "terms:80",
+    "terms:81",
+    "terms:82",
+    "terms:83",
+    "terms:84",
+    "terms:85",
+    "terms:86",
+    "terms:87",
+    "terms:88",
+    "terms:89",
+    "terms:90",
+    "terms:91",
+    "terms:92",
+    "terms:93",
+    "terms:94",
+    "terms:95",
+    "terms:96",
+    "terms:97",
+    "terms:98",
+    "terms:99",
+    "terms:100",
+    "terms:101",
+    "terms:102",
+    "terms:103",
+    "terms:104",
+    "terms:105",
+    "terms:106",
+    "terms:107",
+    "terms:108",
+    "terms:109",
+    "terms:110",
+    "terms:111",
+    "terms:112",
+    "terms:113",
+    "terms:114",
+    "terms:115",
+    "terms:116",
+    "terms:117",
+    "terms:118",
+    "terms:119",
+    "terms:120",
+    "terms:121",
+    "terms:122",
+    "terms:123",
+    "terms:124",
+    "terms:125",
+    "terms:126",
+    "terms:127",
+    "terms:128",
+    "terms:129",
+    "terms:130",
+    "terms:131",
+    "terms:132",
+    "terms:133",
+    "terms:134",
+    "terms:135",
+    "terms:136",
+    "terms:137",
+    "terms:138",
+    "terms:139",
+    "terms:140",
+    "terms:141",
+    "terms:142",
+    "terms:143",
+    "terms:144",
+    "terms:145"
+  ],
+  "acknowledged_findings": [
+    "F0026",
+    "F0053",
+    "F0056",
+    "F0057",
+    "F0058",
+    "F0059",
+    "F0060",
+    "F0061",
+    "F0062",
+    "F0063",
+    "F0064",
+    "F0065",
+    "F0066",
+    "F0067",
+    "F0068",
+    "F0069",
+    "F0070",
+    "F0071",
+    "F0072",
+    "F0073",
+    "F0074",
+    "F0075",
+    "F0076",
+    "F0077",
+    "F0078",
+    "F0079",
+    "F0080",
+    "F0081",
+    "F0082",
+    "F0083",
+    "F0084",
+    "F0085",
+    "F0086",
+    "F0087",
+    "F0088",
+    "F0089",
+    "F0090",
+    "F0091",
+    "F0092",
+    "F0093",
+    "F0094",
+    "F0095",
+    "F0096",
+    "F0097",
+    "F0098",
+    "F0099",
+    "F0100",
+    "F0101",
+    "F0102",
+    "F0103",
+    "F0104",
+    "F0192",
+    "F0194",
+    "F0222",
+    "F0223",
+    "F0224",
+    "F0225",
+    "F0226",
+    "F0227",
+    "F0228",
+    "F0229",
+    "F0230",
+    "F0231",
+    "F0232",
+    "F0233",
+    "F0234",
+    "F0235",
+    "F0236",
+    "F0237",
+    "F0238",
+    "F0239",
+    "F0240",
+    "F0241",
+    "F0242",
+    "F0243",
+    "F0244",
+    "F0245",
+    "F0246",
+    "F0247",
+    "F0248",
+    "F0249",
+    "F0250",
+    "F0251",
+    "F0252",
+    "F0253",
+    "F0254",
+    "F0255",
+    "F0256",
+    "F0257",
+    "F0258",
+    "F0259",
+    "F0260",
+    "F0261",
+    "F0262",
+    "F0263",
+    "F0264",
+    "F0265",
+    "F0266",
+    "F0267",
+    "F0268",
+    "F0269",
+    "F0270",
+    "F0271",
+    "F0272",
+    "F0273",
+    "F0274",
+    "F0275",
+    "F0276",
+    "F0277",
+    "F0278",
+    "F0279",
+    "F0280"
+  ],
+  "edits": [
+    {
+      "table": "characters",
+      "index": 184,
+      "patch": {
+        "recommended_translation": "迭戈·哥伦布"
+      },
+      "reason": "Ordinal 14158 identifies Diego Colon as Christopher Columbus’s son; use the established Chinese rendering of the Columbus family name, not a phonetic 科隆.",
+      "evidence_rows": [
+        14158
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 199,
+      "patch": {
+        "recommended_translation": "瓦斯科·努涅斯·巴尔沃亚"
+      },
+      "reason": "Ordinal 14170 identifies the conquistador Pazco Núñez Balboa; Pazco is a source typo for Vasco, so translate the historical name accurately.",
+      "evidence_rows": [
+        14170
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 14,
+      "patch": {
+        "recommended_translation": "埃尔多拉多"
+      },
+      "reason": "El Dorado is a named legendary place in location/history references; use its proper-name transliteration instead of literal 黄金国, consistent with related same-source usage.",
+      "evidence_rows": [
+        76,
+        5820
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 20,
+      "patch": {
+        "recommended_translation": "奥萨马要塞"
+      },
+      "reason": "The evidence identifies the named Fortaleza Ozama; 要塞 is a natural rendering for this historical fort and aligns the related same-source location entry.",
+      "evidence_rows": [
+        95,
+        1828
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 23,
+      "patch": {
+        "category_path": "地名"
+      },
+      "reason": "Evidence ordinals 11616 and 11642 use Gutiérrez’s Treasure as a landmark in route directions; classify this named location as 地名 rather than an item.",
+      "evidence_rows": [
+        74
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 27,
+      "patch": {
+        "category_path": "物品"
+      },
+      "reason": "La María Teresa is the named ship in the historical/location text; the existing ship suffix 号 is correct, and the row belongs under 物品.",
+      "evidence_rows": [
+        94
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 47,
+      "patch": {
+        "recommended_translation": "圣地亚哥-德洛斯卡瓦列罗斯"
+      },
+      "reason": "This is the historical city Santiago de los Caballeros; use the standard 卡瓦列罗斯 spelling to align identical-source entries.",
+      "evidence_rows": [
+        55,
+        2041
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 65,
+      "patch": {
+        "recommended_translation": "特拉斯卡拉墓地"
+      },
+      "reason": "This is a named location label; align with the same-source related entry using 墓地 rather than alternating with 墓穴.",
+      "evidence_rows": [
+        73,
+        14591
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 87,
+      "patch": {
+        "recommended_translation": "马夸威特尔"
+      },
+      "reason": "Ordinals identify the macuahuitl as a weapon. Keep a concise transliteration and remove the unsupported parenthetical explanation from the actual glossary translation.",
+      "evidence_rows": [
+        258,
+        688
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 98,
+      "patch": {
+        "recommended_translation": "恢复"
+      },
+      "reason": "The evidence places Restore among combat skills/actions; 恢复 is the natural action label and matches related same-source usage. The redundant assigned duplicate terms:142 is quarantined.",
+      "evidence_rows": [
+        304,
+        1503
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 121,
+      "patch": {
+        "recommended_translation": "勇士"
+      },
+      "reason": "The evidence shows Champion as a unit role/class; align the same-source role with related 勇士 rather than the less specific 斗士.",
+      "evidence_rows": [
+        447,
+        458
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 140,
+      "patch": {
+        "recommended_translation": "速射"
+      },
+      "reason": "Quick Shot is a combat ability label; 速射 is concise and aligns with related same-source ability usage.",
+      "evidence_rows": [
+        508,
+        769
+      ]
+    }
+  ],
+  "quarantine": [
+    {
+      "table": "characters",
+      "index": 190,
+      "reason": "Exact-source duplicate of the earlier primary entry characters:54; retain the unique primary and remove this redundant glossary row.",
+      "evidence_rows": [
+        14164
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 205,
+      "reason": "Exact-source duplicate of the earlier primary entry characters:160; retain the unique primary and remove this redundant glossary row.",
+      "evidence_rows": [
+        14179
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 206,
+      "reason": "Cristopher is a misspelled variant of canonical Christopher Columbus at characters:185; it adds no separate identity and should not be a second glossary headword.",
+      "evidence_rows": [
+        14182
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 0,
+      "reason": "“cairns” is a generic common-noun landmark label (and source has a leading space), not a proper name or fixed mechanic; translate by context.",
+      "evidence_rows": [
+        1
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 3,
+      "reason": "“Ancient Ruins” is a generic descriptive site label without a unique proper name; do not freeze it as a project term.",
+      "evidence_rows": [
+        142
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 4,
+      "reason": "“Ancient Temple” is a generic building/site phrase rather than a uniquely named entity; do not hard-gloss it.",
+      "evidence_rows": [
+        75,
+        134
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 11,
+      "reason": "“Chapel” is a generic building type; evidence does not establish a named entity.",
+      "evidence_rows": [
+        116
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 16,
+      "reason": "“European” is an ordinary demonym/adjective whose form depends on context, not a fixed name.",
+      "evidence_rows": [
+        126
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 18,
+      "reason": "“Fishing Village” describes a generic settlement type rather than a uniquely named settlement.",
+      "evidence_rows": [
+        59,
+        84
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 21,
+      "reason": "“Fortress” is a generic fortification noun with contextual uses; do not lock a universal glossary equivalent.",
+      "evidence_rows": [
+        77,
+        117
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 22,
+      "reason": "“Fortress Ruin” is a generic site description rather than a unique proper name.",
+      "evidence_rows": [
+        118
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 25,
+      "reason": "“House” is an ordinary context-dependent noun; the review policy explicitly excludes it from hard glossary terms.",
+      "evidence_rows": [
+        90,
+        157
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 26,
+      "reason": "“Jungle Village” is a generic settlement description rather than a proper name.",
+      "evidence_rows": [
+        57,
+        3226
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 30,
+      "reason": "“Market” is an ordinary context-dependent noun; the review policy explicitly excludes it from hard glossary terms.",
+      "evidence_rows": [
+        92,
+        115
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 35,
+      "reason": "“Mountain Pass” is generic terrain terminology, not a named location.",
+      "evidence_rows": [
+        53,
+        14512
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 39,
+      "reason": "“Palace” is a generic building noun and not a named entity in the evidence.",
+      "evidence_rows": [
+        139,
+        2030
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 42,
+      "reason": "“Plaza” is a generic public-space noun, not a fixed proper name.",
+      "evidence_rows": [
+        138
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 51,
+      "reason": "“Shrine” is a generic building/site type without a unique proper name in the evidence.",
+      "evidence_rows": [
+        161
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 53,
+      "reason": "“Spanish” is polysemous here (demonym/adjective/language) and the evidence does not establish one fixed sense; avoid a global glossary entry.",
+      "evidence_rows": [
+        144,
+        3002
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 54,
+      "reason": "“Spring” is an ordinary polysemous word; this isolated row does not establish a fixed specialized sense.",
+      "evidence_rows": [
+        151
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 58,
+      "reason": "“Swamp” is generic terrain terminology, not a named place.",
+      "evidence_rows": [
+        170
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 60,
+      "reason": "“Tavern” is a generic facility noun rather than a uniquely named entity.",
+      "evidence_rows": [
+        120
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 61,
+      "reason": "“Temple” is a generic building noun; keep context-dependent usage translatable.",
+      "evidence_rows": [
+        140
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 68,
+      "reason": "“Tomb” is a generic burial-site noun, not a unique name.",
+      "evidence_rows": [
+        159
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 71,
+      "reason": "“Treasure” is an ordinary polysemous noun, not a stable specialized term on this evidence.",
+      "evidence_rows": [
+        104
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 76,
+      "reason": "“Volcano” is generic terrain terminology, not a named place.",
+      "evidence_rows": [
+        147
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 78,
+      "reason": "“Workshop” is a generic facility noun rather than a uniquely named entity or specialized mechanic.",
+      "evidence_rows": [
+        122
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 122,
+      "reason": "Exact-source duplicate of primary terms:5 (“Aztec”); keep only the earlier canonical row.",
+      "evidence_rows": [
+        459,
+        5231
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 123,
+      "reason": "Exact-source duplicate of primary terms:53; the source is ambiguous as demonym/adjective/language and neither row merits a fixed glossary entry.",
+      "evidence_rows": [
+        460,
+        11340
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 113,
+      "reason": "Exact-source duplicate of primary terms:104 (“Man-At-Arms”); keep the earlier primary, whose translation fits unit-role evidence.",
+      "evidence_rows": [
+        433
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 142,
+      "reason": "Exact-source duplicate of primary terms:98 (“Restore”); keep the earlier primary after standardizing its translation.",
+      "evidence_rows": [
+        510,
+        774
+      ]
+    }
+  ],
+  "additions": [],
+  "allow_no_match": []
+}

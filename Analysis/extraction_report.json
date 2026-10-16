@@ -1,0 +1,79 @@
+{
+  "records": 14691,
+  "unique_texts": 11020,
+  "by_category": {
+    "UI": 1773,
+    "Level0": 2912,
+    "Level1": 6967,
+    "RandomEvents": 2502,
+    "Codex": 48,
+    "Map/UI": 321,
+    "Tutorial": 134,
+    "Hardcoded UI": 34
+  },
+  "by_kind": {
+    "xml": 14202,
+    "mono": 455,
+    "managed": 34
+  },
+  "characters": 1310074,
+  "words_approx": 231318,
+  "multiline_records": 194,
+  "csv_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "managed_dll_sha256": "1b1dbf3001f5c1fc3909c694e59fc3aa57f39446948e8055319c5cfac02cf8a8",
+  "selected_textassets": [
+    {
+      "asset_file": "sharedassets0.assets",
+      "path_id": 16,
+      "name": "GUI-en",
+      "export": "Analysis/textassets/sharedassets0.assets/16_GUI-en.txt",
+      "size": 125919,
+      "sha256": "c352e1dfe7f586056879772fec31981cb3a6e6d6e33e3d0113bd7f4f6c45d866"
+    },
+    {
+      "asset_file": "sharedassets1.assets",
+      "path_id": 772,
+      "name": "Level0",
+      "export": "Analysis/textassets/sharedassets1.assets/772_Level0.txt",
+      "size": 2539383,
+      "sha256": "116e2af3b0d68f854d78ced4d42581e588bf69244177f7abc3066e642915813f"
+    },
+    {
+      "asset_file": "sharedassets1.assets",
+      "path_id": 793,
+      "name": "Level1",
+      "export": "Analysis/textassets/sharedassets1.assets/793_Level1.txt",
+      "size": 6515109,
+      "sha256": "6d6ac02d5d42fd8b0c064feda61424ff7afb26d105201a6b7d388bb9a64e4e33"
+    },
+    {
+      "asset_file": "sharedassets1.assets",
+      "path_id": 781,
+      "name": "RandomEvents",
+      "export": "Analysis/textassets/sharedassets1.assets/781_RandomEvents.txt",
+      "size": 1879083,
+      "sha256": "517ac1c09e6dcf24a0350c6b6c8f9cf08a8cc7819723d5bd104c3d91d7c15542"
+    },
+    {
+      "asset_file": "sharedassets1.assets",
+      "path_id": 796,
+      "name": "Codex",
+      "export": "Analysis/textassets/sharedassets1.assets/796_Codex.txt",
+      "size": 35087,
+      "sha256": "c470d10c21f5d19c225174f6c1b77ecd8660ed0cdd328a05671f05aef0d91d60"
+    }
+  ],
+  "validation": {
+    "single_column": true,
+    "no_header": true,
+    "exact_source_roundtrip": true,
+    "unique_locations": true,
+    "all_171_unity_files_unchanged": true
+  },
+  "limitations": [
+    "Tutorial body text and cinematic text baked into images/movies are not extracted.",
+    "462 unrelated or partially decoded MonoBehaviours have schema errors; see mono_errors.json.",
+    "Hardcoded UI list covers reviewed occurrences; runtime residual-English testing is still needed.",
+    "GivenName/FamilyName are excluded because gameplay code also uses these identities."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "offline_checks_passed_runtime_pending",
+  "decode_outputs": [
+    {
+      "game_path": "Expeditions Conquistador_Data/sharedassets0.assets",
+      "sha256": "eaf771e177c730aeeefb8be8bd5c28b60633381396a16418b28db4153ae45cc4",
+      "status": "passed"
+    },
+    {
+      "game_path": "Expeditions Conquistador_Data/sharedassets1.assets",
+      "sha256": "401d0f605e1d3640390883b60c201a30f1494e30081b39bbdf8fa8bd445830ba",
+      "status": "passed"
+    },
+    {
+      "game_path": "Expeditions Conquistador_Data/level0",
+      "sha256": "5487b91ec1afb622c95d43f8c5c1f3422a32f90fd8d14ff0c39c198bd8979240",
+      "status": "passed"
+    },
+    {
+      "game_path": "Expeditions Conquistador_Data/level2",
+      "sha256": "323c3d2658a1b5dffdc519ee27207d1d6fc63d9a924461a1c6a69b6d7b183c37",
+      "status": "passed"
+    },
+    {
+      "game_path": "Expeditions Conquistador_Data/level3",
+      "sha256": "345d34432e54c3bd670eed96f4f55b9bc3a2b05835963686d21060b73ef52d0a",
+      "status": "passed"
+    },
+    {
+      "game_path": "Expeditions Conquistador_Data/Managed/Assembly-CSharp.dll",
+      "sha256": "e23d69a2749d2d82de52fe8f616c6517e92f9d99c6b2cb366a3524b3f235cbf2",
+      "status": "passed"
+    },
+    {
+      "game_path": "Expeditions Conquistador_Data/Managed/ConquistadorChinese.dll",
+      "sha256": "8226fe163d4d49868aedb0ec530f87c6efae8e8cd2e91570341ab3f17b26b5fa",
+      "status": "passed"
+    }
+  ],
+  "previous_installation_unchanged": true,
+  "candidate_installed": false,
+  "required_next": [
+    "User exits game",
+    "Deploy candidate and preserve original backup",
+    "Retest old-save Citlalli biography and screenshot quest list",
+    "Check Chinese caption and scrolling in representative tutorial pages",
+    "Repeat player installer roundtrip for final kit",
+    "Record new in-game check before packaging or publication"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "source_commit": "1d0e46c7933245c8180fe83e47917961c913bbdb",
+  "required_characters": 3157,
+  "fonts": [
+    {
+      "file": "Repack/Build/fonts/ZFYNotoSerifSC-Regular.ttf",
+      "sha256": "84080dc843447eab1ad5a507ab59284f0a65906b163c781b2bb3273b4190a34e",
+      "size": 1358552,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/1d0e46c7933245c8180fe83e47917961c913bbdb/ofl/notoserifsc/NotoSerifSC%5Bwght%5D.ttf",
+      "source_sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "weight": 400,
+      "missing_characters": []
+    },
+    {
+      "file": "Repack/Build/fonts/ZFYNotoSerifSC-Bold.ttf",
+      "sha256": "30acae47b396295f55a104ff77b884e0b1a1bf7346290bc3e4dc34b3fd88cc24",
+      "size": 1358332,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/1d0e46c7933245c8180fe83e47917961c913bbdb/ofl/notoserifsc/NotoSerifSC%5Bwght%5D.ttf",
+      "source_sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "weight": 700,
+      "missing_characters": []
+    },
+    {
+      "file": "Repack/Build/fonts/ZFYNotoSansSC-Regular.ttf",
+      "sha256": "3a7d436973e2ae999b434afc886fa98f3a782f8700a59a380e1341560b5c8082",
+      "size": 992900,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/1d0e46c7933245c8180fe83e47917961c913bbdb/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+      "source_sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "weight": 400,
+      "missing_characters": []
+    },
+    {
+      "file": "Repack/Build/fonts/ZFYNotoSansSC-Bold.ttf",
+      "sha256": "04a64936ca93a3169b46205f0744f06a7f5f7ae71121a14eec98379917391094",
+      "size": 992788,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/1d0e46c7933245c8180fe83e47917961c913bbdb/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+      "source_sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "weight": 700,
+      "missing_characters": []
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "snapshot_sha256": "a936e03e07076179490b318d366ad0db4013dd767b8210900298506db9314c22",
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "review_complete": true,
+  "review_summary": "逐条核对本批 180 个条目的证据、译名与分类；保留有明确游戏机制、装备、历史专名及战术含义的条目，依据 duplicate_source 审校结果隔离重复记录，并修正 Aztec 的语义分类。对 Capitán 在军事职衔与船长称呼中的上下文差异作了例外说明。",
+  "reviewed_refs": [
+    "terms:326",
+    "terms:327",
+    "terms:328",
+    "terms:329",
+    "terms:330",
+    "terms:331",
+    "terms:332",
+    "terms:333",
+    "terms:334",
+    "terms:335",
+    "terms:336",
+    "terms:337",
+    "terms:338",
+    "terms:339",
+    "terms:340",
+    "terms:341",
+    "terms:342",
+    "terms:343",
+    "terms:344",
+    "terms:345",
+    "terms:346",
+    "terms:347",
+    "terms:348",
+    "terms:349",
+    "terms:350",
+    "terms:351",
+    "terms:352",
+    "terms:353",
+    "terms:354",
+    "terms:355",
+    "terms:356",
+    "terms:357",
+    "terms:358",
+    "terms:359",
+    "terms:360",
+    "terms:361",
+    "terms:362",
+    "terms:363",
+    "terms:364",
+    "terms:365",
+    "terms:366",
+    "terms:367",
+    "terms:368",
+    "terms:369",
+    "terms:370",
+    "terms:371",
+    "terms:372",
+    "terms:373",
+    "terms:374",
+    "terms:375",
+    "terms:376",
+    "terms:377",
+    "terms:378",
+    "terms:379",
+    "terms:380",
+    "terms:381",
+    "terms:382",
+    "terms:383",
+    "terms:384",
+    "terms:385",
+    "terms:386",
+    "terms:387",
+    "terms:388",
+    "terms:389",
+    "terms:390",
+    "terms:391",
+    "terms:392",
+    "terms:393",
+    "terms:394",
+    "terms:395",
+    "terms:396",
+    "terms:397",
+    "terms:398",
+    "terms:399",
+    "terms:400",
+    "terms:401",
+    "terms:402",
+    "terms:403",
+    "terms:404",
+    "terms:405",
+    "terms:406",
+    "terms:407",
+    "terms:408",
+    "terms:409",
+    "terms:410",
+    "terms:411",
+    "terms:412",
+    "terms:413",
+    "terms:414",
+    "terms:415",
+    "terms:416",
+    "terms:417",
+    "terms:418",
+    "terms:419",
+    "terms:420",
+    "terms:421",
+    "terms:422",
+    "terms:423",
+    "terms:424",
+    "terms:425",
+    "terms:426",
+    "terms:427",
+    "terms:428",
+    "terms:429",
+    "terms:430",
+    "terms:431",
+    "terms:432",
+    "terms:433",
+    "terms:434",
+    "terms:435",
+    "terms:436",
+    "terms:437",
+    "terms:438",
+    "terms:439",
+    "terms:440",
+    "terms:441",
+    "terms:442",
+    "terms:443",
+    "terms:444",
+    "terms:445",
+    "terms:446",
+    "terms:447",
+    "terms:448",
+    "terms:449",
+    "terms:450",
+    "terms:451",
+    "terms:452",
+    "terms:453",
+    "terms:454",
+    "terms:455",
+    "terms:456",
+    "terms:457",
+    "terms:458",
+    "terms:459",
+    "terms:460",
+    "terms:461",
+    "terms:462",
+    "terms:463",
+    "terms:464",
+    "terms:465",
+    "terms:466",
+    "terms:467",
+    "terms:468",
+    "terms:469",
+    "terms:470",
+    "terms:471",
+    "terms:472",
+    "terms:473",
+    "terms:474",
+    "terms:475",
+    "terms:476",
+    "terms:477",
+    "terms:478",
+    "terms:479",
+    "terms:480",
+    "terms:481",
+    "terms:482",
+    "terms:483",
+    "terms:484",
+    "terms:485",
+    "terms:486",
+    "terms:487",
+    "terms:488",
+    "terms:489",
+    "terms:490",
+    "terms:491",
+    "terms:492",
+    "terms:493",
+    "terms:494",
+    "terms:495",
+    "terms:496",
+    "terms:497",
+    "terms:498",
+    "terms:499",
+    "terms:500",
+    "terms:501",
+    "terms:502",
+    "terms:503",
+    "terms:504",
+    "terms:505"
+  ],
+  "acknowledged_findings": [
+    "F0055",
+    "F0057",
+    "F0058",
+    "F0059",
+    "F0062",
+    "F0064",
+    "F0067",
+    "F0069",
+    "F0080",
+    "F0083",
+    "F0086",
+    "F0093",
+    "F0095",
+    "F0097",
+    "F0101",
+    "F0103",
+    "F0107",
+    "F0108",
+    "F0109",
+    "F0112",
+    "F0115",
+    "F0120",
+    "F0123",
+    "F0124",
+    "F0126",
+    "F0127",
+    "F0129",
+    "F0130",
+    "F0133",
+    "F0134",
+    "F0135",
+    "F0136",
+    "F0137",
+    "F0138",
+    "F0139",
+    "F0140",
+    "F0141",
+    "F0142",
+    "F0143",
+    "F0144",
+    "F0145",
+    "F0146",
+    "F0147",
+    "F0148",
+    "F0149",
+    "F0150",
+    "F0151",
+    "F0152",
+    "F0221",
+    "F0225",
+    "F0226",
+    "F0227",
+    "F0228",
+    "F0231",
+    "F0233",
+    "F0234",
+    "F0236",
+    "F0238",
+    "F0240",
+    "F0241",
+    "F0243",
+    "F0245",
+    "F0250",
+    "F0253",
+    "F0256",
+    "F0259",
+    "F0260",
+    "F0266",
+    "F0267",
+    "F0269",
+    "F0271",
+    "F0273",
+    "F0279",
+    "F0282",
+    "F0285",
+    "F0295",
+    "F0297",
+    "F0298",
+    "F0301",
+    "F0302",
+    "F0304",
+    "F0305",
+    "F0306",
+    "F0307",
+    "F0308",
+    "F0309",
+    "F0310",
+    "F0311",
+    "F0312",
+    "F0313",
+    "F0314",
+    "F0315",
+    "F0316",
+    "F0317",
+    "F0318",
+    "F0319",
+    "F0320",
+    "F0321"
+  ],
+  "edits": [],
+  "quarantine": [
+    {
+      "table": "terms",
+      "index": 404,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 characters:176；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1782,
+        4694
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 391,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:5；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1628
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 392,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:7；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1718
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 502,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:8；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        2945
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 503,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:19；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        2978
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 433,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:21；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        2035
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 406,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:34；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1782
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 436,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:43；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        2079
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 377,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:76；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1553
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 407,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:85；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1796,
+        2074
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 383,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:97；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1589
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 390,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:108；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1620
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 495,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:111；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        2781
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 500,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:117；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        2892,
+        7887,
+        12345
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 387,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:136；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1591
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 371,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:140；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1514
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 372,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:164；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1516,
+        1762
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 388,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:165；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1618
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 396,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:165；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1736
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 389,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:166；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1619
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 452,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:175；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        2174,
+        2278
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 463,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:190；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        2379
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 332,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:222；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1267
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 370,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:231；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1498
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 373,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:239；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1520
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 393,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:256；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1727
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 395,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:260；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1728
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 348,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:274；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1299
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 328,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:280；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1254
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 365,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:313；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1443
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 367,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:315；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1455
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 394,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:315；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1729
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 368,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:316；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1456
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 399,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:397；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1772
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 477,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:410；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        2639
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 429,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:418；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1997,
+        2735,
+        14190
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 437,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:422；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        1990,
+        2341
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 499,
+      "reason": "完全重复源项，按项目规范保留唯一主条目 terms:449；本条从术语表隔离，译文由主条目统一。",
+      "evidence_rows": [
+        2841
+      ]
+    }
+  ],
+  "additions": [],
+  "allow_no_match": []
+}

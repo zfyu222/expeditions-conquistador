@@ -1,0 +1,29 @@
+{
+  "status": "paused_by_user_waiting_workflow_update",
+  "date": "2026-10-13T17:02:07.251758+00:00",
+  "source_records": 14691,
+  "extract_tasks_done": 441,
+  "glossary_review_tasks_submitted": 7,
+  "glossary_frozen": false,
+  "body_started": false,
+  "update_thread": "01a13610-9e70-77b2-8dea-f0e51a2ab8a6",
+  "pending_semantic_revisions": [
+    {
+      "task": "glossary_review-r1-00004-eea79599",
+      "ref": "terms:422",
+      "reason": "Align Capitán with military character title review; check Casa del Capitán terms:441 and genuine ship contexts."
+    },
+    {
+      "task": "glossary_review-r1-00005-c0f40306",
+      "ref": "terms:564",
+      "reason": "War Chief revision added gender absent from title and omitted its military meaning. Re-review without unsupported gender."
+    }
+  ],
+  "resume_requirements": [
+    "Wait for shared workflow update completion and tests.",
+    "Read updated skill/reference rules and migrate through supported APIs while preserving source evidence.",
+    "Do not use the temporary v1 runtime to bypass new quality gates.",
+    "Reconcile outstanding glossary revisions and cross-batch name variants before freezing.",
+    "Use distinct translation/review agent instances and run representative pilot before full body."
+  ]
+}

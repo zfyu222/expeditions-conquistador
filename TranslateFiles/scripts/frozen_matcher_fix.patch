@@ -1,0 +1,18 @@
+--- a/Tools/localization/ainiee_bridge.py
++++ b/Tools/localization/ainiee_bridge.py
+@@ -55,7 +55,14 @@
+ def matched_terms(analysis, texts, options):
+     h = helper()
+     rows = glossary_rows(analysis)
+-    matched = h.collect_matched_rows(rows, {str(i): t for i, t in enumerate(texts)},
++    # Reuse literal/quote/boundary/overlap matching, but frozen rows are authoritative.
++    # AINiee's automatic family unification can merge different meanings (Guards/Guard).
++    class FrozenMatcher(h):
++        @classmethod
++        def unify_term_family_translations(cls, rows, *args, **kwargs):
++            return [dict(row) for row in rows or []]
++
++    matched = FrozenMatcher.collect_matched_rows(rows, {str(i): t for i, t in enumerate(texts)},
+                                     case_sensitive=options['case_sensitive'],
+                                     whole_word=options['whole_word'])
+     # Keep-original entries still convey useful instructions, but are not term-check errors.

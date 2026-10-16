@@ -1,0 +1,104 @@
+diff --git a/Tools/localization/test_translation_workflow.py b/Tools/localization/test_translation_workflow.py
+index ebdc56f..1192fbe 100644
+--- a/Tools/localization/test_translation_workflow.py
++++ b/Tools/localization/test_translation_workflow.py
+@@ -33,6 +33,36 @@ class WorkflowTests(unittest.TestCase):
+     def tearDown(self):
+         self.temp.cleanup()
+ 
++    def test_context_replacement_preserves_extraction_and_updates_new_tasks(self):
++        self.extract(True)
++        self.flow.pause(True)
++        contexts = {str(i): {'group': 'sample', 'speaker': 'Player' if i == 1 else '',
++                             'text_type': 'Choice' if i == 1 else 'Narrative'} for i in range(1, 5)}
++        self.assertEqual(self.flow.replace_context(contexts, 'Correct speaker ownership')['records'], 4)
++        status = self.flow.status()
++        self.assertEqual(status['revision'], 2)
++        self.assertEqual(sum(r['n'] for r in status['tasks'] if r['stage'] == 'extract' and r['status'] == 'done'), 2)
++        self.flow.pause(False)
++        self.flow.prepare('glossary_review')
++        claim = self.flow.claim('glossary_review', 'different-reviewer')
++        row = next(r for r in claim['payload']['records'] if r['ordinal'] == 1)
++        self.assertEqual(row['metadata']['speaker'], 'Player')
++        self.assertTrue((self.flow.root / 'history/context_r2.json').exists())
++
++    def test_context_replacement_rejects_live_tasks_and_invalid_coverage(self):
++        contexts = {str(i): {'group': 'sample'} for i in range(1, 5)}
++        with self.assertRaisesRegex(ValueError, 'Pause'):
++            self.flow.replace_context(contexts, 'correction')
++        self.flow.pause(True)
++        with self.assertRaisesRegex(ValueError, 'every ordinal'):
++            self.flow.replace_context({'1': {}}, 'correction')
++        self.flow.pause(False)
++        self.flow.prepare('extract')
++        self.flow.claim('extract', 'extractor')
++        self.flow.pause(True)
++        with self.assertRaisesRegex(ValueError, 'outstanding'):
++            self.flow.replace_context(contexts, 'correction')
++
+     @staticmethod
+     def envelope(claim):
+         return {'task_id': claim['task_id'], 'input_hash': claim['payload']['input_hash']}
+diff --git a/Tools/localization/translation_workflow.py b/Tools/localization/translation_workflow.py
+index d4062d2..d90183b 100644
+--- a/Tools/localization/translation_workflow.py
++++ b/Tools/localization/translation_workflow.py
+@@ -876,6 +876,42 @@ class Workflow(QualityMixin):
+             self.event(db, 'configure', {'revision': revision, 'reason': reason, 'semantic_reset': semantic})
+             return {'revision': revision, 'semantic_reset': semantic}
+ 
++    def replace_context(self, contexts, reason):
++        """Correct extraction metadata before glossary/body preparation, with history."""
++        with self.db() as db:
++            self.config(db)
++            revision = self.meta(db, 'revision')
++            if not self.meta(db, 'paused') or not reason.strip():
++                raise ValueError('Pause and provide a context replacement reason first')
++            if db.execute('SELECT 1 FROM tasks WHERE status="running" OR '
++                          '(revision=? AND status IN ("pending","failed"))', (revision,)).fetchone():
++                raise ValueError('Finish outstanding tasks before replacing context')
++            if self.meta(db, 'glossary') or db.execute(
++                    'SELECT 1 FROM records WHERE stage!=? OR translation IS NOT NULL OR locked=1', ('source',)).fetchone():
++                raise ValueError('Context replacement is limited to preparation before glossary freezing or body work')
++            ordinals = {str(r[0]) for r in db.execute('SELECT ordinal FROM records')}
++            if (not isinstance(contexts, dict) or set(contexts) != ordinals
++                    or any(not isinstance(row, dict) or any(not isinstance(k, str) or not isinstance(v, str)
++                                                           for k, v in row.items()) for row in contexts.values())):
++                raise ValueError('Context must cover every ordinal exactly once with string metadata')
++            before = self.meta(db, 'contexts', {})
++            if before == contexts:
++                return {'status': 'unchanged', 'revision': revision}
++            revision += 1
++            write_json(self.root / f'history/context_r{revision}.json',
++                       {'before': before, 'after': contexts, 'reason': reason})
++            self.put(db, 'contexts', contexts)
++            self.put(db, 'revision', revision)
++            self.put(db, 'quality_approvals', {})
++            self.put(db, 'pilot_selection', None)
++            self.put(db, 'pilot_prior', None)
++            db.execute('UPDATE tasks SET revision=? WHERE stage="extract" AND status="done"', (revision,))
++            db.execute('UPDATE tasks SET status="obsolete" WHERE stage!="extract"')
++            write_json(self.root / 'source/context.json', contexts)
++            self.event(db, 'replace_context', {'revision': revision, 'reason': reason,
++                                              'before_hash': fingerprint(before), 'after_hash': fingerprint(contexts)})
++            return {'status': 'replaced', 'revision': revision, 'records': len(contexts)}
++
+     def lock(self, record_id, locked, reason):
+         with self.db() as db:
+             self.config(db)
+@@ -1091,6 +1127,7 @@ def main():
+     p = sub.add_parser('record-game-check'); p.add_argument('--file', required=True)
+     sub.add_parser('release-check')
+     p = sub.add_parser('configure'); p.add_argument('--file', required=True); p.add_argument('--reason', required=True)
++    p = sub.add_parser('replace-context'); p.add_argument('--file', required=True); p.add_argument('--reason', required=True)
+     p = sub.add_parser('revise-glossary'); p.add_argument('--snapshot', required=True); p.add_argument('--decisions', required=True); p.add_argument('--reason', required=True)
+     for command in ('lock', 'unlock'):
+         p = sub.add_parser(command); p.add_argument('--record', required=True); p.add_argument('--reason', required=True)
+@@ -1116,6 +1153,7 @@ def main():
+         elif args.command == 'record-game-check': result = flow.record_game_check(read_json(args.file))
+         elif args.command == 'release-check': result = flow.release_check()
+         elif args.command == 'configure': result = flow.configure(read_json(args.file), args.reason)
++        elif args.command == 'replace-context': result = flow.replace_context(read_json(args.file), args.reason)
+         elif args.command == 'freeze-glossary': result = flow.freeze_glossary()
+         elif args.command == 'revise-glossary': result = flow.revise_glossary(args.snapshot, args.decisions, args.reason)
+         elif args.command in ('lock', 'unlock'): result = flow.lock(args.record, args.command == 'lock', args.reason)

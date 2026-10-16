@@ -1,0 +1,9 @@
+{
+  "records": 14691,
+  "drafts": 7558,
+  "baseline_records_sha256": "21846de307f582ff095cf275af693a73ffcc6496fcbf5460b2054461fea250aa",
+  "after_records_sha256": "21846de307f582ff095cf275af693a73ffcc6496fcbf5460b2054461fea250aa",
+  "unchanged": true,
+  "running_tasks": 1,
+  "method": "read-only SQLite query; no workflow state migration or reset"
+}

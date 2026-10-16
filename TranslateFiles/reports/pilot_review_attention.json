@@ -1,0 +1,115 @@
+{
+  "scope": "Concerns observed in historical and current pilot attempts. Independently assess the current translation; an earlier concern is not proof the latest version is wrong. This is not an approval or replacement translation.",
+  "observed_revisions": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "records": [
+    {
+      "ordinal": 4,
+      "source_excerpt": " uses Stun on ",
+      "concern": "这是日志拼接片段。核对当前译文在前置施术者、后置目标组合后的中文语序和技能名是否自然；保留首尾空白及字段边界，不能只看独立短句。"
+    },
+    {
+      "ordinal": 773,
+      "source_excerpt": "5 random adjacent spaces in and around the target space",
+      "concern": "译文目标格及其周围随机5个相邻格可能被理解成中心格加5格。实际Hailstorm将中心格加入邻格候选池，再随机选择5次，不保证选中中心；独立审校应确保总数量与候选范围关系准确。",
+      "evidence_file": "Analysis/decompiled/Assembly-CSharp/soStrategyCharacter.cs",
+      "evidence_lines": [
+        4978,
+        4997
+      ]
+    },
+    {
+      "ordinal": 779,
+      "source_excerpt": "Gives an ally 2 more moves",
+      "concern": "当前译为额外2次移动可能夸大技能效果。已有反编译 Logistics 方法增加 target.maxMoves 和 target.movesRemaining 2/4/6，随后日志拼接 increasing the Move distance by；指的是距离额度，不是新增整次移动行动。独立审校需据此修订，不机械通过。",
+      "evidence_file": "Analysis/decompiled/Assembly-CSharp/soStrategyCharacter.cs",
+      "evidence_lines": [
+        3418,
+        3480
+      ]
+    },
+    {
+      "ordinals": [
+        1049,
+        1055
+      ],
+      "source_excerpt": "You are the eldest child of a Spanish nobleman",
+      "concern": "原文未限定主人公性别，当前译文长子增加男性设定。另原文 South American mainland 当前漏去 South。请在两条同源记录独立核对并修订，不能根据历史现实悄悄改写游戏地理说法。"
+    },
+    {
+      "ordinals": [
+        1049,
+        1055
+      ],
+      "source_excerpt": "\"hermandad\" (meaning \"brotherhood\")",
+      "concern": "r9试译出现兄弟会（意为兄弟会）的重复解释。独立审校应自然处理原词和释义之间的关系，保留治安组织语境，避免无意义同词重复。"
+    },
+    {
+      "ordinal": 3623,
+      "source_excerpt": "Look what you've /done/ to FHimHer1!",
+      "concern": "当前末句动态对象代词置于句末，形成不通顺的把字句。需按中文语法移动保护token的位置，同时保留变量且把强调标记限制在与源文对应的动作上。"
+    },
+    {
+      "ordinals": [
+        2816,
+        3528,
+        3878
+      ],
+      "source_excerpt": "\"",
+      "concern": "原文对话有首尾引号，当前译文丢失引号。按项目文体保留对话引号，和其他同类对白一致；3528还要保留被打断的语气及斜体作用范围。"
+    },
+    {
+      "ordinal": 6063,
+      "source_excerpt": "can't resist the temptation to sneak a golden goblet into FHisHer1 sack",
+      "concern": "sneak 在此是偷偷把物品塞入袋中的普通动词，当前施展潜行把动作误当技能激活，增加原文没有的机制。独立审校应按叙事动作纠正，并为必要的术语语境例外留下真实依据，不强制使用技能译名。"
+    },
+    {
+      "ordinal": 5471,
+      "source_excerpt": "FNameLast1, who is grievously wounded",
+      "concern": "伤者是运行时选定的队员，原文用FHisHer1保持性别可变。当前追加的固定男性代词可能指错女性队员，独立审校需按变量语义处理，不根据FNameLast1推定男性。"
+    },
+    {
+      "ordinal": 2500,
+      "source_excerpt": "mi PSenorSenora",
+      "concern": "当前例外理由称完整西班牙语称谓受保护，但任务 protection 只有 PSenorSenora，mi 未被封存。复核为何保留 mi 或如何自然处理，同时保留动态称谓变量；不能用冻结复合译名阁下直接覆盖运行变量。例外说明必须反映真实保护范围。"
+    },
+    {
+      "ordinals": [
+        3271,
+        3829,
+        3961
+      ],
+      "source_excerpt": "[Check Diplomacy",
+      "concern": "三个玩家检定说明的括号、难度表达和空格不一致，3271删除了原方括号。说明可以翻译但不是随意删除界面提示边界，请保持同类提示格式并保护样式范围。"
+    },
+    {
+      "ordinal": 6063,
+      "source_excerpt": "crosses the doorstep to the temple with the goblet",
+      "concern": "r9已修正sneak普通动词义，但后句端着金杯增加手持动作；同句前文刚把杯塞进袋中。独立核对当前版是否凭空添加取出/端持动作，保留携带杯过门槛的因果。"
+    },
+    {
+      "ordinal": 10627,
+      "source_excerpt": "murder me and my people",
+      "concern": "r9将my people译成我的族人。依据任务中已确认的说话人及场景判断这里指随行队伍还是同族人，不从泛称people额外推定血缘或民族关系；如现有上下文不足，说明核对范围。"
+    },
+    {
+      "ordinal": 2500,
+      "source_excerpt": "mi PSenorSenora",
+      "concern": "r9出现阁下PSenorSenora，运行时可能组合成阁下先生/阁下女士。独立检查动态称谓组合是否自然且是否重复敬称；保留变量，不删除令其无法正常替换。"
+    },
+    {
+      "ordinal": 3,
+      "source_excerpt": "N/A",
+      "concern": "r10当前不/适用把UI标准缩写改成了中间断开的中文。源字段NA没有进一步说明是not applicable还是not available，不能猜定适用性；在缺少明确上下文时保持标准缩写及其字面斜杠，不擅造中文样式断点。"
+    },
+    {
+      "ordinal": 4,
+      "source_excerpt": " uses Stun on ",
+      "concern": "r10当前片段对其使用击晕接上后置目标名，形成施术者对其使用击晕目标的不自然句子且其指代不明。此代码按施术者名字+片段+目标名字拼接，独立审校必须在这一完整语序下核对，不能只把单独片段当通顺。保留首尾空白和冻结技能名。"
+    }
+  ]
+}

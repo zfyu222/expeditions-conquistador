@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "archive": "Dispatch\\expeditions-conquistador_子非鱼汉化1.0.zip",
+  "size": 7436931,
+  "sha256": "6c87aba83c265c3afc6b30b580c6ecc1c4fd7ae938dfbbc0801ce2bc4437891a",
+  "zip_entries": 16,
+  "payload_files": 13,
+  "checks": [
+    "ZIP layout",
+    "13 payload hashes",
+    "Dispatch/Files staged hashes",
+    "UTF-8 BOM installation guide",
+    "cumulative changelog",
+    "no game body or source CSV"
+  ],
+  "extracted_to": "Repack\\Build\\ReleaseInspection"
+}

@@ -1,0 +1,910 @@
+{
+  "report_hash": "ce4c4bbec230762af6f16decb9a469bd61453eb72450a9b098bd44a1b7268a6e",
+  "reviewer": "sol",
+  "status": "read_and_scoped_repair_accepted_for_pilot_only",
+  "records": {
+    "3": {
+      "disposition": "contextual",
+      "reason": "NA字段未区分不可用与不适用；保留标准N/A及字面斜杠，不再凭空选择含义或切断中文。"
+    },
+    "4": {
+      "disposition": "contextual",
+      "reason": "按施术者名+日志片段+目标名验证，使用击晕，目标：可清晰接上末尾目标；首尾空格与冻结技能名保留，未增加成功击晕的结果。实机排版留待回填。"
+    },
+    "34": {
+      "disposition": "pass",
+      "reason": "NOT所表达的没有准备时间已明确译出，没有把准备阶段保留或改成概率。"
+    },
+    "38": {
+      "disposition": "pass",
+      "reason": "No Goals对应无目标，UI简洁且未增加任务状态。"
+    },
+    "43": {
+      "disposition": "pass",
+      "reason": "保留6回合时限与消灭所有敌人的完整要求。"
+    },
+    "44": {
+      "disposition": "pass",
+      "reason": "保留8回合时限及所有敌人，与同组6/12回合提示一致。"
+    },
+    "45": {
+      "disposition": "pass",
+      "reason": "12回合上限和全歼敌人的目标均对应原文，未和另两档混用。"
+    },
+    "213": {
+      "disposition": "contextual",
+      "reason": "火炮因战斗受损，修好前无法再次使用，指派成员修复这一条件完整；restore在这里为普通修理动作，例外有明确原句依据。"
+    },
+    "245": {
+      "disposition": "pass",
+      "reason": "高士气同时防止兵变离队并提高暴击概率，两种效果和战斗范围均保留。"
+    },
+    "651": {
+      "disposition": "pass",
+      "reason": "耐力下降至0的结果是失去行动能力，没有误写死亡；数值和条件准确。"
+    },
+    "655": {
+      "disposition": "pass",
+      "reason": "明确区分每回合格数与不攻击时可移动两次，没有把距离额度和行动次数混为同一单位。"
+    },
+    "743": {
+      "disposition": "pass",
+      "reason": "NAME与TASK原样保留，否定擅长的关系明确，没有将任务占位符译成固定工作。"
+    },
+    "744": {
+      "disposition": "contextual",
+      "reason": "手艺不足以完成该发明表达技能不足导致无法承担工作的UI结果，NAME保留，未添加具体数值或技能机制。"
+    },
+    "770": {
+      "disposition": "pass",
+      "reason": "整回合行动、冷却1回合及距离命中惩罚减半完整；保留HOTKEY、星号边界与字面换行。"
+    },
+    "771": {
+      "disposition": "pass",
+      "reason": "弱近战攻击、远离猎人一格、攻击行动和冷却1回合对应原说明，推移参照点未丢。"
+    },
+    "773": {
+      "disposition": "contextual",
+      "reason": "修订明确从目标及邻格候选中总共抽5格，与已读随机选择代码一致；冷却3回合、伤及友军及技能名保留，未再表达中心加5格。"
+    },
+    "779": {
+      "disposition": "contextual",
+      "reason": "已读maxMoves/movesRemaining实现确认2/4/6是格数，修订恢复移动距离额度；新兵/老兵/中士条件及冷却2回合逐一对应。"
+    },
+    "787": {
+      "disposition": "pass",
+      "reason": "攻击后移动一格且不招致借机攻击，冷却2回合与HOTKEY和样式边界完整，未改为免受所有攻击。"
+    },
+    "788": {
+      "disposition": "pass",
+      "reason": "防御被绕过但护甲有效这一例外完整，冷却3回合、行动种类与HOTKEY正确。"
+    },
+    "864": {
+      "disposition": "pass",
+      "reason": "继续之前必须雇用10名队员的数量和前置条件清楚，没有译成最多10名。"
+    },
+    "1008": {
+      "disposition": "pass",
+      "reason": "普通远程攻击降低目标防御10%，且未命中也生效；未把概率、目标或攻击类别混用。"
+    },
+    "1049": {
+      "disposition": "contextual",
+      "reason": "全文核对1518、下一年、第三次远征、南美洲与1496及五周，未按现实历史修改游戏说法；最年长的孩子为性别中立，hermandad原词和兄弟会释义关系恢复，招募、货物、购买奴隶及圣多明各入港信息完整。"
+    },
+    "1055": {
+      "disposition": "contextual",
+      "reason": "同源开场说明与1049采用相同译文；保留性别中立、地理时间数据、组织解释及六段换行，不再形成兄弟会解释成兄弟会的循环。"
+    },
+    "1471": {
+      "disposition": "pass",
+      "reason": "同时装备上限为3件，最多只能准确保留限制语气。"
+    },
+    "1774": {
+      "disposition": "contextual",
+      "reason": "1469出生、年轻结婚、妻子患斑疹伤寒去世、投入疾病研究及部分为排解悲伤参加远征均对应；married动词与treatment研究领域的例外成立，未把它们当状态标签或技能施放。"
+    },
+    "1874": {
+      "disposition": "pass",
+      "reason": "叛军已占宫殿并杀害总督是已发生事实；去查城镇其他部分的任务目标完整，未改成营救总督。"
+    },
+    "1882": {
+      "disposition": "pass",
+      "reason": "逃走与若非亲眼所见便难以相信方式的条件关系准确，保留对总督的敬称和对白引号。"
+    },
+    "2035": {
+      "disposition": "contextual",
+      "reason": "总督威胁用堡垒火炮沉船、压制申诉并以远征许可逼迫谈判；无权阻止按其权力自述语境理解，父亲财产的斜体范围及条件、越早关系、奥萨马河专名保留。"
+    },
+    "2117": {
+      "disposition": "pass",
+      "reason": "原文不杀光便不停手准确转换为只要仍有人活着便不罢休，人手不足与叛军残忍的语气完整。"
+    },
+    "2170": {
+      "disposition": "contextual",
+      "reason": "每天一次治疗，停止条件为主教康复或药尽，二者是或而非同时；hermano按宗教修士称呼，treatment普通医疗处置的例外合理。"
+    },
+    "2256": {
+      "disposition": "pass",
+      "reason": "保留动态姓氏，If you please的礼貌邀请译请吧；未指定固定队员或性别。"
+    },
+    "2362": {
+      "disposition": "pass",
+      "reason": "妻子遇害、山中巡逻队遭原住民伏击且无人幸存，主客体和生还否定均完整。"
+    },
+    "2386": {
+      "disposition": "pass",
+      "reason": "诺列加同样担心但无法分兵寻找妻子，刚损失分遣队解释兵力紧张；hah斜体讽刺及否定保留。"
+    },
+    "2500": {
+      "disposition": "contextual",
+      "reason": "改为尊敬的加动态PSenorSenora后避免阁下先生的重复称谓；命令立刻觐见总督及不再耽搁的劝告完整，mi复合术语例外说明与真实保护范围一致。"
+    },
+    "2573": {
+      "disposition": "pass",
+      "reason": "实际复读新译，已恢复完整引号；政变控制岛屿不等于获授全新大陆主权的反问关系保留。"
+    },
+    "2672": {
+      "disposition": "pass",
+      "reason": "前次远征由费利佩·古铁雷斯带三百人赴大陆谋取王室领土，随后全队杳无音讯，数字和未知结局均保留。"
+    },
+    "2688": {
+      "disposition": "pass",
+      "reason": "荣誉与不能信任其承诺便一无是处的关系准确，用一个人表达泛指而未限定玩家性别。"
+    },
+    "2715": {
+      "disposition": "pass",
+      "reason": "匈牙利黑军训练、对土耳其与农民叛乱作战、军队解散后自立并赴意大利佣战以及寻找塔马什旧友，时间次序与别名Fekete sereg一致。"
+    },
+    "2816": {
+      "disposition": "pass",
+      "reason": "恢复对白引号，必须吞服、叶片包裹并一次吞下整份的动作方式完整，未改为外敷。"
+    },
+    "3015": {
+      "disposition": "pass",
+      "reason": "无其他办法时接受安排、可以借机练手的语气自然，没有把假设变成自愿邀约。"
+    },
+    "3271": {
+      "disposition": "pass",
+      "reason": "外交检定简单难度、提供1000贵重物品均对应；方括号和星号仅包围提示，未扩大格式范围。"
+    },
+    "3390": {
+      "disposition": "pass",
+      "reason": "山中找到路易莎和小队尸体，把吊坠及噩耗带给圣多明各的丈夫马林，人物关系和交付地点清楚。"
+    },
+    "3461": {
+      "disposition": "pass",
+      "reason": "空手离开疯狂萨满并返回阿特尔询问其他办法，未将未取得物品改成成功任务。"
+    },
+    "3528": {
+      "disposition": "pass",
+      "reason": "不投降则不会有下一次的威胁，结尾被打断和仅强调有的斜体边界准确，保留引号。"
+    },
+    "3608": {
+      "disposition": "pass",
+      "reason": "如果对方想除掉玩家也不会容易的条件与否定关系准确，只强调我，未推定玩家性别。"
+    },
+    "3623": {
+      "disposition": "pass",
+      "reason": "献祭前不能伤害的约定、粗口与要求给个痛快均保留；动态代词移到动词前使中文通顺，做的斜体范围未扩展，未固定人质性别。"
+    },
+    "3640": {
+      "disposition": "pass",
+      "reason": "先释放FNameFirst1并说明与此无关，两个动态变量均保留，first动作次序与无关性明确。"
+    },
+    "3656": {
+      "disposition": "contextual",
+      "reason": "靴中抽刀刺胸、短暂松手、挣脱时挨剑而倒地、队伍攻击部族盟友的次序完整；变量不变，tribal形容词例外成立。审校标题提到死亡但原文只说倒地，现译未增添死亡判定，按实际译文验收。"
+    },
+    "3697": {
+      "disposition": "pass",
+      "reason": "莱安德拉派劫掠者攻击伊圭，玩家愿意则可能仍来得及阻止，未把可能性改成保证或任务失败。"
+    },
+    "3829": {
+      "disposition": "pass",
+      "reason": "中等外交检定与拿不出这笔钱的拒绝对应，金塔拉先生敬称、对白引号及提示星号方括号保留。"
+    },
+    "3878": {
+      "disposition": "pass",
+      "reason": "否定想威胁维斯卡伊诺队长，保留称谓和感叹对白，未改为已经实施威胁。"
+    },
+    "3941": {
+      "disposition": "pass",
+      "reason": "返回圣多明各总督报告教派不再骚扰，主体及任务结果准确，没有变成请求总督消灭教派。"
+    },
+    "3961": {
+      "disposition": "pass",
+      "reason": "简单外交检定，听起来无害但要求今晚仪式结束后离开遗迹，时间和先后关系完整。"
+    },
+    "3963": {
+      "disposition": "pass",
+      "reason": "队长加动态姓氏，质疑是否允许异教徒继续亵渎仪式，保留宗教立场和反问语气。"
+    },
+    "4030": {
+      "disposition": "pass",
+      "reason": "返圣地亚哥向莱安德拉报告萨马纳没有叛军痕迹，地点、收信人和否定结论对应。"
+    },
+    "4034": {
+      "disposition": "pass",
+      "reason": "修订正确恢复有人承诺给玩家报酬的被动施事关系，金额1500贵重物品、虔诚修士与确认反问均保留。"
+    },
+    "4106": {
+      "disposition": "pass",
+      "reason": "不要奴隶且仅要付薪仆人的排他条件明确，两种雇用方式未混淆。"
+    },
+    "4129": {
+      "disposition": "contextual",
+      "reason": "父亲曾属哥伦布船员、母亲泰诺人与混合身份的困境，族人不信任、殖民者恶待、仍乐观而非天真并为两族和解奋斗均完整。treatment在正文为恶劣对待而非医疗技能，按实际语境核对。"
+    },
+    "4163": {
+      "disposition": "contextual",
+      "reason": "父亲热衷探险却算不上军职人物，与自己为走相似道路毫不犹豫穿军装形成对照；不把穿军装误译成父亲的行为。"
+    },
+    "4372": {
+      "disposition": "pass",
+      "reason": "塞维利亚式反复讨价还价未能使商人让步，最后是付500或换商家的两项选择，没有反转为议价成功。"
+    },
+    "4555": {
+      "disposition": "pass",
+      "reason": "先说明非有意扫兴，再要求就此停止并跳过最后一战，否定动机与请求行为完整。"
+    },
+    "4688": {
+      "disposition": "pass",
+      "reason": "特蕾莎出生时母亲死亡，父亲长期抑郁，童年立志助人康复，参队前当本地医生且善缝伤，关系与时间准确。"
+    },
+    "4755": {
+      "disposition": "contextual",
+      "reason": "她总会称赞对方以及说话者拒绝再承担隔开双方的责任，按撮合对白理解；没有替换她为具体未确认对象。"
+    },
+    "5116": {
+      "disposition": "pass",
+      "reason": "背向悬崖的一面只有花纹，另一面刻铭文的空间对照恢复；未将两种刻痕归到同一面。"
+    },
+    "5471": {
+      "disposition": "pass",
+      "reason": "登崖获欢呼、为重伤动态队员制作担架，若派受训斥候或更谨慎者伤势或可减轻的反事实完整；未增固定男性代词。"
+    },
+    "5582": {
+      "disposition": "pass",
+      "reason": "困难外交检定，同情处境但债务须还，愿买粮食但不付全价的条件和否定完整。"
+    },
+    "5739": {
+      "disposition": "pass",
+      "reason": "商人之子缺经验并在议价中让步，每件陷阱400贵重物品而非总价400，数量计价范围正确。"
+    },
+    "5786": {
+      "disposition": "pass",
+      "reason": "照说的做而别照行为学的讽刺俗语自然，动态姓氏保留且正反指令未反转。"
+    },
+    "5910": {
+      "disposition": "contextual",
+      "reason": "第四按钮触发机关后四钮全弹出，绿烟倒地、一分钟后镇定但咳血、门仍关且组合错误的次序准确；镇定句虽直译但全部职级姓名性别变量保留。"
+    },
+    "5978": {
+      "disposition": "pass",
+      "reason": "事件标签太阳石柱一准确保留第一座编号。"
+    },
+    "6063": {
+      "disposition": "contextual",
+      "reason": "违命偷把金杯塞袋，携杯过神殿门槛引发血红光束照男性像的因果完整；偷偷没有变成施放潜行，也未再凭空写取出端杯动作。"
+    },
+    "6201": {
+      "disposition": "pass",
+      "reason": "除非提供诱饵否则无法不战而逃；队友扑向动态成员、绑树、逃入丛林并不留痕迹的施事次序准确。"
+    },
+    "6290": {
+      "disposition": "pass",
+      "reason": "拒绝对方如此说话而离开，再见可能不客气的威胁仍是可能而非确定杀害，保留对白语气。"
+    },
+    "6371": {
+      "disposition": "contextual",
+      "reason": "动态姓氏与花可能有药用价值所以应研究的条件保留，场景为异域花卉，medicine按药用制作而非强行技能施放。"
+    },
+    "6790": {
+      "disposition": "pass",
+      "reason": "内卡利向任一队员挑战生死决斗，并以自己获胜为加入队伍对抗阿兹特克的条件，未误为玩家获胜才能招募。"
+    },
+    "6812": {
+      "disposition": "pass",
+      "reason": "请所有人一轮酒至少花1000，酒难得，已忠诚时可能无效，最低费用、士气作用和上限条件准确。"
+    },
+    "6855": {
+      "disposition": "pass",
+      "reason": "材料应本地生产而非船运，若迫切需要则建议堡垒建工坊，保留建议与条件而非强制建造。"
+    },
+    "6883": {
+      "disposition": "pass",
+      "reason": "不要妄下结论而先联系对方，未把接触改为直接战斗。"
+    },
+    "7169": {
+      "disposition": "pass",
+      "reason": "一名仆人刺杀另一名仆人后争斗，先后关系正确，未倒置施害对象。"
+    },
+    "7267": {
+      "disposition": "pass",
+      "reason": "条件是既然要找人打，就选对方；未增加必然战斗结果。"
+    },
+    "7318": {
+      "disposition": "pass",
+      "reason": "仅一张网250，更多恢复全价；数量强调范围对应。"
+    },
+    "7372": {
+      "disposition": "pass",
+      "reason": "新译明确不侍奉羽蛇神的人，不再反转人群；本人或主人自愿献祭、九层米克特兰和四个姓名/代词变量均保留。"
+    },
+    "7502": {
+      "disposition": "pass",
+      "reason": "镇子不会消失的讽刺及敌人返回前焚毁目标均保留。"
+    },
+    "7657": {
+      "disposition": "pass",
+      "reason": "父亲不许女儿离开，除非已婚，结婚条件保留。"
+    },
+    "7778": {
+      "disposition": "pass",
+      "reason": "米格尔限13人或更少，过去率领数百人及幸运数字13对应。"
+    },
+    "7836": {
+      "disposition": "pass",
+      "reason": "玩家确认带不超过13人同行，与邀请条件一致。"
+    },
+    "7859": {
+      "disposition": "pass",
+      "reason": "幸存者、亲手建屋、青蛙毒海鲜饭及避谈过去均对应，无技能施放增译。"
+    },
+    "8026": {
+      "disposition": "pass",
+      "reason": "等待过久、惨叫及同伴遇险的判断，变量保留。"
+    },
+    "8235": {
+      "disposition": "pass",
+      "reason": "医术不足无法确定解毒管，选中间管后倒地，未把结果改成恢复。"
+    },
+    "8579": {
+      "disposition": "pass",
+      "reason": "两种陷阱各400，两者都买不起；材料采购身份符合陷阱语境。"
+    },
+    "8725": {
+      "disposition": "pass",
+      "reason": "女儿告知精锐突破、近卫暂守花园，皇帝倒下则胜利无意义。"
+    },
+    "9211": {
+      "disposition": "pass",
+      "reason": "皇帝因女儿而饶人，永久驱逐和再见处死威胁保留。"
+    },
+    "9722": {
+      "disposition": "pass",
+      "reason": "不知道同伴名字，乔卢拉曾第二大现成废墟，否定与规模对应。"
+    },
+    "9931": {
+      "disposition": "pass",
+      "reason": "给药并提供旅途补给，孩子到家；谢意不是索要世俗礼物。"
+    },
+    "10052": {
+      "disposition": "pass",
+      "reason": "改为英勇的战斗中，十四岁女孩、围观壮汉、不与部族结仇的条件均保留；courageous按普通形容词使用并有精确src例外。"
+    },
+    "10140": {
+      "disposition": "pass",
+      "reason": "动态队员向队长提出佯装入庙，隐藏陷阱的不确定性保留。"
+    },
+    "10230": {
+      "disposition": "contextual",
+      "reason": "已去除当年与在这里遗失的增译，寻找村落和数百人的规模正确；lost采用遗失，应在全文同场景复查是否更适合失去，不据该孤句补球赛剧情。"
+    },
+    "10259": {
+      "disposition": "pass",
+      "reason": "新译否定位于斜体外，仅属于加斜体；我们赢球在先、父亲公正取得神像在后，主体与先后关系均恢复。"
+    },
+    "10413": {
+      "disposition": "pass",
+      "reason": "玩家虽知同伴顾虑，仍不忽略需要帮助者，姓名变量保留。"
+    },
+    "10455": {
+      "disposition": "pass",
+      "reason": "非亲叔叔米格尔、数月前离开、随远征而来后留住及教语言的因果完整。"
+    },
+    "10492": {
+      "disposition": "pass",
+      "reason": "酋长女儿、优渥乏味成长及语言外交价值对应，未混入另一同名角色。"
+    },
+    "10627": {
+      "disposition": "pass",
+      "reason": "修订我的人避免凭空限定族群；酋长谋杀计划和不猜动机对应。"
+    },
+    "10743": {
+      "disposition": "pass",
+      "reason": "杀害十二名男女、父女之间的冒险决定及谴责所有阻拦者被杀均保留。"
+    },
+    "10849": {
+      "disposition": "pass",
+      "reason": "女儿平安归来换哈拉帕不参战，但不能阻止全部进攻，任务对象正确。"
+    },
+    "11138": {
+      "disposition": "pass",
+      "reason": "帕潘特拉的信任作为任务标题对应专名与关系。"
+    },
+    "11306": {
+      "disposition": "pass",
+      "reason": "中等外交压价150，出不起原价的否定及粗体提示范围保留。"
+    },
+    "11697": {
+      "disposition": "pass",
+      "reason": "六天无消息，第七天援军；若离开多数人恐已死亡的反事实正确。"
+    },
+    "11956": {
+      "disposition": "pass",
+      "reason": "伤者不道别、收腿枕膝望远，动态代词均用于同一姿势对象。"
+    },
+    "12008": {
+      "disposition": "pass",
+      "reason": "背叛和杀兵之后余部、需要讨好泰诺并以队员为筹码，指控语气保留。"
+    },
+    "12025": {
+      "disposition": "pass",
+      "reason": "加勒比人是实施献祭者，人物交给他们供他们献祭；西北海岸附近山区和下次满月前期限保留。"
+    },
+    "12218": {
+      "disposition": "pass",
+      "reason": "同伴包扎仆人、拖走伤员止血再处理持续战斗，行动顺序正确。"
+    },
+    "12247": {
+      "disposition": "pass",
+      "reason": "去除凭空古铁雷斯身份，保留伤势似可挽回但需几天恢复的不确定性。"
+    },
+    "12421": {
+      "disposition": "pass",
+      "reason": "医生本人受伤，缺少专业帮助后给通用药剂并安置车辆，反事实对应。"
+    },
+    "12434": {
+      "disposition": "contextual",
+      "reason": "所有格用于其自己的意愿，不再成为离开的宾语；条件性自主离队及劝说/留队损士气/惩戒提士气的关系正确。很明显与显然略重复，全文审校可精简，不因此重跑试译。"
+    },
+    "12530": {
+      "disposition": "pass",
+      "reason": "高烧且暂无其他症状，不确定病种并需休养，变量不指定性别。"
+    },
+    "12536": {
+      "disposition": "pass",
+      "reason": "仅见发烧、可能普通或新疾病、昏迷抬走后退烧处理，事件顺序保留。"
+    },
+    "12706": {
+      "disposition": "pass",
+      "reason": "领导力中等、不是来打奴隶与西班牙兵、一定去大陆的承诺对应。"
+    },
+    "13030": {
+      "disposition": "pass",
+      "reason": "已核验Wikisource所载圣母赞歌第285首原文144至151行，院长有侄儿且疼爱他，侄儿见修女后爱慕追求；现有独立修订人物关系符合该段。诗歌分行保留。"
+    },
+    "13382": {
+      "disposition": "pass",
+      "reason": "恩里克侮辱同伴并要求至少睡营外，粗口、条件及样式范围对应。"
+    },
+    "13469": {
+      "disposition": "contextual",
+      "reason": "新译只保留动态PSenorSenora敬称，既不叠加阁下也不加入我的配偶暗示；妻子照顾儿子与不再属于西班牙的否定正确。exceptions旧理由写保留mi而当前已省略，措辞记录需在全文审校清理，语境例外本身有效；不宣称该理由字面准确。"
+    },
+    "13528": {
+      "disposition": "pass",
+      "reason": "父亲非军人、想打叛军及诺列加不敢派兵出城，否定未丢失。"
+    },
+    "13587": {
+      "disposition": "pass",
+      "reason": "不是回忆录、希腊史诗激发创作并希望藏书同架，文体对应。"
+    },
+    "13704": {
+      "disposition": "pass",
+      "reason": "醉酒杀妻子孩子是听闻，真相尚未揭露；较可原谅却更糟的转折保留。"
+    },
+    "13835": {
+      "disposition": "pass",
+      "reason": "父亲告诫不盼战争，地狱如战争的比喻对应。"
+    },
+    "13953": {
+      "disposition": "pass",
+      "reason": "不伤人标题与随后医者誓言语境一致。"
+    },
+    "13959": {
+      "disposition": "pass",
+      "reason": "医学普通词义而非药品，古代誓言要求造福病患且不伤害，否定保留。"
+    },
+    "14156": {
+      "disposition": "pass",
+      "reason": "逐段核对1501、1500/1600五千万至八百万、1542、1550至1595共36300、1574年1000/12000；制度与人口变化关系对应，不替原文纠正历史。"
+    },
+    "14164": {
+      "disposition": "contextual",
+      "reason": "修订将Incarnation作为道成肉身的名称括注，并保留源文英文正式别名；不再译圣母领报或圣母出生。结合梵蒂冈教理461的圣子取人性概念验收；括注属称号而非声称圣母本人道成肉身。中文建筑名称仍可在全文统一，原游戏历史年代未改写。"
+    },
+    "14170": {
+      "disposition": "pass",
+      "reason": "末段改为哥伦布之子迭戈及其妻玛丽亚居住两年，不再把妻子归给父亲或误加母子身份；二层/一层及104公里、18.5米等全段数值保留。"
+    },
+    "14176": {
+      "disposition": "pass",
+      "reason": "2500年、6乘11.5公里、13口与1772年对应，少女献祭及黄金误认/立十字架因果保留。"
+    },
+    "14178": {
+      "disposition": "pass",
+      "reason": "三地带、600/900、1450及征服170年对应，多个政体逐一抵抗的关系保留。"
+    },
+    "14184": {
+      "disposition": "pass",
+      "reason": "1494/1495不确定建城说法、1504三十骑士、1562重建与被征马武器后申诉对应。"
+    },
+    "14196": {
+      "disposition": "pass",
+      "reason": "九十世纪、900至1100、12世纪、14世纪及1500公里对应；未知语言与文明性质保持不确定。"
+    },
+    "14204": {
+      "disposition": "pass",
+      "reason": "比武大会第一轮标题保留轮次。"
+    },
+    "14321": {
+      "disposition": "pass",
+      "reason": "战前准备阶段1/2保留教程页序。"
+    },
+    "14322": {
+      "disposition": "pass",
+      "reason": "物品放置2/2与前项教程页序对应。"
+    },
+    "14326": {
+      "disposition": "pass",
+      "reason": "移动1/2保留分类及页序。"
+    },
+    "14436": {
+      "disposition": "contextual",
+      "reason": "没有剩余行动点符合战斗教程标题；实机用词留回填核对。"
+    },
+    "14683": {
+      "disposition": "contextual",
+      "reason": "仅限西班牙语作为硬编码语言提示合理，仍待回填定位验证。"
+    },
+    "2099": {
+      "disposition": "pass",
+      "reason": "维斯卡伊诺女性，昨天离开且只留民兵，邻居不知目的地，例外与否定对应。"
+    },
+    "4725": {
+      "disposition": "pass",
+      "reason": "将莫莫兹特利头饰交给她，物品和接收人对应。"
+    },
+    "4728": {
+      "disposition": "pass",
+      "reason": "推测两人有旧事，保留不确定语气和引号。"
+    },
+    "5121": {
+      "disposition": "pass",
+      "reason": "袋子样式有女性气息而非确定女性所有，不再限定钱袋功能；药草药剂、绣名与三年前远征无人返回保留。"
+    },
+    "14155": {
+      "disposition": "pass",
+      "reason": "百科标题的地区和非洲奴隶主题对应正文。"
+    },
+    "14228": {
+      "disposition": "pass",
+      "reason": "地图兴趣点名称与14390同源一致。"
+    },
+    "14229": {
+      "disposition": "pass",
+      "reason": "圣多明各市场专名和地点类型对应。"
+    },
+    "14255": {
+      "disposition": "pass",
+      "reason": "士兵地图分类对应。"
+    },
+    "14390": {
+      "disposition": "pass",
+      "reason": "兴趣点与14228完全同译，无同源冲突。"
+    },
+    "14391": {
+      "disposition": "pass",
+      "reason": "营地地图分类对应。"
+    },
+    "14658": {
+      "disposition": "contextual",
+      "reason": "哥伦布简单保留专名与难度，硬编码显示范围待回填。"
+    }
+  },
+  "consistency": {
+    "S:056256eb1fa89211": {
+      "speaker": "Anacaona",
+      "record_ids": [
+        "R0010455_966c048934"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:b0e6f80acefa75ba": {
+      "speaker": "Atl",
+      "record_ids": [
+        "R0002816_0d6d15b3f4"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:05dfa8ea99d725be": {
+      "speaker": "BernardoManzanedo",
+      "record_ids": [
+        "R0002035_9f527fdb9c"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:645341c5ec05bf57": {
+      "speaker": "BlancaAlegria",
+      "record_ids": [
+        "R0013030_7757fb4b7e"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:6f61b6cbfe0aa4ac": {
+      "speaker": "Casiguaya",
+      "record_ids": [
+        "R0003963_c078a08631"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:8cc8e13da31bed70": {
+      "speaker": "Citlalli",
+      "record_ids": [
+        "R0004755_79f94c82a4"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:7537e2cd85932a75": {
+      "speaker": "Coyotl",
+      "record_ids": [
+        "R0009722_ca0a9f6378"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:67bd015f8bc70879": {
+      "speaker": "EnriqueRuiz",
+      "record_ids": [
+        "R0013382_bcd0887203"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:36728786b2db0fb1": {
+      "speaker": "EstebanGallego",
+      "record_ids": [
+        "R0003623_ab109cba6a"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:0502b6c6cdba5e8c": {
+      "speaker": "FName",
+      "record_ids": [
+        "R0010140_6e28dfe6dd"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:1b6db412dbbd5d67": {
+      "speaker": "FName1",
+      "record_ids": [
+        "R0012530_23e1ab97d7"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:46a1a89006f51c6d": {
+      "speaker": "FName2",
+      "record_ids": [
+        "R0012008_8725d9d71b"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:4d287ac1a82c591e": {
+      "speaker": "FedericoQuintero",
+      "record_ids": [
+        "R0013469_4ec3cbc4f8"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:a6784a0f73871c09": {
+      "speaker": "HermanoCaro",
+      "record_ids": [
+        "R0002170_521e7dc17a"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:1ea5de766a6cfbd8": {
+      "speaker": "IsabelaYruenes",
+      "record_ids": [
+        "R0013528_f307b069bf"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:59225816e28a147c": {
+      "speaker": "JuanNoriega",
+      "record_ids": [
+        "R0002500_c0240350f6"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:f8dc6434e3745ead": {
+      "speaker": "JulioBarreto",
+      "record_ids": [
+        "R0013587_72be9a0abf"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:d18c45c7f08f7346": {
+      "speaker": "LeandraVizcaino",
+      "record_ids": [
+        "R0002117_48aa3b8758"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:2d8d9193ed919bb2": {
+      "speaker": "LászloPauwlik",
+      "record_ids": [
+        "R0002672_4a710eb4c0"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:f91307588a08b0e5": {
+      "speaker": "MaríaGrijalva",
+      "record_ids": [
+        "R0006855_e271226773"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:0fb47951d62b6f2a": {
+      "speaker": "MiguelSicart",
+      "record_ids": [
+        "R0007778_07f8c6a182"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:ad8f66ec5097e0ef": {
+      "speaker": "Moctezuma",
+      "record_ids": [
+        "R0009211_eabb70f514"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:ebfe69d24fdca6ae": {
+      "speaker": "Necalli",
+      "record_ids": [
+        "R0006790_a481d14b4e"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:5e722be0a6a8956f": {
+      "speaker": "Patli",
+      "record_ids": [
+        "R0009931_7f54aa8c69"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:c3498c0aae3a87cd": {
+      "speaker": "Quappiatl",
+      "record_ids": [
+        "R0008725_527265fc7b"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:e4014191ea86ec0d": {
+      "speaker": "RafaelLopez",
+      "record_ids": [
+        "R0013704_6f63bcce34"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:a735709190f0abb4": {
+      "speaker": "RosaliaPadilla",
+      "record_ids": [
+        "R0013835_e9e0fc1448"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:291cf10fec29af3b": {
+      "speaker": "Tepictoton",
+      "record_ids": [
+        "R0010743_a0b01d023b"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:55449ad9fd05c96e": {
+      "speaker": "TeresaSanchez",
+      "record_ids": [
+        "R0013959_83fadf349b"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:506032deb5f85e38": {
+      "speaker": "UmbertoDeRossi",
+      "record_ids": [
+        "R0004163_3824f3c8dd"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条已实际阅读的例句，不能据此证明全文或多场景角色口吻一致。"
+    },
+    "S:589ad5ccb1b990f5": {
+      "speaker": "Xolotl",
+      "record_ids": [
+        "R0007372_4b4bb4c2c8"
+      ],
+      "disposition": "contextual",
+      "reason": "本组仅一条例句，不能证明全文口吻；7372否定已修复，回应献祭的惊讶、接受提议与命令语气保留。"
+    },
+    "S:d946eef4d2e75d67": {
+      "speaker": "Player",
+      "record_ids": [
+        "R0001882_03c944c72e",
+        "R0002256_7d07930839",
+        "R0002362_2ca8bb8ec1",
+        "R0002573_c3b9e31368",
+        "R0002688_8b8a11fccd",
+        "R0003015_d8f7cb74cd",
+        "R0003271_8f265884d8",
+        "R0003528_656dfa0fd3",
+        "R0003608_d9b4045e25",
+        "R0003640_e295307369",
+        "R0003829_e82a786046",
+        "R0003878_fe8482716b",
+        "R0003961_944abcdc87",
+        "R0004106_cef9f197e3",
+        "R0004555_1b95d8e70d",
+        "R0004725_64ce8cdb77",
+        "R0004728_e8a2ff4e99",
+        "R0005582_14d7ff3caf",
+        "R0005786_5d8a25ff78",
+        "R0006290_1eb8cb8620",
+        "R0006371_09ef125622",
+        "R0006883_a6dfb47763",
+        "R0007267_9797e6abbf",
+        "R0007836_e995743853",
+        "R0010413_e764b50c68",
+        "R0010627_7b19deb99a",
+        "R0011306_499bc1a707",
+        "R0012706_4a2ab720b5"
+      ],
+      "disposition": "contextual",
+      "reason": "12条已读玩家选项包含逃离、复仇、信任、威胁、放人、外交、拒绝和援助等不同选择；保留各分支立场而不强行统一态度。未据这些选项增加玩家性别。"
+    }
+  },
+  "glossary": {
+    "disposition": "contextual",
+    "reason": "已实际阅读517项前后变更及81组剩余警告；重复译名警告按具体来源核对，不等同重复源键错误。随后独立修订逐发校准、被剥皮之神、兵营重建完成并复核本报告中三项来源。共享译名需在正文按语境处理，不授权随意修改冻结表。",
+    "glossary_sha256": "0b9e22152b88ca7cf2d4dc242e15c63bc5931dfcb6665c4e0ccf177f051ab649"
+  },
+  "record_count_actually_read": 150,
+  "external_evidence": {
+    "13030": {
+      "url": "https://pt.wikisource.org/wiki/Cantigas_de_Santa_Maria/CCLXXXV",
+      "checked": "2026-10-15",
+      "scope": "原诗144至151行及上下文，不据此批准全部试译"
+    },
+    "14164": {
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html",
+      "scope": "Catechism 461 Incarnation概念，未据此改写游戏历史",
+      "checked": "2026-10-15"
+    }
+  }
+}

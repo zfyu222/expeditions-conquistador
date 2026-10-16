@@ -1,0 +1,7864 @@
+[
+  {
+    "name": "TutorialCamping11-EN",
+    "image": "Analysis/tutorial_images/4_TutorialCamping11-EN.png",
+    "lines": [
+      {
+        "text": "Type",
+        "y": 32.0,
+        "confidence": 0.9906572848558426
+      },
+      {
+        "text": "Auto Camp",
+        "y": 32.0,
+        "confidence": 0.9750811987453036
+      },
+      {
+        "text": "Clear AlI",
+        "y": 33.0,
+        "confidence": 0.925968865553538
+      },
+      {
+        "text": "Tasks",
+        "y": 36.0,
+        "confidence": 0.9997282981872558
+      },
+      {
+        "text": "Tinker",
+        "y": 36.0,
+        "confidence": 0.9774911999702454
+      },
+      {
+        "text": "Rations",
+        "y": 33.0,
+        "confidence": 0.9566450715065002
+      },
+      {
+        "text": "Rations",
+        "y": 55.0,
+        "confidence": 0.9759244578225272
+      },
+      {
+        "text": "Montego Aragones",
+        "y": 72.0,
+        "confidence": 0.9896217733621597
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 86.0,
+        "confidence": 0.981864160961575
+      },
+      {
+        "text": "Nothing",
+        "y": 89.0,
+        "confidence": 0.9949557696069989
+      },
+      {
+        "text": "Hesitant",
+        "y": 103.0,
+        "confidence": 0.9904270172119141
+      },
+      {
+        "text": "Healthy",
+        "y": 116.0,
+        "confidence": 0.9374234846660069
+      },
+      {
+        "text": "1Ration",
+        "y": 117.0,
+        "confidence": 0.9936861140387399
+      },
+      {
+        "text": "Pilar Palencia",
+        "y": 147.0,
+        "confidence": 0.951915728194373
+      },
+      {
+        "text": "1Meat",
+        "y": 145.0,
+        "confidence": 0.9911988019943238
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 164.0,
+        "confidence": 0.9877368542883131
+      },
+      {
+        "text": "Hesitant",
+        "y": 177.0,
+        "confidence": 0.9983125478029251
+      },
+      {
+        "text": "2 Rations",
+        "y": 172.0,
+        "confidence": 0.8955691854159037
+      },
+      {
+        "text": "Healthy",
+        "y": 191.0,
+        "confidence": 0.975447450365339
+      },
+      {
+        "text": "2 Meat",
+        "y": 200.0,
+        "confidence": 0.9601534605026245
+      },
+      {
+        "text": "Assign to all",
+        "y": 204.0,
+        "confidence": 0.9355490207672119
+      },
+      {
+        "text": "Rosalia Padilla",
+        "y": 223.0,
+        "confidence": 0.9929311672846476
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 238.0,
+        "confidence": 0.9903092185656229
+      },
+      {
+        "text": "Morale increase probability:0%",
+        "y": 236.0,
+        "confidence": 0.9217705339193344
+      },
+      {
+        "text": "Hesitant",
+        "y": 252.0,
+        "confidence": 0.9942663386464119
+      },
+      {
+        "text": "Totalrations consumption:1/70",
+        "y": 256.0,
+        "confidence": 0.976607976288631
+      },
+      {
+        "text": "Heaithy",
+        "y": 266.0,
+        "confidence": 0.9274405241012573
+      },
+      {
+        "text": "Totalmeatconsumption:9/9",
+        "y": 276.0,
+        "confidence": 0.9891716092824936
+      },
+      {
+        "text": "Sierra Barreiro",
+        "y": 298.0,
+        "confidence": 0.9770221948623657
+      },
+      {
+        "text": "Meat Preserved: 0",
+        "y": 297.0,
+        "confidence": 0.9215029302765342
+      },
+      {
+        "text": "口",
+        "y": 309.0,
+        "confidence": 0.7565104961395264
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 314.0,
+        "confidence": 0.994601481490665
+      },
+      {
+        "text": "Hesitant",
+        "y": 328.0,
+        "confidence": 0.9931117370724678
+      },
+      {
+        "text": "Healthy",
+        "y": 341.0,
+        "confidence": 0.9321182114737374
+      },
+      {
+        "text": "Auto Assign",
+        "y": 357.0,
+        "confidence": 0.9069949984550476
+      },
+      {
+        "text": "Auto Allocate New Meat",
+        "y": 358.0,
+        "confidence": 0.9741634672338312
+      },
+      {
+        "text": "Guarding",
+        "y": 381.0,
+        "confidence": 0.9947175607085228
+      },
+      {
+        "text": "Patrolling",
+        "y": 380.0,
+        "confidence": 0.9784064352512359
+      },
+      {
+        "text": "Hunting",
+        "y": 380.0,
+        "confidence": 0.9944641249520438
+      },
+      {
+        "text": "PreservingHerbalism",
+        "y": 380.0,
+        "confidence": 0.9767489527401171
+      },
+      {
+        "text": "Camp",
+        "y": 385.0,
+        "confidence": 0.9157688021659851
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.9986268281936646
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.9987651109695435
+      },
+      {
+        "text": "32%",
+        "y": 395.0,
+        "confidence": 0.9953672488530477
+      },
+      {
+        "text": "0/0",
+        "y": 395.0,
+        "confidence": 0.9967390696207682
+      },
+      {
+        "text": "0/30",
+        "y": 395.0,
+        "confidence": 0.9976152777671814
+      },
+      {
+        "text": "Close",
+        "y": 388.0,
+        "confidence": 0.9952390551567077
+      },
+      {
+        "text": "TheAutoAssignbuttonassigns1meattoeveryfollowerifyouhavemeat",
+        "y": 464.0,
+        "confidence": 0.9975517442670919
+      },
+      {
+        "text": "Whenyourunoutofmeat,1rationisassignedtoeverybodyelse",
+        "y": 487.0,
+        "confidence": 0.9867377946010003
+      },
+      {
+        "text": "TheAssigntoall button assignstheselectedtype andquantityoffoodtoeveryfollower",
+        "y": 519.0,
+        "confidence": 0.9800038918272241
+      },
+      {
+        "text": "IfAutoAllocateNewMeatischecked,AutoAssignwillbedoneautomaticallyeachnight",
+        "y": 560.0,
+        "confidence": 0.9910180764655544
+      }
+    ]
+  },
+  {
+    "name": "TutorialAOO01-EN",
+    "image": "Analysis/tutorial_images/18_TutorialAOO01-EN.png",
+    "lines": [
+      {
+        "text": "Carlota Mendoza",
+        "y": 8.0,
+        "confidence": 0.9779442151387533
+      },
+      {
+        "text": "Class",
+        "y": 24.0,
+        "confidence": 0.9881998538970947
+      },
+      {
+        "text": "Soldier",
+        "y": 23.0,
+        "confidence": 0.9805358563150678
+      },
+      {
+        "text": "Endurance 65 points",
+        "y": 34.0,
+        "confidence": 0.9697076364567405
+      },
+      {
+        "text": "Defence",
+        "y": 46.0,
+        "confidence": 0.9944997685296195
+      },
+      {
+        "text": "25% damage reduction",
+        "y": 46.0,
+        "confidence": 0.976966279745102
+      },
+      {
+        "text": "Attack",
+        "y": 58.0,
+        "confidence": 0.9827075600624084
+      },
+      {
+        "text": "40-S0damage",
+        "y": 54.0,
+        "confidence": 0.853013897483999
+      },
+      {
+        "text": "Movement 4/4 spaces",
+        "y": 77.0,
+        "confidence": 0.951948997221495
+      },
+      {
+        "text": "Critical",
+        "y": 68.0,
+        "confidence": 0.9917255714535713
+      },
+      {
+        "text": "3%/ x1.25",
+        "y": 68.0,
+        "confidence": 0.9157941672537062
+      },
+      {
+        "text": "Eliminate allenemies",
+        "y": 101.0,
+        "confidence": 0.9704924255609513
+      },
+      {
+        "text": "3enemiesremaining",
+        "y": 121.0,
+        "confidence": 0.9861052421962514
+      },
+      {
+        "text": "If you tryto movepast an enemy,",
+        "y": 470.0,
+        "confidence": 0.9366079857272487
+      },
+      {
+        "text": "they will get a free attack on you",
+        "y": 500.0,
+        "confidence": 0.9571170228369096
+      },
+      {
+        "text": "(called AttackofOpportunity)",
+        "y": 523.0,
+        "confidence": 0.9776107754026141
+      },
+      {
+        "text": "UseTacticalMovetoavoidthat,",
+        "y": 521.0,
+        "confidence": 0.9888640465559783
+      },
+      {
+        "text": "at the cost of spending your action",
+        "y": 550.0,
+        "confidence": 0.9804245352745056
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping12-EN",
+    "image": "Analysis/tutorial_images/20_TutorialCamping12-EN.png",
+    "lines": [
+      {
+        "text": "Type",
+        "y": 38.0,
+        "confidence": 0.9932718127965927
+      },
+      {
+        "text": "Auto Camp",
+        "y": 36.0,
+        "confidence": 0.9359817902247111
+      },
+      {
+        "text": "Clear All",
+        "y": 38.0,
+        "confidence": 0.8558153642548455
+      },
+      {
+        "text": "Rations",
+        "y": 40.0,
+        "confidence": 0.9926481672695705
+      },
+      {
+        "text": "Treatment",
+        "y": 41.0,
+        "confidence": 0.9967780974176195
+      },
+      {
+        "text": "Treatment",
+        "y": 63.0,
+        "confidence": 0.9926786356502109
+      },
+      {
+        "text": "Ana Vidal",
+        "y": 81.0,
+        "confidence": 0.9846669170591567
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 93.0,
+        "confidence": 0.9766755832566155
+      },
+      {
+        "text": "Montego Aragones",
+        "y": 88.0,
+        "confidence": 0.9800059869885445
+      },
+      {
+        "text": "30% risk of deterioration",
+        "y": 110.0,
+        "confidence": 0.9604088401794434
+      },
+      {
+        "text": "Moderately diseased",
+        "y": 101.0,
+        "confidence": 0.9986122281927812
+      },
+      {
+        "text": "Hesitant",
+        "y": 111.0,
+        "confidence": 0.9401025846600533
+      },
+      {
+        "text": "Healthy",
+        "y": 123.0,
+        "confidence": 0.829691903931754
+      },
+      {
+        "text": "7 - 8 medicine to treat",
+        "y": 126.0,
+        "confidence": 0.9750503483025924
+      },
+      {
+        "text": "No doctor assigned",
+        "y": 137.0,
+        "confidence": 0.9762672914399041
+      },
+      {
+        "text": "Montego Aragones",
+        "y": 154.0,
+        "confidence": 0.9894070252776146
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 166.0,
+        "confidence": 0.9805838796827528
+      },
+      {
+        "text": "Lopez",
+        "y": 166.0,
+        "confidence": 0.9954250574111938
+      },
+      {
+        "text": "Sanchez",
+        "y": 165.0,
+        "confidence": 0.9918237924575806
+      },
+      {
+        "text": "Hesitant",
+        "y": 187.0,
+        "confidence": 0.999747559428215
+      },
+      {
+        "text": "Moderately diseased",
+        "y": 199.0,
+        "confidence": 0.9887699171116477
+      },
+      {
+        "text": "Not assigned",
+        "y": 192.0,
+        "confidence": 0.9673285434643427
+      },
+      {
+        "text": "Not assigned",
+        "y": 191.0,
+        "confidence": 0.9592741330464681
+      },
+      {
+        "text": "Assign",
+        "y": 208.0,
+        "confidence": 0.9908699691295624
+      },
+      {
+        "text": "Assign",
+        "y": 209.0,
+        "confidence": 0.9736243089040121
+      },
+      {
+        "text": "Pilar Palencia",
+        "y": 227.0,
+        "confidence": 0.9460367177213941
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 245.0,
+        "confidence": 0.9888076848453946
+      },
+      {
+        "text": "Costales",
+        "y": 236.0,
+        "confidence": 0.9956668093800545
+      },
+      {
+        "text": "口",
+        "y": 247.0,
+        "confidence": 0.9055939316749573
+      },
+      {
+        "text": "Hesitant",
+        "y": 260.0,
+        "confidence": 0.9990868791937828
+      },
+      {
+        "text": "Not assigned",
+        "y": 262.0,
+        "confidence": 0.9804994612932205
+      },
+      {
+        "text": "Healthy",
+        "y": 274.0,
+        "confidence": 0.9936761941228595
+      },
+      {
+        "text": "Assign",
+        "y": 279.0,
+        "confidence": 0.9891851246356964
+      },
+      {
+        "text": "Rosalia Padilla",
+        "y": 305.0,
+        "confidence": 0.9985754291216532
+      },
+      {
+        "text": "口口",
+        "y": 318.0,
+        "confidence": 0.5776877403259277
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 320.0,
+        "confidence": 0.9888997342851427
+      },
+      {
+        "text": "Hesitant",
+        "y": 334.0,
+        "confidence": 0.995589978992939
+      },
+      {
+        "text": "Healthy",
+        "y": 349.0,
+        "confidence": 0.8613152844565255
+      },
+      {
+        "text": "Guarding",
+        "y": 386.0,
+        "confidence": 0.9885693490505219
+      },
+      {
+        "text": "Patrolling",
+        "y": 387.0,
+        "confidence": 0.9834715843200683
+      },
+      {
+        "text": "Hunting",
+        "y": 387.0,
+        "confidence": 0.994170103754316
+      },
+      {
+        "text": "Preserving",
+        "y": 386.0,
+        "confidence": 0.9909626305103302
+      },
+      {
+        "text": "Herbalism",
+        "y": 387.0,
+        "confidence": 0.9887080126338534
+      },
+      {
+        "text": "Medicine avaible:40",
+        "y": 387.0,
+        "confidence": 0.941545285676655
+      },
+      {
+        "text": "64%",
+        "y": 401.0,
+        "confidence": 0.9947938124338785
+      },
+      {
+        "text": "41%",
+        "y": 401.0,
+        "confidence": 0.9982644518216451
+      },
+      {
+        "text": "36%",
+        "y": 401.0,
+        "confidence": 0.9975541234016418
+      },
+      {
+        "text": "0/0",
+        "y": 401.0,
+        "confidence": 0.9848154584566752
+      },
+      {
+        "text": "0/30",
+        "y": 401.0,
+        "confidence": 0.9950772970914841
+      },
+      {
+        "text": "Total cost to treat: O",
+        "y": 397.0,
+        "confidence": 0.9208903285590085
+      },
+      {
+        "text": "Camp",
+        "y": 395.0,
+        "confidence": 0.9439645111560822
+      },
+      {
+        "text": "Close",
+        "y": 395.0,
+        "confidence": 0.9793333649635315
+      },
+      {
+        "text": "Thetreatmentwindowiswhereyoutreatinjuredfollowers",
+        "y": 470.0,
+        "confidence": 0.9979393895791502
+      },
+      {
+        "text": "Thistabisonlyavailablewhenyouhaveselectedawoundedfollower",
+        "y": 511.0,
+        "confidence": 0.997158918464393
+      },
+      {
+        "text": "Thehealthofawoundedfollowermaydeteriorateduring thenightif leftuntreated",
+        "y": 551.0,
+        "confidence": 0.9853915729456477
+      }
+    ]
+  },
+  {
+    "name": "TutorialAOO02-EN",
+    "image": "Analysis/tutorial_images/32_TutorialAOO02-EN.png",
+    "lines": [
+      {
+        "text": "Raul Carrillo",
+        "y": 10.0,
+        "confidence": 0.9910399913787842
+      },
+      {
+        "text": "Class",
+        "y": 24.0,
+        "confidence": 0.9881998538970947
+      },
+      {
+        "text": "Hunter",
+        "y": 23.0,
+        "confidence": 0.9941435356934866
+      },
+      {
+        "text": "Endurance 75 points",
+        "y": 34.0,
+        "confidence": 0.9821566123711435
+      },
+      {
+        "text": "Defence",
+        "y": 46.0,
+        "confidence": 0.9947491543633598
+      },
+      {
+        "text": "15% damage reduction",
+        "y": 46.0,
+        "confidence": 0.9820359498262405
+      },
+      {
+        "text": "Attack",
+        "y": 58.0,
+        "confidence": 0.9827075600624084
+      },
+      {
+        "text": "80%/22-28 damage",
+        "y": 55.0,
+        "confidence": 0.9019923098385334
+      },
+      {
+        "text": "Critical",
+        "y": 67.0,
+        "confidence": 0.9853027760982513
+      },
+      {
+        "text": "3% / x1.5",
+        "y": 68.0,
+        "confidence": 0.8717290957768759
+      },
+      {
+        "text": "Movement6/6 spaces",
+        "y": 78.0,
+        "confidence": 0.9708170592784882
+      },
+      {
+        "text": "Eliminateallenemies",
+        "y": 101.0,
+        "confidence": 0.9931807486634505
+      },
+      {
+        "text": "3enemies remaining",
+        "y": 121.0,
+        "confidence": 0.9591261330578063
+      },
+      {
+        "text": "NoemiPacheco",
+        "y": 196.0,
+        "confidence": 0.9328508079051971
+      },
+      {
+        "text": "Recruit Soldier",
+        "y": 209.0,
+        "confidence": 0.9611751238505045
+      },
+      {
+        "text": "Attack of Opportunity",
+        "y": 231.0,
+        "confidence": 0.9303579514934903
+      },
+      {
+        "text": "orance:87",
+        "y": 223.0,
+        "confidence": 0.8522541622320811
+      },
+      {
+        "text": "Damage:20·25",
+        "y": 257.0,
+        "confidence": 0.9502256115277609
+      },
+      {
+        "text": "LAttaek",
+        "y": 248.0,
+        "confidence": 0.8467412505831037
+      },
+      {
+        "text": "Accuracy:79%",
+        "y": 267.0,
+        "confidence": 0.8748212506373724
+      },
+      {
+        "text": "Making a Ranged attack at Melee range will",
+        "y": 470.0,
+        "confidence": 0.9750126359008607
+      },
+      {
+        "text": "alsoprovokeanAttackofOpportunity",
+        "y": 501.0,
+        "confidence": 0.9965999834239483
+      },
+      {
+        "text": "Eachunitcan only make1free attackevery turn!",
+        "y": 537.0,
+        "confidence": 0.9569656916640021
+      },
+      {
+        "text": "Thetooltipshowsif theystill have theirAttackofOpportunity",
+        "y": 558.0,
+        "confidence": 0.9714814319945219
+      }
+    ]
+  },
+  {
+    "name": "TutorialInitial-EN",
+    "image": "Analysis/tutorial_images/45_TutorialInitial-EN.png",
+    "lines": [
+      {
+        "text": "Eliminate all enemies",
+        "y": 100.0,
+        "confidence": 0.9585250956671578
+      },
+      {
+        "text": "3enemiesremaining",
+        "y": 121.0,
+        "confidence": 0.988002177547006
+      },
+      {
+        "text": "You have triggered a battle",
+        "y": 462.0,
+        "confidence": 0.9830072257253859
+      },
+      {
+        "text": "Yourpeople arehighlighted with blue",
+        "y": 501.0,
+        "confidence": 0.9643957904406957
+      },
+      {
+        "text": "Theenemiesarehighlightedwithred",
+        "y": 523.0,
+        "confidence": 0.9962095502884157
+      },
+      {
+        "text": "Click on one of your troops or their portrait",
+        "y": 559.0,
+        "confidence": 0.988385083940294
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping13-EN",
+    "image": "Analysis/tutorial_images/75_TutorialCamping13-EN.png",
+    "lines": [
+      {
+        "text": "Type",
+        "y": 38.0,
+        "confidence": 0.9928303509950638
+      },
+      {
+        "text": "Auto Camp",
+        "y": 36.0,
+        "confidence": 0.9359817902247111
+      },
+      {
+        "text": "Clear All",
+        "y": 38.0,
+        "confidence": 0.8611007001664903
+      },
+      {
+        "text": "Rations",
+        "y": 40.0,
+        "confidence": 0.9926481672695705
+      },
+      {
+        "text": "Treatment",
+        "y": 41.0,
+        "confidence": 0.9967780974176195
+      },
+      {
+        "text": "Treatment",
+        "y": 62.0,
+        "confidence": 0.9916622969839308
+      },
+      {
+        "text": "Ana Vidal",
+        "y": 81.0,
+        "confidence": 0.9846669170591567
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 93.0,
+        "confidence": 0.9808666904767355
+      },
+      {
+        "text": "Montego Aragones",
+        "y": 88.0,
+        "confidence": 0.9805272966623306
+      },
+      {
+        "text": "Moderately diseased",
+        "y": 101.0,
+        "confidence": 0.9987584164268092
+      },
+      {
+        "text": "Hesitant",
+        "y": 111.0,
+        "confidence": 0.9401025846600533
+      },
+      {
+        "text": "30%risk of deterioration",
+        "y": 112.0,
+        "confidence": 0.9217657049496969
+      },
+      {
+        "text": "Healthy",
+        "y": 123.0,
+        "confidence": 0.829691903931754
+      },
+      {
+        "text": "7 - 8 medicine to treat",
+        "y": 124.0,
+        "confidence": 0.979570834533028
+      },
+      {
+        "text": "No doctor assigned",
+        "y": 136.0,
+        "confidence": 0.9962177375952402
+      },
+      {
+        "text": "Montego Aragones",
+        "y": 154.0,
+        "confidence": 0.9894070252776146
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 166.0,
+        "confidence": 0.9805838796827528
+      },
+      {
+        "text": "Lopez",
+        "y": 166.0,
+        "confidence": 0.9952776670455933
+      },
+      {
+        "text": "Sanchez",
+        "y": 164.0,
+        "confidence": 0.9930421710014343
+      },
+      {
+        "text": "Hesitant",
+        "y": 187.0,
+        "confidence": 0.999747559428215
+      },
+      {
+        "text": "T",
+        "y": 180.0,
+        "confidence": 0.6058529019355774
+      },
+      {
+        "text": "Moderately diseased",
+        "y": 199.0,
+        "confidence": 0.9861771652573034
+      },
+      {
+        "text": "Not assigned",
+        "y": 192.0,
+        "confidence": 0.9673285434643427
+      },
+      {
+        "text": "Not assigned",
+        "y": 191.0,
+        "confidence": 0.9592741330464681
+      },
+      {
+        "text": "Assign",
+        "y": 208.0,
+        "confidence": 0.9911352296670278
+      },
+      {
+        "text": "Assign",
+        "y": 209.0,
+        "confidence": 0.9736243089040121
+      },
+      {
+        "text": "Pilar Palencia",
+        "y": 228.0,
+        "confidence": 0.9777749819414956
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 245.0,
+        "confidence": 0.9883419540193346
+      },
+      {
+        "text": "口",
+        "y": 245.0,
+        "confidence": 0.9007430076599121
+      },
+      {
+        "text": "Costales",
+        "y": 236.0,
+        "confidence": 0.9941236078739166
+      },
+      {
+        "text": "Hesitant",
+        "y": 260.0,
+        "confidence": 0.9990868791937828
+      },
+      {
+        "text": "Not assigned",
+        "y": 262.0,
+        "confidence": 0.9804994612932205
+      },
+      {
+        "text": "Healthy",
+        "y": 274.0,
+        "confidence": 0.9936761941228595
+      },
+      {
+        "text": "Assign",
+        "y": 278.0,
+        "confidence": 0.9923322796821594
+      },
+      {
+        "text": "Rosalia Padilla",
+        "y": 305.0,
+        "confidence": 0.9985754291216532
+      },
+      {
+        "text": "区口口",
+        "y": 317.0,
+        "confidence": 0.5754129687945048
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 320.0,
+        "confidence": 0.9877045949300131
+      },
+      {
+        "text": "Hesitant",
+        "y": 334.0,
+        "confidence": 0.995589978992939
+      },
+      {
+        "text": "Healthy",
+        "y": 349.0,
+        "confidence": 0.8613152844565255
+      },
+      {
+        "text": "Guarding",
+        "y": 386.0,
+        "confidence": 0.9885693490505219
+      },
+      {
+        "text": "Patrolling",
+        "y": 387.0,
+        "confidence": 0.9834715843200683
+      },
+      {
+        "text": "Hunting",
+        "y": 387.0,
+        "confidence": 0.994170103754316
+      },
+      {
+        "text": "Preserving",
+        "y": 386.0,
+        "confidence": 0.9762728869915008
+      },
+      {
+        "text": "Herbalism",
+        "y": 387.0,
+        "confidence": 0.9887080126338534
+      },
+      {
+        "text": "Medicine avaible:40",
+        "y": 387.0,
+        "confidence": 0.941545285676655
+      },
+      {
+        "text": "64%",
+        "y": 401.0,
+        "confidence": 0.9950763980547587
+      },
+      {
+        "text": "41%",
+        "y": 401.0,
+        "confidence": 0.9982726375261942
+      },
+      {
+        "text": "36%",
+        "y": 401.0,
+        "confidence": 0.9975541234016418
+      },
+      {
+        "text": "0/0",
+        "y": 401.0,
+        "confidence": 0.9848154584566752
+      },
+      {
+        "text": "0/30",
+        "y": 401.0,
+        "confidence": 0.9950772970914841
+      },
+      {
+        "text": "Total cost to treat: O",
+        "y": 397.0,
+        "confidence": 0.9222885708917271
+      },
+      {
+        "text": "Camp",
+        "y": 395.0,
+        "confidence": 0.922411784529686
+      },
+      {
+        "text": "Close",
+        "y": 395.0,
+        "confidence": 0.9684425473213196
+      },
+      {
+        "text": "TotreatafolloweryouneedtoassignaDoctortohimorher,",
+        "y": 481.0,
+        "confidence": 0.9878815874761465
+      },
+      {
+        "text": "andhavetherequiredamountofmedicine",
+        "y": 505.0,
+        "confidence": 0.9951918808852925
+      },
+      {
+        "text": "AsCaptain,youcountasa doctoraswellforthepurposeoftreatment",
+        "y": 545.0,
+        "confidence": 0.9858298712763293
+      }
+    ]
+  },
+  {
+    "name": "TutorialIncapacitated-EN",
+    "image": "Analysis/tutorial_images/85_TutorialIncapacitated-EN.png",
+    "lines": [
+      {
+        "text": "Carlota Mendoza (F3)",
+        "y": 108.0,
+        "confidence": 0.9884619444608689
+      },
+      {
+        "text": "Eliminate all enemies",
+        "y": 155.0,
+        "confidence": 0.954569331237248
+      },
+      {
+        "text": "3enemiesremaining",
+        "y": 189.0,
+        "confidence": 0.9927990050876841
+      },
+      {
+        "text": "One ofyour charactershavebecome incapacitated",
+        "y": 473.0,
+        "confidence": 0.9652779261271159
+      },
+      {
+        "text": "The character'sinjurymay carry overinto the",
+        "y": 525.0,
+        "confidence": 0.9602762973585794
+      },
+      {
+        "text": "If youhavea Doctor of high enough rank,",
+        "y": 527.0,
+        "confidence": 0.936018841388898
+      },
+      {
+        "text": "worldmapandyoumaylosesomeequipment",
+        "y": 548.0,
+        "confidence": 0.9944319935405955
+      },
+      {
+        "text": "youcanreviveyourfallenfollower",
+        "y": 548.0,
+        "confidence": 0.9979887147744496
+      }
+    ]
+  },
+  {
+    "name": "TutorialMapInitial01-EN",
+    "image": "Analysis/tutorial_images/87_TutorialMapInitial01-EN.png",
+    "lines": [
+      {
+        "text": "图250",
+        "y": 9.0,
+        "confidence": 0.7950220704078674
+      },
+      {
+        "text": "170",
+        "y": 10.0,
+        "confidence": 0.7364076226949692
+      },
+      {
+        "text": "WelcometoHispaniola!You'rereadingatutorialscreen",
+        "y": 465.0,
+        "confidence": 0.992759911964337
+      },
+      {
+        "text": "ClickonContinueorthearrowtotherighttoproceed",
+        "y": 513.0,
+        "confidence": 0.9973344829949465
+      },
+      {
+        "text": "If youwanttodisabletutorialsyoucan clickDisable and thenClose",
+        "y": 562.0,
+        "confidence": 0.9707063768730789
+      }
+    ]
+  },
+  {
+    "name": "TutorialEndTurn-EN",
+    "image": "Analysis/tutorial_images/110_TutorialEndTurn-EN.png",
+    "lines": [
+      {
+        "text": "When you think you're finished,",
+        "y": 470.0,
+        "confidence": 0.9703438897286693
+      },
+      {
+        "text": "click the hourglassto end your turn",
+        "y": 500.0,
+        "confidence": 0.9554821695600237
+      },
+      {
+        "text": "Ifyouknowyou'regoingtolose,",
+        "y": 523.0,
+        "confidence": 0.9887168297061214
+      },
+      {
+        "text": "clickthewhite flag toretreat",
+        "y": 551.0,
+        "confidence": 0.9377889377730233
+      }
+    ]
+  },
+  {
+    "name": "TutorialAOO03-EN",
+    "image": "Analysis/tutorial_images/113_TutorialAOO03-EN.png",
+    "lines": [
+      {
+        "text": "Raul Carrillo",
+        "y": 10.0,
+        "confidence": 0.9910285977216867
+      },
+      {
+        "text": "Class",
+        "y": 24.0,
+        "confidence": 0.9939721107482911
+      },
+      {
+        "text": "Hunter",
+        "y": 23.0,
+        "confidence": 0.9941435356934866
+      },
+      {
+        "text": "Endurance 75 points",
+        "y": 34.0,
+        "confidence": 0.9797964629374052
+      },
+      {
+        "text": "Defence",
+        "y": 46.0,
+        "confidence": 0.9944997685296195
+      },
+      {
+        "text": "15% damage reduction",
+        "y": 46.0,
+        "confidence": 0.9792158514261246
+      },
+      {
+        "text": "Attack",
+        "y": 58.0,
+        "confidence": 0.9827075600624084
+      },
+      {
+        "text": "80%/22-28 damage",
+        "y": 55.0,
+        "confidence": 0.9013236537575722
+      },
+      {
+        "text": "Critical",
+        "y": 68.0,
+        "confidence": 0.9917255714535713
+      },
+      {
+        "text": "3% / x1.5",
+        "y": 68.0,
+        "confidence": 0.8717290957768759
+      },
+      {
+        "text": "Movement 6/6 spaces",
+        "y": 78.0,
+        "confidence": 0.9782696805502239
+      },
+      {
+        "text": "Eliminateallenemies",
+        "y": 101.0,
+        "confidence": 0.9930342247611598
+      },
+      {
+        "text": "3enemiesremaining",
+        "y": 122.0,
+        "confidence": 0.9894419978646671
+      },
+      {
+        "text": "Moving outofMeleerangeofanenemy also",
+        "y": 471.0,
+        "confidence": 0.9766138245662054
+      },
+      {
+        "text": "provokesanAttackofOpportunity",
+        "y": 500.0,
+        "confidence": 0.99776658518561
+      },
+      {
+        "text": "Exploit this to trap the enemy's Ranged units",
+        "y": 543.0,
+        "confidence": 0.9753764033317566
+      }
+    ]
+  },
+  {
+    "name": "TutorialMapInitial04-EN",
+    "image": "Analysis/tutorial_images/126_TutorialMapInitial04-EN.png",
+    "lines": [
+      {
+        "text": "2250",
+        "y": 9.0,
+        "confidence": 0.7729593589901924
+      },
+      {
+        "text": "170",
+        "y": 10.0,
+        "confidence": 0.744552880525589
+      },
+      {
+        "text": "Interactiveobjectsintheworld arehighlightedwhenyouhoveroverthem",
+        "y": 469.0,
+        "confidence": 0.985064911463904
+      },
+      {
+        "text": "YoucanholddowntheHighlightbutton(Altbydefault)",
+        "y": 506.0,
+        "confidence": 0.9892446061839228
+      },
+      {
+        "text": "toseewhichobjectsonthescreenareinteractive",
+        "y": 529.0,
+        "confidence": 0.997318317492803
+      },
+      {
+        "text": "Pleaseclickonthesoldierinfrontofyoutoproceed",
+        "y": 564.0,
+        "confidence": 0.9904605394059961
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping14-EN",
+    "image": "Analysis/tutorial_images/144_TutorialCamping14-EN.png",
+    "lines": [
+      {
+        "text": "Type",
+        "y": 38.0,
+        "confidence": 0.9932718127965927
+      },
+      {
+        "text": "Auto Camp",
+        "y": 35.0,
+        "confidence": 0.9528687397638956
+      },
+      {
+        "text": "Clear All",
+        "y": 38.0,
+        "confidence": 0.8558153642548455
+      },
+      {
+        "text": "Rations",
+        "y": 41.0,
+        "confidence": 0.9925386394773211
+      },
+      {
+        "text": "Treatment",
+        "y": 41.0,
+        "confidence": 0.9967780974176195
+      },
+      {
+        "text": "Treatment",
+        "y": 63.0,
+        "confidence": 0.9926786356502109
+      },
+      {
+        "text": "Ana Vidal",
+        "y": 81.0,
+        "confidence": 0.9846669170591567
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 93.0,
+        "confidence": 0.9735458228323195
+      },
+      {
+        "text": "Montego Aragones",
+        "y": 88.0,
+        "confidence": 0.9824248589575291
+      },
+      {
+        "text": "Moderately diseased",
+        "y": 101.0,
+        "confidence": 0.999052107334137
+      },
+      {
+        "text": "Hesitant",
+        "y": 111.0,
+        "confidence": 0.996543176472187
+      },
+      {
+        "text": "30%risk of deterioration",
+        "y": 112.0,
+        "confidence": 0.9527737721800804
+      },
+      {
+        "text": "Healtlhy",
+        "y": 123.0,
+        "confidence": 0.8372516930103302
+      },
+      {
+        "text": "7 - 8 medicine to treat",
+        "y": 124.0,
+        "confidence": 0.9477339309194813
+      },
+      {
+        "text": "No doctor assigned",
+        "y": 137.0,
+        "confidence": 0.9762672914399041
+      },
+      {
+        "text": "Montego Aragones",
+        "y": 153.0,
+        "confidence": 0.9905801564455032
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 166.0,
+        "confidence": 0.9805838796827528
+      },
+      {
+        "text": "Lopez",
+        "y": 166.0,
+        "confidence": 0.9952776670455933
+      },
+      {
+        "text": "Sanchez",
+        "y": 165.0,
+        "confidence": 0.9918237924575806
+      },
+      {
+        "text": "Hesitant",
+        "y": 187.0,
+        "confidence": 0.999747559428215
+      },
+      {
+        "text": "Moderately diseased",
+        "y": 199.0,
+        "confidence": 0.9872030019760132
+      },
+      {
+        "text": "Not assigned",
+        "y": 192.0,
+        "confidence": 0.9673285434643427
+      },
+      {
+        "text": "Not assigned",
+        "y": 191.0,
+        "confidence": 0.9769707173109055
+      },
+      {
+        "text": "Assign",
+        "y": 208.0,
+        "confidence": 0.9908699691295624
+      },
+      {
+        "text": "Assign",
+        "y": 208.0,
+        "confidence": 0.9256271521250407
+      },
+      {
+        "text": "Pilar Palencia",
+        "y": 227.0,
+        "confidence": 0.972147558416639
+      },
+      {
+        "text": "6/4 /2 /0 /0",
+        "y": 243.0,
+        "confidence": 0.9290330111980438
+      },
+      {
+        "text": "Costales",
+        "y": 234.0,
+        "confidence": 0.9931700527667999
+      },
+      {
+        "text": "口",
+        "y": 247.0,
+        "confidence": 0.9055939316749573
+      },
+      {
+        "text": "Hesitant",
+        "y": 261.0,
+        "confidence": 0.9602415412664413
+      },
+      {
+        "text": "Not assigned",
+        "y": 262.0,
+        "confidence": 0.9868167291084925
+      },
+      {
+        "text": "Healthy",
+        "y": 274.0,
+        "confidence": 0.9936761941228595
+      },
+      {
+        "text": "Assign",
+        "y": 279.0,
+        "confidence": 0.9891851246356964
+      },
+      {
+        "text": "Rosalia Padilla",
+        "y": 305.0,
+        "confidence": 0.9985754291216532
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 317.0,
+        "confidence": 0.9820180535316467
+      },
+      {
+        "text": "Hesitant",
+        "y": 334.0,
+        "confidence": 0.995589978992939
+      },
+      {
+        "text": "Healthy",
+        "y": 349.0,
+        "confidence": 0.8613152844565255
+      },
+      {
+        "text": "Guarding",
+        "y": 386.0,
+        "confidence": 0.9885693490505219
+      },
+      {
+        "text": "Patrolling",
+        "y": 387.0,
+        "confidence": 0.9834715843200683
+      },
+      {
+        "text": "Hunting",
+        "y": 387.0,
+        "confidence": 0.9852757368768964
+      },
+      {
+        "text": "Preserving",
+        "y": 386.0,
+        "confidence": 0.9909626305103302
+      },
+      {
+        "text": "Herbalism",
+        "y": 388.0,
+        "confidence": 0.9956450992160373
+      },
+      {
+        "text": "Medicine avaible:40",
+        "y": 387.0,
+        "confidence": 0.9622810357495358
+      },
+      {
+        "text": "64%",
+        "y": 401.0,
+        "confidence": 0.9947938124338785
+      },
+      {
+        "text": "41%",
+        "y": 401.0,
+        "confidence": 0.9982644518216451
+      },
+      {
+        "text": "36%",
+        "y": 401.0,
+        "confidence": 0.9975541234016418
+      },
+      {
+        "text": "0/0",
+        "y": 401.0,
+        "confidence": 0.9848154584566752
+      },
+      {
+        "text": "0/30",
+        "y": 401.0,
+        "confidence": 0.9950772970914841
+      },
+      {
+        "text": "Total cost to treat: O",
+        "y": 397.0,
+        "confidence": 0.9292589710517363
+      },
+      {
+        "text": "Camp",
+        "y": 395.0,
+        "confidence": 0.9439645111560822
+      },
+      {
+        "text": "Close",
+        "y": 395.0,
+        "confidence": 0.9845924615859986
+      },
+      {
+        "text": "The6stagesofaninjuryare:Harmless,Moderate,Severe,Critical,Fatal,andDead",
+        "y": 464.0,
+        "confidence": 0.8916175801989058
+      },
+      {
+        "text": "Example1:IfafollowerwithaModeratewoundisleftuntreated,",
+        "y": 496.0,
+        "confidence": 0.9905018475320604
+      },
+      {
+        "text": "thewoundmaydeterioratetoaSeverewoundduringthenight",
+        "y": 517.0,
+        "confidence": 0.9967580950260162
+      },
+      {
+        "text": "Example2:IfafollowerwithaFatalwound istreated,",
+        "y": 545.0,
+        "confidence": 0.9659956291965817
+      },
+      {
+        "text": "thewoundwill beataCritical stagebythefollowing morning",
+        "y": 566.0,
+        "confidence": 0.970265233958209
+      }
+    ]
+  },
+  {
+    "name": "TutorialPreparationPhase-EN",
+    "image": "Analysis/tutorial_images/145_TutorialPreparationPhase-EN.png",
+    "lines": [
+      {
+        "text": "Eliminateallenemies",
+        "y": 129.0,
+        "confidence": 0.9931653079233671
+      },
+      {
+        "text": "PreparationPhase",
+        "y": 155.0,
+        "confidence": 0.9962570816278458
+      },
+      {
+        "text": "Thisbattleallows you to prepare before thefight",
+        "y": 466.0,
+        "confidence": 0.9681240459705921
+      },
+      {
+        "text": "Select a follower to see your available start points and click any of them to move them",
+        "y": 501.0,
+        "confidence": 0.9760847961765596
+      },
+      {
+        "text": "Youcanswitchouttwofollowersby selecting one unit and thenclicking another",
+        "y": 525.0,
+        "confidence": 0.9722992222603053
+      },
+      {
+        "text": "Theitemplacementradiusdependsonthestartpointsyouselect",
+        "y": 558.0,
+        "confidence": 0.9967097849757584
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping01-EN",
+    "image": "Analysis/tutorial_images/157_TutorialCamping01-EN.png",
+    "lines": [
+      {
+        "text": "230",
+        "y": 11.0,
+        "confidence": 0.9314324259757996
+      },
+      {
+        "text": "70",
+        "y": 11.0,
+        "confidence": 0.9963389933109283
+      },
+      {
+        "text": "Type ",
+        "y": 48.0,
+        "confidence": 0.9132513642311096
+      },
+      {
+        "text": "AutoCamp",
+        "y": 47.0,
+        "confidence": 0.9955023601651192
+      },
+      {
+        "text": "Clear All",
+        "y": 47.0,
+        "confidence": 0.8822216788927714
+      },
+      {
+        "text": "Tasks",
+        "y": 50.0,
+        "confidence": 0.9986884713172912
+      },
+      {
+        "text": "Tinker",
+        "y": 51.0,
+        "confidence": 0.9975337485472361
+      },
+      {
+        "text": "Tasks",
+        "y": 71.0,
+        "confidence": 0.9900046229362488
+      },
+      {
+        "text": "Isabela Yruenes",
+        "y": 98.0,
+        "confidence": 0.9806426167488098
+      },
+      {
+        "text": "Guarding",
+        "y": 98.0,
+        "confidence": 0.993046909570694
+      },
+      {
+        "text": "Alchemy",
+        "y": 99.0,
+        "confidence": 0.9864413908549717
+      },
+      {
+        "text": "6/4/2/0 /0",
+        "y": 109.0,
+        "confidence": 0.9320031464099884
+      },
+      {
+        "text": "Patrolling",
+        "y": 111.0,
+        "confidence": 0.944538015127182
+      },
+      {
+        "text": "Preserving",
+        "y": 112.0,
+        "confidence": 0.995563554763794
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 126.0,
+        "confidence": 0.9927502125501633
+      },
+      {
+        "text": "Hunting",
+        "y": 128.0,
+        "confidence": 0.9968905363764081
+      },
+      {
+        "text": "None",
+        "y": 127.0,
+        "confidence": 0.9927211403846741
+      },
+      {
+        "text": "Healthy",
+        "y": 138.0,
+        "confidence": 0.9516081809997559
+      },
+      {
+        "text": "Road Area",
+        "y": 150.0,
+        "confidence": 0.9672221210267808
+      },
+      {
+        "text": "Juan Ortega",
+        "y": 165.0,
+        "confidence": 0.9763178879564459
+      },
+      {
+        "text": "区口",
+        "y": 179.0,
+        "confidence": 0.8219983577728271
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 180.0,
+        "confidence": 0.9780354234907362
+      },
+      {
+        "text": "Guard difficulty",
+        "y": 178.0,
+        "confidence": 0.9782620407640934
+      },
+      {
+        "text": "Patrol difficulty",
+        "y": 178.0,
+        "confidence": 0.9670454684425803
+      },
+      {
+        "text": "Hunt difficulty",
+        "y": 175.0,
+        "confidence": 0.9687660654385885
+      },
+      {
+        "text": "Hesitant",
+        "y": 193.0,
+        "confidence": 0.9974230900406837
+      },
+      {
+        "text": "High",
+        "y": 190.0,
+        "confidence": 0.9993155300617218
+      },
+      {
+        "text": "Low",
+        "y": 190.0,
+        "confidence": 0.8432822823524475
+      },
+      {
+        "text": "High",
+        "y": 190.0,
+        "confidence": 0.8900538086891174
+      },
+      {
+        "text": "Healthy",
+        "y": 205.0,
+        "confidence": 0.9611283200127738
+      },
+      {
+        "text": "Contextual",
+        "y": 212.0,
+        "confidence": 0.9947986006736755
+      },
+      {
+        "text": "Miguel Ruiz",
+        "y": 236.0,
+        "confidence": 0.9508952552622015
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 249.0,
+        "confidence": 0.9911701480547587
+      },
+      {
+        "text": "There is nothing of interest nearby.",
+        "y": 243.0,
+        "confidence": 0.9697940697272619
+      },
+      {
+        "text": "Hesitant",
+        "y": 262.0,
+        "confidence": 0.9993316754698753
+      },
+      {
+        "text": "Healthy",
+        "y": 276.0,
+        "confidence": 0.9337940812110901
+      },
+      {
+        "text": "Pilar Palencia",
+        "y": 301.0,
+        "confidence": 0.9240349850484303
+      },
+      {
+        "text": "口口",
+        "y": 316.0,
+        "confidence": 0.5922917425632477
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 318.0,
+        "confidence": 0.9935291277037727
+      },
+      {
+        "text": "Hesitant",
+        "y": 331.0,
+        "confidence": 0.9862416908144951
+      },
+      {
+        "text": "Healthy",
+        "y": 342.0,
+        "confidence": 0.8839516469410488
+      },
+      {
+        "text": "Auto Assign",
+        "y": 351.0,
+        "confidence": 0.9781698205254294
+      },
+      {
+        "text": "Guarding",
+        "y": 369.0,
+        "confidence": 0.9984662160277367
+      },
+      {
+        "text": "Patrolling",
+        "y": 369.0,
+        "confidence": 0.9729369640350342
+      },
+      {
+        "text": "Hunting",
+        "y": 370.0,
+        "confidence": 0.9954741937773568
+      },
+      {
+        "text": "PreservingAlchemy",
+        "y": 370.0,
+        "confidence": 0.9588730159927817
+      },
+      {
+        "text": "0%",
+        "y": 383.0,
+        "confidence": 0.9984802901744843
+      },
+      {
+        "text": "0%",
+        "y": 383.0,
+        "confidence": 0.9983724355697632
+      },
+      {
+        "text": "0%",
+        "y": 383.0,
+        "confidence": 0.9974436163902283
+      },
+      {
+        "text": "0/0",
+        "y": 383.0,
+        "confidence": 0.9963401754697164
+      },
+      {
+        "text": "0/0",
+        "y": 384.0,
+        "confidence": 0.9908662041028341
+      },
+      {
+        "text": "This is the camping system.Before you camp for the night you should assign",
+        "y": 474.0,
+        "confidence": 0.9848722501381023
+      },
+      {
+        "text": "taskstoyourfollowers,distributerations,aswellastreatanyinjuredmembers",
+        "y": 500.0,
+        "confidence": 0.9921988412953805
+      },
+      {
+        "text": "ofyourexpedition",
+        "y": 521.0,
+        "confidence": 0.9975457526743412
+      }
+    ]
+  },
+  {
+    "name": "TutorialAbilities-EN",
+    "image": "Analysis/tutorial_images/197_TutorialAbilities-EN.png",
+    "lines": [
+      {
+        "text": "Carlota Mendoza",
+        "y": 8.0,
+        "confidence": 0.9829726656277974
+      },
+      {
+        "text": "Class",
+        "y": 21.0,
+        "confidence": 0.9778012752532959
+      },
+      {
+        "text": "Soldier",
+        "y": 23.0,
+        "confidence": 0.9810778072902134
+      },
+      {
+        "text": "Endurance 1oo points",
+        "y": 34.0,
+        "confidence": 0.9322273582220078
+      },
+      {
+        "text": "Defence",
+        "y": 46.0,
+        "confidence": 0.9930073363440377
+      },
+      {
+        "text": "25% damage reduction",
+        "y": 46.0,
+        "confidence": 0.950847378373146
+      },
+      {
+        "text": "Attack",
+        "y": 58.0,
+        "confidence": 0.9835609893004099
+      },
+      {
+        "text": "40-so damage",
+        "y": 54.0,
+        "confidence": 0.8487235059340795
+      },
+      {
+        "text": "Critical",
+        "y": 67.0,
+        "confidence": 0.966424286365509
+      },
+      {
+        "text": "Movement o/4spaces",
+        "y": 77.0,
+        "confidence": 0.946131749285592
+      },
+      {
+        "text": "3%/x1.25",
+        "y": 68.0,
+        "confidence": 0.95535559207201
+      },
+      {
+        "text": "Eliminate all enemies",
+        "y": 101.0,
+        "confidence": 0.9694905309450059
+      },
+      {
+        "text": "3enemiesremaining",
+        "y": 121.0,
+        "confidence": 0.9902965636814341
+      },
+      {
+        "text": "Flawless Defence()Attack action,cooldown1turn",
+        "y": 162.0,
+        "confidence": 0.899001897043652
+      },
+      {
+        "text": "Adds the Soldier's melee attack to their Defence.",
+        "y": 177.0,
+        "confidence": 0.9657335707119533
+      },
+      {
+        "text": "Each of your characters has a set of abilities",
+        "y": 469.0,
+        "confidence": 0.9672022073165231
+      },
+      {
+        "text": "There are three majortypesofabilities:",
+        "y": 511.0,
+        "confidence": 0.9592808861481515
+      },
+      {
+        "text": "-AttackAction",
+        "y": 511.0,
+        "confidence": 0.9972483882537255
+      },
+      {
+        "text": "Used insteadofyourAttack",
+        "y": 511.0,
+        "confidence": 0.9788101638356844
+      },
+      {
+        "text": "-Full Turn Action",
+        "y": 532.0,
+        "confidence": 0.9773778985528385
+      },
+      {
+        "text": "Spendsyourentireturn",
+        "y": 534.0,
+        "confidence": 0.9973608702421188
+      },
+      {
+        "text": "-FreeAction",
+        "y": 553.0,
+        "confidence": 0.9971360564231873
+      },
+      {
+        "text": "Freetouse",
+        "y": 555.0,
+        "confidence": 0.9982892142401801
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping09-EN",
+    "image": "Analysis/tutorial_images/205_TutorialCamping09-EN.png",
+    "lines": [
+      {
+        "text": "Type",
+        "y": 49.0,
+        "confidence": 0.9845956414937973
+      },
+      {
+        "text": "Auto Camp",
+        "y": 48.0,
+        "confidence": 0.9923619098133512
+      },
+      {
+        "text": "Clear All",
+        "y": 46.0,
+        "confidence": 0.8136610355642107
+      },
+      {
+        "text": "Tasks",
+        "y": 51.0,
+        "confidence": 0.9963334679603577
+      },
+      {
+        "text": "Rations",
+        "y": 51.0,
+        "confidence": 0.9949153746877398
+      },
+      {
+        "text": "Tinker",
+        "y": 51.0,
+        "confidence": 0.9967160622278849
+      },
+      {
+        "text": "Constraction",
+        "y": 75.0,
+        "confidence": 0.9249804665644964
+      },
+      {
+        "text": "Invention",
+        "y": 74.0,
+        "confidence": 0.9984509348869324
+      },
+      {
+        "text": "Bonita Blanco",
+        "y": 87.0,
+        "confidence": 0.943764118047861
+      },
+      {
+        "text": "口",
+        "y": 105.0,
+        "confidence": 0.9609318375587463
+      },
+      {
+        "text": "2/2/6/0/2",
+        "y": 104.0,
+        "confidence": 0.9871168865097893
+      },
+      {
+        "text": "Tent (Barreto)",
+        "y": 97.0,
+        "confidence": 0.9546331635543278
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 120.0,
+        "confidence": 0.9892514497041702
+      },
+      {
+        "text": "Not Started",
+        "y": 111.0,
+        "confidence": 0.9955603642897173
+      },
+      {
+        "text": "Healthy",
+        "y": 129.0,
+        "confidence": 0.8974541766302926
+      },
+      {
+        "text": "48Days Remain",
+        "y": 122.0,
+        "confidence": 0.8814119971715487
+      },
+      {
+        "text": "Uhassign",
+        "y": 139.0,
+        "confidence": 0.9227101057767868
+      },
+      {
+        "text": "Raul Carrillo",
+        "y": 161.0,
+        "confidence": 0.987133420430697
+      },
+      {
+        "text": "Axe",
+        "y": 157.0,
+        "confidence": 0.9954927563667297
+      },
+      {
+        "text": "图口",
+        "y": 174.0,
+        "confidence": 0.8930841982364655
+      },
+      {
+        "text": "2/2/6/0/2",
+        "y": 175.0,
+        "confidence": 0.9902929266293844
+      },
+      {
+        "text": "Not Started",
+        "y": 171.0,
+        "confidence": 0.9656345681710676
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 190.0,
+        "confidence": 0.9548656394084295
+      },
+      {
+        "text": "48 Days Remain",
+        "y": 182.0,
+        "confidence": 0.9047606544835227
+      },
+      {
+        "text": "Heathy",
+        "y": 203.0,
+        "confidence": 0.7189689725637436
+      },
+      {
+        "text": "Assign",
+        "y": 196.0,
+        "confidence": 0.8530150651931763
+      },
+      {
+        "text": "Pickaxe",
+        "y": 214.0,
+        "confidence": 0.9844758766038078
+      },
+      {
+        "text": "Julio Barreto",
+        "y": 231.0,
+        "confidence": 0.9372060894966125
+      },
+      {
+        "text": "Not Started",
+        "y": 230.0,
+        "confidence": 0.9823031696406278
+      },
+      {
+        "text": "0/0/2",
+        "y": 247.0,
+        "confidence": 0.9911767244338989
+      },
+      {
+        "text": "48 Days Remain",
+        "y": 240.0,
+        "confidence": 0.9341660780566079
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 261.0,
+        "confidence": 0.9889879326025645
+      },
+      {
+        "text": "Assign",
+        "y": 258.0,
+        "confidence": 0.9865395724773407
+      },
+      {
+        "text": "Healthy",
+        "y": 276.0,
+        "confidence": 0.9825479643685477
+      },
+      {
+        "text": "Cart",
+        "y": 273.0,
+        "confidence": 0.9941760748624802
+      },
+      {
+        "text": "Not Started",
+        "y": 287.0,
+        "confidence": 0.9913290684873407
+      },
+      {
+        "text": "Daniela Hernandez",
+        "y": 304.0,
+        "confidence": 0.9941780952846303
+      },
+      {
+        "text": "48 Days Remain",
+        "y": 299.0,
+        "confidence": 0.9351976769311088
+      },
+      {
+        "text": "四口",
+        "y": 316.0,
+        "confidence": 0.7049459517002106
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 319.0,
+        "confidence": 0.9922182824876573
+      },
+      {
+        "text": "Assign",
+        "y": 316.0,
+        "confidence": 0.9600381851196289
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 332.0,
+        "confidence": 0.936369409163793
+      },
+      {
+        "text": "Healthry",
+        "y": 344.0,
+        "confidence": 0.8571520559489727
+      },
+      {
+        "text": "Guarding",
+        "y": 381.0,
+        "confidence": 0.9725772812962532
+      },
+      {
+        "text": "Patrolling",
+        "y": 382.0,
+        "confidence": 0.9475317537784577
+      },
+      {
+        "text": "Hunting",
+        "y": 380.0,
+        "confidence": 0.9965402398790631
+      },
+      {
+        "text": "Preserving",
+        "y": 381.0,
+        "confidence": 0.9894611299037933
+      },
+      {
+        "text": "Herbalism",
+        "y": 382.0,
+        "confidence": 0.9914887348810831
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.997922420501709
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.9977409839630127
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.9920696020126343
+      },
+      {
+        "text": "0/0",
+        "y": 395.0,
+        "confidence": 0.9870824416478475
+      },
+      {
+        "text": "0/0",
+        "y": 395.0,
+        "confidence": 0.9895008206367493
+      },
+      {
+        "text": "AfollowerneedsatleastonepointinTinkeringtobeabletoresearch newinventions",
+        "y": 495.0,
+        "confidence": 0.9908799992667304
+      },
+      {
+        "text": "Afollowerwithhightinkeringskillcanresearchmoreadvancedinventions",
+        "y": 535.0,
+        "confidence": 0.990458719432354
+      }
+    ]
+  },
+  {
+    "name": "TutorialFollowerManagement03-EN",
+    "image": "Analysis/tutorial_images/235_TutorialFollowerManagement03-EN.png",
+    "lines": [
+      {
+        "text": "Promotion",
+        "y": 24.0,
+        "confidence": 0.9980923268530104
+      },
+      {
+        "text": "Expedition Me",
+        "y": 35.0,
+        "confidence": 0.939143602664654
+      },
+      {
+        "text": "Man-At-Arms",
+        "y": 57.0,
+        "confidence": 0.9889578169042413
+      },
+      {
+        "text": "Gained Qoick Shot",
+        "y": 57.0,
+        "confidence": 0.9227372933836544
+      },
+      {
+        "text": "Melee Bonus:",
+        "y": 71.0,
+        "confidence": 0.9945573111375173
+      },
+      {
+        "text": "5 %",
+        "y": 70.0,
+        "confidence": 0.870504895846049
+      },
+      {
+        "text": "melee attack that",
+        "y": 73.0,
+        "confidence": 0.9534406591864193
+      },
+      {
+        "text": "amagereduction",
+        "y": 71.0,
+        "confidence": 0.9716575869492122
+      },
+      {
+        "text": "points",
+        "y": 62.0,
+        "confidence": 0.9819956322511038
+      },
+      {
+        "text": "Velasquez",
+        "y": 76.0,
+        "confidence": 0.9936631189452277
+      },
+      {
+        "text": "move",
+        "y": 83.0,
+        "confidence": 0.9746529310941696
+      },
+      {
+        "text": "Awe",
+        "y": 74.0,
+        "confidence": 0.9882909456888834
+      },
+      {
+        "text": "Range Bonus:",
+        "y": 88.0,
+        "confidence": 0.9487010538578033
+      },
+      {
+        "text": "5 %",
+        "y": 86.0,
+        "confidence": 0.8631313443183899
+      },
+      {
+        "text": "away from the Hunter,",
+        "y": 90.0,
+        "confidence": 0.9384779958497911
+      },
+      {
+        "text": "the targetunit one",
+        "y": 81.0,
+        "confidence": 0.9396031730704837
+      },
+      {
+        "text": "amage(crit o%/x.5)",
+        "y": 81.0,
+        "confidence": 0.8321420301993688
+      },
+      {
+        "text": "Healthy",
+        "y": 91.0,
+        "confidence": 0.9939120922769819
+      },
+      {
+        "text": "spac",
+        "y": 91.0,
+        "confidence": 0.9867080450057983
+      },
+      {
+        "text": "/25damage(crit o%/x15)",
+        "y": 90.0,
+        "confidence": 0.8283588710156354
+      },
+      {
+        "text": "Hesitant (o)",
+        "y": 101.0,
+        "confidence": 0.9355977723995844
+      },
+      {
+        "text": "Defense Bonus:5",
+        "y": 99.0,
+        "confidence": 0.9691142956415812
+      },
+      {
+        "text": "ices",
+        "y": 102.0,
+        "confidence": 0.9397863745689392
+      },
+      {
+        "text": "No equipment",
+        "y": 115.0,
+        "confidence": 0.9756186008453369
+      },
+      {
+        "text": "Adrenaiinie Junkie",
+        "y": 134.0,
+        "confidence": 0.9033579693900214
+      },
+      {
+        "text": "Prerequisite: Man-At-Arms",
+        "y": 135.0,
+        "confidence": 0.9991820073127746
+      },
+      {
+        "text": "quipment",
+        "y": 131.0,
+        "confidence": 0.9936356469988823
+      },
+      {
+        "text": "The follower gains to points to Attack when Endurance is less than",
+        "y": 146.0,
+        "confidence": 0.9827260573705038
+      },
+      {
+        "text": "Cervera",
+        "y": 169.0,
+        "confidence": 0.9933465804372515
+      },
+      {
+        "text": "Aim High",
+        "y": 174.0,
+        "confidence": 0.9676164984703064
+      },
+      {
+        "text": "Healthy",
+        "y": 185.0,
+        "confidence": 0.9901039940970284
+      },
+      {
+        "text": "nalty on this follower's ranged attacks against",
+        "y": 186.0,
+        "confidence": 0.9578019488365093
+      },
+      {
+        "text": "Prerequisite: Man-At-Arms, Ranged",
+        "y": 177.0,
+        "confidence": 0.9920718796325453
+      },
+      {
+        "text": "Hesitant(o)",
+        "y": 195.0,
+        "confidence": 0.9336485808545892
+      },
+      {
+        "text": "The accuracy pe",
+        "y": 187.0,
+        "confidence": 0.8997340559959411
+      },
+      {
+        "text": "No equipment",
+        "y": 206.0,
+        "confidence": 0.9478228439887365
+      },
+      {
+        "text": "targets in parti",
+        "y": 197.0,
+        "confidence": 0.9671130962669849
+      },
+      {
+        "text": "I cover is halved.",
+        "y": 198.0,
+        "confidence": 0.9555414385265775
+      },
+      {
+        "text": "Aim Low",
+        "y": 218.0,
+        "confidence": 0.9355366996356419
+      },
+      {
+        "text": "Prerequisite: Man-At-Arms, Ranged",
+        "y": 218.0,
+        "confidence": 0.9909121520591505
+      },
+      {
+        "text": "Every ranged attack by this follower has a to% chance to halve the",
+        "y": 230.0,
+        "confidence": 0.9830936003815044
+      },
+      {
+        "text": "target's movement in the next turn.",
+        "y": 240.0,
+        "confidence": 0.9870807596615383
+      },
+      {
+        "text": "Zarraga",
+        "y": 263.0,
+        "confidence": 0.9958154729434422
+      },
+      {
+        "text": "Avenger",
+        "y": 258.0,
+        "confidence": 0.996537276676723
+      },
+      {
+        "text": "The folowerdeals o%moredamage against anenemy who has",
+        "y": 270.0,
+        "confidence": 0.9119080766192023
+      },
+      {
+        "text": "Prerequisite: Man-At-Arms",
+        "y": 261.0,
+        "confidence": 0.9960016012191772
+      },
+      {
+        "text": "Healthy",
+        "y": 276.0,
+        "confidence": 0.9752748012542725
+      },
+      {
+        "text": "Hesitant (o)",
+        "y": 289.0,
+        "confidence": 0.9289991110563278
+      },
+      {
+        "text": "incapacitated any all during the current battle.",
+        "y": 280.0,
+        "confidence": 0.9796085593601068
+      },
+      {
+        "text": "No equipment",
+        "y": 299.0,
+        "confidence": 0.947891429066658
+      },
+      {
+        "text": "Block",
+        "y": 299.0,
+        "confidence": 0.9929129362106324
+      },
+      {
+        "text": "The follower's Defence is increased by 5 versus melee attacks.",
+        "y": 311.0,
+        "confidence": 0.9547591901594593
+      },
+      {
+        "text": "Prerequisite: Man-At-Arms",
+        "y": 302.0,
+        "confidence": 0.9845481824874878
+      },
+      {
+        "text": "Blood Thirsty",
+        "y": 341.0,
+        "confidence": 0.9883520969977746
+      },
+      {
+        "text": "Prerequisite: Man-At-Arms",
+        "y": 342.0,
+        "confidence": 0.9759767961502075
+      },
+      {
+        "text": "Quintero",
+        "y": 358.0,
+        "confidence": 0.9901961162686348
+      },
+      {
+        "text": "Every time this follower incapacitates an enemy, they willdeal 15%",
+        "y": 354.0,
+        "confidence": 0.9259963171048597
+      },
+      {
+        "text": "more damage on the next turn.",
+        "y": 365.0,
+        "confidence": 0.998336911201477
+      },
+      {
+        "text": "Average Morale: Hes",
+        "y": 386.0,
+        "confidence": 0.9636580849948683
+      },
+      {
+        "text": "Constitution",
+        "y": 386.0,
+        "confidence": 0.9942764341831207
+      },
+      {
+        "text": "Prerequisite: Man-At-Arms",
+        "y": 386.0,
+        "confidence": 0.9975107669830322
+      },
+      {
+        "text": "Available Experience:",
+        "y": 398.0,
+        "confidence": 0.960344394048055
+      },
+      {
+        "text": "TA.",
+        "y": 399.0,
+        "confidence": 0.5446629822254181
+      },
+      {
+        "text": "Oose",
+        "y": 398.0,
+        "confidence": 0.7974266894161701
+      },
+      {
+        "text": "Accept",
+        "y": 412.0,
+        "confidence": 0.9948071440060934
+      },
+      {
+        "text": "Cancel",
+        "y": 413.0,
+        "confidence": 0.9885793328285217
+      },
+      {
+        "text": "APromotionimprovesthefollowerinseveralways:",
+        "y": 466.0,
+        "confidence": 0.9921222661816796
+      },
+      {
+        "text": "-Their combat effectiveness is improved",
+        "y": 494.0,
+        "confidence": 0.9671106735865275
+      },
+      {
+        "text": "-They gain1Active Class Ability",
+        "y": 516.0,
+        "confidence": 0.9561927453164132
+      },
+      {
+        "text": "-Theygain1PassiveAbilityofyour choosing",
+        "y": 537.0,
+        "confidence": 0.986297132113041
+      },
+      {
+        "text": "-Theygain3points toincrease theirCamping Skills",
+        "y": 559.0,
+        "confidence": 0.9727355393957584
+      }
+    ]
+  },
+  {
+    "name": "TutorialFollowerManagement01-EN",
+    "image": "Analysis/tutorial_images/262_TutorialFollowerManagement01-EN.png",
+    "lines": [
+      {
+        "text": "ExpeditionMembers",
+        "y": 29.0,
+        "confidence": 0.9961867262335384
+      },
+      {
+        "text": "AntonioVelasquez",
+        "y": 29.0,
+        "confidence": 0.9902308508753777
+      },
+      {
+        "text": "Doctor,Recruit",
+        "y": 43.0,
+        "confidence": 0.957333117723465
+      },
+      {
+        "text": "Endurance",
+        "y": 55.0,
+        "confidence": 0.9912546806865268
+      },
+      {
+        "text": "Defence",
+        "y": 63.0,
+        "confidence": 0.987153913293566
+      },
+      {
+        "text": "O% damagereduction",
+        "y": 65.0,
+        "confidence": 0.9315113789505429
+      },
+      {
+        "text": "100 points",
+        "y": 57.0,
+        "confidence": 0.9560949742794037
+      },
+      {
+        "text": "Velasquez",
+        "y": 69.0,
+        "confidence": 0.9909736712773641
+      },
+      {
+        "text": "Sanchez",
+        "y": 70.0,
+        "confidence": 0.9953545672552926
+      },
+      {
+        "text": "Healthy",
+        "y": 83.0,
+        "confidence": 0.9247540320668902
+      },
+      {
+        "text": "Healthy",
+        "y": 85.0,
+        "confidence": 0.9296815395355225
+      },
+      {
+        "text": "Melee",
+        "y": 76.0,
+        "confidence": 0.9681715130805969
+      },
+      {
+        "text": "Ranged",
+        "y": 86.0,
+        "confidence": 0.9968733986218771
+      },
+      {
+        "text": "25 damage (crit O%/x1.5)",
+        "y": 77.0,
+        "confidence": 0.9372333462039629
+      },
+      {
+        "text": "Hesitant (o)",
+        "y": 95.0,
+        "confidence": 0.9457146873076757
+      },
+      {
+        "text": "Hesitant(o)",
+        "y": 95.0,
+        "confidence": 0.954235011881048
+      },
+      {
+        "text": "30% / 25 damage (crit O% / x1.5)",
+        "y": 87.0,
+        "confidence": 0.9194389209151268
+      },
+      {
+        "text": "Movement",
+        "y": 97.0,
+        "confidence": 0.9900680035352707
+      },
+      {
+        "text": "No equipment",
+        "y": 107.0,
+        "confidence": 0.9522213240464529
+      },
+      {
+        "text": "No equipment",
+        "y": 107.0,
+        "confidence": 0.969139481584231
+      },
+      {
+        "text": "6 spaces.",
+        "y": 99.0,
+        "confidence": 0.8803669744067721
+      },
+      {
+        "text": "Info",
+        "y": 125.0,
+        "confidence": 0.9968729466199875
+      },
+      {
+        "text": "Skills",
+        "y": 126.0,
+        "confidence": 0.9296165108680725
+      },
+      {
+        "text": "Equipement",
+        "y": 127.0,
+        "confidence": 0.993071711063385
+      },
+      {
+        "text": "Info",
+        "y": 146.0,
+        "confidence": 0.9592916816473007
+      },
+      {
+        "text": "Cervera",
+        "y": 165.0,
+        "confidence": 0.9919462629726955
+      },
+      {
+        "text": "Ybarra",
+        "y": 166.0,
+        "confidence": 0.9947668115297953
+      },
+      {
+        "text": "Healthy",
+        "y": 181.0,
+        "confidence": 0.8700038875852313
+      },
+      {
+        "text": "Healthy",
+        "y": 177.0,
+        "confidence": 0.9720363616943359
+      },
+      {
+        "text": "Peaceful,Altruistic,Narcissistic",
+        "y": 174.0,
+        "confidence": 0.9627301432192326
+      },
+      {
+        "text": "Hesitant(o)",
+        "y": 190.0,
+        "confidence": 0.9394084811210632
+      },
+      {
+        "text": "Hesitant(o)",
+        "y": 191.0,
+        "confidence": 0.9554709900509227
+      },
+      {
+        "text": "44 years old",
+        "y": 186.0,
+        "confidence": 0.9354196190834045
+      },
+      {
+        "text": "No equipment",
+        "y": 202.0,
+        "confidence": 0.9454072912534078
+      },
+      {
+        "text": "No equipment",
+        "y": 202.0,
+        "confidence": 0.9509807328383127
+      },
+      {
+        "text": "Notmuch isknown about Antonio,beside him being an",
+        "y": 198.0,
+        "confidence": 0.9275660137740933
+      },
+      {
+        "text": "extremely talented doctor.Howhe gained theknowledge he",
+        "y": 208.0,
+        "confidence": 0.9598135981294844
+      },
+      {
+        "text": "Wanderingintotownfromtheforestonadayikeanyother,",
+        "y": 222.0,
+        "confidence": 0.9405091336617867
+      },
+      {
+        "text": "possesses or theskilsthatheexhibitsareamystery.",
+        "y": 215.0,
+        "confidence": 0.921103834471804
+      },
+      {
+        "text": "he quickly attracted a crowd of curious people inthe poor",
+        "y": 235.0,
+        "confidence": 0.9644543016166017
+      },
+      {
+        "text": "remedies,made almost every sick person better.His",
+        "y": 253.0,
+        "confidence": 0.9534482092273479
+      },
+      {
+        "text": "quarters. He went from person to person and, with simple",
+        "y": 245.0,
+        "confidence": 0.9708297720977238
+      },
+      {
+        "text": "Zarraga",
+        "y": 259.0,
+        "confidence": 0.9929726379258292
+      },
+      {
+        "text": "Hernandez",
+        "y": 261.0,
+        "confidence": 0.9918123086293539
+      },
+      {
+        "text": "make any person feel welcome in his company.",
+        "y": 270.0,
+        "confidence": 0.9454688240181316
+      },
+      {
+        "text": "selflessness and sympathetic nature is unmatched and he can",
+        "y": 262.0,
+        "confidence": 0.9684611467991845
+      },
+      {
+        "text": "Healthy",
+        "y": 274.0,
+        "confidence": 0.9045627628053937
+      },
+      {
+        "text": "Healthy",
+        "y": 273.0,
+        "confidence": 0.9116120934486389
+      },
+      {
+        "text": "Hesitant (o)",
+        "y": 285.0,
+        "confidence": 0.9048731078704199
+      },
+      {
+        "text": "Hesitant (o)",
+        "y": 286.0,
+        "confidence": 0.8922773947318395
+      },
+      {
+        "text": "Passive Abilities",
+        "y": 286.0,
+        "confidence": 0.9300916755900663
+      },
+      {
+        "text": "No equipment",
+        "y": 297.0,
+        "confidence": 0.9386641383171082
+      },
+      {
+        "text": "No equipment",
+        "y": 298.0,
+        "confidence": 0.9509923855463663
+      },
+      {
+        "text": "Weapon Proficiency: Dagger, Sword,Bow",
+        "y": 301.0,
+        "confidence": 0.9452411145777315
+      },
+      {
+        "text": "Quintero",
+        "y": 355.0,
+        "confidence": 0.9853564649820328
+      },
+      {
+        "text": "Ruiz",
+        "y": 356.0,
+        "confidence": 0.9705811738967896
+      },
+      {
+        "text": "Average Morale:Hesitant",
+        "y": 384.0,
+        "confidence": 0.976263033307117
+      },
+      {
+        "text": "Available Experience:O",
+        "y": 398.0,
+        "confidence": 0.942097092216665
+      },
+      {
+        "text": "loso",
+        "y": 399.0,
+        "confidence": 0.7180089354515076
+      },
+      {
+        "text": "FollowerManagementgivesyouanoverviewofthestatusofyourexpedition,",
+        "y": 493.0,
+        "confidence": 0.9869145080447197
+      },
+      {
+        "text": "aswellaslettingyouPromoteandEquipyourfollowers",
+        "y": 518.0,
+        "confidence": 0.9947920182476873
+      }
+    ]
+  },
+  {
+    "name": "TutorialRanged03-EN",
+    "image": "Analysis/tutorial_images/298_TutorialRanged03-EN.png",
+    "lines": [
+      {
+        "text": "Raul Carrillo",
+        "y": 10.0,
+        "confidence": 0.9891763008557833
+      },
+      {
+        "text": "Class",
+        "y": 24.0,
+        "confidence": 0.9938191890716552
+      },
+      {
+        "text": "Hunter",
+        "y": 23.0,
+        "confidence": 0.9891458451747894
+      },
+      {
+        "text": "Enduranceloopoints",
+        "y": 34.0,
+        "confidence": 0.9462914334403144
+      },
+      {
+        "text": "Defence",
+        "y": 46.0,
+        "confidence": 0.994750440120697
+      },
+      {
+        "text": "15% damage reduction",
+        "y": 46.0,
+        "confidence": 0.9613448947668075
+      },
+      {
+        "text": "Attack",
+        "y": 58.0,
+        "confidence": 0.9866461455821991
+      },
+      {
+        "text": "80%/22-28 damage",
+        "y": 55.0,
+        "confidence": 0.9157841950654984
+      },
+      {
+        "text": "Critical",
+        "y": 68.0,
+        "confidence": 0.9913698583841324
+      },
+      {
+        "text": "3%/x1.5",
+        "y": 68.0,
+        "confidence": 0.9506799578666687
+      },
+      {
+        "text": "Movemento/6 spaces",
+        "y": 78.0,
+        "confidence": 0.9550984104474386
+      },
+      {
+        "text": "Eliminate allenemies",
+        "y": 103.0,
+        "confidence": 0.9690074443817138
+      },
+      {
+        "text": "3enenmies remaining",
+        "y": 121.0,
+        "confidence": 0.9315831206346813
+      },
+      {
+        "text": "Fabio Serra",
+        "y": 234.0,
+        "confidence": 0.9615775400942023
+      },
+      {
+        "text": "Recruit Hunter",
+        "y": 246.0,
+        "confidence": 0.9629470365388053
+      },
+      {
+        "text": "Endurance:100",
+        "y": 257.0,
+        "confidence": 0.9717190036406884
+      },
+      {
+        "text": "AttxckofOooortunity",
+        "y": 268.0,
+        "confidence": 0.8398333756547225
+      },
+      {
+        "text": "Damage:23-28",
+        "y": 293.0,
+        "confidence": 0.9596225619316101
+      },
+      {
+        "text": "Ranged Attack",
+        "y": 284.0,
+        "confidence": 0.9686913719544044
+      },
+      {
+        "text": "Accuracy:o%",
+        "y": 304.0,
+        "confidence": 0.8738067312674089
+      },
+      {
+        "text": "Full Cover",
+        "y": 315.0,
+        "confidence": 0.9056345731019974
+      },
+      {
+        "text": "Some objectsprovidefull cover,",
+        "y": 499.0,
+        "confidence": 0.9797660946846009
+      },
+      {
+        "text": "preventing you from attacking targetsbehind them",
+        "y": 520.0,
+        "confidence": 0.9664542252818743
+      }
+    ]
+  },
+  {
+    "name": "TutorialWoundedFollower-EN",
+    "image": "Analysis/tutorial_images/303_TutorialWoundedFollower-EN.png",
+    "lines": [
+      {
+        "text": "230",
+        "y": 11.0,
+        "confidence": 0.97870401541392
+      },
+      {
+        "text": "70",
+        "y": 11.0,
+        "confidence": 0.9979201555252075
+      },
+      {
+        "text": "Type ",
+        "y": 49.0,
+        "confidence": 0.9475614190101623
+      },
+      {
+        "text": "AutoCamp",
+        "y": 47.0,
+        "confidence": 0.990636020898819
+      },
+      {
+        "text": "Clear All",
+        "y": 51.0,
+        "confidence": 0.9191891153653463
+      },
+      {
+        "text": "Tinker",
+        "y": 55.0,
+        "confidence": 0.9978732566038767
+      },
+      {
+        "text": "Ratioas",
+        "y": 52.0,
+        "confidence": 0.9282139369419643
+      },
+      {
+        "text": "Treatment",
+        "y": 52.0,
+        "confidence": 0.9966988762219747
+      },
+      {
+        "text": "Antonio Velasquez",
+        "y": 77.0,
+        "confidence": 0.9784156645045561
+      },
+      {
+        "text": "Treatment",
+        "y": 76.0,
+        "confidence": 0.99131840467453
+      },
+      {
+        "text": "0/0/2/6/4",
+        "y": 90.0,
+        "confidence": 0.9783607721328735
+      },
+      {
+        "text": "Hesitant",
+        "y": 110.0,
+        "confidence": 0.9995313286781311
+      },
+      {
+        "text": "Marisol Costales",
+        "y": 104.0,
+        "confidence": 0.9729298204183578
+      },
+      {
+        "text": "Critical bone fracture",
+        "y": 122.0,
+        "confidence": 0.9474625777114521
+      },
+      {
+        "text": "Critical bone fracture",
+        "y": 114.0,
+        "confidence": 0.9830032993446697
+      },
+      {
+        "text": "45%riskofdeterioration",
+        "y": 126.0,
+        "confidence": 0.991867488080805
+      },
+      {
+        "text": "9-10 Medicine to treat",
+        "y": 137.0,
+        "confidence": 0.9396868239749562
+      },
+      {
+        "text": "Marisol Costales",
+        "y": 154.0,
+        "confidence": 0.9856347553431988
+      },
+      {
+        "text": "No doctor assigned",
+        "y": 148.0,
+        "confidence": 0.9792005982663896
+      },
+      {
+        "text": "0/0/2/6/4",
+        "y": 165.0,
+        "confidence": 0.9667747947904799
+      },
+      {
+        "text": "Hesitant",
+        "y": 183.0,
+        "confidence": 0.9987899139523506
+      },
+      {
+        "text": "Lopez",
+        "y": 179.0,
+        "confidence": 0.9972154498100281
+      },
+      {
+        "text": "Critical bone fracture",
+        "y": 196.0,
+        "confidence": 0.9902449656616558
+      },
+      {
+        "text": "Not assigned",
+        "y": 205.0,
+        "confidence": 0.9717414031426111
+      },
+      {
+        "text": "Assign",
+        "y": 218.0,
+        "confidence": 0.8848431209723154
+      },
+      {
+        "text": "Pedro Alvarado",
+        "y": 228.0,
+        "confidence": 0.9709845355578831
+      },
+      {
+        "text": "0/0/2/6/4",
+        "y": 240.0,
+        "confidence": 0.9832167824109396
+      },
+      {
+        "text": "Hesitant",
+        "y": 258.0,
+        "confidence": 0.9988072216510773
+      },
+      {
+        "text": "Critical bone fracture",
+        "y": 271.0,
+        "confidence": 0.9838869734243914
+      },
+      {
+        "text": "Teresa Sanchez",
+        "y": 304.0,
+        "confidence": 0.9806962311267853
+      },
+      {
+        "text": "0/0/2/6/4",
+        "y": 315.0,
+        "confidence": 0.9796000123023987
+      },
+      {
+        "text": "Hesitant",
+        "y": 332.0,
+        "confidence": 0.9942295625805855
+      },
+      {
+        "text": "Critical bone fracture",
+        "y": 345.0,
+        "confidence": 0.9846237274733457
+      },
+      {
+        "text": "Adriana Cervera",
+        "y": 376.0,
+        "confidence": 0.982382615407308
+      },
+      {
+        "text": "Guarding",
+        "y": 399.0,
+        "confidence": 0.9969242066144943
+      },
+      {
+        "text": "Patrolling",
+        "y": 398.0,
+        "confidence": 0.9860066592693328
+      },
+      {
+        "text": "Hunting",
+        "y": 398.0,
+        "confidence": 0.9941477690424237
+      },
+      {
+        "text": "Preserving",
+        "y": 398.0,
+        "confidence": 0.9786680936813354
+      },
+      {
+        "text": "Alchemy",
+        "y": 398.0,
+        "confidence": 0.9312844957624163
+      },
+      {
+        "text": "Medicine available: 40",
+        "y": 399.0,
+        "confidence": 0.980043275789781
+      },
+      {
+        "text": "0/0",
+        "y": 412.0,
+        "confidence": 0.9929852883021036
+      },
+      {
+        "text": "Total cost to treat: o",
+        "y": 410.0,
+        "confidence": 0.9616298255595294
+      },
+      {
+        "text": "Camp",
+        "y": 403.0,
+        "confidence": 0.9492897987365723
+      },
+      {
+        "text": "94%",
+        "y": 413.0,
+        "confidence": 0.9986690084139506
+      },
+      {
+        "text": "70%",
+        "y": 413.0,
+        "confidence": 0.997223416964213
+      },
+      {
+        "text": "84%",
+        "y": 413.0,
+        "confidence": 0.9987340966860453
+      },
+      {
+        "text": "0/0",
+        "y": 414.0,
+        "confidence": 0.9941871563593546
+      },
+      {
+        "text": "Closo",
+        "y": 405.0,
+        "confidence": 0.8769692659378052
+      },
+      {
+        "text": "Oneof yourfollowers arewounded!Woundedfollowers are notabletohelpduring camping,",
+        "y": 463.0,
+        "confidence": 0.9683852210640908
+      },
+      {
+        "text": "andifleftuntreatedthewoundmightdeteriorateduringthenight.",
+        "y": 487.0,
+        "confidence": 0.9957729055170428
+      },
+      {
+        "text": "Totreatinjuredfollowers,selectthemintheCampingmenu,",
+        "y": 523.0,
+        "confidence": 0.989491833191292
+      },
+      {
+        "text": "andgototheTreatmenttab",
+        "y": 545.0,
+        "confidence": 0.9952304715459998
+      }
+    ]
+  },
+  {
+    "name": "TutorialTrading01-EN",
+    "image": "Analysis/tutorial_images/326_TutorialTrading01-EN.png",
+    "lines": [
+      {
+        "text": "Purchase",
+        "y": 32.0,
+        "confidence": 0.995154045522213
+      },
+      {
+        "text": "Sell",
+        "y": 33.0,
+        "confidence": 0.9951547682285309
+      },
+      {
+        "text": "3000",
+        "y": 68.0,
+        "confidence": 0.9991725534200668
+      },
+      {
+        "text": "1000",
+        "y": 65.0,
+        "confidence": 0.9997237771749496
+      },
+      {
+        "text": "High Supply",
+        "y": 93.0,
+        "confidence": 0.9820211746475913
+      },
+      {
+        "text": "Valuables",
+        "y": 95.0,
+        "confidence": 0.9917717973391215
+      },
+      {
+        "text": "100",
+        "y": 126.0,
+        "confidence": 0.9991717338562012
+      },
+      {
+        "text": "20",
+        "y": 123.0,
+        "confidence": 0.9999101161956787
+      },
+      {
+        "text": "100",
+        "y": 123.0,
+        "confidence": 0.9992523193359375
+      },
+      {
+        "text": "Low Supply",
+        "y": 149.0,
+        "confidence": 0.9648660957813263
+      },
+      {
+        "text": "Rations",
+        "y": 152.0,
+        "confidence": 0.9945603864533561
+      },
+      {
+        "text": "50",
+        "y": 183.0,
+        "confidence": 0.9995257258415222
+      },
+      {
+        "text": "80",
+        "y": 180.0,
+        "confidence": 0.9990832209587097
+      },
+      {
+        "text": "Normal Supply",
+        "y": 205.0,
+        "confidence": 0.9704056336329534
+      },
+      {
+        "text": "Medicine",
+        "y": 208.0,
+        "confidence": 0.9960458353161812
+      },
+      {
+        "text": "20",
+        "y": 240.0,
+        "confidence": 0.9996344745159149
+      },
+      {
+        "text": "20",
+        "y": 237.0,
+        "confidence": 0.9997287094593048
+      },
+      {
+        "text": "Normal Supply",
+        "y": 262.0,
+        "confidence": 0.9490735989350539
+      },
+      {
+        "text": "Equipment",
+        "y": 265.0,
+        "confidence": 0.9923958977063497
+      },
+      {
+        "text": "This merchant has Fair Prices",
+        "y": 300.0,
+        "confidence": 0.9722890730561882
+      },
+      {
+        "text": "Thisresourceisin LowDemand",
+        "y": 299.0,
+        "confidence": 0.9747171172728906
+      },
+      {
+        "text": "Cost: 450",
+        "y": 371.0,
+        "confidence": 0.978956831826104
+      },
+      {
+        "text": "Valuables",
+        "y": 386.0,
+        "confidence": 0.9949495328797234
+      },
+      {
+        "text": "Trade",
+        "y": 389.0,
+        "confidence": 0.9922694325447082
+      },
+      {
+        "text": "lose",
+        "y": 391.0,
+        "confidence": 0.8481225818395615
+      },
+      {
+        "text": "Thisis the trading screen",
+        "y": 466.0,
+        "confidence": 0.9622622346878051
+      },
+      {
+        "text": "Trading is a bartering system where you trade your resources for the merchant's goods",
+        "y": 499.0,
+        "confidence": 0.9819617720211253
+      },
+      {
+        "text": "Ontheleftside,youcanseethe",
+        "y": 540.0,
+        "confidence": 0.9866856657541715
+      },
+      {
+        "text": "Ontherightside,you cansee",
+        "y": 540.0,
+        "confidence": 0.967012391090393
+      },
+      {
+        "text": "merchant'spurchasableresources",
+        "y": 564.0,
+        "confidence": 0.9964930713176727
+      },
+      {
+        "text": "yourowntradeableresources",
+        "y": 562.0,
+        "confidence": 0.998317518234253
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping07-EN",
+    "image": "Analysis/tutorial_images/350_TutorialCamping07-EN.png",
+    "lines": [
+      {
+        "text": "Type",
+        "y": 49.0,
+        "confidence": 0.9856374114751816
+      },
+      {
+        "text": "Auto Camp",
+        "y": 45.0,
+        "confidence": 0.9492757519086202
+      },
+      {
+        "text": "Clear All",
+        "y": 46.0,
+        "confidence": 0.8122501704427931
+      },
+      {
+        "text": "Tinker",
+        "y": 50.0,
+        "confidence": 0.9982222616672516
+      },
+      {
+        "text": "Construction",
+        "y": 74.0,
+        "confidence": 0.9964548001686732
+      },
+      {
+        "text": "Invention",
+        "y": 75.0,
+        "confidence": 0.9051205648316277
+      },
+      {
+        "text": "Bonita Blanco",
+        "y": 87.0,
+        "confidence": 0.9605114139043368
+      },
+      {
+        "text": "图",
+        "y": 103.0,
+        "confidence": 0.5770635604858398
+      },
+      {
+        "text": "口",
+        "y": 105.0,
+        "confidence": 0.9609318375587463
+      },
+      {
+        "text": "2/2/6/0/2",
+        "y": 104.0,
+        "confidence": 0.9895577629407247
+      },
+      {
+        "text": "Metal",
+        "y": 98.0,
+        "confidence": 0.9910989761352539
+      },
+      {
+        "text": "Rope",
+        "y": 98.0,
+        "confidence": 0.9884014129638672
+      },
+      {
+        "text": "Oil",
+        "y": 99.0,
+        "confidence": 0.9777911702791849
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 120.0,
+        "confidence": 0.9906277110179266
+      },
+      {
+        "text": "Heatthy",
+        "y": 129.0,
+        "confidence": 0.824214586189815
+      },
+      {
+        "text": "Barricade",
+        "y": 137.0,
+        "confidence": 0.9922799931632148
+      },
+      {
+        "text": "Raul Carrillo",
+        "y": 161.0,
+        "confidence": 0.9816588805272028
+      },
+      {
+        "text": "图口",
+        "y": 174.0,
+        "confidence": 0.8813649415969849
+      },
+      {
+        "text": "2/2/6/0/2",
+        "y": 176.0,
+        "confidence": 0.9948763251304626
+      },
+      {
+        "text": "Torch",
+        "y": 174.0,
+        "confidence": 0.9927112698554993
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 189.0,
+        "confidence": 0.9790892004966736
+      },
+      {
+        "text": "Heathy",
+        "y": 203.0,
+        "confidence": 0.7308098822832108
+      },
+      {
+        "text": "Julio Barreto",
+        "y": 232.0,
+        "confidence": 0.962138451062716
+      },
+      {
+        "text": "0/0/2/4/6",
+        "y": 244.0,
+        "confidence": 0.9856446385383606
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 261.0,
+        "confidence": 0.9886887768904368
+      },
+      {
+        "text": "Healthy",
+        "y": 274.0,
+        "confidence": 0.8183823994227818
+      },
+      {
+        "text": "DanielaHernandez",
+        "y": 304.0,
+        "confidence": 0.9941411577165127
+      },
+      {
+        "text": "四口",
+        "y": 316.0,
+        "confidence": 0.7053799033164978
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 319.0,
+        "confidence": 0.9920063813527426
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 332.0,
+        "confidence": 0.9419712424278259
+      },
+      {
+        "text": "Healthy",
+        "y": 344.0,
+        "confidence": 0.954419561794826
+      },
+      {
+        "text": "Guarding",
+        "y": 381.0,
+        "confidence": 0.9717585444450378
+      },
+      {
+        "text": "Patrolling",
+        "y": 382.0,
+        "confidence": 0.9926953971385956
+      },
+      {
+        "text": "Hunting",
+        "y": 380.0,
+        "confidence": 0.996812675680433
+      },
+      {
+        "text": "Preserving",
+        "y": 381.0,
+        "confidence": 0.9867899060249329
+      },
+      {
+        "text": "Herbalism",
+        "y": 382.0,
+        "confidence": 0.9912345276938545
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.9978777368863424
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.9931992491086324
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.9754108587900797
+      },
+      {
+        "text": "0/0",
+        "y": 395.0,
+        "confidence": 0.9865245223045349
+      },
+      {
+        "text": "0/0",
+        "y": 395.0,
+        "confidence": 0.9894694685935974
+      },
+      {
+        "text": "Tinkering is divided into Construction and Invention",
+        "y": 467.0,
+        "confidence": 0.9580604434013367
+      },
+      {
+        "text": "Construction allowsyou toassignfollowerstoconstruct traps and equipment",
+        "y": 505.0,
+        "confidence": 0.9673768987118359
+      },
+      {
+        "text": "Inventionallowsyoutoassignfollowerstoresearch",
+        "y": 540.0,
+        "confidence": 0.9959842946794298
+      },
+      {
+        "text": "improvementstotheexpedition'sgearandequipment",
+        "y": 562.0,
+        "confidence": 0.9929189907179938
+      }
+    ]
+  },
+  {
+    "name": "TutorialFlanking-EN",
+    "image": "Analysis/tutorial_images/354_TutorialFlanking-EN.png",
+    "lines": [
+      {
+        "text": "Noemi Pacheco",
+        "y": 280.0,
+        "confidence": 0.9844546363903925
+      },
+      {
+        "text": "Recruit Soldier",
+        "y": 296.0,
+        "confidence": 0.9758532961209615
+      },
+      {
+        "text": "Endurance: 87",
+        "y": 315.0,
+        "confidence": 0.9795277714729309
+      },
+      {
+        "text": "MeleeAttack",
+        "y": 337.0,
+        "confidence": 0.9094139608469877
+      },
+      {
+        "text": "Flanking Strike!",
+        "y": 352.0,
+        "confidence": 0.992354616522789
+      },
+      {
+        "text": "amaqe:44-5",
+        "y": 373.0,
+        "confidence": 0.9176063001155853
+      },
+      {
+        "text": "If you place two units on directly opposite sides of an enemy,",
+        "y": 468.0,
+        "confidence": 0.970080009391231
+      },
+      {
+        "text": "both units can make a Flanking Strike on that enemy",
+        "y": 497.0,
+        "confidence": 0.9675723618152094
+      },
+      {
+        "text": "A flanking strike deals substantially more damage than a normal attack",
+        "y": 545.0,
+        "confidence": 0.966298223393304
+      }
+    ]
+  },
+  {
+    "name": "TutorialItemPlacement-EN",
+    "image": "Analysis/tutorial_images/392_TutorialItemPlacement-EN.png",
+    "lines": [
+      {
+        "text": "Eliminateallenemies",
+        "y": 128.0,
+        "confidence": 0.9942623125879388
+      },
+      {
+        "text": "PreparationPhase",
+        "y": 154.0,
+        "confidence": 0.993635680526495
+      },
+      {
+        "text": "You can place your barricades before the battle starts",
+        "y": 468.0,
+        "confidence": 0.9878064449186679
+      },
+      {
+        "text": "ClickontheBarricadeltemiconand",
+        "y": 501.0,
+        "confidence": 0.972377140323321
+      },
+      {
+        "text": "thenclickwhereyouwishtoplaceit",
+        "y": 527.0,
+        "confidence": 0.9827940066655477
+      },
+      {
+        "text": "You can only place items inside the green area",
+        "y": 558.0,
+        "confidence": 0.9772214902483899
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping08-EN",
+    "image": "Analysis/tutorial_images/397_TutorialCamping08-EN.png",
+    "lines": [
+      {
+        "text": "Type",
+        "y": 49.0,
+        "confidence": 0.9903204590082169
+      },
+      {
+        "text": "Auto Camp",
+        "y": 45.0,
+        "confidence": 0.9492757519086202
+      },
+      {
+        "text": "Clear All",
+        "y": 46.0,
+        "confidence": 0.8122501704427931
+      },
+      {
+        "text": "Tasks",
+        "y": 51.0,
+        "confidence": 0.9967665791511535
+      },
+      {
+        "text": "Rations",
+        "y": 49.0,
+        "confidence": 0.9900458965982709
+      },
+      {
+        "text": "Tinker",
+        "y": 50.0,
+        "confidence": 0.993133157491684
+      },
+      {
+        "text": "Construction",
+        "y": 74.0,
+        "confidence": 0.9708024462064108
+      },
+      {
+        "text": "Invention",
+        "y": 75.0,
+        "confidence": 0.9051205648316277
+      },
+      {
+        "text": "Bonita Blanco",
+        "y": 87.0,
+        "confidence": 0.9605114139043368
+      },
+      {
+        "text": "口",
+        "y": 105.0,
+        "confidence": 0.9738163352012634
+      },
+      {
+        "text": "2/2/6/0/2",
+        "y": 104.0,
+        "confidence": 0.9894824557834201
+      },
+      {
+        "text": "ltem",
+        "y": 98.0,
+        "confidence": 0.9459652751684189
+      },
+      {
+        "text": "Wood",
+        "y": 98.0,
+        "confidence": 0.9881177842617035
+      },
+      {
+        "text": "Metal",
+        "y": 98.0,
+        "confidence": 0.9875911116600037
+      },
+      {
+        "text": "Rope",
+        "y": 98.0,
+        "confidence": 0.9884014129638672
+      },
+      {
+        "text": "Oil",
+        "y": 99.0,
+        "confidence": 0.9637905955314636
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 120.0,
+        "confidence": 0.9906277110179266
+      },
+      {
+        "text": "Heatthy",
+        "y": 129.0,
+        "confidence": 0.824214586189815
+      },
+      {
+        "text": "Barricade",
+        "y": 137.0,
+        "confidence": 0.9922799931632148
+      },
+      {
+        "text": "Raul Carrillo",
+        "y": 161.0,
+        "confidence": 0.9816588805272028
+      },
+      {
+        "text": "图口",
+        "y": 172.0,
+        "confidence": 0.9033300280570984
+      },
+      {
+        "text": "2/2/6/0/2",
+        "y": 177.0,
+        "confidence": 0.9941161341137357
+      },
+      {
+        "text": "rorch",
+        "y": 175.0,
+        "confidence": 0.8392422080039978
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 189.0,
+        "confidence": 0.9790892004966736
+      },
+      {
+        "text": "Heathy",
+        "y": 203.0,
+        "confidence": 0.7308098822832108
+      },
+      {
+        "text": "Julio Barreto",
+        "y": 232.0,
+        "confidence": 0.962138451062716
+      },
+      {
+        "text": "0/0/2/4/6",
+        "y": 244.0,
+        "confidence": 0.9782130122184753
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 261.0,
+        "confidence": 0.9886887768904368
+      },
+      {
+        "text": "Healthy",
+        "y": 274.0,
+        "confidence": 0.8183823994227818
+      },
+      {
+        "text": "DanielaHernandez",
+        "y": 304.0,
+        "confidence": 0.994131725281477
+      },
+      {
+        "text": "四口",
+        "y": 316.0,
+        "confidence": 0.7053799033164978
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 319.0,
+        "confidence": 0.9923519757058885
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 332.0,
+        "confidence": 0.9419712424278259
+      },
+      {
+        "text": "Healthy",
+        "y": 346.0,
+        "confidence": 0.9591024092265538
+      },
+      {
+        "text": "Guarding",
+        "y": 381.0,
+        "confidence": 0.9717585444450378
+      },
+      {
+        "text": "Patrolling",
+        "y": 382.0,
+        "confidence": 0.9926953971385956
+      },
+      {
+        "text": "Hunting",
+        "y": 380.0,
+        "confidence": 0.996812675680433
+      },
+      {
+        "text": "Preserving",
+        "y": 381.0,
+        "confidence": 0.9867899060249329
+      },
+      {
+        "text": "Herbalism",
+        "y": 382.0,
+        "confidence": 0.9912345276938545
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.9978777368863424
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.9931992491086324
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.9754108587900797
+      },
+      {
+        "text": "0/0",
+        "y": 395.0,
+        "confidence": 0.9870450297991434
+      },
+      {
+        "text": "0/0",
+        "y": 395.0,
+        "confidence": 0.9894694685935974
+      },
+      {
+        "text": "Constructinganitemcostsmaterials",
+        "y": 467.0,
+        "confidence": 0.9975943807512522
+      },
+      {
+        "text": "Forexample:to craft aTorch,you need 2unitsofWood and1unitof Oil",
+        "y": 504.0,
+        "confidence": 0.9511109335081918
+      },
+      {
+        "text": "During the campaign,you will find recipes that",
+        "y": 539.0,
+        "confidence": 0.97924347286639
+      },
+      {
+        "text": "teachyouhowtocraftnewtrapsanditems",
+        "y": 562.0,
+        "confidence": 0.9977573366726146
+      }
+    ]
+  },
+  {
+    "name": "TutorialMovement-EN",
+    "image": "Analysis/tutorial_images/410_TutorialMovement-EN.png",
+    "lines": [
+      {
+        "text": "Carlota Mendoza",
+        "y": 8.0,
+        "confidence": 0.9793066183725992
+      },
+      {
+        "text": "Class",
+        "y": 21.0,
+        "confidence": 0.9812145471572876
+      },
+      {
+        "text": "Soldier",
+        "y": 23.0,
+        "confidence": 0.9788034898894173
+      },
+      {
+        "text": "Endurance 1oo points",
+        "y": 34.0,
+        "confidence": 0.9379618495702744
+      },
+      {
+        "text": "Defence",
+        "y": 46.0,
+        "confidence": 0.9940509455544608
+      },
+      {
+        "text": "25% damage reduction",
+        "y": 46.0,
+        "confidence": 0.9800126880407334
+      },
+      {
+        "text": "Attack",
+        "y": 58.0,
+        "confidence": 0.979009876648585
+      },
+      {
+        "text": "40-sodamage",
+        "y": 54.0,
+        "confidence": 0.8594143011353232
+      },
+      {
+        "text": "Critical",
+        "y": 67.0,
+        "confidence": 0.9419813454151154
+      },
+      {
+        "text": "3%/x1.25",
+        "y": 68.0,
+        "confidence": 0.953137956559658
+      },
+      {
+        "text": "Movement 4/4 spaces",
+        "y": 78.0,
+        "confidence": 0.937407302229028
+      },
+      {
+        "text": "Eliminate all enemies",
+        "y": 101.0,
+        "confidence": 0.9653424592245192
+      },
+      {
+        "text": "3enemies remaining",
+        "y": 121.0,
+        "confidence": 0.9696105089452531
+      },
+      {
+        "text": "The grid shows how far you can move",
+        "y": 465.0,
+        "confidence": 0.981423362663814
+      },
+      {
+        "text": "Stay inside the light green area if",
+        "y": 497.0,
+        "confidence": 0.9860400761876787
+      },
+      {
+        "text": "Convert your action into moves",
+        "y": 499.0,
+        "confidence": 0.9799105763435364
+      },
+      {
+        "text": "you also want to attack this turn",
+        "y": 519.0,
+        "confidence": 0.9360322807774399
+      },
+      {
+        "text": "by walking into the dark green area",
+        "y": 521.0,
+        "confidence": 0.9671583328928266
+      },
+      {
+        "text": "Yellowmovementindicator",
+        "y": 557.0,
+        "confidence": 0.9968905682149141
+      },
+      {
+        "text": "Orange movementindicator",
+        "y": 558.0,
+        "confidence": 0.9823348994056383
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping02-EN",
+    "image": "Analysis/tutorial_images/425_TutorialCamping02-EN.png",
+    "lines": [
+      {
+        "text": "230",
+        "y": 11.0,
+        "confidence": 0.9022765358289083
+      },
+      {
+        "text": "70",
+        "y": 11.0,
+        "confidence": 0.9932832717895508
+      },
+      {
+        "text": "Type ",
+        "y": 48.0,
+        "confidence": 0.919044291973114
+      },
+      {
+        "text": "AutoCamp",
+        "y": 46.0,
+        "confidence": 0.9884770140051842
+      },
+      {
+        "text": "Clear AlI",
+        "y": 47.0,
+        "confidence": 0.8870330088668399
+      },
+      {
+        "text": "Tasks",
+        "y": 51.0,
+        "confidence": 0.9903294682502747
+      },
+      {
+        "text": "Tinker",
+        "y": 51.0,
+        "confidence": 0.9839579661687216
+      },
+      {
+        "text": "Rations",
+        "y": 53.0,
+        "confidence": 0.9164348414966038
+      },
+      {
+        "text": "Healthy",
+        "y": 71.0,
+        "confidence": 0.9949424266815186
+      },
+      {
+        "text": "Tasks",
+        "y": 71.0,
+        "confidence": 0.9911153197288514
+      },
+      {
+        "text": "Isabela Yruenes",
+        "y": 99.0,
+        "confidence": 0.9878872911135356
+      },
+      {
+        "text": "Guarding",
+        "y": 98.0,
+        "confidence": 0.9950100481510162
+      },
+      {
+        "text": "口口",
+        "y": 109.0,
+        "confidence": 0.613892674446106
+      },
+      {
+        "text": "Alchemy",
+        "y": 100.0,
+        "confidence": 0.9917442032269069
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 112.0,
+        "confidence": 0.9920503894488016
+      },
+      {
+        "text": "iny",
+        "y": 115.0,
+        "confidence": 0.6414412458737692
+      },
+      {
+        "text": "Preserving",
+        "y": 113.0,
+        "confidence": 0.9979032099246978
+      },
+      {
+        "text": "Enthusiastic",
+        "y": 127.0,
+        "confidence": 0.9981653789679209
+      },
+      {
+        "text": "Healthy",
+        "y": 137.0,
+        "confidence": 0.9636915496417454
+      },
+      {
+        "text": "Hunting",
+        "y": 129.0,
+        "confidence": 0.9943943875176566
+      },
+      {
+        "text": "None",
+        "y": 131.0,
+        "confidence": 0.9958080798387527
+      },
+      {
+        "text": "Road Area",
+        "y": 152.0,
+        "confidence": 0.9659559528032938
+      },
+      {
+        "text": "Juan Ortega",
+        "y": 165.0,
+        "confidence": 0.967159547589042
+      },
+      {
+        "text": "口口",
+        "y": 179.0,
+        "confidence": 0.5958968102931976
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 182.0,
+        "confidence": 0.9910599191983541
+      },
+      {
+        "text": "Guard difficulty",
+        "y": 179.0,
+        "confidence": 0.9774562641978264
+      },
+      {
+        "text": "Patrol difficulty",
+        "y": 176.0,
+        "confidence": 0.9630509755190682
+      },
+      {
+        "text": "Hunt difficulty",
+        "y": 176.0,
+        "confidence": 0.9355555852254231
+      },
+      {
+        "text": "Hesitant",
+        "y": 195.0,
+        "confidence": 0.9922360926866531
+      },
+      {
+        "text": "High",
+        "y": 193.0,
+        "confidence": 0.9487383365631104
+      },
+      {
+        "text": "Low",
+        "y": 192.0,
+        "confidence": 0.9465047915776571
+      },
+      {
+        "text": "High",
+        "y": 192.0,
+        "confidence": 0.8323509469628334
+      },
+      {
+        "text": "Healthy",
+        "y": 207.0,
+        "confidence": 0.7647027713911874
+      },
+      {
+        "text": "Contextual",
+        "y": 213.0,
+        "confidence": 0.9960807919502258
+      },
+      {
+        "text": "Miguel Ruiz",
+        "y": 237.0,
+        "confidence": 0.9900871515274048
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 251.0,
+        "confidence": 0.9891901479827033
+      },
+      {
+        "text": "There is nothing of interest nearby.",
+        "y": 244.0,
+        "confidence": 0.9989474597904417
+      },
+      {
+        "text": "Hesitant",
+        "y": 265.0,
+        "confidence": 0.9938303977251053
+      },
+      {
+        "text": "Healthy",
+        "y": 279.0,
+        "confidence": 0.9876568572861808
+      },
+      {
+        "text": "Pilar Palencia",
+        "y": 307.0,
+        "confidence": 0.9960117425237384
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 318.0,
+        "confidence": 0.9830812613169352
+      },
+      {
+        "text": "Hesitant",
+        "y": 334.0,
+        "confidence": 0.9967973232269287
+      },
+      {
+        "text": "Healthry",
+        "y": 345.0,
+        "confidence": 0.8947906419634819
+      },
+      {
+        "text": "Auto Assign",
+        "y": 353.0,
+        "confidence": 0.9178678068247709
+      },
+      {
+        "text": "Guarding",
+        "y": 371.0,
+        "confidence": 0.995931476354599
+      },
+      {
+        "text": "Patrolling",
+        "y": 374.0,
+        "confidence": 0.9916383743286132
+      },
+      {
+        "text": "Hunting",
+        "y": 372.0,
+        "confidence": 0.9930542622293744
+      },
+      {
+        "text": "Preserving Alchemy",
+        "y": 372.0,
+        "confidence": 0.9602471457587348
+      },
+      {
+        "text": "32%",
+        "y": 386.0,
+        "confidence": 0.9959102272987366
+      },
+      {
+        "text": "32%",
+        "y": 386.0,
+        "confidence": 0.9947356979052225
+      },
+      {
+        "text": "14%",
+        "y": 386.0,
+        "confidence": 0.9972139994303385
+      },
+      {
+        "text": "0/0",
+        "y": 386.0,
+        "confidence": 0.9931912422180176
+      },
+      {
+        "text": "0/0",
+        "y": 386.0,
+        "confidence": 0.9909432530403137
+      },
+      {
+        "text": "Eachtimeyoucampyoucan",
+        "y": 462.0,
+        "confidence": 0.9973277421224684
+      },
+      {
+        "text": "assigntaskstoyourfollowers",
+        "y": 486.0,
+        "confidence": 0.9816571565774771
+      },
+      {
+        "text": "You assigntasksbyselectingafollower,",
+        "y": 488.0,
+        "confidence": 0.9801278875933753
+      },
+      {
+        "text": "and clicking on theintended taskon the rightside",
+        "y": 511.0,
+        "confidence": 0.9495936011274656
+      },
+      {
+        "text": "Theiconfortheassignedtaskwillappear",
+        "y": 545.0,
+        "confidence": 0.9973596521786281
+      },
+      {
+        "text": "ontherightsideofthefollower",
+        "y": 567.0,
+        "confidence": 0.9982765471493756
+      }
+    ]
+  },
+  {
+    "name": "TutorialTrading02-EN",
+    "image": "Analysis/tutorial_images/442_TutorialTrading02-EN.png",
+    "lines": [
+      {
+        "text": "Purchase",
+        "y": 32.0,
+        "confidence": 0.995154045522213
+      },
+      {
+        "text": "Sell",
+        "y": 33.0,
+        "confidence": 0.9951547682285309
+      },
+      {
+        "text": "3000",
+        "y": 67.0,
+        "confidence": 0.9035349935293198
+      },
+      {
+        "text": "1000",
+        "y": 65.0,
+        "confidence": 0.9997237771749496
+      },
+      {
+        "text": "High Supply",
+        "y": 92.0,
+        "confidence": 0.9587874629280784
+      },
+      {
+        "text": "Valuables",
+        "y": 95.0,
+        "confidence": 0.9917717973391215
+      },
+      {
+        "text": "1",
+        "y": 128.0,
+        "confidence": 0.9093742370605469
+      },
+      {
+        "text": "20",
+        "y": 123.0,
+        "confidence": 0.9999101161956787
+      },
+      {
+        "text": "100",
+        "y": 123.0,
+        "confidence": 0.9992523193359375
+      },
+      {
+        "text": "Low Supply",
+        "y": 151.0,
+        "confidence": 0.9892287969589233
+      },
+      {
+        "text": "Rations",
+        "y": 152.0,
+        "confidence": 0.9933202607291085
+      },
+      {
+        "text": "50",
+        "y": 183.0,
+        "confidence": 0.9773742854595184
+      },
+      {
+        "text": "80",
+        "y": 180.0,
+        "confidence": 0.9990832209587097
+      },
+      {
+        "text": "Normal Supply",
+        "y": 205.0,
+        "confidence": 0.973210504421821
+      },
+      {
+        "text": "Medicine",
+        "y": 207.0,
+        "confidence": 0.9921149909496307
+      },
+      {
+        "text": "20",
+        "y": 240.0,
+        "confidence": 0.9996344745159149
+      },
+      {
+        "text": "20",
+        "y": 237.0,
+        "confidence": 0.9997287094593048
+      },
+      {
+        "text": "Normal Supply",
+        "y": 262.0,
+        "confidence": 0.9490735989350539
+      },
+      {
+        "text": "Equipment",
+        "y": 265.0,
+        "confidence": 0.9923958977063497
+      },
+      {
+        "text": "This merchant has Fair Prices",
+        "y": 298.0,
+        "confidence": 0.9674414499052639
+      },
+      {
+        "text": "Thisresourceisin LowDemand",
+        "y": 299.0,
+        "confidence": 0.975825908092352
+      },
+      {
+        "text": "Cost: 450",
+        "y": 371.0,
+        "confidence": 0.978956831826104
+      },
+      {
+        "text": "Valuables",
+        "y": 386.0,
+        "confidence": 0.9949495328797234
+      },
+      {
+        "text": "Trade",
+        "y": 389.0,
+        "confidence": 0.991954219341278
+      },
+      {
+        "text": "lose",
+        "y": 391.0,
+        "confidence": 0.8481225818395615
+      },
+      {
+        "text": "IfamerchanthasaLowSupplyofaresource,",
+        "y": 467.0,
+        "confidence": 0.9903889132870568
+      },
+      {
+        "text": "Wheneverpossible,",
+        "y": 469.0,
+        "confidence": 0.9935580036219429
+      },
+      {
+        "text": "theywill value thatresourcehigher than usual",
+        "y": 492.0,
+        "confidence": 0.9592657915570519
+      },
+      {
+        "text": "aimtobuyresourcesinHighSupply",
+        "y": 492.0,
+        "confidence": 0.9969691202558321
+      },
+      {
+        "text": "andsell resourcesin LowSupply",
+        "y": 513.0,
+        "confidence": 0.9717938673907313
+      },
+      {
+        "text": "IfthemerchanthasaHighSupplyofaresource,",
+        "y": 530.0,
+        "confidence": 0.9897665320298611
+      },
+      {
+        "text": "theywillvaluethatresourcelowerthannormal",
+        "y": 554.0,
+        "confidence": 0.9952321276068687
+      },
+      {
+        "text": "Alltraders areresetevery7days",
+        "y": 552.0,
+        "confidence": 0.9843490329282037
+      }
+    ]
+  },
+  {
+    "name": "TutorialRestore-EN",
+    "image": "Analysis/tutorial_images/492_TutorialRestore-EN.png",
+    "lines": [
+      {
+        "text": "Restored!",
+        "y": 4.0,
+        "confidence": 0.9952652520603604
+      },
+      {
+        "text": "Pedro Alvarado",
+        "y": 11.0,
+        "confidence": 0.9630274304321834
+      },
+      {
+        "text": "30",
+        "y": 28.0,
+        "confidence": 0.9847367107868195
+      },
+      {
+        "text": "Class",
+        "y": 29.0,
+        "confidence": 0.989189624786377
+      },
+      {
+        "text": "Doctor",
+        "y": 27.0,
+        "confidence": 0.9918598035971323
+      },
+      {
+        "text": "Endurance45points",
+        "y": 40.0,
+        "confidence": 0.971072768463808
+      },
+      {
+        "text": "Defence",
+        "y": 55.0,
+        "confidence": 0.9942892619541713
+      },
+      {
+        "text": "O%damagereduction",
+        "y": 55.0,
+        "confidence": 0.9770520960583406
+      },
+      {
+        "text": "Attack",
+        "y": 68.0,
+        "confidence": 0.9930645922819773
+      },
+      {
+        "text": "18-22 damage",
+        "y": 66.0,
+        "confidence": 0.9146097749471664
+      },
+      {
+        "text": "Critical",
+        "y": 82.0,
+        "confidence": 0.9905580803751945
+      },
+      {
+        "text": "2%/x2",
+        "y": 82.0,
+        "confidence": 0.8966098546981811
+      },
+      {
+        "text": "Movement",
+        "y": 94.0,
+        "confidence": 0.9913026914000511
+      },
+      {
+        "text": "6/6 spaces",
+        "y": 95.0,
+        "confidence": 0.9471128106117248
+      },
+      {
+        "text": "Ifany of your people are injured,",
+        "y": 464.0,
+        "confidence": 0.950398761214632
+      },
+      {
+        "text": "select your Doctor and click on theRestore ability",
+        "y": 487.0,
+        "confidence": 0.9462623536586762
+      },
+      {
+        "text": "Thenselecttheinjuredperson torestoresome endurance",
+        "y": 544.0,
+        "confidence": 0.9823462271690369
+      }
+    ]
+  },
+  {
+    "name": "TutorialRanged01-EN",
+    "image": "Analysis/tutorial_images/515_TutorialRanged01-EN.png",
+    "lines": [
+      {
+        "text": "Raul Carrillo",
+        "y": 10.0,
+        "confidence": 0.9891763008557833
+      },
+      {
+        "text": "Class",
+        "y": 24.0,
+        "confidence": 0.9938191890716552
+      },
+      {
+        "text": "Hunter",
+        "y": 23.0,
+        "confidence": 0.9891458451747894
+      },
+      {
+        "text": "Enduranceloopoints",
+        "y": 34.0,
+        "confidence": 0.9470067901743783
+      },
+      {
+        "text": "Defence",
+        "y": 46.0,
+        "confidence": 0.994750440120697
+      },
+      {
+        "text": "15% damage reduction",
+        "y": 46.0,
+        "confidence": 0.9613448947668075
+      },
+      {
+        "text": "Attack",
+        "y": 58.0,
+        "confidence": 0.9866461455821991
+      },
+      {
+        "text": "80%/22-28 damage",
+        "y": 55.0,
+        "confidence": 0.9157841950654984
+      },
+      {
+        "text": "Movement 1/6spaces",
+        "y": 77.0,
+        "confidence": 0.9752362238036262
+      },
+      {
+        "text": "Critical",
+        "y": 68.0,
+        "confidence": 0.9913698583841324
+      },
+      {
+        "text": "3%/ x1.5",
+        "y": 68.0,
+        "confidence": 0.9022220745682716
+      },
+      {
+        "text": "Eliminateallenemies",
+        "y": 103.0,
+        "confidence": 0.9937435670902854
+      },
+      {
+        "text": "3enenmies remaining",
+        "y": 121.0,
+        "confidence": 0.9315831206346813
+      },
+      {
+        "text": "Noemi Pacheco",
+        "y": 147.0,
+        "confidence": 0.9560832243699294
+      },
+      {
+        "text": "Recruit Soldier",
+        "y": 160.0,
+        "confidence": 0.9650074164072673
+      },
+      {
+        "text": "Endurance:100",
+        "y": 171.0,
+        "confidence": 0.9854773695652301
+      },
+      {
+        "text": "ackofOpp",
+        "y": 180.0,
+        "confidence": 0.9161001443862915
+      },
+      {
+        "text": "Ranged Attack",
+        "y": 196.0,
+        "confidence": 0.9118747023435739
+      },
+      {
+        "text": "Damage:20-25",
+        "y": 205.0,
+        "confidence": 0.8918350686629614
+      },
+      {
+        "text": "Accuracy:73%",
+        "y": 218.0,
+        "confidence": 0.9310473054647446
+      },
+      {
+        "text": "Ranged attacks depend on line of sight and distance",
+        "y": 474.0,
+        "confidence": 0.9904994193245383
+      },
+      {
+        "text": "Thefartheryou arefromyourtarget,",
+        "y": 527.0,
+        "confidence": 0.9799285717308521
+      },
+      {
+        "text": "thelesslikelyyouare tohit",
+        "y": 549.0,
+        "confidence": 0.9530143404006958
+      }
+    ]
+  },
+  {
+    "name": "TutorialVictoryScreen-EN",
+    "image": "Analysis/tutorial_images/528_TutorialVictoryScreen-EN.png",
+    "lines": [
+      {
+        "text": "Sierra Barreiro",
+        "y": 7.0,
+        "confidence": 0.9848167061805725
+      },
+      {
+        "text": "Endurance 23 points",
+        "y": 26.0,
+        "confidence": 0.9646928310394287
+      },
+      {
+        "text": "Class",
+        "y": 18.0,
+        "confidence": 0.9767580986022949
+      },
+      {
+        "text": "Soldier",
+        "y": 18.0,
+        "confidence": 0.931788546698434
+      },
+      {
+        "text": "Defence",
+        "y": 32.0,
+        "confidence": 0.8571570813655853
+      },
+      {
+        "text": "Attack",
+        "y": 42.0,
+        "confidence": 0.6927313307921091
+      },
+      {
+        "text": "35% damape reduction",
+        "y": 33.0,
+        "confidence": 0.8566192612051964
+      },
+      {
+        "text": "36-44damage",
+        "y": 40.0,
+        "confidence": 0.6463094082745638
+      },
+      {
+        "text": "Movement3/4 spaces",
+        "y": 58.0,
+        "confidence": 0.8951202167405022
+      },
+      {
+        "text": "Critical",
+        "y": 52.0,
+        "confidence": 0.9572673738002777
+      },
+      {
+        "text": "O% / xt5",
+        "y": 52.0,
+        "confidence": 0.8859000578522682
+      },
+      {
+        "text": "Eliminate allenemies",
+        "y": 76.0,
+        "confidence": 0.9801224887371063
+      },
+      {
+        "text": "0enemiesremaining",
+        "y": 91.0,
+        "confidence": 0.9833378546378192
+      },
+      {
+        "text": "Victory",
+        "y": 171.0,
+        "confidence": 0.9963601742471967
+      },
+      {
+        "text": "Barreiro",
+        "y": 273.0,
+        "confidence": 0.9806772619485855
+      },
+      {
+        "text": "Quintero",
+        "y": 273.0,
+        "confidence": 0.8986799642443657
+      },
+      {
+        "text": "Sanchez",
+        "y": 273.0,
+        "confidence": 0.9899186321667263
+      },
+      {
+        "text": "Echeverria",
+        "y": 273.0,
+        "confidence": 0.9428558468818664
+      },
+      {
+        "text": "Ybarra",
+        "y": 273.0,
+        "confidence": 0.9835702280203501
+      },
+      {
+        "text": "Lopez",
+        "y": 273.0,
+        "confidence": 0.9896137714385986
+      },
+      {
+        "text": "ay",
+        "y": 285.0,
+        "confidence": 0.5268744230270386
+      },
+      {
+        "text": "Boy",
+        "y": 285.0,
+        "confidence": 0.5171334445476532
+      },
+      {
+        "text": "gury",
+        "y": 285.0,
+        "confidence": 0.7716701775789261
+      },
+      {
+        "text": "Thevictoryscreenshowsthestatusof",
+        "y": 470.0,
+        "confidence": 0.9975707288831472
+      },
+      {
+        "text": "Ifafollowerhasbeenincapacitatedatanypoint,",
+        "y": 466.0,
+        "confidence": 0.9886605186121804
+      },
+      {
+        "text": "yourfollowersafterthebattle",
+        "y": 492.0,
+        "confidence": 0.9852719240718417
+      },
+      {
+        "text": "thereis a risk he orshehasrecieved an injury,",
+        "y": 487.0,
+        "confidence": 0.9455365075005425
+      },
+      {
+        "text": "whichmustbetreatedbyaskilledDoctor",
+        "y": 510.0,
+        "confidence": 0.9977385051110211
+      },
+      {
+        "text": "Aninjuredfollowermayalsoloseonepointofequipment",
+        "y": 552.0,
+        "confidence": 0.9971568457623745
+      }
+    ]
+  },
+  {
+    "name": "TutorialMapInitial02-EN",
+    "image": "Analysis/tutorial_images/552_TutorialMapInitial02-EN.png",
+    "lines": [
+      {
+        "text": "图250",
+        "y": 9.0,
+        "confidence": 0.7961137369275093
+      },
+      {
+        "text": "170",
+        "y": 10.0,
+        "confidence": 0.7404985129833221
+      },
+      {
+        "text": "In thetopleftcorneryoucanfind theMenubuttons",
+        "y": 464.0,
+        "confidence": 0.9789648408239539
+      },
+      {
+        "text": "FromhereyoucanaccesstheMainMenu,FollowerManagement,Goals,and Inventory",
+        "y": 487.0,
+        "confidence": 0.9696241753441946
+      },
+      {
+        "text": "In the top right corner you can see the Compass - clicking on this opens the map",
+        "y": 513.0,
+        "confidence": 0.9766026586294174
+      },
+      {
+        "text": "In the lower right corner you can find the Make Camp button",
+        "y": 540.0,
+        "confidence": 0.9744915335865344
+      },
+      {
+        "text": "Youcannotaccessthismenuyet,asyoucan'tcampinsideacity",
+        "y": 562.0,
+        "confidence": 0.9898130595684052
+      }
+    ]
+  },
+  {
+    "name": "TutorialItemPlacementEnd-EN",
+    "image": "Analysis/tutorial_images/562_TutorialItemPlacementEnd-EN.png",
+    "lines": [
+      {
+        "text": "Eliminateallenemies",
+        "y": 128.0,
+        "confidence": 0.994050311414819
+      },
+      {
+        "text": "PreparationPhase",
+        "y": 154.0,
+        "confidence": 0.9942489340901375
+      },
+      {
+        "text": "Whenyou'redonewithyourpreparations,",
+        "y": 487.0,
+        "confidence": 0.9921654564993722
+      },
+      {
+        "text": "Click the BEGIN BATTLE button toproceed with your turn",
+        "y": 534.0,
+        "confidence": 0.9536909725930955
+      }
+    ]
+  },
+  {
+    "name": "TutorialRanged02-EN",
+    "image": "Analysis/tutorial_images/574_TutorialRanged02-EN.png",
+    "lines": [
+      {
+        "text": "Raul Carrillo",
+        "y": 10.0,
+        "confidence": 0.9882332590910105
+      },
+      {
+        "text": "Class",
+        "y": 24.0,
+        "confidence": 0.9938191890716552
+      },
+      {
+        "text": "Hunter",
+        "y": 23.0,
+        "confidence": 0.9891458451747894
+      },
+      {
+        "text": "Endurance 1oo points",
+        "y": 34.0,
+        "confidence": 0.9015010580420494
+      },
+      {
+        "text": "Defence",
+        "y": 46.0,
+        "confidence": 0.994750440120697
+      },
+      {
+        "text": "15%damagereduction",
+        "y": 46.0,
+        "confidence": 0.9602486739555994
+      },
+      {
+        "text": "Attack",
+        "y": 58.0,
+        "confidence": 0.9866461455821991
+      },
+      {
+        "text": "80%/22-28 damage",
+        "y": 55.0,
+        "confidence": 0.9155122451484203
+      },
+      {
+        "text": "Movement 1/6 spaces",
+        "y": 77.0,
+        "confidence": 0.9511810447040357
+      },
+      {
+        "text": "Critical",
+        "y": 68.0,
+        "confidence": 0.9913698583841324
+      },
+      {
+        "text": "3%/ x1.5",
+        "y": 68.0,
+        "confidence": 0.9022220745682716
+      },
+      {
+        "text": "Eliminate allenemies",
+        "y": 103.0,
+        "confidence": 0.9729645162820816
+      },
+      {
+        "text": "3enenies remaining",
+        "y": 121.0,
+        "confidence": 0.9640195568402609
+      },
+      {
+        "text": "Liliana Carmona",
+        "y": 194.0,
+        "confidence": 0.9898369193077088
+      },
+      {
+        "text": "Recruit Doctor",
+        "y": 205.0,
+        "confidence": 0.9554754027298519
+      },
+      {
+        "text": "Endurance:100",
+        "y": 217.0,
+        "confidence": 0.9916908511748681
+      },
+      {
+        "text": "rtunity",
+        "y": 229.0,
+        "confidence": 0.9857466050556728
+      },
+      {
+        "text": "Ranged Attack",
+        "y": 242.0,
+        "confidence": 0.9911634050882779
+      },
+      {
+        "text": "Damage:27-33",
+        "y": 254.0,
+        "confidence": 0.9120481808980306
+      },
+      {
+        "text": "Accuracy:36%",
+        "y": 265.0,
+        "confidence": 0.9533930917580923
+      },
+      {
+        "text": "Partial Cover",
+        "y": 277.0,
+        "confidence": 0.9853330162855295
+      },
+      {
+        "text": "Some objects provide partial cover,",
+        "y": 493.0,
+        "confidence": 0.9941542199679784
+      },
+      {
+        "text": "reducing the chance to hit your target",
+        "y": 517.0,
+        "confidence": 0.9886068466462588
+      }
+    ]
+  },
+  {
+    "name": "TutorialIndicatorRing-EN",
+    "image": "Analysis/tutorial_images/588_TutorialIndicatorRing-EN.png",
+    "lines": [
+      {
+        "text": "Eliminate allenemies",
+        "y": 101.0,
+        "confidence": 0.9792155683040619
+      },
+      {
+        "text": "3enemiesremaining",
+        "y": 121.0,
+        "confidence": 0.991509199142456
+      },
+      {
+        "text": "The character rings indicate what you can do this turn",
+        "y": 469.0,
+        "confidence": 0.9772460129525926
+      },
+      {
+        "text": "Thebluering indicates",
+        "y": 509.0,
+        "confidence": 0.978836252575829
+      },
+      {
+        "text": "The red ring indicates that",
+        "y": 508.0,
+        "confidence": 0.9961289785526417
+      },
+      {
+        "text": "Gray rings mean that the",
+        "y": 509.0,
+        "confidence": 0.9484795729319254
+      },
+      {
+        "text": "that you can still move",
+        "y": 533.0,
+        "confidence": 0.9394273265548374
+      },
+      {
+        "text": "youcanperformanaction",
+        "y": 532.0,
+        "confidence": 0.9970422727721078
+      },
+      {
+        "text": "characterhasspentitsturn",
+        "y": 531.0,
+        "confidence": 0.9863546242316564
+      }
+    ]
+  },
+  {
+    "name": "TutorialNoMoves-EN",
+    "image": "Analysis/tutorial_images/607_TutorialNoMoves-EN.png",
+    "lines": [
+      {
+        "text": "70",
+        "y": 13.0,
+        "confidence": 0.9939783215522766
+      },
+      {
+        "text": "Youhave nomore movesleft and therefore cannot travel anyfurthertoday",
+        "y": 465.0,
+        "confidence": 0.9647942360709695
+      },
+      {
+        "text": "Youmustcampforthenightbeforeyou are abletomove again",
+        "y": 505.0,
+        "confidence": 0.9787148328927847
+      },
+      {
+        "text": "Toopenthecampmanagementmenu,",
+        "y": 540.0,
+        "confidence": 0.9934888929128647
+      },
+      {
+        "text": "presstheMake Campiconinthelowerrightsideof the screen",
+        "y": 562.0,
+        "confidence": 0.9745200568774961
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping05-EN",
+    "image": "Analysis/tutorial_images/610_TutorialCamping05-EN.png",
+    "lines": [
+      {
+        "text": "230",
+        "y": 11.0,
+        "confidence": 0.9537316163380941
+      },
+      {
+        "text": "70",
+        "y": 11.0,
+        "confidence": 0.9941727221012115
+      },
+      {
+        "text": "Type",
+        "y": 48.0,
+        "confidence": 0.9956021755933762
+      },
+      {
+        "text": "AutoCamp",
+        "y": 47.0,
+        "confidence": 0.9954415559768677
+      },
+      {
+        "text": "Clear All",
+        "y": 51.0,
+        "confidence": 0.9271615346272787
+      },
+      {
+        "text": "Tasks",
+        "y": 51.0,
+        "confidence": 0.9993179678916931
+      },
+      {
+        "text": "Tinker",
+        "y": 52.0,
+        "confidence": 0.9923731883366903
+      },
+      {
+        "text": "Rations",
+        "y": 52.0,
+        "confidence": 0.9700765183993748
+      },
+      {
+        "text": "LHealthy",
+        "y": 68.0,
+        "confidence": 0.7999981865286827
+      },
+      {
+        "text": "Tasks",
+        "y": 73.0,
+        "confidence": 0.9964426636695862
+      },
+      {
+        "text": "Rafael Trevino",
+        "y": 99.0,
+        "confidence": 0.9914895040648324
+      },
+      {
+        "text": "Guarding",
+        "y": 100.0,
+        "confidence": 0.9945733100175858
+      },
+      {
+        "text": "Alchemy",
+        "y": 101.0,
+        "confidence": 0.9937824436596462
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 114.0,
+        "confidence": 0.9952845308515761
+      },
+      {
+        "text": "Patrolling",
+        "y": 116.0,
+        "confidence": 0.9589882731437683
+      },
+      {
+        "text": "Preserving",
+        "y": 117.0,
+        "confidence": 0.9991717576980591
+      },
+      {
+        "text": "Hesitant",
+        "y": 127.0,
+        "confidence": 0.9972930029034615
+      },
+      {
+        "text": "Healthy",
+        "y": 141.0,
+        "confidence": 0.9702961444854736
+      },
+      {
+        "text": "Hunting",
+        "y": 133.0,
+        "confidence": 0.9974688972745623
+      },
+      {
+        "text": "None",
+        "y": 134.0,
+        "confidence": 0.9965787380933762
+      },
+      {
+        "text": "MountainArea",
+        "y": 157.0,
+        "confidence": 0.9943102151155472
+      },
+      {
+        "text": "Rita Martinez",
+        "y": 169.0,
+        "confidence": 0.9829718378873972
+      },
+      {
+        "text": "口",
+        "y": 181.0,
+        "confidence": 0.7425086498260498
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 185.0,
+        "confidence": 0.9936553239822388
+      },
+      {
+        "text": "Guard difficulty",
+        "y": 183.0,
+        "confidence": 0.9950871095061302
+      },
+      {
+        "text": "Patrol difficulty",
+        "y": 181.0,
+        "confidence": 0.9567450705696555
+      },
+      {
+        "text": "Hunt difficulty",
+        "y": 182.0,
+        "confidence": 0.9496918519337972
+      },
+      {
+        "text": "Hesitant",
+        "y": 200.0,
+        "confidence": 0.9982553720474243
+      },
+      {
+        "text": "LoW",
+        "y": 198.0,
+        "confidence": 0.7318397462368011
+      },
+      {
+        "text": "High",
+        "y": 196.0,
+        "confidence": 0.9983398467302322
+      },
+      {
+        "text": "High",
+        "y": 196.0,
+        "confidence": 0.9981942176818848
+      },
+      {
+        "text": "Healthy",
+        "y": 212.0,
+        "confidence": 0.9853379130363464
+      },
+      {
+        "text": "Contextual",
+        "y": 218.0,
+        "confidence": 0.9955404579639435
+      },
+      {
+        "text": "Rosalia Padilla",
+        "y": 241.0,
+        "confidence": 0.9751748641331991
+      },
+      {
+        "text": "口",
+        "y": 254.0,
+        "confidence": 0.9091521501541138
+      },
+      {
+        "text": "6 / 4/ 2/0 / 0",
+        "y": 256.0,
+        "confidence": 0.8674294097082955
+      },
+      {
+        "text": "Harvest medical herbs",
+        "y": 250.0,
+        "confidence": 0.9800268241337368
+      },
+      {
+        "text": "Hesitant",
+        "y": 271.0,
+        "confidence": 0.9904331862926483
+      },
+      {
+        "text": "Healthry",
+        "y": 284.0,
+        "confidence": 0.9127585589885712
+      },
+      {
+        "text": "Sierra Barreiro",
+        "y": 313.0,
+        "confidence": 0.9671883265177409
+      },
+      {
+        "text": "区口",
+        "y": 324.0,
+        "confidence": 0.6427520513534546
+      },
+      {
+        "text": "6 / 4 / 2/ 0 / 0",
+        "y": 328.0,
+        "confidence": 0.8752407096326351
+      },
+      {
+        "text": "Hesitant",
+        "y": 342.0,
+        "confidence": 0.9984259456396103
+      },
+      {
+        "text": "Healthy",
+        "y": 355.0,
+        "confidence": 0.9946043491363525
+      },
+      {
+        "text": "Guarding",
+        "y": 382.0,
+        "confidence": 0.996741496026516
+      },
+      {
+        "text": "Patrolling",
+        "y": 382.0,
+        "confidence": 0.9820424675941467
+      },
+      {
+        "text": "Hunting",
+        "y": 382.0,
+        "confidence": 0.9692604201180595
+      },
+      {
+        "text": "PreservingAlchemy",
+        "y": 383.0,
+        "confidence": 0.9595650189063128
+      },
+      {
+        "text": "92%",
+        "y": 396.0,
+        "confidence": 0.9983167846997579
+      },
+      {
+        "text": "71%",
+        "y": 396.0,
+        "confidence": 0.9964524904886881
+      },
+      {
+        "text": "87%",
+        "y": 396.0,
+        "confidence": 0.9983286460240682
+      },
+      {
+        "text": "0/0",
+        "y": 397.0,
+        "confidence": 0.9950900276501974
+      },
+      {
+        "text": "0/0",
+        "y": 396.0,
+        "confidence": 0.989855428536733
+      },
+      {
+        "text": "Some areasare moredifficulttocampinthan others,",
+        "y": 462.0,
+        "confidence": 0.9707133744625335
+      },
+      {
+        "text": "somind thedifficultyof the terrainbefore makingcamp.",
+        "y": 483.0,
+        "confidence": 0.9603728583225837
+      },
+      {
+        "text": "Beonthelookoutforcontextualevents,asassigning",
+        "y": 518.0,
+        "confidence": 0.9924912108315362
+      },
+      {
+        "text": "people to them could benefit yourexpedition.",
+        "y": 540.0,
+        "confidence": 0.9565938331864097
+      }
+    ]
+  },
+  {
+    "name": "TutorialFollowerManagement04-EN",
+    "image": "Analysis/tutorial_images/630_TutorialFollowerManagement04-EN.png",
+    "lines": [
+      {
+        "text": "ExpeditionMembers",
+        "y": 33.0,
+        "confidence": 0.9951575819183799
+      },
+      {
+        "text": "GabrielaYbarra",
+        "y": 36.0,
+        "confidence": 0.9938538159642901
+      },
+      {
+        "text": "Hunter,Man-At-Arms",
+        "y": 47.0,
+        "confidence": 0.9652053250206841
+      },
+      {
+        "text": "Endurance",
+        "y": 59.0,
+        "confidence": 0.9937831097178988
+      },
+      {
+        "text": "Defence",
+        "y": 70.0,
+        "confidence": 0.9867762071745736
+      },
+      {
+        "text": "100points",
+        "y": 61.0,
+        "confidence": 0.9761515127287971
+      },
+      {
+        "text": "Velasquez",
+        "y": 75.0,
+        "confidence": 0.9889773660235934
+      },
+      {
+        "text": "Sanchez",
+        "y": 75.0,
+        "confidence": 0.9936466046742031
+      },
+      {
+        "text": "20% damage reduction",
+        "y": 71.0,
+        "confidence": 0.9673995405435563
+      },
+      {
+        "text": "Healthy",
+        "y": 90.0,
+        "confidence": 0.9404589022908892
+      },
+      {
+        "text": "Melee",
+        "y": 81.0,
+        "confidence": 0.9893425464630127
+      },
+      {
+        "text": "Healthy",
+        "y": 91.0,
+        "confidence": 0.9796136617660522
+      },
+      {
+        "text": "Ranged",
+        "y": 89.0,
+        "confidence": 0.9973224997520447
+      },
+      {
+        "text": "25 damage (crit o%/x1.5)",
+        "y": 82.0,
+        "confidence": 0.9157784606019655
+      },
+      {
+        "text": "Hesitant(o)",
+        "y": 99.0,
+        "confidence": 0.9393812634728171
+      },
+      {
+        "text": "Hesitant(o)",
+        "y": 98.0,
+        "confidence": 0.9480148337104104
+      },
+      {
+        "text": "84%/25 damage (crit O%/x1.5)",
+        "y": 91.0,
+        "confidence": 0.8859542650835854
+      },
+      {
+        "text": "Movement",
+        "y": 101.0,
+        "confidence": 0.994097039103508
+      },
+      {
+        "text": "No equipment",
+        "y": 111.0,
+        "confidence": 0.9487675577402115
+      },
+      {
+        "text": "No equipment",
+        "y": 111.0,
+        "confidence": 0.9367897560199102
+      },
+      {
+        "text": "6spaces",
+        "y": 103.0,
+        "confidence": 0.9899053488458905
+      },
+      {
+        "text": "Info",
+        "y": 130.0,
+        "confidence": 0.8882749378681183
+      },
+      {
+        "text": "Skills",
+        "y": 128.0,
+        "confidence": 0.9957040051619211
+      },
+      {
+        "text": "Equipment",
+        "y": 129.0,
+        "confidence": 0.9447175926632352
+      },
+      {
+        "text": "Rank:",
+        "y": 148.0,
+        "confidence": 0.9846268415451049
+      },
+      {
+        "text": "Cervera",
+        "y": 170.0,
+        "confidence": 0.9920407278197152
+      },
+      {
+        "text": "Ybarra",
+        "y": 168.0,
+        "confidence": 0.9907864729563395
+      },
+      {
+        "text": "Hesitant(o)",
+        "y": 192.0,
+        "confidence": 0.8938058072870428
+      },
+      {
+        "text": "Healthy",
+        "y": 183.0,
+        "confidence": 0.9914549759456089
+      },
+      {
+        "text": "Hesitant()",
+        "y": 191.0,
+        "confidence": 0.9380222499370575
+      },
+      {
+        "text": "Healthy",
+        "y": 183.0,
+        "confidence": 0.9182462862559727
+      },
+      {
+        "text": "No equipment",
+        "y": 204.0,
+        "confidence": 0.9655220160881678
+      },
+      {
+        "text": "No equipment",
+        "y": 206.0,
+        "confidence": 0.9589414497216543
+      },
+      {
+        "text": "Skill",
+        "y": 209.0,
+        "confidence": 0.9197861313819885
+      },
+      {
+        "text": "Guarding",
+        "y": 229.0,
+        "confidence": 0.9963909685611725
+      },
+      {
+        "text": "2",
+        "y": 236.0,
+        "confidence": 0.9987516403198242
+      },
+      {
+        "text": "Zarraga",
+        "y": 261.0,
+        "confidence": 0.9938556296484811
+      },
+      {
+        "text": "Hernandez",
+        "y": 260.0,
+        "confidence": 0.9903912345568339
+      },
+      {
+        "text": "Patrolling",
+        "y": 253.0,
+        "confidence": 0.9709068477153778
+      },
+      {
+        "text": "Healthy",
+        "y": 276.0,
+        "confidence": 0.9929457562310355
+      },
+      {
+        "text": "Hesitant (o)",
+        "y": 284.0,
+        "confidence": 0.9072102208932241
+      },
+      {
+        "text": "Healthy",
+        "y": 275.0,
+        "confidence": 0.9032960278647286
+      },
+      {
+        "text": "Hesitant (o)",
+        "y": 287.0,
+        "confidence": 0.972315102815628
+      },
+      {
+        "text": "Hunting",
+        "y": 278.0,
+        "confidence": 0.9966049534933907
+      },
+      {
+        "text": "No equipment",
+        "y": 297.0,
+        "confidence": 0.934187521537145
+      },
+      {
+        "text": "Noequipment",
+        "y": 297.0,
+        "confidence": 0.9871945760466836
+      },
+      {
+        "text": "Herbalism",
+        "y": 305.0,
+        "confidence": 0.989934245745341
+      },
+      {
+        "text": "Tinkering",
+        "y": 329.0,
+        "confidence": 0.9931548237800598
+      },
+      {
+        "text": "Quintero",
+        "y": 355.0,
+        "confidence": 0.9876211136579514
+      },
+      {
+        "text": "Ruiz",
+        "y": 355.0,
+        "confidence": 0.9719812870025635
+      },
+      {
+        "text": "Average Morale: Hesitant",
+        "y": 383.0,
+        "confidence": 0.9980743726094564
+      },
+      {
+        "text": "Available Experience:100",
+        "y": 395.0,
+        "confidence": 0.9542982329924902
+      },
+      {
+        "text": "Available Skillpoints: 3",
+        "y": 394.0,
+        "confidence": 0.9849685604373614
+      },
+      {
+        "text": "jose",
+        "y": 393.0,
+        "confidence": 0.6757721081376076
+      },
+      {
+        "text": "Remembertoupgradeyourfollowers'CampingSkillsafterpromotingthem",
+        "y": 470.0,
+        "confidence": 0.9953892567465382
+      },
+      {
+        "text": "Eachskillcorrespondstoataskwhenyoumakecamp",
+        "y": 501.0,
+        "confidence": 0.9978920278095064
+      },
+      {
+        "text": "Youroverallchanceofsuccessineachtaskisdeterminedby",
+        "y": 536.0,
+        "confidence": 0.9970848631858825
+      },
+      {
+        "text": "thetotalskillvalueofallfollowersassignedtothattask",
+        "y": 559.0,
+        "confidence": 0.9890013468265534
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping06-EN",
+    "image": "Analysis/tutorial_images/639_TutorialCamping06-EN.png",
+    "lines": [
+      {
+        "text": "230",
+        "y": 11.0,
+        "confidence": 0.9537316163380941
+      },
+      {
+        "text": "70",
+        "y": 11.0,
+        "confidence": 0.9967771172523499
+      },
+      {
+        "text": "Type ",
+        "y": 50.0,
+        "confidence": 0.9060532569885253
+      },
+      {
+        "text": "AutoCamp",
+        "y": 48.0,
+        "confidence": 0.9898581281304359
+      },
+      {
+        "text": "Clear All",
+        "y": 51.0,
+        "confidence": 0.9167872005038791
+      },
+      {
+        "text": "Tasks",
+        "y": 51.0,
+        "confidence": 0.9993179678916931
+      },
+      {
+        "text": "Tinker",
+        "y": 52.0,
+        "confidence": 0.9923731883366903
+      },
+      {
+        "text": "Rations",
+        "y": 52.0,
+        "confidence": 0.9700765183993748
+      },
+      {
+        "text": "Healthy",
+        "y": 69.0,
+        "confidence": 0.9871988892555237
+      },
+      {
+        "text": "Tasks",
+        "y": 71.0,
+        "confidence": 0.9938490390777588
+      },
+      {
+        "text": "Rafael Trevino",
+        "y": 99.0,
+        "confidence": 0.9914895040648324
+      },
+      {
+        "text": "Guarding",
+        "y": 100.0,
+        "confidence": 0.9945733100175858
+      },
+      {
+        "text": "Alchemy",
+        "y": 101.0,
+        "confidence": 0.9937824436596462
+      },
+      {
+        "text": "6 / 4/2/0 / 0",
+        "y": 114.0,
+        "confidence": 0.8851090027735784
+      },
+      {
+        "text": "Patrolling",
+        "y": 116.0,
+        "confidence": 0.9589882731437683
+      },
+      {
+        "text": "Preserving",
+        "y": 117.0,
+        "confidence": 0.9991717576980591
+      },
+      {
+        "text": "Hesitant",
+        "y": 127.0,
+        "confidence": 0.9972930029034615
+      },
+      {
+        "text": "Healthy",
+        "y": 141.0,
+        "confidence": 0.9702961444854736
+      },
+      {
+        "text": "Hunting",
+        "y": 133.0,
+        "confidence": 0.9974342329161507
+      },
+      {
+        "text": "None",
+        "y": 134.0,
+        "confidence": 0.9972170144319534
+      },
+      {
+        "text": "MountainArea",
+        "y": 157.0,
+        "confidence": 0.9942436516284943
+      },
+      {
+        "text": "Rita Martinez",
+        "y": 169.0,
+        "confidence": 0.9829718378873972
+      },
+      {
+        "text": "口",
+        "y": 181.0,
+        "confidence": 0.7425086498260498
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 185.0,
+        "confidence": 0.9936553239822388
+      },
+      {
+        "text": "Guard difficulty",
+        "y": 181.0,
+        "confidence": 0.9803062118589878
+      },
+      {
+        "text": "Patrol difficulty",
+        "y": 181.0,
+        "confidence": 0.9550008072572596
+      },
+      {
+        "text": "Hunt difficulty",
+        "y": 181.0,
+        "confidence": 0.9786860148111979
+      },
+      {
+        "text": "Hesitant",
+        "y": 200.0,
+        "confidence": 0.9982553720474243
+      },
+      {
+        "text": "LoW",
+        "y": 196.0,
+        "confidence": 0.7400380174318949
+      },
+      {
+        "text": "High",
+        "y": 196.0,
+        "confidence": 0.9923290610313416
+      },
+      {
+        "text": "High",
+        "y": 196.0,
+        "confidence": 0.9986674785614014
+      },
+      {
+        "text": "Healthy",
+        "y": 212.0,
+        "confidence": 0.9853379130363464
+      },
+      {
+        "text": "Contextual",
+        "y": 218.0,
+        "confidence": 0.9959489822387695
+      },
+      {
+        "text": "Rosalia Padilla",
+        "y": 241.0,
+        "confidence": 0.9784744421641032
+      },
+      {
+        "text": "口",
+        "y": 254.0,
+        "confidence": 0.9091521501541138
+      },
+      {
+        "text": "6 / 4/2/0 / 0",
+        "y": 256.0,
+        "confidence": 0.880104097036215
+      },
+      {
+        "text": "Harvest medical herbs",
+        "y": 251.0,
+        "confidence": 0.9705587880952018
+      },
+      {
+        "text": "Hesitant",
+        "y": 271.0,
+        "confidence": 0.9723137095570564
+      },
+      {
+        "text": "Healthry",
+        "y": 284.0,
+        "confidence": 0.9127585589885712
+      },
+      {
+        "text": "Sierra Barreiro",
+        "y": 313.0,
+        "confidence": 0.9671883265177409
+      },
+      {
+        "text": "区口",
+        "y": 324.0,
+        "confidence": 0.6427520513534546
+      },
+      {
+        "text": "6 /4/2/0/0",
+        "y": 328.0,
+        "confidence": 0.9466708660125732
+      },
+      {
+        "text": "Hesitant",
+        "y": 342.0,
+        "confidence": 0.9984259456396103
+      },
+      {
+        "text": "Healthy",
+        "y": 355.0,
+        "confidence": 0.9946043491363525
+      },
+      {
+        "text": "Guarding",
+        "y": 382.0,
+        "confidence": 0.996741496026516
+      },
+      {
+        "text": "Patrolling",
+        "y": 384.0,
+        "confidence": 0.9183205783367157
+      },
+      {
+        "text": "Hunting",
+        "y": 382.0,
+        "confidence": 0.9942664504051208
+      },
+      {
+        "text": "PreservingAlchemy",
+        "y": 383.0,
+        "confidence": 0.9817690954488867
+      },
+      {
+        "text": "92%",
+        "y": 396.0,
+        "confidence": 0.9983167846997579
+      },
+      {
+        "text": "71%",
+        "y": 395.0,
+        "confidence": 0.9968843857447306
+      },
+      {
+        "text": "87%",
+        "y": 396.0,
+        "confidence": 0.9983286460240682
+      },
+      {
+        "text": "0/0",
+        "y": 395.0,
+        "confidence": 0.988540530204773
+      },
+      {
+        "text": "0/0",
+        "y": 396.0,
+        "confidence": 0.989855428536733
+      },
+      {
+        "text": "TheAutoAssignbuttonassignseachfollowertothetaskthey aremostskilled at",
+        "y": 461.0,
+        "confidence": 0.9847202033236406
+      },
+      {
+        "text": "Allofyourfollowerswillcontinuetodotheirassignedtaskthe",
+        "y": 496.0,
+        "confidence": 0.9945189047742773
+      },
+      {
+        "text": "nexttimeyoucamp,unlesstheygetneworders",
+        "y": 521.0,
+        "confidence": 0.989261081344203
+      },
+      {
+        "text": "IfAutoCampischecked,youwillautomatically",
+        "y": 554.0,
+        "confidence": 0.9893031120300293
+      },
+      {
+        "text": "campwhenyou runoutofmoves",
+        "y": 577.0,
+        "confidence": 0.9788454627990723
+      }
+    ]
+  },
+  {
+    "name": "TutorialFollowerManagement05-EN",
+    "image": "Analysis/tutorial_images/652_TutorialFollowerManagement05-EN.png",
+    "lines": [
+      {
+        "text": "ExpeditionMembers",
+        "y": 33.0,
+        "confidence": 0.9868463172632105
+      },
+      {
+        "text": "Pilar Palencia",
+        "y": 32.0,
+        "confidence": 0.9566373569624764
+      },
+      {
+        "text": "口",
+        "y": 57.0,
+        "confidence": 0.9595643877983093
+      },
+      {
+        "text": "Soldier,Recruit",
+        "y": 48.0,
+        "confidence": 0.9389697134494781
+      },
+      {
+        "text": "Endurance",
+        "y": 60.0,
+        "confidence": 0.9911496506796943
+      },
+      {
+        "text": "Defence",
+        "y": 69.0,
+        "confidence": 0.9546588403838021
+      },
+      {
+        "text": "32%damage reduction",
+        "y": 70.0,
+        "confidence": 0.9601191690093592
+      },
+      {
+        "text": "100 points",
+        "y": 62.0,
+        "confidence": 0.9431536138057709
+      },
+      {
+        "text": "Melee",
+        "y": 81.0,
+        "confidence": 0.9937777042388916
+      },
+      {
+        "text": "Ranged",
+        "y": 89.0,
+        "confidence": 0.9974831342697144
+      },
+      {
+        "text": "43 damage (crit 2% / x1.5)",
+        "y": 81.0,
+        "confidence": 0.9432696195749136
+      },
+      {
+        "text": "Alegria",
+        "y": 95.0,
+        "confidence": 0.9790852580751691
+      },
+      {
+        "text": "Figueroa",
+        "y": 95.0,
+        "confidence": 0.9866211712360382
+      },
+      {
+        "text": "30%/30damage(crit 2%/x.5)",
+        "y": 91.0,
+        "confidence": 0.8923424935340881
+      },
+      {
+        "text": "Movement",
+        "y": 101.0,
+        "confidence": 0.9943324029445648
+      },
+      {
+        "text": "4 spaces",
+        "y": 103.0,
+        "confidence": 0.9761998727917671
+      },
+      {
+        "text": "Enthusiastic (s)",
+        "y": 122.0,
+        "confidence": 0.9468723610043526
+      },
+      {
+        "text": "Enthusiastic (5)",
+        "y": 122.0,
+        "confidence": 0.9396892413496971
+      },
+      {
+        "text": "No equipment",
+        "y": 132.0,
+        "confidence": 0.945035383105278
+      },
+      {
+        "text": "No equipment",
+        "y": 132.0,
+        "confidence": 0.9495495706796646
+      },
+      {
+        "text": "Info",
+        "y": 129.0,
+        "confidence": 0.9637730270624161
+      },
+      {
+        "text": "Skills",
+        "y": 128.0,
+        "confidence": 0.9563909669717153
+      },
+      {
+        "text": "Equipment",
+        "y": 127.0,
+        "confidence": 0.9860240485933092
+      },
+      {
+        "text": "Melee",
+        "y": 148.0,
+        "confidence": 0.9885378956794739
+      },
+      {
+        "text": "Longsword",
+        "y": 168.0,
+        "confidence": 0.9948115150133768
+      },
+      {
+        "text": "Broadsword",
+        "y": 170.0,
+        "confidence": 0.9938122689723968
+      },
+      {
+        "text": "Portanares",
+        "y": 190.0,
+        "confidence": 0.9874214053153991
+      },
+      {
+        "text": "Echeverria",
+        "y": 189.0,
+        "confidence": 0.9862911820411682
+      },
+      {
+        "text": "Healthy",
+        "y": 203.0,
+        "confidence": 0.8659432019506182
+      },
+      {
+        "text": "Enthusiastic(5)",
+        "y": 213.0,
+        "confidence": 0.9519538561503093
+      },
+      {
+        "text": "Enthusiastic(s)",
+        "y": 214.0,
+        "confidence": 0.912421178817749
+      },
+      {
+        "text": "Healthy",
+        "y": 205.0,
+        "confidence": 0.9782038075583321
+      },
+      {
+        "text": "Ranged",
+        "y": 214.0,
+        "confidence": 0.9963561395804087
+      },
+      {
+        "text": "Noequipment",
+        "y": 226.0,
+        "confidence": 0.9839910539713773
+      },
+      {
+        "text": "Noequipment",
+        "y": 226.0,
+        "confidence": 0.986347111788663
+      },
+      {
+        "text": "Matchlock",
+        "y": 235.0,
+        "confidence": 0.9864150683085123
+      },
+      {
+        "text": "Wheellock",
+        "y": 236.0,
+        "confidence": 0.9762989415062798
+      },
+      {
+        "text": "Snaphaunce",
+        "y": 237.0,
+        "confidence": 0.9796603918075562
+      },
+      {
+        "text": "Pascual",
+        "y": 284.0,
+        "confidence": 0.9886072022574288
+      },
+      {
+        "text": "Palencia",
+        "y": 282.0,
+        "confidence": 0.984385646879673
+      },
+      {
+        "text": "Defense",
+        "y": 279.0,
+        "confidence": 0.9906047412327358
+      },
+      {
+        "text": "Healthy.",
+        "y": 297.0,
+        "confidence": 0.9392711296677589
+      },
+      {
+        "text": "Enthusiastic(s)",
+        "y": 306.0,
+        "confidence": 0.9421258052190145
+      },
+      {
+        "text": "Healthy",
+        "y": 297.0,
+        "confidence": 0.9470310126032148
+      },
+      {
+        "text": "Enthusiastic (s)",
+        "y": 309.0,
+        "confidence": 0.9592700973153114
+      },
+      {
+        "text": "None",
+        "y": 307.0,
+        "confidence": 0.9911856651306152
+      },
+      {
+        "text": "Noequipment",
+        "y": 319.0,
+        "confidence": 0.9896871555935253
+      },
+      {
+        "text": "loequipment",
+        "y": 319.0,
+        "confidence": 0.8817145553502169
+      },
+      {
+        "text": "区区区区区",
+        "y": 317.0,
+        "confidence": 0.65454803109169
+      },
+      {
+        "text": "Toledo",
+        "y": 355.0,
+        "confidence": 0.9639356434345245
+      },
+      {
+        "text": "AverageMorale:Enthusiastic",
+        "y": 383.0,
+        "confidence": 0.9910367864828843
+      },
+      {
+        "text": "AvailableExperience:O",
+        "y": 395.0,
+        "confidence": 0.9545532578513736
+      },
+      {
+        "text": "Unassigned Equipment:10",
+        "y": 394.0,
+        "confidence": 0.9734101450961569
+      },
+      {
+        "text": "Close",
+        "y": 394.0,
+        "confidence": 0.9563542127609252
+      },
+      {
+        "text": "You canuseEquipmenttoupgrade thequalityofweapons andarmour",
+        "y": 457.0,
+        "confidence": 0.9753093842802376
+      },
+      {
+        "text": "Asyoupromote them,yourfollowerswill beabletoequipbettergear",
+        "y": 480.0,
+        "confidence": 0.9773885779461619
+      },
+      {
+        "text": "Simply clickonanempty slottofill the follower's equipment up to that slot",
+        "y": 514.0,
+        "confidence": 0.9493305879096462
+      },
+      {
+        "text": "Ifanexpeditionmemberhasmultipleweaponproficiencies,",
+        "y": 546.0,
+        "confidence": 0.9862359364827474
+      },
+      {
+        "text": "youcanswitchbetweentheirweaponswiththearrowbuttons",
+        "y": 568.0,
+        "confidence": 0.9921394550800323
+      }
+    ]
+  },
+  {
+    "name": "TutorialMapInitial03-EN",
+    "image": "Analysis/tutorial_images/659_TutorialMapInitial03-EN.png",
+    "lines": [
+      {
+        "text": "250",
+        "y": 9.0,
+        "confidence": 0.9861886302630106
+      },
+      {
+        "text": "70",
+        "y": 10.0,
+        "confidence": 0.9897400736808777
+      },
+      {
+        "text": "Yourmousecursorchangestoshowwhereyou canand cannotgo",
+        "y": 463.0,
+        "confidence": 0.9833388110766044
+      },
+      {
+        "text": "Thiscursorindicatesanaccessiblelocation",
+        "y": 494.0,
+        "confidence": 0.9968072038430434
+      },
+      {
+        "text": "Thiscursorindicatesaninaccessiblelocation",
+        "y": 523.0,
+        "confidence": 0.9976503863567259
+      },
+      {
+        "text": "Thiscursorindicatesthecurrentlyselectedlocation",
+        "y": 547.0,
+        "confidence": 0.9959887874887344
+      },
+      {
+        "text": "Clickhere againtomovetotheselectedlocation",
+        "y": 568.0,
+        "confidence": 0.9735573189599174
+      }
+    ]
+  },
+  {
+    "name": "TutorialFollowerManagement02-EN",
+    "image": "Analysis/tutorial_images/787_TutorialFollowerManagement02-EN.png",
+    "lines": [
+      {
+        "text": "ExpeditionMembers",
+        "y": 46.0,
+        "confidence": 0.9962457137949327
+      },
+      {
+        "text": "Antonio Velasquez",
+        "y": 43.0,
+        "confidence": 0.961450853768517
+      },
+      {
+        "text": "Doctor,Recruit",
+        "y": 57.0,
+        "confidence": 0.8817447211061206
+      },
+      {
+        "text": "Endurance",
+        "y": 68.0,
+        "confidence": 0.9939449098375108
+      },
+      {
+        "text": "Defence",
+        "y": 74.0,
+        "confidence": 0.9679089188575745
+      },
+      {
+        "text": "100",
+        "y": 69.0,
+        "confidence": 0.847799817721049
+      },
+      {
+        "text": "Melee",
+        "y": 85.0,
+        "confidence": 0.9873619318008423
+      },
+      {
+        "text": "15-35 / 7 damage",
+        "y": 86.0,
+        "confidence": 0.9309996142983437
+      },
+      {
+        "text": "10",
+        "y": 77.0,
+        "confidence": 0.5018311887979507
+      },
+      {
+        "text": "Valiente",
+        "y": 90.0,
+        "confidence": 0.9865434020757675
+      },
+      {
+        "text": "Figueroa",
+        "y": 90.0,
+        "confidence": 0.957648016512394
+      },
+      {
+        "text": "Ranged",
+        "y": 92.0,
+        "confidence": 0.9847490986188253
+      },
+      {
+        "text": "30%/15-45damage",
+        "y": 90.0,
+        "confidence": 0.8863997658093771
+      },
+      {
+        "text": "Enthusiastic (7)",
+        "y": 109.0,
+        "confidence": 0.9476558454334736
+      },
+      {
+        "text": "Healtny",
+        "y": 103.0,
+        "confidence": 0.6015227564743587
+      },
+      {
+        "text": "Enthusiastic(s)",
+        "y": 108.0,
+        "confidence": 0.8980687220891317
+      },
+      {
+        "text": "Movement",
+        "y": 100.0,
+        "confidence": 0.9896642565727234
+      },
+      {
+        "text": "6 spaces",
+        "y": 102.0,
+        "confidence": 0.9876557737588882
+      },
+      {
+        "text": "No equipment",
+        "y": 120.0,
+        "confidence": 0.9486146966616312
+      },
+      {
+        "text": "No equipment",
+        "y": 120.0,
+        "confidence": 0.9355254719654719
+      },
+      {
+        "text": "lhsfe",
+        "y": 125.0,
+        "confidence": 0.6518424272537231
+      },
+      {
+        "text": "Skills",
+        "y": 123.0,
+        "confidence": 0.983012467622757
+      },
+      {
+        "text": "Equipm",
+        "y": 125.0,
+        "confidence": 0.7728552967309952
+      },
+      {
+        "text": "Rank",
+        "y": 139.0,
+        "confidence": 0.9890168607234955
+      },
+      {
+        "text": "Portanares",
+        "y": 165.0,
+        "confidence": 0.9889623820781708
+      },
+      {
+        "text": "Yruenes",
+        "y": 166.0,
+        "confidence": 0.9930498259408134
+      },
+      {
+        "text": "Enthusiastic(6)",
+        "y": 186.0,
+        "confidence": 0.970227587223053
+      },
+      {
+        "text": "Enthusiastic()",
+        "y": 186.0,
+        "confidence": 0.9076142864567893
+      },
+      {
+        "text": "Healthry",
+        "y": 180.0,
+        "confidence": 0.7837112471461296
+      },
+      {
+        "text": "Skills",
+        "y": 189.0,
+        "confidence": 0.9672800898551941
+      },
+      {
+        "text": "No equipment",
+        "y": 199.0,
+        "confidence": 0.9914641976356506
+      },
+      {
+        "text": "No equipment",
+        "y": 199.0,
+        "confidence": 0.9556330740451813
+      },
+      {
+        "text": "Guarding",
+        "y": 205.0,
+        "confidence": 0.9812824353575706
+      },
+      {
+        "text": "Patrolling",
+        "y": 227.0,
+        "confidence": 0.9831568837165833
+      },
+      {
+        "text": "0",
+        "y": 232.0,
+        "confidence": 0.8110599517822266
+      },
+      {
+        "text": "Ruiz",
+        "y": 245.0,
+        "confidence": 0.9780935049057007
+      },
+      {
+        "text": "Martinez",
+        "y": 245.0,
+        "confidence": 0.9936442151665688
+      },
+      {
+        "text": "Moderately diseased",
+        "y": 255.0,
+        "confidence": 0.9396126787913474
+      },
+      {
+        "text": "Hunting",
+        "y": 248.0,
+        "confidence": 0.9930175627980914
+      },
+      {
+        "text": "Enthusiastic(7)",
+        "y": 262.0,
+        "confidence": 0.8359776020050049
+      },
+      {
+        "text": "2",
+        "y": 253.0,
+        "confidence": 0.9996658563613892
+      },
+      {
+        "text": "Enthusiastic (6)",
+        "y": 263.0,
+        "confidence": 0.8576345797628164
+      },
+      {
+        "text": "No equipment",
+        "y": 276.0,
+        "confidence": 0.9914690355459849
+      },
+      {
+        "text": "No equipment",
+        "y": 276.0,
+        "confidence": 0.9902109801769257
+      },
+      {
+        "text": "Alchemy",
+        "y": 270.0,
+        "confidence": 0.9773171714373997
+      },
+      {
+        "text": "Tinkering",
+        "y": 288.0,
+        "confidence": 0.9865985049141778
+      },
+      {
+        "text": "Barreiro",
+        "y": 320.0,
+        "confidence": 0.9896227419376373
+      },
+      {
+        "text": "Healthry",
+        "y": 331.0,
+        "confidence": 0.6824453324079514
+      },
+      {
+        "text": "No equipment",
+        "y": 350.0,
+        "confidence": 0.9433692991733551
+      },
+      {
+        "text": "Enthusiastic (7)",
+        "y": 342.0,
+        "confidence": 0.9780607037246227
+      },
+      {
+        "text": "Average Mo",
+        "y": 398.0,
+        "confidence": 0.9887478232383728
+      },
+      {
+        "text": "Availabl",
+        "y": 412.0,
+        "confidence": 0.9965721517801285
+      },
+      {
+        "text": "Experience:200",
+        "y": 410.0,
+        "confidence": 0.9666925285543714
+      },
+      {
+        "text": "AvailableSkillpoints:O",
+        "y": 408.0,
+        "confidence": 0.9610501690344377
+      },
+      {
+        "text": "TheSkillstabletsyouPromoteyourfollowersifyou haveenoughExperience",
+        "y": 459.0,
+        "confidence": 0.9862774216211759
+      },
+      {
+        "text": "Thepossibleranks are:Recruit,Man-At-Arms,Veteran,Sergeant,and Lieutenant",
+        "y": 503.0,
+        "confidence": 0.9095926889114909
+      },
+      {
+        "text": "Youcanonlyhave2Sergeantsand1Lieutenantatthesametime",
+        "y": 547.0,
+        "confidence": 0.990100083397884
+      }
+    ]
+  },
+  {
+    "name": "TutorialLeavingCity01-EN",
+    "image": "Analysis/tutorial_images/803_TutorialLeavingCity01-EN.png",
+    "lines": [
+      {
+        "text": "N23",
+        "y": 11.0,
+        "confidence": 0.7247082392374674
+      },
+      {
+        "text": "0",
+        "y": 14.0,
+        "confidence": 0.7545989751815796
+      },
+      {
+        "text": "You arenowleaving thefreemovezone around thecityofSantoDomingo",
+        "y": 465.0,
+        "confidence": 0.9673855939219075
+      },
+      {
+        "text": "Whenyou'renotinsideone of thesezones,you have a certain amount",
+        "y": 494.0,
+        "confidence": 0.9523278532489654
+      },
+      {
+        "text": "ofmoveseachdaybeforeyouhavetomakecampforthenight",
+        "y": 517.0,
+        "confidence": 0.9908184632658958
+      },
+      {
+        "text": "Whenyourun outof movesfortheday,presstheMakeCamp",
+        "y": 544.0,
+        "confidence": 0.974610605587562
+      },
+      {
+        "text": "buttonin the lowerrightcorner oruse the hotkey(Cbydefault)",
+        "y": 567.0,
+        "confidence": 0.9525598236199083
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping03-EN",
+    "image": "Analysis/tutorial_images/806_TutorialCamping03-EN.png",
+    "lines": [
+      {
+        "text": "Type",
+        "y": 32.0,
+        "confidence": 0.9919538199901581
+      },
+      {
+        "text": "Auto Camp",
+        "y": 28.0,
+        "confidence": 0.9510707192950778
+      },
+      {
+        "text": "Clear All",
+        "y": 31.0,
+        "confidence": 0.8223248786396451
+      },
+      {
+        "text": "Tasks",
+        "y": 35.0,
+        "confidence": 0.9988472938537598
+      },
+      {
+        "text": "Tinker",
+        "y": 35.0,
+        "confidence": 0.9981676439444224
+      },
+      {
+        "text": "Rations",
+        "y": 36.0,
+        "confidence": 0.998529715197427
+      },
+      {
+        "text": "Tasks",
+        "y": 55.0,
+        "confidence": 0.9933696389198303
+      },
+      {
+        "text": "Blanca Alegria",
+        "y": 74.0,
+        "confidence": 0.96576988697052
+      },
+      {
+        "text": "图口",
+        "y": 89.0,
+        "confidence": 0.7988799810409546
+      },
+      {
+        "text": "0/0/2/4/6",
+        "y": 92.0,
+        "confidence": 0.995029952791002
+      },
+      {
+        "text": "Guarding",
+        "y": 87.0,
+        "confidence": 0.974506214261055
+      },
+      {
+        "text": "Herbalism",
+        "y": 90.0,
+        "confidence": 0.9961055980788337
+      },
+      {
+        "text": "Hesitant",
+        "y": 107.0,
+        "confidence": 0.9982914850115776
+      },
+      {
+        "text": "Patrolling",
+        "y": 103.0,
+        "confidence": 0.950611001253128
+      },
+      {
+        "text": "Preserving",
+        "y": 104.0,
+        "confidence": 0.992014867067337
+      },
+      {
+        "text": "Healthy",
+        "y": 119.0,
+        "confidence": 0.945472138268607
+      },
+      {
+        "text": "Hunting.",
+        "y": 121.0,
+        "confidence": 0.9398722425103188
+      },
+      {
+        "text": "None",
+        "y": 121.0,
+        "confidence": 0.9947245568037033
+      },
+      {
+        "text": "Ana Vidal",
+        "y": 152.0,
+        "confidence": 0.9757404724756876
+      },
+      {
+        "text": "Area:Road",
+        "y": 146.0,
+        "confidence": 0.9807595279481676
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 168.0,
+        "confidence": 0.9896254671944512
+      },
+      {
+        "text": "Guard difficulty",
+        "y": 174.0,
+        "confidence": 0.9690877012908459
+      },
+      {
+        "text": "Patrol difficulty",
+        "y": 174.0,
+        "confidence": 0.9482652194359723
+      },
+      {
+        "text": "Hunt difficuly",
+        "y": 174.0,
+        "confidence": 0.9861388504505157
+      },
+      {
+        "text": "Hesitant",
+        "y": 185.0,
+        "confidence": 0.9981394112110138
+      },
+      {
+        "text": "High",
+        "y": 191.0,
+        "confidence": 0.9992581009864807
+      },
+      {
+        "text": "Low",
+        "y": 190.0,
+        "confidence": 0.9889400402704874
+      },
+      {
+        "text": "High",
+        "y": 189.0,
+        "confidence": 0.9103384613990784
+      },
+      {
+        "text": "Healthy",
+        "y": 199.0,
+        "confidence": 0.9794702274458749
+      },
+      {
+        "text": "Contextual",
+        "y": 214.0,
+        "confidence": 0.9942674934864044
+      },
+      {
+        "text": "MontegoAragones",
+        "y": 230.0,
+        "confidence": 0.998457149664561
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 246.0,
+        "confidence": 0.9918163352542453
+      },
+      {
+        "text": "Thereisnothingof interestnearby",
+        "y": 250.0,
+        "confidence": 0.976917318759426
+      },
+      {
+        "text": "Hesitant",
+        "y": 261.0,
+        "confidence": 0.9951846227049828
+      },
+      {
+        "text": "Healthy",
+        "y": 276.0,
+        "confidence": 0.9915159004075187
+      },
+      {
+        "text": "Pilar Palencia",
+        "y": 305.0,
+        "confidence": 0.9788462477070945
+      },
+      {
+        "text": "区口",
+        "y": 320.0,
+        "confidence": 0.650632381439209
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 322.0,
+        "confidence": 0.9894782569673326
+      },
+      {
+        "text": "Hesitant",
+        "y": 338.0,
+        "confidence": 0.9937714412808418
+      },
+      {
+        "text": "Healthy",
+        "y": 351.0,
+        "confidence": 0.9276399782725743
+      },
+      {
+        "text": "Auto Assign",
+        "y": 371.0,
+        "confidence": 0.9863721294836565
+      },
+      {
+        "text": "Guarding",
+        "y": 392.0,
+        "confidence": 0.9941971078515053
+      },
+      {
+        "text": "Patrolling",
+        "y": 390.0,
+        "confidence": 0.9896788239479065
+      },
+      {
+        "text": "Hunting",
+        "y": 392.0,
+        "confidence": 0.9896255220685687
+      },
+      {
+        "text": "Preserving",
+        "y": 391.0,
+        "confidence": 0.9567337989807129
+      },
+      {
+        "text": "Herbalism",
+        "y": 392.0,
+        "confidence": 0.9453665415445963
+      },
+      {
+        "text": "59%",
+        "y": 406.0,
+        "confidence": 0.9977207183837891
+      },
+      {
+        "text": "59%",
+        "y": 406.0,
+        "confidence": 0.998204787572225
+      },
+      {
+        "text": "32%",
+        "y": 406.0,
+        "confidence": 0.9970025420188904
+      },
+      {
+        "text": "9/9",
+        "y": 406.0,
+        "confidence": 0.9902243415514628
+      },
+      {
+        "text": "0/30",
+        "y": 407.0,
+        "confidence": 0.9948356449604034
+      },
+      {
+        "text": "Camp",
+        "y": 400.0,
+        "confidence": 0.9693262428045273
+      },
+      {
+        "text": "Guarding:",
+        "y": 463.0,
+        "confidence": 0.99522332350413
+      },
+      {
+        "text": "Thefollowerissettodefendthecampfrompossibleintrudersduringthenight",
+        "y": 464.0,
+        "confidence": 0.9975054598215854
+      },
+      {
+        "text": "Patrolling:",
+        "y": 491.0,
+        "confidence": 0.9974919015711005
+      },
+      {
+        "text": "Thefollowerissettopatrolthesurroundingarealookingforpointsof interest",
+        "y": 493.0,
+        "confidence": 0.9911124930865522
+      },
+      {
+        "text": "Hunting:",
+        "y": 522.0,
+        "confidence": 0.9957049414515495
+      },
+      {
+        "text": "Thefollowerissettohuntformeattofeedtheexpedition",
+        "y": 524.0,
+        "confidence": 0.9972076416015625
+      },
+      {
+        "text": "Thebottom leftshowsyourtotal percentagechance ofsuccessforeachofthese activities",
+        "y": 562.0,
+        "confidence": 0.9799294471740723
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping04-EN",
+    "image": "Analysis/tutorial_images/814_TutorialCamping04-EN.png",
+    "lines": [
+      {
+        "text": "Type",
+        "y": 36.0,
+        "confidence": 0.9945012778043747
+      },
+      {
+        "text": "AutoCamp",
+        "y": 33.0,
+        "confidence": 0.9926591739058495
+      },
+      {
+        "text": "Clear All",
+        "y": 38.0,
+        "confidence": 0.8961518473095365
+      },
+      {
+        "text": "Tasks",
+        "y": 39.0,
+        "confidence": 0.9166299223899841
+      },
+      {
+        "text": "Tinker",
+        "y": 40.0,
+        "confidence": 0.9557517468929291
+      },
+      {
+        "text": "Rations",
+        "y": 39.0,
+        "confidence": 0.9984190038272313
+      },
+      {
+        "text": "0/0/2/6/4",
+        "y": 59.0,
+        "confidence": 0.9933869110213386
+      },
+      {
+        "text": "Tasks",
+        "y": 60.0,
+        "confidence": 0.9914097785949707
+      },
+      {
+        "text": "Hesitant",
+        "y": 76.0,
+        "confidence": 0.9915783032774925
+      },
+      {
+        "text": "Healthy",
+        "y": 87.0,
+        "confidence": 0.9729426077433995
+      },
+      {
+        "text": "Guarding",
+        "y": 89.0,
+        "confidence": 0.992981918156147
+      },
+      {
+        "text": "Herbalism",
+        "y": 91.0,
+        "confidence": 0.9943348036872016
+      },
+      {
+        "text": "Patrolling",
+        "y": 107.0,
+        "confidence": 0.9766320884227753
+      },
+      {
+        "text": "Preserving",
+        "y": 108.0,
+        "confidence": 0.9737655997276307
+      },
+      {
+        "text": "Bonita Blanco",
+        "y": 120.0,
+        "confidence": 0.9964193610044626
+      },
+      {
+        "text": "图口",
+        "y": 133.0,
+        "confidence": 0.9312237203121185
+      },
+      {
+        "text": "Hunting",
+        "y": 124.0,
+        "confidence": 0.9771581547600883
+      },
+      {
+        "text": "2/2/6/0/2",
+        "y": 135.0,
+        "confidence": 0.991705040136973
+      },
+      {
+        "text": "None",
+        "y": 126.0,
+        "confidence": 0.9953049272298813
+      },
+      {
+        "text": "Hesitant",
+        "y": 151.0,
+        "confidence": 0.9985267072916031
+      },
+      {
+        "text": "Area:Road",
+        "y": 149.0,
+        "confidence": 0.9802564978599548
+      },
+      {
+        "text": "Healthy",
+        "y": 164.0,
+        "confidence": 0.9989916001047406
+      },
+      {
+        "text": "Guard difficulty",
+        "y": 176.0,
+        "confidence": 0.9606788232922554
+      },
+      {
+        "text": "Patrol difficulty",
+        "y": 176.0,
+        "confidence": 0.9669353085405686
+      },
+      {
+        "text": "Hunt difficuly",
+        "y": 176.0,
+        "confidence": 0.9667287128312247
+      },
+      {
+        "text": "Gabriela Ybarra",
+        "y": 196.0,
+        "confidence": 0.9841489990552267
+      },
+      {
+        "text": "High",
+        "y": 192.0,
+        "confidence": 0.9982687830924988
+      },
+      {
+        "text": "Low",
+        "y": 192.0,
+        "confidence": 0.9389365911483765
+      },
+      {
+        "text": "High",
+        "y": 190.0,
+        "confidence": 0.9982680231332779
+      },
+      {
+        "text": "图口",
+        "y": 207.0,
+        "confidence": 0.8833239078521729
+      },
+      {
+        "text": "2/2/6/0/2",
+        "y": 210.0,
+        "confidence": 0.9886923101213243
+      },
+      {
+        "text": "Contextual",
+        "y": 215.0,
+        "confidence": 0.9953356921672821
+      },
+      {
+        "text": "Hesitant",
+        "y": 225.0,
+        "confidence": 0.9820993691682816
+      },
+      {
+        "text": "Healthy",
+        "y": 237.0,
+        "confidence": 0.825223765202931
+      },
+      {
+        "text": "There is nothing of interest nearby",
+        "y": 250.0,
+        "confidence": 0.9528428571564811
+      },
+      {
+        "text": "Blanca Alegria",
+        "y": 270.0,
+        "confidence": 0.9871158174106053
+      },
+      {
+        "text": "国口",
+        "y": 284.0,
+        "confidence": 0.7740223705768585
+      },
+      {
+        "text": "0/0/2/4/6",
+        "y": 285.0,
+        "confidence": 0.9936442573865255
+      },
+      {
+        "text": "Hesitant",
+        "y": 302.0,
+        "confidence": 0.9994041994214058
+      },
+      {
+        "text": "Healthy",
+        "y": 315.0,
+        "confidence": 0.9862664427076068
+      },
+      {
+        "text": "Ana Vidal",
+        "y": 345.0,
+        "confidence": 0.9646965993775262
+      },
+      {
+        "text": "网口",
+        "y": 360.0,
+        "confidence": 0.573850691318512
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 361.0,
+        "confidence": 0.9917562339040968
+      },
+      {
+        "text": "Auto Assign",
+        "y": 367.0,
+        "confidence": 0.9729903394525702
+      },
+      {
+        "text": "Hocitant",
+        "y": 377.0,
+        "confidence": 0.916111882776022
+      },
+      {
+        "text": "Guarding",
+        "y": 389.0,
+        "confidence": 0.9959953874349594
+      },
+      {
+        "text": "Patrolling",
+        "y": 389.0,
+        "confidence": 0.9382727682590485
+      },
+      {
+        "text": "Hunting",
+        "y": 389.0,
+        "confidence": 0.9914363282067435
+      },
+      {
+        "text": "Preserving",
+        "y": 389.0,
+        "confidence": 0.9856941044330597
+      },
+      {
+        "text": "Herbalism",
+        "y": 390.0,
+        "confidence": 0.9716889725791084
+      },
+      {
+        "text": "59%",
+        "y": 404.0,
+        "confidence": 0.9972990353902181
+      },
+      {
+        "text": "59%",
+        "y": 404.0,
+        "confidence": 0.998290479183197
+      },
+      {
+        "text": "24%",
+        "y": 404.0,
+        "confidence": 0.999052107334137
+      },
+      {
+        "text": "9/9",
+        "y": 403.0,
+        "confidence": 0.9955717722574869
+      },
+      {
+        "text": "4/30",
+        "y": 404.0,
+        "confidence": 0.9944510906934738
+      },
+      {
+        "text": "Canp",
+        "y": 396.0,
+        "confidence": 0.9361823797225952
+      },
+      {
+        "text": "Close",
+        "y": 395.0,
+        "confidence": 0.9732169151306153
+      },
+      {
+        "text": "Herbalism:",
+        "y": 466.0,
+        "confidence": 0.9964076459407807
+      },
+      {
+        "text": "Herbsyoupickupduringyourtravelscanbeusedformedicine,if processed",
+        "y": 466.0,
+        "confidence": 0.9877970265224576
+      },
+      {
+        "text": "Preserving:",
+        "y": 500.0,
+        "confidence": 0.9939418001608415
+      },
+      {
+        "text": "Unpreservedmeatwillspoil during thenightifyoudonotpreserveitoreatit",
+        "y": 501.0,
+        "confidence": 0.9841229034893548
+      },
+      {
+        "text": "immediately.lfyouhaveanexcessofmeat,preserveitforlateruse",
+        "y": 523.0,
+        "confidence": 0.9827414155006409
+      },
+      {
+        "text": "In thebottomleftyoucanseehowmuchmeatand howmanyherbsyou'll processtonight",
+        "y": 557.0,
+        "confidence": 0.981006288365142
+      }
+    ]
+  },
+  {
+    "name": "TutorialCamping10-EN",
+    "image": "Analysis/tutorial_images/818_TutorialCamping10-EN.png",
+    "lines": [
+      {
+        "text": "Type",
+        "y": 32.0,
+        "confidence": 0.9906572848558426
+      },
+      {
+        "text": "Auto Camp",
+        "y": 32.0,
+        "confidence": 0.9750811987453036
+      },
+      {
+        "text": "Clear AlI",
+        "y": 33.0,
+        "confidence": 0.925968865553538
+      },
+      {
+        "text": "Tasks",
+        "y": 36.0,
+        "confidence": 0.9997282981872558
+      },
+      {
+        "text": "Tinker",
+        "y": 36.0,
+        "confidence": 0.9986761709054311
+      },
+      {
+        "text": "Rations",
+        "y": 33.0,
+        "confidence": 0.9750893882342747
+      },
+      {
+        "text": "Rations",
+        "y": 55.0,
+        "confidence": 0.996010056563786
+      },
+      {
+        "text": "Montego Aragones",
+        "y": 72.0,
+        "confidence": 0.9853765740990639
+      },
+      {
+        "text": "4/6/2/0/0",
+        "y": 86.0,
+        "confidence": 0.9733868506219652
+      },
+      {
+        "text": "Nothing",
+        "y": 88.0,
+        "confidence": 0.9948222977774483
+      },
+      {
+        "text": "Hesitant",
+        "y": 103.0,
+        "confidence": 0.9904270172119141
+      },
+      {
+        "text": "Healthy",
+        "y": 117.0,
+        "confidence": 0.9877568568502154
+      },
+      {
+        "text": "管",
+        "y": 121.0,
+        "confidence": 0.6582229733467102
+      },
+      {
+        "text": "1Ration",
+        "y": 115.0,
+        "confidence": 0.9012131520680019
+      },
+      {
+        "text": "Pilar Palencia",
+        "y": 147.0,
+        "confidence": 0.9767309044088636
+      },
+      {
+        "text": "1Meat",
+        "y": 145.0,
+        "confidence": 0.9897517681121826
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 164.0,
+        "confidence": 0.9903360539012485
+      },
+      {
+        "text": "Hesitant",
+        "y": 177.0,
+        "confidence": 0.9983125478029251
+      },
+      {
+        "text": "2 Rations",
+        "y": 172.0,
+        "confidence": 0.8955691854159037
+      },
+      {
+        "text": "Healthy",
+        "y": 191.0,
+        "confidence": 0.975447450365339
+      },
+      {
+        "text": "2 Meat",
+        "y": 201.0,
+        "confidence": 0.9219223658243815
+      },
+      {
+        "text": "Assign to all",
+        "y": 203.0,
+        "confidence": 0.7842635466502264
+      },
+      {
+        "text": "Rosalia Padilla",
+        "y": 223.0,
+        "confidence": 0.9929311672846476
+      },
+      {
+        "text": "口口",
+        "y": 235.0,
+        "confidence": 0.5361796319484711
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 238.0,
+        "confidence": 0.9918282230695089
+      },
+      {
+        "text": "Morale increase probabi",
+        "y": 236.0,
+        "confidence": 0.9667109380597654
+      },
+      {
+        "text": "ity:O%",
+        "y": 239.0,
+        "confidence": 0.8983244001865387
+      },
+      {
+        "text": "Hesitant",
+        "y": 252.0,
+        "confidence": 0.9942663386464119
+      },
+      {
+        "text": "Healthy",
+        "y": 265.0,
+        "confidence": 0.9069307361330304
+      },
+      {
+        "text": "Totalrationsconsumption",
+        "y": 257.0,
+        "confidence": 0.9767532892849135
+      },
+      {
+        "text": "Total meatconsumption:9/9",
+        "y": 277.0,
+        "confidence": 0.9754327392578125
+      },
+      {
+        "text": "Sierra Barreiro",
+        "y": 298.0,
+        "confidence": 0.976475469271342
+      },
+      {
+        "text": "Meat Preserved:O",
+        "y": 294.0,
+        "confidence": 0.9236136171966791
+      },
+      {
+        "text": "口",
+        "y": 309.0,
+        "confidence": 0.7769783139228821
+      },
+      {
+        "text": "6/4/2/0/0",
+        "y": 313.0,
+        "confidence": 0.9910898473527696
+      },
+      {
+        "text": "Hesitant",
+        "y": 328.0,
+        "confidence": 0.9931117370724678
+      },
+      {
+        "text": "Healthy",
+        "y": 341.0,
+        "confidence": 0.9321182114737374
+      },
+      {
+        "text": "AutoAsign",
+        "y": 357.0,
+        "confidence": 0.9082292583253648
+      },
+      {
+        "text": "Auto Allocate New Meat",
+        "y": 358.0,
+        "confidence": 0.9499565444209359
+      },
+      {
+        "text": "Guarding",
+        "y": 380.0,
+        "confidence": 0.994602769613266
+      },
+      {
+        "text": "Patrolling",
+        "y": 380.0,
+        "confidence": 0.9784064352512359
+      },
+      {
+        "text": "Hunting",
+        "y": 380.0,
+        "confidence": 0.9944641249520438
+      },
+      {
+        "text": "Preserving",
+        "y": 381.0,
+        "confidence": 0.9925561308860779
+      },
+      {
+        "text": "Herbalism",
+        "y": 382.0,
+        "confidence": 0.9932041830486722
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.9986268281936646
+      },
+      {
+        "text": "59%",
+        "y": 395.0,
+        "confidence": 0.9987651109695435
+      },
+      {
+        "text": "32%",
+        "y": 395.0,
+        "confidence": 0.9929227828979492
+      },
+      {
+        "text": "0/0",
+        "y": 395.0,
+        "confidence": 0.9967390696207682
+      },
+      {
+        "text": "0/30",
+        "y": 395.0,
+        "confidence": 0.9976152777671814
+      },
+      {
+        "text": "Camp",
+        "y": 388.0,
+        "confidence": 0.9514036923646927
+      },
+      {
+        "text": "Close",
+        "y": 388.0,
+        "confidence": 0.9921775341033936
+      },
+      {
+        "text": "Therationstabiswhereyou distributefoodtoyourexpeditionmembers",
+        "y": 464.0,
+        "confidence": 0.9907276102753936
+      },
+      {
+        "text": "Youcanselectindividualrationingbyselectingthefollower",
+        "y": 499.0,
+        "confidence": 0.9970648446173038
+      },
+      {
+        "text": "and choosing ration type and quantity",
+        "y": 523.0,
+        "confidence": 0.9520840419305338
+      },
+      {
+        "text": "Givingfollowersmore thanoneunitof",
+        "y": 537.0,
+        "confidence": 0.9854246811433272
+      },
+      {
+        "text": "foodhasachancetoincreasetheirmorale",
+        "y": 560.0,
+        "confidence": 0.9972877281052726
+      }
+    ]
+  },
+  {
+    "name": "TutorialWeaponSwitch-EN",
+    "image": "Analysis/tutorial_images/821_TutorialWeaponSwitch-EN.png",
+    "lines": [
+      {
+        "text": "Carlota Mendoza",
+        "y": 8.0,
+        "confidence": 0.9822614908218383
+      },
+      {
+        "text": "Class",
+        "y": 21.0,
+        "confidence": 0.9812145471572876
+      },
+      {
+        "text": "Soldier",
+        "y": 23.0,
+        "confidence": 0.9788034898894173
+      },
+      {
+        "text": "Endurance 1oo points",
+        "y": 34.0,
+        "confidence": 0.9222250521183014
+      },
+      {
+        "text": "Defence",
+        "y": 46.0,
+        "confidence": 0.9940509455544608
+      },
+      {
+        "text": "25% damage reduction",
+        "y": 46.0,
+        "confidence": 0.9773578673601151
+      },
+      {
+        "text": "Attack",
+        "y": 58.0,
+        "confidence": 0.979009876648585
+      },
+      {
+        "text": "40-sodamage",
+        "y": 54.0,
+        "confidence": 0.88992009379647
+      },
+      {
+        "text": "Critical",
+        "y": 67.0,
+        "confidence": 0.942044697701931
+      },
+      {
+        "text": "Movement4/4 spaces",
+        "y": 77.0,
+        "confidence": 0.9680762986342112
+      },
+      {
+        "text": "3%/x1.25",
+        "y": 68.0,
+        "confidence": 0.9530490860342979
+      },
+      {
+        "text": "Eliminateallenemies",
+        "y": 101.0,
+        "confidence": 0.9953808721743131
+      },
+      {
+        "text": "3enemiesremaining",
+        "y": 121.0,
+        "confidence": 0.9913390033385333
+      },
+      {
+        "text": "You can switch a unit between Melee and Ranged",
+        "y": 471.0,
+        "confidence": 0.9486282117988752
+      },
+      {
+        "text": "SoldiersarebestinMelee",
+        "y": 514.0,
+        "confidence": 0.9961645874110135
+      },
+      {
+        "text": "Scouts can't shoot",
+        "y": 529.0,
+        "confidence": 0.955435550875134
+      },
+      {
+        "text": "HuntersarebestatRange",
+        "y": 543.0,
+        "confidence": 0.9979299959682283
+      }
+    ]
+  }
+]

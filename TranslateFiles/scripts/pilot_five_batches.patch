@@ -1,0 +1,114 @@
+diff --git a/Tools/localization/test_translation_workflow.py b/Tools/localization/test_translation_workflow.py
+index 8ca1648..37561ee 100644
+--- a/Tools/localization/test_translation_workflow.py
++++ b/Tools/localization/test_translation_workflow.py
+@@ -153,6 +153,36 @@ class WorkflowTests(unittest.TestCase):
+         elif stage == ('final_review' if config['polish'] else 'review'):
+             self.approve('final')
+ 
++    def test_fixed_pilot_count_retains_context_and_partial_progress(self):
++        rows = [{'id': str(i), 'source': 'text', 'metadata': {'group': str(i)}} for i in range(150)]
++        groups = workflow.Workflow.fixed_pilot_batches(rows, rows, 5)
++        self.assertEqual([len(g) for g in groups], [30] * 5)
++        self.assertEqual([r for g in groups for r in g], rows)
++        partial = workflow.Workflow.fixed_pilot_batches(rows, rows[39:], 5)
++        self.assertEqual([len(g) for g in partial], [0, 21, 30, 30, 30])
++        self.assertEqual([r for g in partial for r in g], rows[39:])
++        self.assertEqual(workflow.Workflow.fixed_pilot_batches([], [], 5), [])
++
++    def test_pilot_rebatch_preserves_accepted_translation_and_authorship(self):
++        self.freeze(pilot=False)
++        self.flow.prepare('pilot_translate')
++        claim = self.flow.claim('pilot_translate', self.fresh_worker('pilot_translate'))
++        result = {**self.envelope(claim), 'records': [
++            {'id': r['id'], 'translation': r['source']} for r in claim['payload']['records']]}
++        self.flow.submit(claim['task_id'], claim['lease_token'], result)
++        with self.flow.db() as db:
++            before = [tuple(r) for r in db.execute('SELECT * FROM quality_authors')]
++        self.flow.pause(True)
++        self.assertFalse(self.flow.configure({'pilot_batch_count': 2}, 'explicit pilot cost limit')['semantic_reset'])
++        self.flow.pause(False)
++        tasks = self.flow.prepare('pilot_translate')['tasks']
++        self.assertEqual(len(tasks), 1)
++        with self.flow.db() as db:
++            self.assertEqual(before, [tuple(r) for r in db.execute('SELECT * FROM quality_authors')])
++        self.assertEqual(self.flow.status()['records']['pilot_translate'], 2)
++        self.translate('pilot_translate')
++        self.assertEqual(len(self.flow.prepare('pilot_review')['tasks']), 2)
++
+     def test_end_to_end_and_csv_alignment(self):
+         self.freeze(True)
+         self.translate()
+diff --git a/Tools/localization/translation_workflow.py b/Tools/localization/translation_workflow.py
+index 6c5cd6f..7bcf684 100644
+--- a/Tools/localization/translation_workflow.py
++++ b/Tools/localization/translation_workflow.py
+@@ -32,7 +32,7 @@ DEFAULT = {
+     'source_language': 'auto', 'target_language': '简体中文',
+     'style': '忠实原文、自然简洁；保留人物口吻，不补充原文没有的信息。',
+     'game_background': None,
+-    'quality_version': 2, 'pilot_records': 150, 'pilot_ordinals': [],
++    'quality_version': 2, 'pilot_records': 150, 'pilot_ordinals': [], 'pilot_batch_count': None,
+     'batch_records': 60, 'batch_chars': 12000, 'context_records': 0,
+     'agent_task_limit': 1, 'agent_attempt_limit': 2, 'task_input_chars': 48000,
+     'review_batch_records': 20,
+@@ -166,6 +166,9 @@ def validate_config(config):
+             raise ValueError('Positive integer required: ' + key)
+     if type(config['context_records']) is not int or config['context_records'] < 0:
+         raise ValueError('Invalid context_records')
++    if config.get('pilot_batch_count') is not None and (
++            type(config['pilot_batch_count']) is not int or config['pilot_batch_count'] < 1):
++        raise ValueError('pilot_batch_count must be null or a positive integer')
+     for key in ('case_sensitive', 'whole_word', 'polish'):
+         if type(config[key]) is not bool:
+             raise ValueError('Boolean required: ' + key)
+@@ -376,6 +379,16 @@ class Workflow(QualityMixin):
+         if batch:
+             yield batch
+ 
++    @staticmethod
++    def fixed_pilot_batches(scope, eligible, count):
++        """Explicit pilot task count; retain per-record context and completed work."""
++        eligible_ids = {row['id'] for row in eligible}
++        count = min(count, len(scope))
++        if not count:
++            return []
++        return [[row for row in scope[i * len(scope) // count:(i + 1) * len(scope) // count]
++                 if row['id'] in eligible_ids] for i in range(count)]
++
+     def prepare(self, stage):
+         if stage not in STAGES:
+             raise ValueError('Unknown stage')
+@@ -447,6 +460,9 @@ class Workflow(QualityMixin):
+                     raise ValueError('Complete the preceding stage for all records first')
+                 covered = {record_id for task in existing for record_id in json.loads(task['ids'])}
+                 eligible = [r for r in scope if (required is None or r['stage'] == required) and r['id'] not in covered]
++                if stage == 'pilot_translate':
++                    # Scheduling revisions retain accepted pilot work and its authorship.
++                    eligible = [r for r in eligible if r['stage'] not in ('pilot_translate', 'pilot_review')]
+             rules = self.rules(db, config)
+             batch_config = dict(config)
+             if stage in ('glossary_review', 'pilot_review', 'review', 'final_review'):
+@@ -467,6 +483,10 @@ class Workflow(QualityMixin):
+                     related_groups.append(related)
+                     evidence_ids = {n for entry in entries_batch + related for n in entry['row'].get('evidence_rows', [])[:2]}
+                     groups.append([r for r in records if r['ordinal'] in evidence_ids])
++            elif stage.startswith('pilot_') and config.get('pilot_batch_count'):
++                # User-selected pilot cost limit overrides scene/record splitting only here.
++                # Actual task input budget remains enforced by claim; never truncate evidence.
++                groups = self.fixed_pilot_batches(scope, eligible, config['pilot_batch_count'])
+             else:
+                 groups = list(self.batches(eligible, batch_config))
+             task_ids = [r['id'] for r in existing]
+@@ -859,7 +879,10 @@ class Workflow(QualityMixin):
+             semantic = quality_upgrade or any(new[k] != old.get(k, DEFAULT.get(k, '')) for k in semantic_keys)
+             if semantic and db.execute('SELECT 1 FROM records WHERE locked=1').fetchone():
+                 raise ValueError('Unlock confirmed translations before changing semantic rules')
+-            self.restore_pilot_baseline(db)
++            pilot_scope_change = (new['pilot_records'] != old.get('pilot_records') or
++                                  new['pilot_ordinals'] != old.get('pilot_ordinals'))
++            if semantic or pilot_scope_change:
++                self.restore_pilot_baseline(db)
+             write_json(self.root / f'history/config_r{revision}.json', {'before': old, 'after': new, 'reason': reason})
+             self.put(db, 'config', new)
+             self.put(db, 'revision', revision)

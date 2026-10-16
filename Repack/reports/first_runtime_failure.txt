@@ -1,0 +1,3 @@
+InvalidProgramException: Invalid IL code in DialogGUI:ParseTextPages (string,UnityEngine.GUIStyle,int,int): IL_0000: ldarg     1
+InvalidProgramException: Invalid IL code in DialogGUI:ParseTextPages (string,UnityEngine.GUIStyle,int,int): IL_0000: ldarg     1
+InvalidProgramException: Invalid IL code in DialogGUI:ParseTextPages (string,UnityEngine.GUIStyle,int,int): IL_0000: ldarg     1

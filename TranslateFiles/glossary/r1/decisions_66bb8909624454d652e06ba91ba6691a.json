@@ -1,0 +1,618 @@
+{
+  "snapshot_sha256": "a936e03e07076179490b318d366ad0db4013dd767b8210900298506db9314c22",
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "review_complete": true,
+  "review_summary": "逐项核对本批 180 个术语的原文证据、译名与分类。按政策隔离重复源项，保留符合游戏机制的技能、物品、特质和伤情术语；修正 Hailstorm 的机制译名以及带分类前缀的武器译名。跨批专名译名冲突已列 warning 供父代理复核。",
+  "reviewed_refs": [
+    "terms:146",
+    "terms:147",
+    "terms:148",
+    "terms:149",
+    "terms:150",
+    "terms:151",
+    "terms:152",
+    "terms:153",
+    "terms:154",
+    "terms:155",
+    "terms:156",
+    "terms:157",
+    "terms:158",
+    "terms:159",
+    "terms:160",
+    "terms:161",
+    "terms:162",
+    "terms:163",
+    "terms:164",
+    "terms:165",
+    "terms:166",
+    "terms:167",
+    "terms:168",
+    "terms:169",
+    "terms:170",
+    "terms:171",
+    "terms:172",
+    "terms:173",
+    "terms:174",
+    "terms:175",
+    "terms:176",
+    "terms:177",
+    "terms:178",
+    "terms:179",
+    "terms:180",
+    "terms:181",
+    "terms:182",
+    "terms:183",
+    "terms:184",
+    "terms:185",
+    "terms:186",
+    "terms:187",
+    "terms:188",
+    "terms:189",
+    "terms:190",
+    "terms:191",
+    "terms:192",
+    "terms:193",
+    "terms:194",
+    "terms:195",
+    "terms:196",
+    "terms:197",
+    "terms:198",
+    "terms:199",
+    "terms:200",
+    "terms:201",
+    "terms:202",
+    "terms:203",
+    "terms:204",
+    "terms:205",
+    "terms:206",
+    "terms:207",
+    "terms:208",
+    "terms:209",
+    "terms:210",
+    "terms:211",
+    "terms:212",
+    "terms:213",
+    "terms:214",
+    "terms:215",
+    "terms:216",
+    "terms:217",
+    "terms:218",
+    "terms:219",
+    "terms:220",
+    "terms:221",
+    "terms:222",
+    "terms:223",
+    "terms:224",
+    "terms:225",
+    "terms:226",
+    "terms:227",
+    "terms:228",
+    "terms:229",
+    "terms:230",
+    "terms:231",
+    "terms:232",
+    "terms:233",
+    "terms:234",
+    "terms:235",
+    "terms:236",
+    "terms:237",
+    "terms:238",
+    "terms:239",
+    "terms:240",
+    "terms:241",
+    "terms:242",
+    "terms:243",
+    "terms:244",
+    "terms:245",
+    "terms:246",
+    "terms:247",
+    "terms:248",
+    "terms:249",
+    "terms:250",
+    "terms:251",
+    "terms:252",
+    "terms:253",
+    "terms:254",
+    "terms:255",
+    "terms:256",
+    "terms:257",
+    "terms:258",
+    "terms:259",
+    "terms:260",
+    "terms:261",
+    "terms:262",
+    "terms:263",
+    "terms:264",
+    "terms:265",
+    "terms:266",
+    "terms:267",
+    "terms:268",
+    "terms:269",
+    "terms:270",
+    "terms:271",
+    "terms:272",
+    "terms:273",
+    "terms:274",
+    "terms:275",
+    "terms:276",
+    "terms:277",
+    "terms:278",
+    "terms:279",
+    "terms:280",
+    "terms:281",
+    "terms:282",
+    "terms:283",
+    "terms:284",
+    "terms:285",
+    "terms:286",
+    "terms:287",
+    "terms:288",
+    "terms:289",
+    "terms:290",
+    "terms:291",
+    "terms:292",
+    "terms:293",
+    "terms:294",
+    "terms:295",
+    "terms:296",
+    "terms:297",
+    "terms:298",
+    "terms:299",
+    "terms:300",
+    "terms:301",
+    "terms:302",
+    "terms:303",
+    "terms:304",
+    "terms:305",
+    "terms:306",
+    "terms:307",
+    "terms:308",
+    "terms:309",
+    "terms:310",
+    "terms:311",
+    "terms:312",
+    "terms:313",
+    "terms:314",
+    "terms:315",
+    "terms:316",
+    "terms:317",
+    "terms:318",
+    "terms:319",
+    "terms:320",
+    "terms:321",
+    "terms:322",
+    "terms:323",
+    "terms:324",
+    "terms:325"
+  ],
+  "acknowledged_findings": [
+    "F0015",
+    "F0016",
+    "F0017",
+    "F0018",
+    "F0082",
+    "F0084",
+    "F0088",
+    "F0090",
+    "F0096",
+    "F0098",
+    "F0099",
+    "F0100",
+    "F0102",
+    "F0104",
+    "F0105",
+    "F0106",
+    "F0107",
+    "F0108",
+    "F0109",
+    "F0110",
+    "F0111",
+    "F0112",
+    "F0113",
+    "F0114",
+    "F0115",
+    "F0116",
+    "F0117",
+    "F0118",
+    "F0119",
+    "F0120",
+    "F0121",
+    "F0122",
+    "F0123",
+    "F0124",
+    "F0125",
+    "F0126",
+    "F0127",
+    "F0128",
+    "F0129",
+    "F0130",
+    "F0131",
+    "F0132",
+    "F0133",
+    "F0134",
+    "F0135",
+    "F0193",
+    "F0194",
+    "F0195",
+    "F0196",
+    "F0252",
+    "F0255",
+    "F0256",
+    "F0257",
+    "F0258",
+    "F0264",
+    "F0266",
+    "F0267",
+    "F0268",
+    "F0276",
+    "F0277",
+    "F0278",
+    "F0281",
+    "F0282",
+    "F0283",
+    "F0284",
+    "F0285",
+    "F0286",
+    "F0287",
+    "F0288",
+    "F0289",
+    "F0290",
+    "F0291",
+    "F0292",
+    "F0293",
+    "F0294",
+    "F0295",
+    "F0296",
+    "F0297",
+    "F0298",
+    "F0299",
+    "F0300",
+    "F0301",
+    "F0302",
+    "F0303",
+    "F0304",
+    "F0305",
+    "F0306"
+  ],
+  "edits": [
+    {
+      "table": "terms",
+      "index": 164,
+      "patch": {
+        "recommended_translation": "箭雨",
+        "category_path": "技能"
+      },
+      "reason": "ordinal 773 将 Hailstorm 明确描述为向目标周围随机区域倾泻投射物、可伤及友军的主动攻击技能；“冰雹”按天气直译会误导机制，此主条目应译“箭雨”并分类为技能。",
+      "evidence_rows": [
+        542
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 273,
+      "patch": {
+        "recommended_translation": "吹箭筒"
+      },
+      "reason": "武器熟练/被动能力上下文中的 blow gun 指吹箭筒；术语译名移除不属于译名的“武器：”前缀。",
+      "evidence_rows": [
+        1029
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 274,
+      "patch": {
+        "recommended_translation": "弓"
+      },
+      "reason": "武器熟练/被动能力上下文中的 bow 指弓；移除不属于译名的“武器：”前缀。",
+      "evidence_rows": [
+        1030
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 280,
+      "patch": {
+        "recommended_translation": "剑"
+      },
+      "reason": "武器熟练/被动能力上下文中的 sword 指剑；移除不属于译名的“武器：”前缀。",
+      "evidence_rows": [
+        1036
+      ]
+    }
+  ],
+  "quarantine": [
+    {
+      "table": "terms",
+      "index": 248,
+      "reason": "重复源项，按规范保留唯一主条目 characters:4；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        807
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 249,
+      "reason": "重复源项，按规范保留唯一主条目 characters:5；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        808
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 250,
+      "reason": "重复源项，按规范保留唯一主条目 characters:6；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        809
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 251,
+      "reason": "重复源项，按规范保留唯一主条目 characters:7；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        810
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 298,
+      "reason": "重复源项，按规范保留唯一主条目 terms:83；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1049,
+        1055
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 277,
+      "reason": "重复源项，按规范保留唯一主条目 terms:87；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1033
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 292,
+      "reason": "重复源项，按规范保留唯一主条目 terms:87；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1033
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 253,
+      "reason": "重复源项，按规范保留唯一主条目 terms:99；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        784,
+        13676
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 214,
+      "reason": "重复源项，按规范保留唯一主条目 terms:105；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        689
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 276,
+      "reason": "重复源项，按规范保留唯一主条目 terms:105；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1032
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 213,
+      "reason": "重复源项，按规范保留唯一主条目 terms:116；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        686,
+        1179
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 212,
+      "reason": "重复源项，按规范保留唯一主条目 terms:118；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        678,
+        1182
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 211,
+      "reason": "重复源项，按规范保留唯一主条目 terms:121；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        676,
+        1184
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 318,
+      "reason": "重复源项，按规范保留唯一主条目 terms:124；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1221
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 193,
+      "reason": "重复源项，按规范保留唯一主条目 terms:138；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        659,
+        1497
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 229,
+      "reason": "重复源项，按规范保留唯一主条目 terms:138；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        766
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 234,
+      "reason": "重复源项，按规范保留唯一主条目 terms:141；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        776
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 247,
+      "reason": "重复源项，按规范保留唯一主条目 terms:154；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        806
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 237,
+      "reason": "重复源项，按规范保留唯一主条目 terms:163；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        784,
+        1502
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 232,
+      "reason": "重复源项，按规范保留唯一主条目 terms:164；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        773
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 242,
+      "reason": "重复源项，按规范保留唯一主条目 terms:166；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        794,
+        7313
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 243,
+      "reason": "重复源项，按规范保留唯一主条目 terms:172；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        797
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 286,
+      "reason": "重复源项，按规范保留唯一主条目 terms:184；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        968,
+        1004
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 279,
+      "reason": "重复源项，按规范保留唯一主条目 terms:215；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1035
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 294,
+      "reason": "重复源项，按规范保留唯一主条目 terms:215；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1035
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 275,
+      "reason": "重复源项，按规范保留唯一主条目 terms:216；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1031
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 291,
+      "reason": "重复源项，按规范保留唯一主条目 terms:216；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1031
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 278,
+      "reason": "重复源项，按规范保留唯一主条目 terms:218；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1034
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 293,
+      "reason": "重复源项，按规范保留唯一主条目 terms:218；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1034,
+        4003
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 319,
+      "reason": "重复源项，按规范保留唯一主条目 terms:223；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1239
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 320,
+      "reason": "重复源项，按规范保留唯一主条目 terms:225；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1243
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 289,
+      "reason": "重复源项，按规范保留唯一主条目 terms:273；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1029
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 290,
+      "reason": "重复源项，按规范保留唯一主条目 terms:274；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1030
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 295,
+      "reason": "重复源项，按规范保留唯一主条目 terms:280；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1036
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 312,
+      "reason": "重复源项，按规范保留唯一主条目 terms:288；本条为重复记录，主条目负责统一该源的术语译名。",
+      "evidence_rows": [
+        1194
+      ]
+    }
+  ],
+  "additions": [],
+  "allow_no_match": []
+}

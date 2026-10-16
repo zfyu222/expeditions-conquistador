@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "cases": 207,
+  "scope": "Actual shared lookup source compiled for standalone CLR; target Mono game still needs runtime verification.",
+  "output": "Saved text regressions: 207 passed\n"
+}

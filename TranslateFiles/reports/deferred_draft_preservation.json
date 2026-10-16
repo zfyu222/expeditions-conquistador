@@ -1,0 +1,11 @@
+{
+  "records": 14691,
+  "baseline_drafts": 8023,
+  "baseline_drafts_sha256": "fbcf22ba46508297ef9a3ee8849baf3800711e96f912627bc7236d3351ca72cc",
+  "after_same_ids_sha256": "fbcf22ba46508297ef9a3ee8849baf3800711e96f912627bc7236d3351ca72cc",
+  "baseline_drafts_unchanged": true,
+  "current_drafts": 8023,
+  "baseline_running_tasks": 4,
+  "current_running_tasks": 4,
+  "method": "Read-only SQLite snapshots compared by existing draft ID, source, translation, stage, exceptions and lock. Other conversation continues production; new drafts are allowed. No migration, task/config update, reset or translation performed by this change."
+}

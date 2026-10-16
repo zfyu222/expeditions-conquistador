@@ -1,0 +1,585 @@
+{
+  "snapshot_sha256": "a936e03e07076179490b318d366ad0db4013dd767b8210900298506db9314c22",
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "review_complete": true,
+  "review_summary": "Reviewed all 148 assigned entries; 5 edits and 35 quarantines; remaining entries individually reviewed and retained.",
+  "reviewed_refs": [
+    "terms:866",
+    "terms:867",
+    "terms:868",
+    "terms:869",
+    "terms:870",
+    "terms:871",
+    "terms:872",
+    "terms:873",
+    "terms:874",
+    "terms:875",
+    "terms:876",
+    "terms:877",
+    "terms:878",
+    "terms:879",
+    "terms:880",
+    "terms:881",
+    "terms:882",
+    "terms:883",
+    "terms:884",
+    "terms:885",
+    "terms:886",
+    "terms:887",
+    "terms:888",
+    "terms:889",
+    "terms:890",
+    "terms:891",
+    "terms:892",
+    "terms:893",
+    "terms:894",
+    "terms:895",
+    "terms:896",
+    "terms:897",
+    "terms:898",
+    "terms:899",
+    "terms:900",
+    "terms:901",
+    "terms:902",
+    "terms:903",
+    "terms:904",
+    "terms:905",
+    "terms:906",
+    "terms:907",
+    "terms:908",
+    "terms:909",
+    "terms:910",
+    "terms:911",
+    "terms:912",
+    "terms:913",
+    "terms:914",
+    "terms:915",
+    "terms:916",
+    "terms:917",
+    "terms:918",
+    "terms:919",
+    "terms:920",
+    "terms:921",
+    "terms:922",
+    "terms:923",
+    "terms:924",
+    "terms:925",
+    "terms:926",
+    "terms:927",
+    "terms:928",
+    "terms:929",
+    "terms:930",
+    "terms:931",
+    "terms:932",
+    "terms:933",
+    "terms:934",
+    "terms:935",
+    "terms:936",
+    "terms:937",
+    "terms:938",
+    "terms:939",
+    "terms:940",
+    "terms:941",
+    "terms:942",
+    "terms:943",
+    "terms:944",
+    "terms:945",
+    "terms:946",
+    "terms:947",
+    "terms:948",
+    "terms:949",
+    "terms:950",
+    "terms:951",
+    "terms:952",
+    "terms:953",
+    "terms:954",
+    "terms:955",
+    "terms:956",
+    "terms:957",
+    "terms:958",
+    "terms:959",
+    "terms:960",
+    "terms:961",
+    "terms:962",
+    "terms:963",
+    "terms:964",
+    "terms:965",
+    "terms:966",
+    "terms:967",
+    "terms:968",
+    "terms:969",
+    "terms:970",
+    "terms:971",
+    "terms:972",
+    "terms:973",
+    "terms:974",
+    "terms:975",
+    "terms:976",
+    "terms:977",
+    "terms:978",
+    "terms:979",
+    "terms:980",
+    "terms:981",
+    "terms:982",
+    "terms:983",
+    "terms:984",
+    "terms:985",
+    "terms:986",
+    "terms:987",
+    "terms:988",
+    "terms:989",
+    "terms:990",
+    "terms:991",
+    "terms:992",
+    "terms:993",
+    "terms:994",
+    "terms:995",
+    "terms:996",
+    "terms:997",
+    "terms:998",
+    "terms:999",
+    "terms:1000",
+    "terms:1001",
+    "terms:1002",
+    "terms:1003",
+    "terms:1004",
+    "terms:1005",
+    "terms:1006",
+    "terms:1007",
+    "terms:1008",
+    "terms:1009",
+    "terms:1010",
+    "terms:1011",
+    "terms:1012",
+    "terms:1013"
+  ],
+  "acknowledged_findings": [
+    "F0045",
+    "F0053",
+    "F0056",
+    "F0063",
+    "F0071",
+    "F0072",
+    "F0125",
+    "F0138",
+    "F0140",
+    "F0142",
+    "F0150",
+    "F0152",
+    "F0166",
+    "F0168",
+    "F0171",
+    "F0176",
+    "F0178",
+    "F0179",
+    "F0180",
+    "F0181",
+    "F0182",
+    "F0183",
+    "F0184",
+    "F0185",
+    "F0186",
+    "F0187",
+    "F0188",
+    "F0189",
+    "F0190",
+    "F0214",
+    "F0222",
+    "F0223",
+    "F0229",
+    "F0231",
+    "F0235",
+    "F0236",
+    "F0237",
+    "F0279",
+    "F0280",
+    "F0288",
+    "F0308",
+    "F0309",
+    "F0311",
+    "F0316",
+    "F0326",
+    "F0327",
+    "F0341",
+    "F0342",
+    "F0343",
+    "F0344",
+    "F0345",
+    "F0346",
+    "F0347",
+    "F0348",
+    "F0349",
+    "F0350",
+    "F0351",
+    "F0352",
+    "F0353"
+  ],
+  "edits": [
+    {
+      "table": "terms",
+      "index": 869,
+      "patch": {
+        "recommended_translation": "制箭匠"
+      },
+      "reason": "A fletcher makes arrows, not bows; the dialogue explicitly identifies the character’s father as a fletcher and distinguishes his own bow-making skill, so use 制箭匠.",
+      "evidence_rows": [
+        12725
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 910,
+      "patch": {
+        "recommended_translation": "古抄本"
+      },
+      "reason": "The historical context concerns Mesoamerican codices as manuscript books, not a legal code; 古抄本 is the accurate natural rendering instead of 法典.",
+      "evidence_rows": [
+        14165
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 930,
+      "patch": {
+        "recommended_translation": "神圣祭祀区"
+      },
+      "reason": "The Tenochtitlan passage defines the Sacred Precinct as the city’s religious and ceremonial center; 神圣祭祀区 conveys that function more clearly than 圣区.",
+      "evidence_rows": [
+        14192
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 943,
+      "patch": {
+        "recommended_translation": "金衣"
+      },
+      "reason": "The source passage explicitly glosses teocuitlaquemitl as “golden clothes”; use that concise contextual meaning and avoid an explanatory parenthetical inside the glossary translation.",
+      "evidence_rows": [
+        14200
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 966,
+      "patch": {
+        "recommended_translation": "物品放置"
+      },
+      "reason": "This is the tactical Item Placement mode/section heading; 物品放置 is natural UI wording and aligns the earlier duplicate’s target.",
+      "evidence_rows": [
+        14322
+      ]
+    }
+  ],
+  "quarantine": [
+    {
+      "table": "terms",
+      "index": 933,
+      "reason": "Exact-source duplicate (F0045) of the earlier canonical primary characters:123; retain one glossary headword.",
+      "evidence_rows": [
+        14201
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 914,
+      "reason": "Exact-source duplicate (F0053) of the earlier canonical primary characters:160; retain one glossary headword.",
+      "evidence_rows": [
+        14179
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 934,
+      "reason": "Exact-source duplicate (F0056) of the earlier canonical primary characters:211; retain one glossary headword.",
+      "evidence_rows": [
+        14202
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 911,
+      "reason": "Exact-source duplicate (F0063) of the earlier canonical primary terms:20; retain one glossary headword.",
+      "evidence_rows": [
+        14169,
+        14203
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 916,
+      "reason": "Exact-source duplicate (F0071) of the earlier canonical primary terms:47; retain one glossary headword.",
+      "evidence_rows": [
+        14183
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 962,
+      "reason": "Exact-source duplicate (F0071) of the earlier canonical primary terms:47; retain one glossary headword.",
+      "evidence_rows": [
+        14234,
+        14278
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 883,
+      "reason": "Exact-source duplicate (F0072) of the earlier canonical primary terms:53; retain one glossary headword.",
+      "evidence_rows": [
+        13082
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 912,
+      "reason": "Exact-source duplicate (F0125) of the earlier canonical primary terms:245; retain one glossary headword.",
+      "evidence_rows": [
+        14171
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 984,
+      "reason": "Exact-source duplicate (F0138) of the earlier canonical primary terms:382; retain one glossary headword.",
+      "evidence_rows": [
+        14404,
+        14405
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 871,
+      "reason": "Exact-source duplicate (F0140) of the earlier canonical primary terms:409; retain one glossary headword.",
+      "evidence_rows": [
+        12841,
+        12845
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 964,
+      "reason": "Exact-source duplicate (F0142) of the earlier canonical primary terms:416; retain one glossary headword.",
+      "evidence_rows": [
+        14270
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 981,
+      "reason": "Exact-source duplicate (F0150) of the earlier canonical primary terms:488; retain one glossary headword.",
+      "evidence_rows": [
+        14385,
+        14551
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 929,
+      "reason": "Exact-source duplicate (F0152) of the earlier canonical primary terms:496; retain one glossary headword.",
+      "evidence_rows": [
+        14190
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 907,
+      "reason": "Exact-source duplicate (F0166) of the earlier canonical primary terms:653; retain one glossary headword.",
+      "evidence_rows": [
+        14125
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 956,
+      "reason": "Exact-source duplicate (F0166) of the earlier canonical primary terms:653; retain one glossary headword.",
+      "evidence_rows": [
+        14221
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 913,
+      "reason": "Exact-source duplicate (F0168) of the earlier canonical primary terms:708; retain one glossary headword.",
+      "evidence_rows": [
+        14177
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 1011,
+      "reason": "Exact-source duplicate (F0171) of the earlier canonical primary terms:745; retain one glossary headword.",
+      "evidence_rows": [
+        14639
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 952,
+      "reason": "Exact-source duplicate (F0176) of the earlier canonical primary terms:772; retain one glossary headword.",
+      "evidence_rows": [
+        14213
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 983,
+      "reason": "Exact-source duplicate (F0178) of the earlier canonical primary terms:965; retain one glossary headword.",
+      "evidence_rows": [
+        14402,
+        14403,
+        14405,
+        14406,
+        14408,
+        14410,
+        14411,
+        14413,
+        14414,
+        14417,
+        14422,
+        14424,
+        14427,
+        14428
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 985,
+      "reason": "Exact-source duplicate (F0179) of the earlier canonical primary terms:966; retain one glossary headword.",
+      "evidence_rows": [
+        14406
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 987,
+      "reason": "Exact-source duplicate (F0180) of the earlier canonical primary terms:967; retain one glossary headword.",
+      "evidence_rows": [
+        14409
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 990,
+      "reason": "Exact-source duplicate (F0181) of the earlier canonical primary terms:968; retain one glossary headword.",
+      "evidence_rows": [
+        14412
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 992,
+      "reason": "Exact-source duplicate (F0182) of the earlier canonical primary terms:969; retain one glossary headword.",
+      "evidence_rows": [
+        14416
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 993,
+      "reason": "Exact-source duplicate (F0183) of the earlier canonical primary terms:971; retain one glossary headword.",
+      "evidence_rows": [
+        14421,
+        14422
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 994,
+      "reason": "Exact-source duplicate (F0184) of the earlier canonical primary terms:972; retain one glossary headword.",
+      "evidence_rows": [
+        14423,
+        14424
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 995,
+      "reason": "Exact-source duplicate (F0185) of the earlier canonical primary terms:973; retain one glossary headword.",
+      "evidence_rows": [
+        14426,
+        14428
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 1002,
+      "reason": "Exact-source duplicate (F0186) of the earlier canonical primary terms:974; retain one glossary headword.",
+      "evidence_rows": [
+        14438,
+        14439
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 1003,
+      "reason": "Exact-source duplicate (F0187) of the earlier canonical primary terms:975; retain one glossary headword.",
+      "evidence_rows": [
+        14445,
+        14446
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 1004,
+      "reason": "Exact-source duplicate (F0188) of the earlier canonical primary terms:977; retain one glossary headword.",
+      "evidence_rows": [
+        14452,
+        14453
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 1005,
+      "reason": "Exact-source duplicate (F0189) of the earlier canonical primary terms:978; retain one glossary headword.",
+      "evidence_rows": [
+        14456,
+        14457
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 1013,
+      "reason": "Exact-source duplicate (F0190) of the earlier canonical primary terms:982; retain one glossary headword.",
+      "evidence_rows": [
+        14657
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 867,
+      "reason": "“quick shot technique” is a descriptive phrase in dialogue (ordinals 12722–12723), not a named skill label; the ability name is covered by the separate Quick Shot entry.",
+      "evidence_rows": [
+        12722,
+        12723
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 879,
+      "reason": "“steel” is a generic material noun in narrative craft dialogue, not a named game item or specialized fixed term.",
+      "evidence_rows": [
+        13016
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 901,
+      "reason": "“Greek epics” is a generic narrative phrase, not a proper cultural title or fixed game mechanic.",
+      "evidence_rows": [
+        13587
+      ]
+    },
+    {
+      "table": "terms",
+      "index": 997,
+      "reason": "“Welcome” is an ordinary UI greeting; it does not need a glossary lock.",
+      "evidence_rows": [
+        14403,
+        14429
+      ]
+    }
+  ],
+  "additions": [],
+  "allow_no_match": []
+}

@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-15",
+  "stop_reason": "Account usage limit reached by body_r13_045",
+  "task_id": "translate-r13-00045-6009bb92",
+  "partial_result_file": "D:\\StaticHanHua\\Projects\\expeditions-conquistador\\TranslateFiles\\results\\translate\\translate-r13-00045-6009bb92\\2a193b42b729170d3701d1cd6dd0838b.json",
+  "partial_records": 80,
+  "worker_stopped": true,
+  "resume": "Resume workflow, fresh worker claims pending task; reuse any saved partial result, then continue body. No pilot rerun."
+}

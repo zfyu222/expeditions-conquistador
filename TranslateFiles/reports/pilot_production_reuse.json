@@ -1,0 +1,8 @@
+{
+  "pilot_report_hash": "ce4c4bbec230762af6f16decb9a469bd61453eb72450a9b098bd44a1b7268a6e",
+  "reused_records": 150,
+  "production_stage": "translate",
+  "full_production_review_required": true,
+  "additional_model_tasks": 0,
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e"
+}

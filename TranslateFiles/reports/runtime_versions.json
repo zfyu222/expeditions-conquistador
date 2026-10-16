@@ -1,0 +1,54 @@
+{
+  "files": {
+    "D:\\StaticHanHua\\Tools\\localization\\translation_workflow.py": "b5ca1a73bd7a5a3886da1fe6bdcb0ac41dd6386a9e4826b383a4535f21777e0a",
+    "D:\\StaticHanHua\\Tools\\localization\\ainiee_bridge.py": "88a8206082e82bb24e9eb9b17dc7d4ca488b5797496dff2e0f5d0a27215672c2",
+    "D:\\StaticHanHua\\Tools\\localization\\glossary_tool.py": "1c635899f6afb56b6ebac35b149161d268e8bf44d711b938079a5f1c471d5569",
+    "D:\\StaticHanHua\\Tools\\localization\\workflow_quality.py": "c35411788de1280f118d7159eeb15250511525fc523e21ddae5f4a69eb232b1e"
+  },
+  "regression_tests": 63,
+  "result": "passed",
+  "changes": [
+    {
+      "file": "translation_workflow.py",
+      "previous_sha256": "97c1c4f445a6baa5cfc7851ad555a1735fe8ed129bb49bbedbef22a30dbb9df8",
+      "reason": "Glossary review context now includes local neighbours of sparse evidence only; avoids unrelated intervening corpus.",
+      "date_utc": "2026-10-13T16:41:22.793301+00:00"
+    },
+    {
+      "file": "translation_workflow.py",
+      "previous_sha256": "5bd7bbc8be8ce42525bdcba9f77caa82733abbfb5e7621d7c9ed8848bd8641a0",
+      "reason": "Bounded retry for Windows atomic rename sharing violations; parent scheduler resumes only valid outstanding leases and skips committed submissions."
+    },
+    {
+      "reason": "Upgrade to quality_version2; add guarded public preparation-only replace-context API and 2 meaningful regression tests.",
+      "test_result": "63 tests passed in304.938 seconds"
+    }
+  ],
+  "previous_run_files": {
+    "D:\\StaticHanHua\\Tools\\localization\\translation_workflow.py": "22a102fa0e2bd2f951a73ac585040fe28d01eeb402cce2405a0b859af4fc6559",
+    "D:\\StaticHanHua\\Tools\\localization\\ainiee_bridge.py": "88a8206082e82bb24e9eb9b17dc7d4ca488b5797496dff2e0f5d0a27215672c2",
+    "D:\\StaticHanHua\\Tools\\localization\\glossary_tool.py": "1c635899f6afb56b6ebac35b149161d268e8bf44d711b938079a5f1c471d5569"
+  },
+  "quality_version": 2,
+  "quality_base_commit": "d8e2972",
+  "latest_run_files": {
+    "D:\\StaticHanHua\\Tools\\localization\\translation_workflow.py": "2b384db98764906433b31285b8aa37a1c13663b82cbbeb3f7e6c411d8b8b6229",
+    "D:\\StaticHanHua\\Tools\\localization\\ainiee_bridge.py": "88a8206082e82bb24e9eb9b17dc7d4ca488b5797496dff2e0f5d0a27215672c2",
+    "D:\\StaticHanHua\\Tools\\localization\\glossary_tool.py": "1c635899f6afb56b6ebac35b149161d268e8bf44d711b938079a5f1c471d5569",
+    "D:\\StaticHanHua\\Tools\\localization\\workflow_quality.py": "c35411788de1280f118d7159eeb15250511525fc523e21ddae5f4a69eb232b1e"
+  },
+  "current_update": "Fresh instance per batch, no CSV neighbours; fix numeric backtracking before HimHer reflexive suffix self; historical pilot work retained as history but not approved under new protection/style.",
+  "latest_regression": {
+    "tests": 66,
+    "result": "passed",
+    "seconds": 167.522,
+    "includes": "3 pilot scheduling/semantic/sample migration regressions",
+    "base_commit": "2b9d0ef",
+    "files": {
+      "D:\\StaticHanHua\\Tools\\localization\\translation_workflow.py": "2b384db98764906433b31285b8aa37a1c13663b82cbbeb3f7e6c411d8b8b6229",
+      "D:\\StaticHanHua\\Tools\\localization\\ainiee_bridge.py": "88a8206082e82bb24e9eb9b17dc7d4ca488b5797496dff2e0f5d0a27215672c2",
+      "D:\\StaticHanHua\\Tools\\localization\\glossary_tool.py": "1c635899f6afb56b6ebac35b149161d268e8bf44d711b938079a5f1c471d5569",
+      "D:\\StaticHanHua\\Tools\\localization\\workflow_quality.py": "c35411788de1280f118d7159eeb15250511525fc523e21ddae5f4a69eb232b1e"
+    }
+  }
+}

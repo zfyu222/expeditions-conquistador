@@ -1,0 +1,2360 @@
+{
+  "references": [
+    "TutorialAOO01-DE",
+    "TutorialAOO01-EN",
+    "TutorialAOO01-ES",
+    "TutorialAOO01-IT",
+    "TutorialAOO01-RU",
+    "TutorialAOO02-DE",
+    "TutorialAOO02-EN",
+    "TutorialAOO02-ES",
+    "TutorialAOO02-IT",
+    "TutorialAOO02-RU",
+    "TutorialAOO03-DE",
+    "TutorialAOO03-EN",
+    "TutorialAOO03-ES",
+    "TutorialAOO03-IT",
+    "TutorialAOO03-RU",
+    "TutorialAbilities-DE",
+    "TutorialAbilities-EN",
+    "TutorialAbilities-ES",
+    "TutorialAbilities-IT",
+    "TutorialAbilities-RU",
+    "TutorialCamping01-DE",
+    "TutorialCamping01-EN",
+    "TutorialCamping01-ES",
+    "TutorialCamping01-IT",
+    "TutorialCamping01-RU",
+    "TutorialCamping02-DE",
+    "TutorialCamping02-EN",
+    "TutorialCamping02-ES",
+    "TutorialCamping02-IT",
+    "TutorialCamping02-RU",
+    "TutorialCamping03-DE",
+    "TutorialCamping03-EN",
+    "TutorialCamping03-ES",
+    "TutorialCamping03-IT",
+    "TutorialCamping03-RU",
+    "TutorialCamping04-DE",
+    "TutorialCamping04-EN",
+    "TutorialCamping04-ES",
+    "TutorialCamping04-IT",
+    "TutorialCamping04-RU",
+    "TutorialCamping05-DE",
+    "TutorialCamping05-EN",
+    "TutorialCamping05-ES",
+    "TutorialCamping05-IT",
+    "TutorialCamping05-RU",
+    "TutorialCamping06-DE",
+    "TutorialCamping06-EN",
+    "TutorialCamping06-ES",
+    "TutorialCamping06-IT",
+    "TutorialCamping06-RU",
+    "TutorialCamping07-DE",
+    "TutorialCamping07-EN",
+    "TutorialCamping07-ES",
+    "TutorialCamping07-IT",
+    "TutorialCamping07-RU",
+    "TutorialCamping08-DE",
+    "TutorialCamping08-EN",
+    "TutorialCamping08-ES",
+    "TutorialCamping08-IT",
+    "TutorialCamping08-RU",
+    "TutorialCamping09-DE",
+    "TutorialCamping09-EN",
+    "TutorialCamping09-ES",
+    "TutorialCamping09-IT",
+    "TutorialCamping09-RU",
+    "TutorialCamping10-DE",
+    "TutorialCamping10-EN",
+    "TutorialCamping10-ES",
+    "TutorialCamping10-IT",
+    "TutorialCamping10-RU",
+    "TutorialCamping11-DE",
+    "TutorialCamping11-EN",
+    "TutorialCamping11-ES",
+    "TutorialCamping11-IT",
+    "TutorialCamping11-RU",
+    "TutorialCamping12-DE",
+    "TutorialCamping12-EN",
+    "TutorialCamping12-ES",
+    "TutorialCamping12-IT",
+    "TutorialCamping12-RU",
+    "TutorialCamping13-DE",
+    "TutorialCamping13-EN",
+    "TutorialCamping13-ES",
+    "TutorialCamping13-IT",
+    "TutorialCamping13-RU",
+    "TutorialCamping14-DE",
+    "TutorialCamping14-EN",
+    "TutorialCamping14-ES",
+    "TutorialCamping14-IT",
+    "TutorialCamping14-RU",
+    "TutorialEndTurn-DE",
+    "TutorialEndTurn-EN",
+    "TutorialEndTurn-ES",
+    "TutorialEndTurn-IT",
+    "TutorialEndTurn-RU",
+    "TutorialFlanking-DE",
+    "TutorialFlanking-EN",
+    "TutorialFlanking-ES",
+    "TutorialFlanking-IT",
+    "TutorialFlanking-RU",
+    "TutorialFollowerManagement01-DE",
+    "TutorialFollowerManagement01-EN",
+    "TutorialFollowerManagement01-ES",
+    "TutorialFollowerManagement01-IT",
+    "TutorialFollowerManagement01-RU",
+    "TutorialFollowerManagement02-DE",
+    "TutorialFollowerManagement02-EN",
+    "TutorialFollowerManagement02-ES",
+    "TutorialFollowerManagement02-IT",
+    "TutorialFollowerManagement02-RU",
+    "TutorialFollowerManagement03-DE",
+    "TutorialFollowerManagement03-EN",
+    "TutorialFollowerManagement03-ES",
+    "TutorialFollowerManagement03-IT",
+    "TutorialFollowerManagement03-RU",
+    "TutorialFollowerManagement04-DE",
+    "TutorialFollowerManagement04-EN",
+    "TutorialFollowerManagement04-ES",
+    "TutorialFollowerManagement04-IT",
+    "TutorialFollowerManagement04-RU",
+    "TutorialFollowerManagement05-DE",
+    "TutorialFollowerManagement05-EN",
+    "TutorialFollowerManagement05-ES",
+    "TutorialFollowerManagement05-IT",
+    "TutorialFollowerManagement05-RU",
+    "TutorialIncapacitated-DE",
+    "TutorialIncapacitated-EN",
+    "TutorialIncapacitated-ES",
+    "TutorialIncapacitated-IT",
+    "TutorialIncapacitated-RU",
+    "TutorialIndicatorRing-DE",
+    "TutorialIndicatorRing-EN",
+    "TutorialIndicatorRing-ES",
+    "TutorialIndicatorRing-IT",
+    "TutorialIndicatorRing-RU",
+    "TutorialInitial-DE",
+    "TutorialInitial-EN",
+    "TutorialInitial-ES",
+    "TutorialInitial-IT",
+    "TutorialInitial-RU",
+    "TutorialItemPlacement-DE",
+    "TutorialItemPlacement-EN",
+    "TutorialItemPlacement-ES",
+    "TutorialItemPlacement-IT",
+    "TutorialItemPlacement-RU",
+    "TutorialItemPlacementEnd-DE",
+    "TutorialItemPlacementEnd-EN",
+    "TutorialItemPlacementEnd-ES",
+    "TutorialItemPlacementEnd-IT",
+    "TutorialItemPlacementEnd-RU",
+    "TutorialLeavingCity01-DE",
+    "TutorialLeavingCity01-EN",
+    "TutorialLeavingCity01-ES",
+    "TutorialLeavingCity01-IT",
+    "TutorialLeavingCity01-RU",
+    "TutorialMapInitial01-DE",
+    "TutorialMapInitial01-EN",
+    "TutorialMapInitial01-ES",
+    "TutorialMapInitial01-IT",
+    "TutorialMapInitial01-RU",
+    "TutorialMapInitial02-DE",
+    "TutorialMapInitial02-EN",
+    "TutorialMapInitial02-ES",
+    "TutorialMapInitial02-IT",
+    "TutorialMapInitial02-RU",
+    "TutorialMapInitial03-DE",
+    "TutorialMapInitial03-EN",
+    "TutorialMapInitial03-ES",
+    "TutorialMapInitial03-IT",
+    "TutorialMapInitial03-RU",
+    "TutorialMapInitial04-DE",
+    "TutorialMapInitial04-EN",
+    "TutorialMapInitial04-ES",
+    "TutorialMapInitial04-IT",
+    "TutorialMapInitial04-RU",
+    "TutorialMovement-DE",
+    "TutorialMovement-EN",
+    "TutorialMovement-ES",
+    "TutorialMovement-IT",
+    "TutorialMovement-RU",
+    "TutorialNoMoves-DE",
+    "TutorialNoMoves-EN",
+    "TutorialNoMoves-ES",
+    "TutorialNoMoves-IT",
+    "TutorialNoMoves-RU",
+    "TutorialPreparationPhase-DE",
+    "TutorialPreparationPhase-EN",
+    "TutorialPreparationPhase-ES",
+    "TutorialPreparationPhase-IT",
+    "TutorialPreparationPhase-RU",
+    "TutorialRanged01-DE",
+    "TutorialRanged01-EN",
+    "TutorialRanged01-ES",
+    "TutorialRanged01-IT",
+    "TutorialRanged01-RU",
+    "TutorialRanged02-DE",
+    "TutorialRanged02-EN",
+    "TutorialRanged02-ES",
+    "TutorialRanged02-IT",
+    "TutorialRanged02-RU",
+    "TutorialRanged03-DE",
+    "TutorialRanged03-EN",
+    "TutorialRanged03-ES",
+    "TutorialRanged03-IT",
+    "TutorialRanged03-RU",
+    "TutorialRestore-DE",
+    "TutorialRestore-EN",
+    "TutorialRestore-ES",
+    "TutorialRestore-IT",
+    "TutorialRestore-RU",
+    "TutorialTrading01-DE",
+    "TutorialTrading01-EN",
+    "TutorialTrading01-ES",
+    "TutorialTrading01-IT",
+    "TutorialTrading01-RU",
+    "TutorialTrading02-DE",
+    "TutorialTrading02-EN",
+    "TutorialTrading02-ES",
+    "TutorialTrading02-IT",
+    "TutorialTrading02-RU",
+    "TutorialVictoryScreen-DE",
+    "TutorialVictoryScreen-EN",
+    "TutorialVictoryScreen-ES",
+    "TutorialVictoryScreen-IT",
+    "TutorialVictoryScreen-RU",
+    "TutorialWeaponSwitch-DE",
+    "TutorialWeaponSwitch-EN",
+    "TutorialWeaponSwitch-ES",
+    "TutorialWeaponSwitch-IT",
+    "TutorialWeaponSwitch-RU",
+    "TutorialWoundedFollower-DE",
+    "TutorialWoundedFollower-EN",
+    "TutorialWoundedFollower-ES",
+    "TutorialWoundedFollower-IT",
+    "TutorialWoundedFollower-RU"
+  ],
+  "textures": [
+    {
+      "container": "TutorialCamping11-EN",
+      "path_id": 4,
+      "name": "TutorialCamping11-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/4_TutorialCamping11-EN.png",
+      "sha256": "32def32861fa1e681e4da563acb550bd4ad113923d977227512ff171fd9facef"
+    },
+    {
+      "container": "TutorialMapInitial02-RU",
+      "path_id": 5,
+      "name": "TutorialMapInitial02-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/5_TutorialMapInitial02-RU.png",
+      "sha256": "8f4488e5d15b323ad686debcfafdd27a1815826cfcee129e6042b4c537b92443"
+    },
+    {
+      "container": "TutorialAOO02-DE",
+      "path_id": 6,
+      "name": "TutorialAOO02-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/6_TutorialAOO02-DE.png",
+      "sha256": "ed9a1549beb4610876f04c5c1ceb0d7f5bd9d4f6fea32aa8ae6b11f73f78bf43"
+    },
+    {
+      "container": "TutorialMapInitial03-RU",
+      "path_id": 8,
+      "name": "TutorialMapInitial03-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/8_TutorialMapInitial03-RU.png",
+      "sha256": "6f6d8b88fa1356079a194bf9940a61ff398689a391de6c8597719964cc7ee850"
+    },
+    {
+      "container": "TutorialAOO02-RU",
+      "path_id": 11,
+      "name": "TutorialAOO02-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/11_TutorialAOO02-RU.png",
+      "sha256": "fbcd8d1154c4462fbf18441f5a61f457d66f96c105ce0b579ff67a02517f7541"
+    },
+    {
+      "container": "TutorialRestore-RU",
+      "path_id": 13,
+      "name": "TutorialRestore-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/13_TutorialRestore-RU.png",
+      "sha256": "d1a1061ad9d64ff26752e4e530278664ec3468c5e55bafb4b87b6f1bb181e9f1"
+    },
+    {
+      "container": "TutorialAOO01-EN",
+      "path_id": 18,
+      "name": "TutorialAOO01-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/18_TutorialAOO01-EN.png",
+      "sha256": "4d5c75905a5c031bfbf02329b6fcc8ca89362d03857765acb5cec356ed8f53fc"
+    },
+    {
+      "container": "TutorialCamping12-EN",
+      "path_id": 20,
+      "name": "TutorialCamping12-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/20_TutorialCamping12-EN.png",
+      "sha256": "f0046a3b546a0e98ab0d1d6e1c13527f98ec460e8430a6124f144027aade5fe8"
+    },
+    {
+      "container": "TutorialNoMoves-DE",
+      "path_id": 21,
+      "name": "TutorialNoMoves-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/21_TutorialNoMoves-DE.png",
+      "sha256": "a90cc42fbbdcf628d1e36870b0d94b83b03867d4637f34ee58704a2fddc5a625"
+    },
+    {
+      "container": "TutorialMapInitial04-DE",
+      "path_id": 27,
+      "name": "TutorialMapInitial04-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/27_TutorialMapInitial04-DE.png",
+      "sha256": "64711d3b7a993169b132ce9a110162696d631fa1a47dbd1c35fccc127c3ffa48"
+    },
+    {
+      "container": "TutorialCamping08-RU",
+      "path_id": 30,
+      "name": "TutorialCamping08-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/30_TutorialCamping08-RU.png",
+      "sha256": "f64095b4bd9084c83fad90ff80775fad2b43fd49f92954b9140095197f49f26f"
+    },
+    {
+      "container": "TutorialAOO02-EN",
+      "path_id": 32,
+      "name": "TutorialAOO02-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/32_TutorialAOO02-EN.png",
+      "sha256": "82e0d303de0b746a14c51e99bf516c9f247b0308de0dfcf17aa3d2d4bd290eb3"
+    },
+    {
+      "container": "TutorialItemPlacement-IT",
+      "path_id": 36,
+      "name": "TutorialItemPlacement-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/36_TutorialItemPlacement-IT.png",
+      "sha256": "8eafdc0b7517aa650319ce798c79036a9888ed4c202216c05bf01d649002ec6a"
+    },
+    {
+      "container": "TutorialRanged03-IT",
+      "path_id": 38,
+      "name": "TutorialRanged03-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/38_TutorialRanged03-IT.png",
+      "sha256": "b9d361abf4a5205f2181ed9fc4c21159eca18f9f270209eeec58ec73a4dd6f28"
+    },
+    {
+      "container": "TutorialInitial-EN",
+      "path_id": 45,
+      "name": "TutorialInitial-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/45_TutorialInitial-EN.png",
+      "sha256": "e0ae17dce8e70dbfbc022ebe8f7853f08622789bb59c90524f25156c2b20a56f"
+    },
+    {
+      "container": "TutorialCamping01-IT",
+      "path_id": 46,
+      "name": "TutorialCamping01-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/46_TutorialCamping01-IT.png",
+      "sha256": "d71c8d7a66de85ebf0e5286501c37c6af04a23c5bdb73517632306df6943b207"
+    },
+    {
+      "container": "TutorialMovement-DE",
+      "path_id": 49,
+      "name": "TutorialMovement-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/49_TutorialMovement-DE.png",
+      "sha256": "5a3165cadfd969acb701cbcd035e7b625a3a3460c5a3fa5bb186f95a6dc1ffbe"
+    },
+    {
+      "container": "TutorialCamping12-RU",
+      "path_id": 55,
+      "name": "TutorialCamping12-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/55_TutorialCamping12-RU.png",
+      "sha256": "332a8f6440864beb785979118dff7525b669cd5dd34fe0eade67b8d4ef40977a"
+    },
+    {
+      "container": "TutorialPreparationPhase-RU",
+      "path_id": 62,
+      "name": "TutorialPreparationPhase-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/62_TutorialPreparationPhase-RU.png",
+      "sha256": "f302abaa799a5e7fe02a56c4d2823fd307af8b71f361b0d486da19eff055931b"
+    },
+    {
+      "container": "TutorialItemPlacementEnd-DE",
+      "path_id": 64,
+      "name": "TutorialItemPlacementEnd-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/64_TutorialItemPlacementEnd-DE.png",
+      "sha256": "9da8acfc4af6c7b6dc9d14c454c9bcda10d868654b402de539634d71d1e5104f"
+    },
+    {
+      "container": "TutorialCamping10-DE",
+      "path_id": 68,
+      "name": "TutorialCamping10-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/68_TutorialCamping10-DE.png",
+      "sha256": "334bc539d927197bffc623291b7482df85074dfb8092fd713eb5a2efa10e1c83"
+    },
+    {
+      "container": "TutorialCamping13-EN",
+      "path_id": 75,
+      "name": "TutorialCamping13-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/75_TutorialCamping13-EN.png",
+      "sha256": "3f62bba0f4dffecd1721d1fad78355a333488895c5877d2b49b5efd1677dacfb"
+    },
+    {
+      "container": "TutorialLeavingCity01-ES",
+      "path_id": 79,
+      "name": "TutorialLeavingCity01-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/79_TutorialLeavingCity01-ES.png",
+      "sha256": "7cb146471133fdb448800014c94d651fe67db38815ae4891839dfe207b040dda"
+    },
+    {
+      "container": "TutorialVictoryScreen-RU",
+      "path_id": 80,
+      "name": "TutorialVictoryScreen-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/80_TutorialVictoryScreen-RU.png",
+      "sha256": "9b0b78252de629849556d29d69e39bc6b803b153aa6ebabea023605beb9e0ae4"
+    },
+    {
+      "container": "TutorialIncapacitated-EN",
+      "path_id": 85,
+      "name": "TutorialIncapacitated-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/85_TutorialIncapacitated-EN.png",
+      "sha256": "49ba7a00aa9167492e71a3c5bc80b4cb5167335af20f2c202f127447dcca7aef"
+    },
+    {
+      "container": "TutorialMapInitial01-EN",
+      "path_id": 87,
+      "name": "TutorialMapInitial01-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/87_TutorialMapInitial01-EN.png",
+      "sha256": "2f7877f4c573de95569b4cae40529209a471a32d8fb491308fe8ab68659d6e49"
+    },
+    {
+      "container": "TutorialRestore-ES",
+      "path_id": 94,
+      "name": "TutorialRestore-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/94_TutorialRestore-ES.png",
+      "sha256": "1ca25a573b2af158d865a9cdf09b55a02e935dd220252a09440998986de411e2"
+    },
+    {
+      "container": "TutorialAbilities-DE",
+      "path_id": 95,
+      "name": "TutorialAbilities-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/95_TutorialAbilities-DE.png",
+      "sha256": "4522bd722293e06617507dfb4b5cfab13b46f0856fbf0856ae62f84925171c0e"
+    },
+    {
+      "container": "TutorialCamping06-DE",
+      "path_id": 97,
+      "name": "TutorialCamping06-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/97_TutorialCamping06-DE.png",
+      "sha256": "072fe2f8c98effb1b93590ee8bfc42da0d994f29cc290e3767d0e85861772101"
+    },
+    {
+      "container": "TutorialFollowerManagement05-ES",
+      "path_id": 104,
+      "name": "TutorialFollowerManagement05-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/104_TutorialFollowerManagement05-ES.png",
+      "sha256": "81d8221faec9c55d179f1ceedf5012210edafe84662abf746981a08512142fe0"
+    },
+    {
+      "container": "TutorialMapInitial04-RU",
+      "path_id": 105,
+      "name": "TutorialMapInitial04-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/105_TutorialMapInitial04-RU.png",
+      "sha256": "00bc887ddee620fc3d6213102a11aab4ffff8113df4a0a53490fd0ee57f7b07e"
+    },
+    {
+      "container": "TutorialEndTurn-EN",
+      "path_id": 110,
+      "name": "TutorialEndTurn-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/110_TutorialEndTurn-EN.png",
+      "sha256": "8058881483b51e70841b408c0fdfaf7b02ed5d03e3156338bbb1c01922a0d362"
+    },
+    {
+      "container": "TutorialAOO03-EN",
+      "path_id": 113,
+      "name": "TutorialAOO03-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/113_TutorialAOO03-EN.png",
+      "sha256": "de0696e2f76847f4aa07bda44bf8decc24d19b25f05e0d53872dddc0a8ae8b27"
+    },
+    {
+      "container": "TutorialCamping06-IT",
+      "path_id": 119,
+      "name": "TutorialCamping06-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/119_TutorialCamping06-IT.png",
+      "sha256": "d08aa7e8aeb747187738488e7de4a3d3ce9686a8b95b4a088f42c3462cd5f308"
+    },
+    {
+      "container": "TutorialMapInitial04-EN",
+      "path_id": 126,
+      "name": "TutorialMapInitial04-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/126_TutorialMapInitial04-EN.png",
+      "sha256": "f25e38eaa6dd7a7b1bdb69a2df543b62b85681240dc6aa991e2b841eec4a039c"
+    },
+    {
+      "container": "TutorialAOO03-IT",
+      "path_id": 128,
+      "name": "TutorialAOO03-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/128_TutorialAOO03-IT.png",
+      "sha256": "b5df297df2cdbf8b8eed70c65e00ea2ef1516a117809f9cee319885223e150a0"
+    },
+    {
+      "container": "TutorialFollowerManagement01-RU",
+      "path_id": 133,
+      "name": "TutorialFollowerManagement01-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/133_TutorialFollowerManagement01-RU.png",
+      "sha256": "57a6afeba05213f538a18355a05f7456963adced75d52e0fdce90ee527a93549"
+    },
+    {
+      "container": "TutorialFollowerManagement01-DE",
+      "path_id": 136,
+      "name": "TutorialFollowerManagement01-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/136_TutorialFollowerManagement01-DE.png",
+      "sha256": "d6c9ca1089582417f6ded5728445367fa538034efe0bd5be9fab68ff1f8b5f4d"
+    },
+    {
+      "container": "TutorialFollowerManagement02-IT",
+      "path_id": 138,
+      "name": "TutorialFollowerManagement02-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/138_TutorialFollowerManagement02-IT.png",
+      "sha256": "c557d0bdb8e1c4f349363fef987d1c38ea38842c2d9532952b684cf92afa17fb"
+    },
+    {
+      "container": "TutorialAOO03-DE",
+      "path_id": 139,
+      "name": "TutorialAOO03-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/139_TutorialAOO03-DE.png",
+      "sha256": "708198ae552a5564fd08522f191541edfc77b540880720f146edab4cb5031f4e"
+    },
+    {
+      "container": "TutorialFollowerManagement01-ES",
+      "path_id": 142,
+      "name": "TutorialFollowerManagement01-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/142_TutorialFollowerManagement01-ES.png",
+      "sha256": "6d5822fb61c5db13c7186228e3e485d6b92628e52f2b87d253615f953fe6b897"
+    },
+    {
+      "container": "TutorialCamping14-EN",
+      "path_id": 144,
+      "name": "TutorialCamping14-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/144_TutorialCamping14-EN.png",
+      "sha256": "a0191b25a1b6459cea3ee1451db72dd9db6f5ace0f4feb2daf04afb4766cbb29"
+    },
+    {
+      "container": "TutorialPreparationPhase-EN",
+      "path_id": 145,
+      "name": "TutorialPreparationPhase-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/145_TutorialPreparationPhase-EN.png",
+      "sha256": "7322ab961de8b573dcfd7ab14018efadd3364a003d334ea68e3be59779290dbf"
+    },
+    {
+      "container": "TutorialNoMoves-ES",
+      "path_id": 149,
+      "name": "TutorialNoMoves-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/149_TutorialNoMoves-ES.png",
+      "sha256": "7692edcd54824b99ed860f99bea2bf8845655868af2a7191f5db6f2bd30387cf"
+    },
+    {
+      "container": "TutorialItemPlacementEnd-ES",
+      "path_id": 151,
+      "name": "TutorialItemPlacementEnd-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/151_TutorialItemPlacementEnd-ES.png",
+      "sha256": "47f360aefd5dbef0eddb131e7e50d09bd671d5d7d56ddd4105c3f06b8218962a"
+    },
+    {
+      "container": "TutorialVictoryScreen-IT",
+      "path_id": 155,
+      "name": "TutorialVictoryScreen-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/155_TutorialVictoryScreen-IT.png",
+      "sha256": "5c3f979396d54b5df7c5f2b054b0b5c5c25fe53163c458332576b0e14c7821a5"
+    },
+    {
+      "container": "TutorialCamping01-EN",
+      "path_id": 157,
+      "name": "TutorialCamping01-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/157_TutorialCamping01-EN.png",
+      "sha256": "10a2e54bdfb52bb3b1e2c9bc164bdb9cab67c577051f875fc6463a67fcddc733"
+    },
+    {
+      "container": "TutorialMapInitial01-RU",
+      "path_id": 158,
+      "name": "TutorialMapInitial01-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/158_TutorialMapInitial01-RU.png",
+      "sha256": "45fda23d8c9e82db6403ad7225ae2ab8714b126eadbeb767a0abffde8e06e8f4"
+    },
+    {
+      "container": "TutorialInitial-IT",
+      "path_id": 159,
+      "name": "TutorialInitial-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/159_TutorialInitial-IT.png",
+      "sha256": "23fdc0f601b111fc997fe92ab8242fed2e3e13167ab42254682274bd3a9b0db4"
+    },
+    {
+      "container": "TutorialMapInitial02-DE",
+      "path_id": 164,
+      "name": "TutorialMapInitial02-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/164_TutorialMapInitial02-DE.png",
+      "sha256": "0d1f61017a2854acd5f00cd7c8e520e7ee7319eae1332b8124ee959991ba5d28"
+    },
+    {
+      "container": "TutorialFollowerManagement04-DE",
+      "path_id": 169,
+      "name": "TutorialFollowerManagement04-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/169_TutorialFollowerManagement04-DE.png",
+      "sha256": "dfaa5a474d951c40c7377d27fe865ebb2a4f68915acd3fd2913813708e0ff5ed"
+    },
+    {
+      "container": "TutorialInitial-RU",
+      "path_id": 171,
+      "name": "TutorialInitial-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/171_TutorialInitial-RU.png",
+      "sha256": "8ba419988377c80493acf49aa3176a304bbcf0473935bb98f20ba0a4dd3f3a6e"
+    },
+    {
+      "container": "TutorialCamping01-ES",
+      "path_id": 175,
+      "name": "TutorialCamping01-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/175_TutorialCamping01-ES.png",
+      "sha256": "1e5946c2c7cab4745c183d2af564aaa5d368eb6a96c5a52674be463358b1af1c"
+    },
+    {
+      "container": "TutorialPreparationPhase-ES",
+      "path_id": 177,
+      "name": "TutorialPreparationPhase-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/177_TutorialPreparationPhase-ES.png",
+      "sha256": "03e56cc52c90268951bfd66c6cab9951b722656f3b0ace3be1fb38eed4caba1a"
+    },
+    {
+      "container": "TutorialNoMoves-RU",
+      "path_id": 186,
+      "name": "TutorialNoMoves-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/186_TutorialNoMoves-RU.png",
+      "sha256": "b24a1a3befc5a733ccd09206b8c48837d827117dd7ef0c61b83aecadf49461c2"
+    },
+    {
+      "container": "TutorialCamping05-RU",
+      "path_id": 189,
+      "name": "TutorialCamping05-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/189_TutorialCamping05-RU.png",
+      "sha256": "222219fe644bd759d2bc9940bf59810eb19a427930fecee6eaa8bbfb5b6271c1"
+    },
+    {
+      "container": "TutorialAOO02-ES",
+      "path_id": 195,
+      "name": "TutorialAOO02-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/195_TutorialAOO02-ES.png",
+      "sha256": "43360ae2e63e3acbc54e9ebf37ce5105d7a1839260d3f05c6283e6448cd1b873"
+    },
+    {
+      "container": "TutorialCamping07-IT",
+      "path_id": 196,
+      "name": "TutorialCamping07-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/196_TutorialCamping07-IT.png",
+      "sha256": "3f19a32ed39776c90067682c491f22a20455b6f0b6092f6b327e633ae9d19a9f"
+    },
+    {
+      "container": "TutorialAbilities-EN",
+      "path_id": 197,
+      "name": "TutorialAbilities-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/197_TutorialAbilities-EN.png",
+      "sha256": "79f1812d4f725b3cd9ea047080361b0170c92f55c1dd766ac5338f153f294067"
+    },
+    {
+      "container": "TutorialFollowerManagement03-DE",
+      "path_id": 198,
+      "name": "TutorialFollowerManagement03-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/198_TutorialFollowerManagement03-DE.png",
+      "sha256": "29db080b4468f4e62d7dccf39cd774ecee652704899814bb320d7419f7c7e29c"
+    },
+    {
+      "container": "TutorialCamping09-EN",
+      "path_id": 205,
+      "name": "TutorialCamping09-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/205_TutorialCamping09-EN.png",
+      "sha256": "899583c77b7e7e40ea5092487d79073191f3ffa3decf06ecfad30efa1258ce82"
+    },
+    {
+      "container": "TutorialCamping14-DE",
+      "path_id": 207,
+      "name": "TutorialCamping14-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/207_TutorialCamping14-DE.png",
+      "sha256": "1aecaaf0bbb00ac8e0b8e81e292134bcea55246648d62fadf0e6ebb5ac77f7e9"
+    },
+    {
+      "container": "TutorialCamping08-IT",
+      "path_id": 210,
+      "name": "TutorialCamping08-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/210_TutorialCamping08-IT.png",
+      "sha256": "7e6d19350e028bc6f5001e952d65667c2d0b7059faf2180e6c6ea0a4f10ae112"
+    },
+    {
+      "container": "TutorialIncapacitated-RU",
+      "path_id": 215,
+      "name": "TutorialIncapacitated-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/215_TutorialIncapacitated-RU.png",
+      "sha256": "1c3824d56b152402c47a16192cc462c533db61c5a730c52362918fb05365dc08"
+    },
+    {
+      "container": "TutorialCamping14-IT",
+      "path_id": 216,
+      "name": "TutorialCamping14-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/216_TutorialCamping14-IT.png",
+      "sha256": "8ceccd65082fef7b2c0280643d208433887ce612647d06bfeaa624ff6e22d64c"
+    },
+    {
+      "container": "TutorialWeaponSwitch-IT",
+      "path_id": 223,
+      "name": "TutorialWeaponSwitch-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/223_TutorialWeaponSwitch-IT.png",
+      "sha256": "a28605cacf636fc011da6cb12a6d1dff5432ed3905dee00de547890ed93d3b73"
+    },
+    {
+      "container": "TutorialCamping13-ES",
+      "path_id": 226,
+      "name": "TutorialCamping13-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/226_TutorialCamping13-ES.png",
+      "sha256": "84bf053fbd902adfd8e20836ee0e80ea68060ba8c13f8dd019c5c7da7b7d5dba"
+    },
+    {
+      "container": "TutorialFlanking-ES",
+      "path_id": 232,
+      "name": "TutorialFlanking-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/232_TutorialFlanking-ES.png",
+      "sha256": "d3842a3038b7423e0c4ce8ae0dbb784968d1259df97839d9dbb3d6a775fceaba"
+    },
+    {
+      "container": "TutorialFollowerManagement03-EN",
+      "path_id": 235,
+      "name": "TutorialFollowerManagement03-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/235_TutorialFollowerManagement03-EN.png",
+      "sha256": "bcfa07d170dcdf7bb4900ef379363c4e94c2e7d2eca18a7f027743c8fcb5c4c8"
+    },
+    {
+      "container": "TutorialIncapacitated-ES",
+      "path_id": 239,
+      "name": "TutorialIncapacitated-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/239_TutorialIncapacitated-ES.png",
+      "sha256": "840353e536c043da68b35d97196f7ed2c372ff86cd3513e88bbeb16aebeed8e8"
+    },
+    {
+      "container": "TutorialRanged01-DE",
+      "path_id": 240,
+      "name": "TutorialRanged01-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/240_TutorialRanged01-DE.png",
+      "sha256": "3210cf2ec7cfd9f42f5b02c2357f5f7cee67a317f6b6f7fa18445197a1863154"
+    },
+    {
+      "container": "TutorialCamping12-DE",
+      "path_id": 242,
+      "name": "TutorialCamping12-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/242_TutorialCamping12-DE.png",
+      "sha256": "e3329df2dbf2f28a5688968188de7a544fbec4e772b47f76d5e95f1f82706414"
+    },
+    {
+      "container": "TutorialWeaponSwitch-DE",
+      "path_id": 244,
+      "name": "TutorialWeaponSwitch-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/244_TutorialWeaponSwitch-DE.png",
+      "sha256": "9709c6a96bcc96f46a92c5c06748abf3e3fcb1a1a41b9729e0de1ecc7cd44283"
+    },
+    {
+      "container": "TutorialNoMoves-IT",
+      "path_id": 246,
+      "name": "TutorialNoMoves-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/246_TutorialNoMoves-IT.png",
+      "sha256": "ac508fc5a0cd01d5ccd6326d8ed94d496af0418ec44f804c2d0fd6b3c8b800a9"
+    },
+    {
+      "container": "TutorialAOO02-IT",
+      "path_id": 247,
+      "name": "TutorialAOO02-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/247_TutorialAOO02-IT.png",
+      "sha256": "04e0fee2e3e21f9edc90970730390f295ae7150521814c437610af90a5e08e12"
+    },
+    {
+      "container": "TutorialMovement-RU",
+      "path_id": 248,
+      "name": "TutorialMovement-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/248_TutorialMovement-RU.png",
+      "sha256": "03d4a3aad1a0792ef5118c3253bd78a8b4f02d506ae273628f22099fcf0e5989"
+    },
+    {
+      "container": "TutorialFollowerManagement02-RU",
+      "path_id": 249,
+      "name": "TutorialFollowerManagement02-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/249_TutorialFollowerManagement02-RU.png",
+      "sha256": "af9af5720e72018404d30b57159a049a9badcedb2132f2904828260847375197"
+    },
+    {
+      "container": "TutorialEndTurn-RU",
+      "path_id": 253,
+      "name": "TutorialEndTurn-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/253_TutorialEndTurn-RU.png",
+      "sha256": "672606dab27ede68539a2823989e8cf91c6720ba92561652c9f833cd26c9c63d"
+    },
+    {
+      "container": "TutorialCamping01-RU",
+      "path_id": 255,
+      "name": "TutorialCamping01-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/255_TutorialCamping01-RU.png",
+      "sha256": "96c39121ef02ca56a7a34eba544d219c86ec505b52ea5649c017cfc5d4763538"
+    },
+    {
+      "container": "TutorialCamping05-DE",
+      "path_id": 257,
+      "name": "TutorialCamping05-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/257_TutorialCamping05-DE.png",
+      "sha256": "0410bb95d5f4122f87025efdd32b7340cac612d8e2d47991d2a129e2e4bf7bb4"
+    },
+    {
+      "container": "TutorialFollowerManagement01-EN",
+      "path_id": 262,
+      "name": "TutorialFollowerManagement01-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/262_TutorialFollowerManagement01-EN.png",
+      "sha256": "15fa1823950f5c376dfc829860e5322b7d13e2630e42b9cc67e8a6c27bc21435"
+    },
+    {
+      "container": "TutorialLeavingCity01-IT",
+      "path_id": 263,
+      "name": "TutorialLeavingCity01-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/263_TutorialLeavingCity01-IT.png",
+      "sha256": "f3ff2d98b2328d8a927bda1afa1c143ed2edc6a4da4b6fb4fa34e7f60f0a7e6d"
+    },
+    {
+      "container": "TutorialCamping14-RU",
+      "path_id": 271,
+      "name": "TutorialCamping14-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/271_TutorialCamping14-RU.png",
+      "sha256": "2521eaa9522d3a59acefdca54c0d35ff80c7449bd797f9a6d6752d32a9392979"
+    },
+    {
+      "container": "TutorialAOO03-ES",
+      "path_id": 274,
+      "name": "TutorialAOO03-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/274_TutorialAOO03-ES.png",
+      "sha256": "c9c98cb51bb73c477a9756b0d85c020ec98ca82cca59f81451d10d1ddcb18110"
+    },
+    {
+      "container": "TutorialFollowerManagement05-RU",
+      "path_id": 277,
+      "name": "TutorialFollowerManagement05-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/277_TutorialFollowerManagement05-RU.png",
+      "sha256": "48c660f6c22a4e2352cfd6781e09caa7bb42c00f00ff67da6421b498513954ec"
+    },
+    {
+      "container": "TutorialAOO01-RU",
+      "path_id": 278,
+      "name": "TutorialAOO01-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/278_TutorialAOO01-RU.png",
+      "sha256": "88338322728b82048fa3110605ee78044fa1c612558ed1018bda755da1eae963"
+    },
+    {
+      "container": "TutorialRanged02-DE",
+      "path_id": 292,
+      "name": "TutorialRanged02-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/292_TutorialRanged02-DE.png",
+      "sha256": "381b961d915ff76bee6f68ce7bd0915b5a5b0d04964b17d6c84c052ef024b405"
+    },
+    {
+      "container": "TutorialFollowerManagement03-RU",
+      "path_id": 293,
+      "name": "TutorialFollowerManagement03-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/293_TutorialFollowerManagement03-RU.png",
+      "sha256": "28db143883f8f6db46c8248d6439054ab19470a168ac0710923c79c1a8e868f2"
+    },
+    {
+      "container": "TutorialRanged03-EN",
+      "path_id": 298,
+      "name": "TutorialRanged03-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/298_TutorialRanged03-EN.png",
+      "sha256": "f8aeb65efc290f1ca7c4441bd5b3116adfa7a960f276174893b515e244d13c84"
+    },
+    {
+      "container": "TutorialRanged01-ES",
+      "path_id": 301,
+      "name": "TutorialRanged01-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/301_TutorialRanged01-ES.png",
+      "sha256": "057a25e3579d295864c39d2487e9f48965989e70ddc6dae10f3c4a058b1aae08"
+    },
+    {
+      "container": "TutorialWoundedFollower-EN",
+      "path_id": 303,
+      "name": "TutorialWoundedFollower-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/303_TutorialWoundedFollower-EN.png",
+      "sha256": "fec629f7e169fedc3ac1446e4402b9dbcf088d61bd779d175505c04272133da9"
+    },
+    {
+      "container": "TutorialCamping02-RU",
+      "path_id": 310,
+      "name": "TutorialCamping02-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/310_TutorialCamping02-RU.png",
+      "sha256": "cef93e70f05106d88a84b2b4d3aadeebe2ec370de0fc6f08e26f9a0dab110188"
+    },
+    {
+      "container": "TutorialFollowerManagement05-IT",
+      "path_id": 314,
+      "name": "TutorialFollowerManagement05-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/314_TutorialFollowerManagement05-IT.png",
+      "sha256": "7de13430877cca99bbab40f4d19871ce3da49f7746996a29676900d5dabd13cc"
+    },
+    {
+      "container": "TutorialItemPlacementEnd-IT",
+      "path_id": 319,
+      "name": "TutorialItemPlacementEnd-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/319_TutorialItemPlacementEnd-IT.png",
+      "sha256": "07069831a366020b5be2f3f9621dd8ead258d9adb951a3eda8cf47ad95614221"
+    },
+    {
+      "container": "TutorialCamping08-ES",
+      "path_id": 321,
+      "name": "TutorialCamping08-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/321_TutorialCamping08-ES.png",
+      "sha256": "daa6cecea346ba8024544906654369f600f0bfb3020a7fa7e11f11a1611abc95"
+    },
+    {
+      "container": "TutorialTrading01-EN",
+      "path_id": 326,
+      "name": "TutorialTrading01-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/326_TutorialTrading01-EN.png",
+      "sha256": "e06ffc7b10fb27a4329cbf06bd8dcc1db2181dfc172bce070c0afd2ba056b83f"
+    },
+    {
+      "container": "TutorialItemPlacement-RU",
+      "path_id": 329,
+      "name": "TutorialItemPlacement-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/329_TutorialItemPlacement-RU.png",
+      "sha256": "5d116d48f66832cb4a4989c2e87bc4da007db3f175cb3f128c241c13c397829d"
+    },
+    {
+      "container": "TutorialTrading02-RU",
+      "path_id": 330,
+      "name": "TutorialTrading02-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/330_TutorialTrading02-RU.png",
+      "sha256": "49eba373a0c93eeb08e9b62dbccbb3a78eb6a28e2c011aa9ef9ea8c2651e3a0a"
+    },
+    {
+      "container": "TutorialEndTurn-DE",
+      "path_id": 333,
+      "name": "TutorialEndTurn-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/333_TutorialEndTurn-DE.png",
+      "sha256": "61004a97f0c3d532392ce26a37b5a5ece8815f6c4578908b1e58903b87da2879"
+    },
+    {
+      "container": "TutorialIncapacitated-IT",
+      "path_id": 341,
+      "name": "TutorialIncapacitated-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/341_TutorialIncapacitated-IT.png",
+      "sha256": "b318673b6e22961eadfabe7f79d179e869edec01430a8276f044ce96396c1252"
+    },
+    {
+      "container": "TutorialRanged02-ES",
+      "path_id": 345,
+      "name": "TutorialRanged02-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/345_TutorialRanged02-ES.png",
+      "sha256": "0352d99e06b4a46ed29016972bf02fb64a43d60bd68336b6036fe493c428aaba"
+    },
+    {
+      "container": "TutorialCamping07-EN",
+      "path_id": 350,
+      "name": "TutorialCamping07-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/350_TutorialCamping07-EN.png",
+      "sha256": "2a120c811a94549d69dd97458cd06162a98d314401ee6749fd8d11ffc6b9af97"
+    },
+    {
+      "container": "TutorialFlanking-EN",
+      "path_id": 354,
+      "name": "TutorialFlanking-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/354_TutorialFlanking-EN.png",
+      "sha256": "5a8606a4ed451c7976d1a965c5edab3c6b24bb5872abdbabbaa4eb779ef91b90"
+    },
+    {
+      "container": "TutorialCamping03-ES",
+      "path_id": 355,
+      "name": "TutorialCamping03-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/355_TutorialCamping03-ES.png",
+      "sha256": "94050c04070e5c3934b07527e159cc233c932d99b0b4cb6e535bbb2bea192310"
+    },
+    {
+      "container": "TutorialInitial-ES",
+      "path_id": 361,
+      "name": "TutorialInitial-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/361_TutorialInitial-ES.png",
+      "sha256": "239def58baf21d8bc2034f3ad11729238081bae6bd8d550d81eef0e38f4d5d35"
+    },
+    {
+      "container": "TutorialAOO03-RU",
+      "path_id": 362,
+      "name": "TutorialAOO03-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/362_TutorialAOO03-RU.png",
+      "sha256": "4ef469f2ddd709d596fd37648b337759f2e012ef5f0243b302808d9050c1b616"
+    },
+    {
+      "container": "TutorialCamping04-ES",
+      "path_id": 365,
+      "name": "TutorialCamping04-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/365_TutorialCamping04-ES.png",
+      "sha256": "a3f00ce149a52b1d261f6841dd49c2a66d66b1823de030ba3c6403308fb5c9a7"
+    },
+    {
+      "container": "TutorialItemPlacementEnd-RU",
+      "path_id": 366,
+      "name": "TutorialItemPlacementEnd-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/366_TutorialItemPlacementEnd-RU.png",
+      "sha256": "94ca6f865cadd5925985bae14cae81373a2343eeaaf6a02811a525717d1e9464"
+    },
+    {
+      "container": "TutorialFollowerManagement02-DE",
+      "path_id": 378,
+      "name": "TutorialFollowerManagement02-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/378_TutorialFollowerManagement02-DE.png",
+      "sha256": "e4829af5807402ac1829ca199afd1ad71ed1f98b394c09eb608ba38d844cecb1"
+    },
+    {
+      "container": "TutorialRestore-DE",
+      "path_id": 379,
+      "name": "TutorialRestore-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/379_TutorialRestore-DE.png",
+      "sha256": "f3c7980eaf61d656d1c1aaeb4662adbec57d84848caeddac522b451c8530faa0"
+    },
+    {
+      "container": "TutorialCamping11-IT",
+      "path_id": 386,
+      "name": "TutorialCamping11-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/386_TutorialCamping11-IT.png",
+      "sha256": "20a69eba591d49f277f4fed4473d43d982010e32d4275c123506dc5299069758"
+    },
+    {
+      "container": "TutorialTrading02-IT",
+      "path_id": 387,
+      "name": "TutorialTrading02-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/387_TutorialTrading02-IT.png",
+      "sha256": "f6f2530e87ff7a302853d50e143c78f2761e526ceb050a969182d2eb8fc48de8"
+    },
+    {
+      "container": "TutorialRanged01-RU",
+      "path_id": 388,
+      "name": "TutorialRanged01-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/388_TutorialRanged01-RU.png",
+      "sha256": "4c537e26746f3348bfa2f60a5565a0593e3a947b45c885e8851c74aee7301b71"
+    },
+    {
+      "container": "TutorialCamping11-DE",
+      "path_id": 390,
+      "name": "TutorialCamping11-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/390_TutorialCamping11-DE.png",
+      "sha256": "fe90cee9c1db4ab639d6f729c7691ee69a11f07e8775fcb4ede534a8622ef45f"
+    },
+    {
+      "container": "TutorialAOO01-IT",
+      "path_id": 391,
+      "name": "TutorialAOO01-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/391_TutorialAOO01-IT.png",
+      "sha256": "2de04b032032f7bd8b72a65ec624b79e158e9e686e0319cd0e9c176172db6664"
+    },
+    {
+      "container": "TutorialItemPlacement-EN",
+      "path_id": 392,
+      "name": "TutorialItemPlacement-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/392_TutorialItemPlacement-EN.png",
+      "sha256": "b40c9b426577a19b80bdfebe7999754035933379f97b1d84d6d70864b0cbbfb1"
+    },
+    {
+      "container": "TutorialCamping08-EN",
+      "path_id": 397,
+      "name": "TutorialCamping08-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/397_TutorialCamping08-EN.png",
+      "sha256": "656d5160de143a421f62fc797ade1e3a002b482c8745b984c378966eaecb2411"
+    },
+    {
+      "container": "TutorialCamping09-IT",
+      "path_id": 401,
+      "name": "TutorialCamping09-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/401_TutorialCamping09-IT.png",
+      "sha256": "8ae5fdbb1f46bcea6002cd298f87d86915ef7b4f604f0176332bb9e280c17858"
+    },
+    {
+      "container": "TutorialMapInitial04-ES",
+      "path_id": 402,
+      "name": "TutorialMapInitial04-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/402_TutorialMapInitial04-ES.png",
+      "sha256": "f2d28ced58fc319f18c65828302f2f15263b2da7ee8bf2b0824eec58b5d36689"
+    },
+    {
+      "container": "TutorialRestore-IT",
+      "path_id": 408,
+      "name": "TutorialRestore-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/408_TutorialRestore-IT.png",
+      "sha256": "5c841d33dffc790e86a8a873a95da067ad1ed9c9929e0b110b6e3f62c6518cdc"
+    },
+    {
+      "container": "TutorialMovement-EN",
+      "path_id": 410,
+      "name": "TutorialMovement-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/410_TutorialMovement-EN.png",
+      "sha256": "67eea97b1b23e2d07bf656e7f6dc3830f122672855283f547490d8f9a2c3f012"
+    },
+    {
+      "container": "TutorialRanged01-IT",
+      "path_id": 413,
+      "name": "TutorialRanged01-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/413_TutorialRanged01-IT.png",
+      "sha256": "db56cc03c0763cbaf3c9572fccb81d2a2a22a5b8b6db79671423954bd5095b22"
+    },
+    {
+      "container": "TutorialCamping09-RU",
+      "path_id": 414,
+      "name": "TutorialCamping09-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/414_TutorialCamping09-RU.png",
+      "sha256": "44c2bac4db2ccd9e6304e79b61ccc46e248133d9fee65e6c9044d01d52c714fc"
+    },
+    {
+      "container": "TutorialIndicatorRing-DE",
+      "path_id": 421,
+      "name": "TutorialIndicatorRing-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/421_TutorialIndicatorRing-DE.png",
+      "sha256": "995de44ec4c8eb87487612214102d8f7197ca0769bf6cc4e10aab1ea3c5c2ff6"
+    },
+    {
+      "container": "TutorialCamping07-ES",
+      "path_id": 423,
+      "name": "TutorialCamping07-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/423_TutorialCamping07-ES.png",
+      "sha256": "9fdb2dedb21d8a9548d3b1e7b75c1f72bf9922c6999807b38129b3cb22412fb3"
+    },
+    {
+      "container": "TutorialCamping02-EN",
+      "path_id": 425,
+      "name": "TutorialCamping02-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/425_TutorialCamping02-EN.png",
+      "sha256": "9df11c9a53b28c49e36805ba6e26f6fdd4cf6828a3d034b4ed320e286cb6a00a"
+    },
+    {
+      "container": "TutorialCamping11-ES",
+      "path_id": 431,
+      "name": "TutorialCamping11-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/431_TutorialCamping11-ES.png",
+      "sha256": "8c6b451771ae265b3e4a61050fd017e6e6715ec4ea6fbb1f22470d2c08dfdc7d"
+    },
+    {
+      "container": "TutorialFollowerManagement05-DE",
+      "path_id": 436,
+      "name": "TutorialFollowerManagement05-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/436_TutorialFollowerManagement05-DE.png",
+      "sha256": "9d11534ef46f3f65259ef4562d74f822b4072f97e6b7a42ad5bd9e50f3769ff5"
+    },
+    {
+      "container": "TutorialMapInitial03-ES",
+      "path_id": 437,
+      "name": "TutorialMapInitial03-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/437_TutorialMapInitial03-ES.png",
+      "sha256": "850f3ed066402f017deeb8b6cf6dc0039912077d828798f33e2953df35026861"
+    },
+    {
+      "container": "TutorialFollowerManagement03-ES",
+      "path_id": 440,
+      "name": "TutorialFollowerManagement03-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/440_TutorialFollowerManagement03-ES.png",
+      "sha256": "8d13ade625081c52d0ef2dff46cd5ad4d206e67df182b3ea1dbbb8de3eaf9a00"
+    },
+    {
+      "container": "TutorialTrading02-EN",
+      "path_id": 442,
+      "name": "TutorialTrading02-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/442_TutorialTrading02-EN.png",
+      "sha256": "32bcdae448edf507ee7f4bc0fc49db7bd7c2bdc224d9df80be0a4cc21585d681"
+    },
+    {
+      "container": "TutorialCamping08-DE",
+      "path_id": 457,
+      "name": "TutorialCamping08-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/457_TutorialCamping08-DE.png",
+      "sha256": "2230c696acb71f8e1ec780be46964616f593be4e22af03a76ce19976264b8b5d"
+    },
+    {
+      "container": "TutorialFollowerManagement04-ES",
+      "path_id": 458,
+      "name": "TutorialFollowerManagement04-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/458_TutorialFollowerManagement04-ES.png",
+      "sha256": "70f1ce913eabbab8f161588e1aabdeec849000c13f8df8b6eadb9a04e58c613d"
+    },
+    {
+      "container": "TutorialFollowerManagement01-IT",
+      "path_id": 464,
+      "name": "TutorialFollowerManagement01-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/464_TutorialFollowerManagement01-IT.png",
+      "sha256": "1d833181239f6d2f24ab5dfc81a764389c8c37c2894e4446b4b4efa34fbf480e"
+    },
+    {
+      "container": "TutorialCamping09-ES",
+      "path_id": 466,
+      "name": "TutorialCamping09-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/466_TutorialCamping09-ES.png",
+      "sha256": "0fdd336474c1e9dce9a520c3e7ae103c113871b98fd46d589abeac2c14d3add7"
+    },
+    {
+      "container": "TutorialEndTurn-IT",
+      "path_id": 473,
+      "name": "TutorialEndTurn-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/473_TutorialEndTurn-IT.png",
+      "sha256": "7e3f5b6dd9735cff49c98a5a53a49928c43e2024d094cad4b55752fc30348148"
+    },
+    {
+      "container": "TutorialCamping10-ES",
+      "path_id": 475,
+      "name": "TutorialCamping10-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/475_TutorialCamping10-ES.png",
+      "sha256": "9e0e77a1c4be6335e71707b480957ab1aee9ee352299b8e9bac454e05e2b5cb1"
+    },
+    {
+      "container": "TutorialLeavingCity01-RU",
+      "path_id": 481,
+      "name": "TutorialLeavingCity01-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/481_TutorialLeavingCity01-RU.png",
+      "sha256": "418fee1f03d0cd2f010d188d7b2a0f0f4b45c6c59b1effe042fdcf19ca0e2ee1"
+    },
+    {
+      "container": "TutorialIncapacitated-DE",
+      "path_id": 486,
+      "name": "TutorialIncapacitated-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/486_TutorialIncapacitated-DE.png",
+      "sha256": "348108fd9cd929c6d41da279dc5ef77d1cef9b6c0718f22c471e83efcafd3c5d"
+    },
+    {
+      "container": "TutorialCamping02-ES",
+      "path_id": 490,
+      "name": "TutorialCamping02-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/490_TutorialCamping02-ES.png",
+      "sha256": "c43b1796e9e197be488eff74f25b97de260f6f702d6615f5ce0137d5ec30f516"
+    },
+    {
+      "container": "TutorialRestore-EN",
+      "path_id": 492,
+      "name": "TutorialRestore-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/492_TutorialRestore-EN.png",
+      "sha256": "08f978075ba17ca0533072eb9a8180507ea10c354173fef19f4483ee7926d9e1"
+    },
+    {
+      "container": "TutorialAOO01-DE",
+      "path_id": 495,
+      "name": "TutorialAOO01-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/495_TutorialAOO01-DE.png",
+      "sha256": "54887371eee61591607fcc75168e8c66e71c27f413155d6378446354f63e1806"
+    },
+    {
+      "container": "TutorialTrading02-ES",
+      "path_id": 506,
+      "name": "TutorialTrading02-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/506_TutorialTrading02-ES.png",
+      "sha256": "824bfef58c42dd6f5b933f4b49b73dd665900fc8450eeddc8b22232ab633fe3d"
+    },
+    {
+      "container": "TutorialAbilities-IT",
+      "path_id": 514,
+      "name": "TutorialAbilities-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/514_TutorialAbilities-IT.png",
+      "sha256": "18235ae8f1cddcff5fc630594b9a3d8a4a4956f8c1c2f3e0f0eeb77bbe0d0371"
+    },
+    {
+      "container": "TutorialRanged01-EN",
+      "path_id": 515,
+      "name": "TutorialRanged01-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/515_TutorialRanged01-EN.png",
+      "sha256": "efb94d97e12f58251f9a644a830e5617e8bd4e76e32a7ec4f5d6fa6aab249d1b"
+    },
+    {
+      "container": "TutorialFollowerManagement03-IT",
+      "path_id": 519,
+      "name": "TutorialFollowerManagement03-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/519_TutorialFollowerManagement03-IT.png",
+      "sha256": "4baf956ade3cd542858c5e379af802bca857e2f11c6283aa6bad43ca9ce71ae3"
+    },
+    {
+      "container": "TutorialFollowerManagement02-ES",
+      "path_id": 521,
+      "name": "TutorialFollowerManagement02-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/521_TutorialFollowerManagement02-ES.png",
+      "sha256": "e0ab395588eaa3a96c6f3640d4aaac35311394450df5fee57a9184af41d952a7"
+    },
+    {
+      "container": "TutorialIndicatorRing-IT",
+      "path_id": 523,
+      "name": "TutorialIndicatorRing-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/523_TutorialIndicatorRing-IT.png",
+      "sha256": "bb806f3ad31d694e4d61a43c35a53f6fad3f4ac03b5c6340e6f9348afe6a9f49"
+    },
+    {
+      "container": "TutorialCamping03-IT",
+      "path_id": 527,
+      "name": "TutorialCamping03-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/527_TutorialCamping03-IT.png",
+      "sha256": "49888ee57f8a2135c8a7a070963f534a4a3048836c0dbd30b6e5a9c071605c36"
+    },
+    {
+      "container": "TutorialVictoryScreen-EN",
+      "path_id": 528,
+      "name": "TutorialVictoryScreen-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/528_TutorialVictoryScreen-EN.png",
+      "sha256": "12db3b5519ad3b2563ae160e5f73ffe9213654b89fc374740b3b06411a531c14"
+    },
+    {
+      "container": "TutorialMovement-IT",
+      "path_id": 529,
+      "name": "TutorialMovement-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/529_TutorialMovement-IT.png",
+      "sha256": "d55b7f35d4a2546cb404e566f280f27177a06edd80bc131bcf819f358669db5f"
+    },
+    {
+      "container": "TutorialCamping12-ES",
+      "path_id": 531,
+      "name": "TutorialCamping12-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/531_TutorialCamping12-ES.png",
+      "sha256": "89f6609cf704a248c4392ff245900a7ee0a2a504b3d81c9d77e60b488ca87127"
+    },
+    {
+      "container": "TutorialTrading01-DE",
+      "path_id": 536,
+      "name": "TutorialTrading01-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/536_TutorialTrading01-DE.png",
+      "sha256": "0f65da57b621b4286f6f0251d28eb7e0c0f71cf0ee15ae673c3e7526b931c10f"
+    },
+    {
+      "container": "TutorialRanged03-ES",
+      "path_id": 539,
+      "name": "TutorialRanged03-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/539_TutorialRanged03-ES.png",
+      "sha256": "4fbf0c7fe2e862c996c1fd9ef452a3a9cf529972b6d737c118867083b3858635"
+    },
+    {
+      "container": "TutorialIndicatorRing-RU",
+      "path_id": 548,
+      "name": "TutorialIndicatorRing-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/548_TutorialIndicatorRing-RU.png",
+      "sha256": "cb9d49605257f9adb99ee396fd690d6db3f5ed54e7cdd7b5b79ad8f952eaf4a1"
+    },
+    {
+      "container": "TutorialCamping09-DE",
+      "path_id": 549,
+      "name": "TutorialCamping09-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/549_TutorialCamping09-DE.png",
+      "sha256": "29f0739d7feef34b42c1f10ca6c740c9f2a49e33f5501f61c16c97917493bd7e"
+    },
+    {
+      "container": "TutorialMapInitial02-EN",
+      "path_id": 552,
+      "name": "TutorialMapInitial02-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/552_TutorialMapInitial02-EN.png",
+      "sha256": "47d407632713b57f5d430191275e607356b5b9a786cc6ac03de04ff3f67d49b6"
+    },
+    {
+      "container": "TutorialCamping06-RU",
+      "path_id": 559,
+      "name": "TutorialCamping06-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/559_TutorialCamping06-RU.png",
+      "sha256": "e886d47a79b3771ebd1595fff4ae1c36761e01da5826ba1cd21c27d2adc8a3c8"
+    },
+    {
+      "container": "TutorialVictoryScreen-ES",
+      "path_id": 560,
+      "name": "TutorialVictoryScreen-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/560_TutorialVictoryScreen-ES.png",
+      "sha256": "21c5120e009d37c34774bba8b280fa4a5b68c95872fe5acd9822f5a209076eb4"
+    },
+    {
+      "container": "TutorialItemPlacementEnd-EN",
+      "path_id": 562,
+      "name": "TutorialItemPlacementEnd-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/562_TutorialItemPlacementEnd-EN.png",
+      "sha256": "b9570e653ba1987101bd292bce18222c761ebd648a6a998b46bc5d2e46e21855"
+    },
+    {
+      "container": "TutorialTrading01-IT",
+      "path_id": 563,
+      "name": "TutorialTrading01-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/563_TutorialTrading01-IT.png",
+      "sha256": "dd0d9eb85b60c05162e0ace0da49c91ee5de90a0cd781e2c4e3c1e0fa5111391"
+    },
+    {
+      "container": "TutorialWoundedFollower-RU",
+      "path_id": 566,
+      "name": "TutorialWoundedFollower-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/566_TutorialWoundedFollower-RU.png",
+      "sha256": "1eba5f7f86b2531cb7de1fcc29dbe73e4254028852ccc8bbb32a50eb5b0192a2"
+    },
+    {
+      "container": "TutorialRanged02-IT",
+      "path_id": 568,
+      "name": "TutorialRanged02-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/568_TutorialRanged02-IT.png",
+      "sha256": "c53ac2d1f6edc97e2f71d6ce6a5ccf528bfd4c07578943aa50d17332c55771d2"
+    },
+    {
+      "container": "TutorialRanged02-EN",
+      "path_id": 574,
+      "name": "TutorialRanged02-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/574_TutorialRanged02-EN.png",
+      "sha256": "1a157feebabf96b6aac5f342c2a791c3dcc020f2840d3b3db5efd006f9a5fed4"
+    },
+    {
+      "container": "TutorialCamping01-DE",
+      "path_id": 576,
+      "name": "TutorialCamping01-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/576_TutorialCamping01-DE.png",
+      "sha256": "925f85a74bfcd5aea7ff59c1ff5fc92b48bface274853e17ab1558c0464da785"
+    },
+    {
+      "container": "TutorialItemPlacement-ES",
+      "path_id": 580,
+      "name": "TutorialItemPlacement-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/580_TutorialItemPlacement-ES.png",
+      "sha256": "aaac095bdc61a9462c50060af1ac085259d5c6beb60adafcec42359dd270d902"
+    },
+    {
+      "container": "TutorialCamping06-ES",
+      "path_id": 587,
+      "name": "TutorialCamping06-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/587_TutorialCamping06-ES.png",
+      "sha256": "99b93a9bf6c2812db5955da78c41b1637089f0b7a2bbecac44faeaeb5f31b596"
+    },
+    {
+      "container": "TutorialIndicatorRing-EN",
+      "path_id": 588,
+      "name": "TutorialIndicatorRing-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/588_TutorialIndicatorRing-EN.png",
+      "sha256": "030b51e1de3a15ce177d583b10cb8fdfb30a797367660c5d97cf5af86c5f13c8"
+    },
+    {
+      "container": "TutorialVictoryScreen-DE",
+      "path_id": 592,
+      "name": "TutorialVictoryScreen-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/592_TutorialVictoryScreen-DE.png",
+      "sha256": "e1422ba048ad2c4024bfa94dd2f047581be10e12a02c336b7615aad75aca364b"
+    },
+    {
+      "container": "TutorialAbilities-ES",
+      "path_id": 601,
+      "name": "TutorialAbilities-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/601_TutorialAbilities-ES.png",
+      "sha256": "5017a5638c6cc529991ff4c4d906de3969b229d3b508de963764064f864b3138"
+    },
+    {
+      "container": "TutorialCamping10-IT",
+      "path_id": 602,
+      "name": "TutorialCamping10-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/602_TutorialCamping10-IT.png",
+      "sha256": "4f4a642d89f82177285e413a88ecdda7392792a460eb1d319169301224e2f37a"
+    },
+    {
+      "container": "TutorialCamping04-IT",
+      "path_id": 604,
+      "name": "TutorialCamping04-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/604_TutorialCamping04-IT.png",
+      "sha256": "5e3c1f6239bf341e94f7eb11303e0157bbef4d506a3afd70fe636a65454d0404"
+    },
+    {
+      "container": "TutorialMapInitial04-IT",
+      "path_id": 606,
+      "name": "TutorialMapInitial04-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/606_TutorialMapInitial04-IT.png",
+      "sha256": "51b77a34bc31bf9adff9cd8aa934201718d6b00acfeb6b0a0c2c8c764ca082d0"
+    },
+    {
+      "container": "TutorialNoMoves-EN",
+      "path_id": 607,
+      "name": "TutorialNoMoves-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/607_TutorialNoMoves-EN.png",
+      "sha256": "ef23a1dffbbc828ef5e0160220aff72849c246b8926ac2d5863dbbbc6e99e0aa"
+    },
+    {
+      "container": "TutorialMapInitial03-DE",
+      "path_id": 608,
+      "name": "TutorialMapInitial03-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/608_TutorialMapInitial03-DE.png",
+      "sha256": "ed5565017a1540eff1432c2e3d5ee1eba79a8c66744e9c34f99063900221bb10"
+    },
+    {
+      "container": "TutorialCamping05-EN",
+      "path_id": 610,
+      "name": "TutorialCamping05-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/610_TutorialCamping05-EN.png",
+      "sha256": "70c30b2e099e26fdab3c85d2ad140e06bd337a27401ec84be8105c6c58ec1376"
+    },
+    {
+      "container": "TutorialFollowerManagement04-RU",
+      "path_id": 620,
+      "name": "TutorialFollowerManagement04-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/620_TutorialFollowerManagement04-RU.png",
+      "sha256": "2af5863fb1b483de5681860ddc7afebbf5561989d7a81d1d04a7a0be913d4194"
+    },
+    {
+      "container": "TutorialCamping02-IT",
+      "path_id": 622,
+      "name": "TutorialCamping02-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/622_TutorialCamping02-IT.png",
+      "sha256": "f90e50500b76841cfc27b45c03cb6052f8ffbf93947a259d1710d547c3dd90d3"
+    },
+    {
+      "container": "TutorialFlanking-IT",
+      "path_id": 625,
+      "name": "TutorialFlanking-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/625_TutorialFlanking-IT.png",
+      "sha256": "dafe2ef4e0184487a91387978a52877c98fa9e51a4e656a702ef979ba08088ee"
+    },
+    {
+      "container": "TutorialWeaponSwitch-RU",
+      "path_id": 627,
+      "name": "TutorialWeaponSwitch-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/627_TutorialWeaponSwitch-RU.png",
+      "sha256": "4cb00e66f0043e3a66db747024d486d84c714a56fd743c6ef3a1a091b5e1476e"
+    },
+    {
+      "container": "TutorialCamping04-RU",
+      "path_id": 628,
+      "name": "TutorialCamping04-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/628_TutorialCamping04-RU.png",
+      "sha256": "d29552d3e68440345787d2652c0b28fa609e0bfc7037561e801678d508be0143"
+    },
+    {
+      "container": "TutorialFollowerManagement04-EN",
+      "path_id": 630,
+      "name": "TutorialFollowerManagement04-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/630_TutorialFollowerManagement04-EN.png",
+      "sha256": "722efb8ad0feeec34ece2fa00ee4acdcfd5f1a10685f37520c85e342392f3149"
+    },
+    {
+      "container": "TutorialTrading01-RU",
+      "path_id": 632,
+      "name": "TutorialTrading01-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/632_TutorialTrading01-RU.png",
+      "sha256": "2416c67d48118cc24d7328ff30ad4e627ceee7efb8ca11fddee0a6f8ece5af86"
+    },
+    {
+      "container": "TutorialCamping06-EN",
+      "path_id": 639,
+      "name": "TutorialCamping06-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/639_TutorialCamping06-EN.png",
+      "sha256": "962301f7db218722e232830dfab477800dc2c093b3725886e0c9b598e13c9079"
+    },
+    {
+      "container": "TutorialCamping05-ES",
+      "path_id": 640,
+      "name": "TutorialCamping05-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/640_TutorialCamping05-ES.png",
+      "sha256": "4c80821fd4cc836c6016a59787c43b0b461c9df7e58db46293353f730a9dd8b6"
+    },
+    {
+      "container": "TutorialCamping11-RU",
+      "path_id": 645,
+      "name": "TutorialCamping11-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/645_TutorialCamping11-RU.png",
+      "sha256": "d5df99fb05993281374eb25248d629428cf55956e7089ad450e2d4110f7f52b2"
+    },
+    {
+      "container": "TutorialCamping10-RU",
+      "path_id": 651,
+      "name": "TutorialCamping10-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/651_TutorialCamping10-RU.png",
+      "sha256": "642bee26f8221a393142b69136c9ed2f78025b5d1faea09bdd7f56193f850ad0"
+    },
+    {
+      "container": "TutorialFollowerManagement05-EN",
+      "path_id": 652,
+      "name": "TutorialFollowerManagement05-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/652_TutorialFollowerManagement05-EN.png",
+      "sha256": "52c2542a5807a6a8de60ca21c3b7d1c38bbbadb8fb129b02ee4835d7c42ff720"
+    },
+    {
+      "container": "TutorialCamping07-DE",
+      "path_id": 653,
+      "name": "TutorialCamping07-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/653_TutorialCamping07-DE.png",
+      "sha256": "c0a7805638bb21bea47a599ee6e553ddb8b2d71f77bf659345ad77ef96eaf6e3"
+    },
+    {
+      "container": "TutorialMapInitial01-IT",
+      "path_id": 655,
+      "name": "TutorialMapInitial01-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/655_TutorialMapInitial01-IT.png",
+      "sha256": "8231cdc4298f37531ef4575451ed3dfcc93bbab9f9618bb5cb92205c6f6a6f38"
+    },
+    {
+      "container": "TutorialMapInitial01-ES",
+      "path_id": 656,
+      "name": "TutorialMapInitial01-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/656_TutorialMapInitial01-ES.png",
+      "sha256": "566c591236bdba4a25e572224006c2f4ba98f9698b7961c03742608cf2ad7153"
+    },
+    {
+      "container": "TutorialItemPlacement-DE",
+      "path_id": 658,
+      "name": "TutorialItemPlacement-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/658_TutorialItemPlacement-DE.png",
+      "sha256": "3f676e3c5f9b8456e9b6c4180e5f412ef169212f39038cb50618619dc9dc7388"
+    },
+    {
+      "container": "TutorialMapInitial03-EN",
+      "path_id": 659,
+      "name": "TutorialMapInitial03-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/659_TutorialMapInitial03-EN.png",
+      "sha256": "0a3e8ac4c0e1a0cb5e536f46539d770dbe523349f914e6fe59fb61ff62c0896c"
+    },
+    {
+      "container": "TutorialCamping02-DE",
+      "path_id": 661,
+      "name": "TutorialCamping02-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/661_TutorialCamping02-DE.png",
+      "sha256": "39dc07682fb403f7f1681b708cb2cae3c0b4d35da161538203d9e0fb71259301"
+    },
+    {
+      "container": "TutorialCamping13-RU",
+      "path_id": 664,
+      "name": "TutorialCamping13-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/664_TutorialCamping13-RU.png",
+      "sha256": "04ee3474b93abbc9b9b33241ad5289de7e85f0c3a781c60819a8ceb7da45a5f7"
+    },
+    {
+      "container": "TutorialCamping12-IT",
+      "path_id": 666,
+      "name": "TutorialCamping12-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/666_TutorialCamping12-IT.png",
+      "sha256": "a56923b44888e7aa5c708d5d05dfb97cd398b3b8b225008093bb4ab72ee218ed"
+    },
+    {
+      "container": "TutorialCamping05-IT",
+      "path_id": 667,
+      "name": "TutorialCamping05-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/667_TutorialCamping05-IT.png",
+      "sha256": "5e2dff88667a57ccb108196464fe6e25102565501a79485c549ce3c2c1262b0b"
+    },
+    {
+      "container": "TutorialFlanking-DE",
+      "path_id": 668,
+      "name": "TutorialFlanking-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/668_TutorialFlanking-DE.png",
+      "sha256": "4064e9b99797658f0eb789fe27ff4c38cc09fb79ab9f5802794ff720ad8f7f76"
+    },
+    {
+      "container": "TutorialCamping14-ES",
+      "path_id": 674,
+      "name": "TutorialCamping14-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/674_TutorialCamping14-ES.png",
+      "sha256": "7a80f18113dc93032d350165333f2dc1c47cc2e89a84a2b4b878c65c339c8277"
+    },
+    {
+      "container": "TutorialCamping03-RU",
+      "path_id": 677,
+      "name": "TutorialCamping03-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/677_TutorialCamping03-RU.png",
+      "sha256": "2cfdd0c0dbed4f8dfb937dad3e6f8324b234fde3fb25f3d877f99cebbb899b1e"
+    },
+    {
+      "container": "TutorialWoundedFollower-DE",
+      "path_id": 678,
+      "name": "TutorialWoundedFollower-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/678_TutorialWoundedFollower-DE.png",
+      "sha256": "2f2f9e96dea5963ae5bb693a86e2b902b9d374db822f63f5a8886ddc52420787"
+    },
+    {
+      "container": "TutorialFlanking-RU",
+      "path_id": 681,
+      "name": "TutorialFlanking-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/681_TutorialFlanking-RU.png",
+      "sha256": "1012b0dbe2ac7cf0b03134fbc913604b9b83f30d551aaa1a44bbdce2e2b68a84"
+    },
+    {
+      "container": "TutorialFollowerManagement04-IT",
+      "path_id": 687,
+      "name": "TutorialFollowerManagement04-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/687_TutorialFollowerManagement04-IT.png",
+      "sha256": "7e7a5ccd667d94b9a38ad4ae0fc270aeb490a85cf19cae04cf8f0175ed3a3fb4"
+    },
+    {
+      "container": "TutorialWoundedFollower-IT",
+      "path_id": 690,
+      "name": "TutorialWoundedFollower-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/690_TutorialWoundedFollower-IT.png",
+      "sha256": "073181d81e23c0f0c2d27656d9a3ac1f4a68fded5c14537b82e719980ac08ae8"
+    },
+    {
+      "container": "TutorialLeavingCity01-DE",
+      "path_id": 691,
+      "name": "TutorialLeavingCity01-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/691_TutorialLeavingCity01-DE.png",
+      "sha256": "d23acd5c08eee753ee6fc61b2035f24fe31f4428bb9f3322fd257e4a0b0d7288"
+    },
+    {
+      "container": "TutorialAOO01-ES",
+      "path_id": 696,
+      "name": "TutorialAOO01-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/696_TutorialAOO01-ES.png",
+      "sha256": "b2d06a4ed44d26bc00f16987121cf3ce3cc1ae63884c4442007563c433bd75d0"
+    },
+    {
+      "container": "TutorialRanged03-DE",
+      "path_id": 699,
+      "name": "TutorialRanged03-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/699_TutorialRanged03-DE.png",
+      "sha256": "d696708071db7855320e5ccab3df1b2b653ea140a57667c8bfbbfcef843bd658"
+    },
+    {
+      "container": "TutorialCamping13-IT",
+      "path_id": 705,
+      "name": "TutorialCamping13-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/705_TutorialCamping13-IT.png",
+      "sha256": "5349cc9051f84219e9d8da1a41a15a075eded751d9c18216c7b1eb91bca3ee12"
+    },
+    {
+      "container": "TutorialIndicatorRing-ES",
+      "path_id": 706,
+      "name": "TutorialIndicatorRing-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/706_TutorialIndicatorRing-ES.png",
+      "sha256": "a996e21f93f71a2a1baf4a12f1ff7a7be0bd988b46a6864eaf47cac60fb4be05"
+    },
+    {
+      "container": "TutorialMapInitial02-ES",
+      "path_id": 708,
+      "name": "TutorialMapInitial02-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/708_TutorialMapInitial02-ES.png",
+      "sha256": "27b618fc37e3b45aed870e08e17e01755f725393a20561fde6497b068768cccf"
+    },
+    {
+      "container": "TutorialTrading02-DE",
+      "path_id": 712,
+      "name": "TutorialTrading02-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/712_TutorialTrading02-DE.png",
+      "sha256": "ad9dcf45abf709d6062e93b84e61f15bc2ffd06303f477945d982fa4bb7be7b8"
+    },
+    {
+      "container": "TutorialEndTurn-ES",
+      "path_id": 714,
+      "name": "TutorialEndTurn-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/714_TutorialEndTurn-ES.png",
+      "sha256": "eccb4c0256bfd1d31e2c901e39dfc956afa32ce4759840511bfce85e4cad70d2"
+    },
+    {
+      "container": "TutorialCamping07-RU",
+      "path_id": 719,
+      "name": "TutorialCamping07-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/719_TutorialCamping07-RU.png",
+      "sha256": "88326bda6fa0ca177d7b1f84eeb53b0dc935204ba5120802e33cf99d52f1dffb"
+    },
+    {
+      "container": "TutorialPreparationPhase-DE",
+      "path_id": 721,
+      "name": "TutorialPreparationPhase-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/721_TutorialPreparationPhase-DE.png",
+      "sha256": "61fff8798355f458ceb6834e8ab20c2dfce813941f5e06f306f660dda3f5c931"
+    },
+    {
+      "container": "TutorialMapInitial01-DE",
+      "path_id": 722,
+      "name": "TutorialMapInitial01-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/722_TutorialMapInitial01-DE.png",
+      "sha256": "f947a904387da3ea3ad1151d80f9c414f7ab14c7a11778850bc2d113a0f30fd5"
+    },
+    {
+      "container": "TutorialTrading01-ES",
+      "path_id": 736,
+      "name": "TutorialTrading01-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/736_TutorialTrading01-ES.png",
+      "sha256": "b268f1e5806cb9cf150e935fb2f3a63a341c9c4876cb45dfb86385b291cf48b4"
+    },
+    {
+      "container": "TutorialAbilities-RU",
+      "path_id": 739,
+      "name": "TutorialAbilities-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/739_TutorialAbilities-RU.png",
+      "sha256": "a085e614e6ca5107690aa6cf7d1fd49b9f70d6cbc66c8e81aaa02898ecfae269"
+    },
+    {
+      "container": "TutorialWeaponSwitch-ES",
+      "path_id": 748,
+      "name": "TutorialWeaponSwitch-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/748_TutorialWeaponSwitch-ES.png",
+      "sha256": "ead8f4c17c8f63a1d3b2fd1115b074b38a57603648735d6f2d0b156f30f2ab43"
+    },
+    {
+      "container": "TutorialCamping13-DE",
+      "path_id": 759,
+      "name": "TutorialCamping13-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/759_TutorialCamping13-DE.png",
+      "sha256": "45d46a4a3994e74ca92b30d2de1507833624d0c355610b3e0553c60e137bce8f"
+    },
+    {
+      "container": "TutorialWoundedFollower-ES",
+      "path_id": 760,
+      "name": "TutorialWoundedFollower-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/760_TutorialWoundedFollower-ES.png",
+      "sha256": "eae4be33a98916ee057ae6b1825151ccd378ba73cf7657bf7e962bec080f1ddc"
+    },
+    {
+      "container": "TutorialRanged03-RU",
+      "path_id": 766,
+      "name": "TutorialRanged03-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/766_TutorialRanged03-RU.png",
+      "sha256": "1e9c1224392dfc0b0af3be35b7286a7f8273d186f39e9aed22bd5606333d2641"
+    },
+    {
+      "container": "TutorialMapInitial03-IT",
+      "path_id": 767,
+      "name": "TutorialMapInitial03-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/767_TutorialMapInitial03-IT.png",
+      "sha256": "5ae0571bf2c74fe5a7bd514619262ea54e511f68b2609e1ebf06ebd8eafd4aa6"
+    },
+    {
+      "container": "TutorialRanged02-RU",
+      "path_id": 768,
+      "name": "TutorialRanged02-RU",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/768_TutorialRanged02-RU.png",
+      "sha256": "378d1945a90d1df03ab57562e66a156daae8a5ca6198066d6054768abfe13a14"
+    },
+    {
+      "container": "TutorialCamping04-DE",
+      "path_id": 773,
+      "name": "TutorialCamping04-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/773_TutorialCamping04-DE.png",
+      "sha256": "6614630d47704650f5c0f275d41a13e2b443542f7830f7bd39a934950f19a6dc"
+    },
+    {
+      "container": "TutorialFollowerManagement02-EN",
+      "path_id": 787,
+      "name": "TutorialFollowerManagement02-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/787_TutorialFollowerManagement02-EN.png",
+      "sha256": "8c83f9e6c0a734b8162747dbb00b307ecfedc4b09ca110109c42d08ace48ca73"
+    },
+    {
+      "container": "TutorialPreparationPhase-IT",
+      "path_id": 788,
+      "name": "TutorialPreparationPhase-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/788_TutorialPreparationPhase-IT.png",
+      "sha256": "c28effb63ca14f194bbefcee8cf6ba2054214e046705c0707976af17a0067b64"
+    },
+    {
+      "container": "TutorialMovement-ES",
+      "path_id": 797,
+      "name": "TutorialMovement-ES",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/797_TutorialMovement-ES.png",
+      "sha256": "8f6be9ff7de0dd9d2782d01f258d24049a53a8eedcca8e9c257ea4fc75acde19"
+    },
+    {
+      "container": "TutorialInitial-DE",
+      "path_id": 802,
+      "name": "TutorialInitial-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/802_TutorialInitial-DE.png",
+      "sha256": "fd30177bd1d76423d844f1423cc0fdadaac9fbca67e1b20f3b99826b872216de"
+    },
+    {
+      "container": "TutorialLeavingCity01-EN",
+      "path_id": 803,
+      "name": "TutorialLeavingCity01-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/803_TutorialLeavingCity01-EN.png",
+      "sha256": "2164ec11f6d10aac7d6a6849a2bc7fff2e8f343d18fb58eb8977383e23c2ac42"
+    },
+    {
+      "container": "TutorialCamping03-EN",
+      "path_id": 806,
+      "name": "TutorialCamping03-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/806_TutorialCamping03-EN.png",
+      "sha256": "ba7438cab8917a4c23d68e7d17c4ac45c4fdf28483409928da4e2a4690ee9369"
+    },
+    {
+      "container": "TutorialMapInitial02-IT",
+      "path_id": 810,
+      "name": "TutorialMapInitial02-IT",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/810_TutorialMapInitial02-IT.png",
+      "sha256": "076de5cb6fe9c5bbcff6bacf62ec6bb6996d8970c295d2de9d13b347747be27d"
+    },
+    {
+      "container": "TutorialCamping03-DE",
+      "path_id": 811,
+      "name": "TutorialCamping03-DE",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/811_TutorialCamping03-DE.png",
+      "sha256": "d43cc5599261a332ea656b9871967e29f3425497d1c2d4c8eaa8c35f09040e14"
+    },
+    {
+      "container": "TutorialCamping04-EN",
+      "path_id": 814,
+      "name": "TutorialCamping04-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/814_TutorialCamping04-EN.png",
+      "sha256": "0af48d9c01d053fc234df463b284dc7e52c5d040c38df2a8db7e3f7bb96e0f0c"
+    },
+    {
+      "container": "TutorialCamping10-EN",
+      "path_id": 818,
+      "name": "TutorialCamping10-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/818_TutorialCamping10-EN.png",
+      "sha256": "86359ab09d6c1ec659fe34890bdf8220520f197df61343167e100dc0046a8ad5"
+    },
+    {
+      "container": "TutorialWeaponSwitch-EN",
+      "path_id": 821,
+      "name": "TutorialWeaponSwitch-EN",
+      "width": 800,
+      "height": 600,
+      "export": "Analysis/tutorial_images/821_TutorialWeaponSwitch-EN.png",
+      "sha256": "d25e8cdc423eb830d2d497d995fe98d2d3cc81082a795f0808a1dd3616b6e833"
+    }
+  ],
+  "tutorial_header_reference": {
+    "m_FileID": 1,
+    "m_PathID": 200
+  }
+}

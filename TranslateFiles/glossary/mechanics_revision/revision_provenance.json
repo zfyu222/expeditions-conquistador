@@ -1,0 +1,21 @@
+{
+  "producer_instance": "/root/glossary_mechanics_fix_producer",
+  "reviewer_instance": "/root/glossary_mechanics_fix_review",
+  "changed_refs": [
+    "terms:284",
+    "terms:739",
+    "terms:987"
+  ],
+  "retained_review_count": 1449,
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "snapshot_sha256": "34febdf36dad3ec86289bde430a7e0e653f7dbef323469fff7d1cd107b929824",
+  "added_evidence_rows": {
+    "terms:284": [
+      1042
+    ],
+    "terms:987": [
+      6468,
+      6552
+    ]
+  }
+}

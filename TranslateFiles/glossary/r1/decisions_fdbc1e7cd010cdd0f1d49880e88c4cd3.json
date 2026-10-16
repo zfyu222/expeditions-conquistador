@@ -1,0 +1,660 @@
+{
+  "snapshot_sha256": "a936e03e07076179490b318d366ad0db4013dd767b8210900298506db9314c22",
+  "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
+  "review_complete": true,
+  "review_summary": "逐项核对本批 180 条角色记录及所引证据。重复源文按 review_policy 的表顺序/索引保留唯一主条目；本批隔离 23 条重复项及明显误抽取/占位符项。共享译名 finding 均逐条检查：哥伦布/科尔特斯/皮萨罗/阿吉雷与其全名及拼写变体为同一历史人物的称呼；姓氏简称与全名保留长短差异；羽蛇神与 Quetzalcoatl 是同一神祇别称；其余重复同源依 duplicate_source 处置。已修正军事 Capitán 语境、Hermano 修士称谓、姓氏分词、性别证据不足条目及若干音译一致性。characters:152 是对话短句而非人物名；characters:41 含动态变量；characters:176 是称呼且字段错位。跨批事项列于 analysis.issues。",
+  "reviewed_refs": [
+    "characters:0",
+    "characters:1",
+    "characters:2",
+    "characters:3",
+    "characters:4",
+    "characters:5",
+    "characters:6",
+    "characters:7",
+    "characters:8",
+    "characters:9",
+    "characters:10",
+    "characters:11",
+    "characters:12",
+    "characters:13",
+    "characters:14",
+    "characters:15",
+    "characters:16",
+    "characters:17",
+    "characters:18",
+    "characters:19",
+    "characters:20",
+    "characters:21",
+    "characters:22",
+    "characters:23",
+    "characters:24",
+    "characters:25",
+    "characters:26",
+    "characters:27",
+    "characters:28",
+    "characters:29",
+    "characters:30",
+    "characters:31",
+    "characters:32",
+    "characters:33",
+    "characters:34",
+    "characters:35",
+    "characters:36",
+    "characters:37",
+    "characters:38",
+    "characters:39",
+    "characters:40",
+    "characters:41",
+    "characters:42",
+    "characters:43",
+    "characters:44",
+    "characters:45",
+    "characters:46",
+    "characters:47",
+    "characters:48",
+    "characters:49",
+    "characters:50",
+    "characters:51",
+    "characters:52",
+    "characters:53",
+    "characters:54",
+    "characters:55",
+    "characters:56",
+    "characters:57",
+    "characters:58",
+    "characters:59",
+    "characters:60",
+    "characters:61",
+    "characters:62",
+    "characters:63",
+    "characters:64",
+    "characters:65",
+    "characters:66",
+    "characters:67",
+    "characters:68",
+    "characters:69",
+    "characters:70",
+    "characters:71",
+    "characters:72",
+    "characters:73",
+    "characters:74",
+    "characters:75",
+    "characters:76",
+    "characters:77",
+    "characters:78",
+    "characters:79",
+    "characters:80",
+    "characters:81",
+    "characters:82",
+    "characters:83",
+    "characters:84",
+    "characters:85",
+    "characters:86",
+    "characters:87",
+    "characters:88",
+    "characters:89",
+    "characters:90",
+    "characters:91",
+    "characters:92",
+    "characters:93",
+    "characters:94",
+    "characters:95",
+    "characters:96",
+    "characters:97",
+    "characters:98",
+    "characters:99",
+    "characters:100",
+    "characters:101",
+    "characters:102",
+    "characters:103",
+    "characters:104",
+    "characters:105",
+    "characters:106",
+    "characters:107",
+    "characters:108",
+    "characters:109",
+    "characters:110",
+    "characters:111",
+    "characters:112",
+    "characters:113",
+    "characters:114",
+    "characters:115",
+    "characters:116",
+    "characters:117",
+    "characters:118",
+    "characters:119",
+    "characters:120",
+    "characters:121",
+    "characters:122",
+    "characters:123",
+    "characters:124",
+    "characters:125",
+    "characters:126",
+    "characters:127",
+    "characters:128",
+    "characters:129",
+    "characters:130",
+    "characters:131",
+    "characters:132",
+    "characters:133",
+    "characters:134",
+    "characters:135",
+    "characters:136",
+    "characters:137",
+    "characters:138",
+    "characters:139",
+    "characters:140",
+    "characters:141",
+    "characters:142",
+    "characters:143",
+    "characters:144",
+    "characters:145",
+    "characters:146",
+    "characters:147",
+    "characters:148",
+    "characters:149",
+    "characters:150",
+    "characters:151",
+    "characters:152",
+    "characters:153",
+    "characters:154",
+    "characters:155",
+    "characters:156",
+    "characters:157",
+    "characters:158",
+    "characters:159",
+    "characters:160",
+    "characters:161",
+    "characters:162",
+    "characters:163",
+    "characters:164",
+    "characters:165",
+    "characters:166",
+    "characters:167",
+    "characters:168",
+    "characters:169",
+    "characters:170",
+    "characters:171",
+    "characters:172",
+    "characters:173",
+    "characters:174",
+    "characters:175",
+    "characters:176",
+    "characters:177",
+    "characters:178",
+    "characters:179"
+  ],
+  "acknowledged_findings": [
+    "F0000",
+    "F0015",
+    "F0016",
+    "F0017",
+    "F0018",
+    "F0019",
+    "F0020",
+    "F0021",
+    "F0022",
+    "F0023",
+    "F0024",
+    "F0025",
+    "F0026",
+    "F0027",
+    "F0028",
+    "F0029",
+    "F0030",
+    "F0031",
+    "F0032",
+    "F0033",
+    "F0034",
+    "F0035",
+    "F0036",
+    "F0037",
+    "F0038",
+    "F0039",
+    "F0040",
+    "F0041",
+    "F0042",
+    "F0043",
+    "F0044",
+    "F0045",
+    "F0046",
+    "F0047",
+    "F0048",
+    "F0049",
+    "F0050",
+    "F0051",
+    "F0052",
+    "F0053",
+    "F0054",
+    "F0055",
+    "F0191",
+    "F0192",
+    "F0193",
+    "F0194",
+    "F0195",
+    "F0196",
+    "F0197",
+    "F0198",
+    "F0199",
+    "F0200",
+    "F0201",
+    "F0202",
+    "F0203",
+    "F0204",
+    "F0205",
+    "F0206",
+    "F0207",
+    "F0208",
+    "F0209",
+    "F0210",
+    "F0211",
+    "F0212",
+    "F0213",
+    "F0214",
+    "F0215",
+    "F0216",
+    "F0217",
+    "F0218",
+    "F0219",
+    "F0220",
+    "F0221"
+  ],
+  "edits": [
+    {
+      "table": "characters",
+      "index": 34,
+      "patch": {
+        "recommended_translation": "贝尔纳多·德·曼萨内多"
+      },
+      "reason": "西班牙姓氏粒子 de 需要保留分隔；同源变体 characters:65 的译名也证实该结构。",
+      "evidence_rows": [
+        1809
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 43,
+      "patch": {
+        "recommended_translation": "德罗西"
+      },
+      "reason": "统一 De Rossi 姓氏的汉字写法，与人物全名 Umberto De Rossi 及 Señor De Rossi 的相关证据保持一致。",
+      "evidence_rows": [
+        2031
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 44,
+      "patch": {
+        "recommended_translation": "诺列加队长"
+      },
+      "reason": "原文说明其率领部队并负责守城，Capitán 在此是军事指挥职务，不是船长。",
+      "evidence_rows": [
+        2043,
+        2407
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 48,
+      "patch": {
+        "recommended_translation": "比斯卡伊诺队长"
+      },
+      "reason": "原文明确她率领自己的 company，且训练民兵；这里是军事队长，不是船长。",
+      "evidence_rows": [
+        2099
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 105,
+      "patch": {
+        "recommended_translation": "特皮克托顿"
+      },
+      "reason": "统一 Tepictoton 的中文音译，与本批其他同源情节和只读关联术语 terms:673 对齐。",
+      "evidence_rows": [
+        5087
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 111,
+      "patch": {
+        "recommended_translation": "阿纳卡奥娜"
+      },
+      "reason": "统一同一人物 Anacaona 的译名，和本批重复项 characters:153 的读法一致；本条作为唯一主条目保留。",
+      "evidence_rows": [
+        5246
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 112,
+      "patch": {
+        "recommended_translation": "蒙特苏马"
+      },
+      "reason": "统一 Moctezuma 的常见中文转写，并与只读关联项 terms:672 对齐；注意 terms:744 仍有“蒙特祖马”冲突，已报告父代理。",
+      "evidence_rows": [
+        5247
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 131,
+      "patch": {
+        "recommended_translation": "德·蒙特霍先生"
+      },
+      "reason": "同条原文是 Álvar de Montejo 的敬称，译名保留姓氏粒子 de，与 characters:136 的全名一致。",
+      "evidence_rows": [
+        6458
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 132,
+      "patch": {
+        "recommended_translation": "佩雷斯修士"
+      },
+      "reason": "Hermano 是修会成员称谓；证据明确其在礼拜堂带领守卫祈祷，译作“修士”比“神父”准确。",
+      "evidence_rows": [
+        6708
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 133,
+      "patch": {
+        "recommended_translation": "卡罗修士"
+      },
+      "reason": "同批证据明确称该人物为 monk，Hermano 应译作“修士”，而非“神父”。",
+      "evidence_rows": [
+        6717
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 146,
+      "patch": {
+        "recommended_translation": "塔马什"
+      },
+      "reason": "原文只称 Tamás；证据表明他是被 Lászlo 杀死的逃兵，不支持添加 Szász 姓氏。",
+      "evidence_rows": [
+        7577
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 150,
+      "patch": {
+        "gender": "其他"
+      },
+      "reason": "证据只称 Tēyacapan 为村庄首领，没有代词或性别信息，按规范不从名字推定性别。",
+      "evidence_rows": [
+        8068,
+        8101
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 155,
+      "patch": {
+        "gender": "其他"
+      },
+      "reason": "本条两处证据只提及 Mātlal，没有性别标记；按规范将不确定性别设为“其他”。",
+      "evidence_rows": [
+        9777,
+        9788
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 160,
+      "patch": {
+        "recommended_translation": "蒙特苏马·肖科约特辛"
+      },
+      "reason": "将 Moctezuma 的首名统一为“蒙特苏马”，并与同源只读关联项 terms:914 的后半部分音译对齐；原文拼写 Xococytzin 保留不改。",
+      "evidence_rows": [
+        10160
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 164,
+      "patch": {
+        "gender": "其他"
+      },
+      "reason": "证据仅为称呼 Ohtli 和询问购买牛只，没有足以确认性别的原文标记。",
+      "evidence_rows": [
+        11278,
+        11279
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 171,
+      "patch": {
+        "gender": "其他"
+      },
+      "reason": "证据只有晚餐时的称呼 Trevino，不能从姓氏单独确认性别。",
+      "evidence_rows": [
+        13014
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 72,
+      "patch": {
+        "gender": "其他"
+      },
+      "reason": "唯一证据只是任务提示“Find Iguanamá”，没有人物性别标记。",
+      "evidence_rows": [
+        2787
+      ]
+    }
+  ],
+  "quarantine": [
+    {
+      "table": "characters",
+      "index": 65,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:34；本项原文证据 2491 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        2491,
+        2574
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 64,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:35；本项原文证据 2450 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        2450,
+        3513
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 89,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:36；本项原文证据 3807 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        3807
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 77,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:43；本项原文证据 3019 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        3019,
+        3022
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 75,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:46；本项原文证据 2996 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        2996,
+        6655
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 154,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:59；本项原文证据 9546 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        9546
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 81,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:67；本项原文证据 3177 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        3177,
+        3189
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 145,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:69；本项原文证据 7551 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        7551,
+        13598
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 92,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:76；本项原文证据 4092 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        4092
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 95,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:76；本项原文证据 4207 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        4207,
+        4233
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 102,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:100；本项原文证据 4910 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        4910,
+        4914
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 167,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:103；本项原文证据 12054 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        12054,
+        13935
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 113,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:105；本项原文证据 5263 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        5263,
+        5275
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 153,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:111；本项原文证据 8778 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        8778,
+        9110
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 130,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:112；本项原文证据 6526 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        6526,
+        8753
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 156,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:120；本项原文证据 9923 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        9923,
+        9926
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 165,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:137；本项原文证据 11351 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        11351,
+        11365
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 178,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:146；本项原文证据 13597 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        13597,
+        13604
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 162,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:158；本项原文证据 10802 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        10802
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 166,
+      "reason": "同源重复项按表顺序和索引保留主条目 characters:163；本项原文证据 11612 表明只是重复录入，避免同一 source 多条冻结译名。",
+      "evidence_rows": [
+        11612
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 41,
+      "reason": "source 含动态占位符 PNameLast，不是固定人物专名；按保护规则不得收录为普通术语。",
+      "evidence_rows": [
+        1990
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 152,
+      "reason": "原文证据是对话句尾称呼，紧接着说话者自称 Mātlal；该句不是人物名，属于误抽取，应隔离。",
+      "evidence_rows": [
+        8590
+      ]
+    },
+    {
+      "table": "characters",
+      "index": 176,
+      "reason": "Maestro 在对话中是对人物的称呼/称号，gender 字段误填为类别“身份”，不应作为人物名条目；只读关联项 terms:404 已有术语条目，交父代理协调。",
+      "evidence_rows": [
+        13554,
+        13571
+      ]
+    }
+  ],
+  "additions": [],
+  "allow_no_match": []
+}
