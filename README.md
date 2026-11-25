@@ -143,7 +143,8 @@ python -X utf8 .\Analysis\extract_text.py
 
 ### v1.1
 
-- 下载：[GitHub Release v1.1](https://github.com/zfyu222/expeditions-conquistador/releases/tag/v1.1)。适用 Steam Windows 64 位系统，Build 1752467 / 游戏 1.6.6.1。
+- 下载：[GitHub Release v1.1](https://github.com/zfyu222/expeditions-conquistador/releases/tag/v1.1)。适用 Steam Windows 64 位系统，Build 1752467 / 游戏 1.6.6.1。 v1.1 为最新稳定版，匿名下载 HTTP 200，下载文件 SHA-256 与本地一致。
+- 百度网盘沿用既有分享链接，v1.1 镜像尚未同步。
 - 补丁文件：`Dispatch/expeditions-conquistador_子非鱼汉化1.1.zip`，7,442,641 字节，SHA-256 `23b627044827af86e1c42da891121e9f9994a6d449c2c88ebfa20f79680c0d98`。
 - 载荷：6 个 VCDIFF 差分、中文显示组件、安装器、解码器、清单及许可证。复用既有汉化封面。
 - 隔离回放 7 项通过，包括从正式 v1.0 覆盖升级、重复安装、卸载及损坏载荷拦截。ZIP 校验见 `Repack/reports/release_archive_v1.1.json`，安装回放见 `Repack/reports/installer_v1.1_test.json`。

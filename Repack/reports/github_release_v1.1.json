@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "release_url": "https://github.com/zfyu222/expeditions-conquistador/releases/tag/v1.1",
+  "public_download_url": "https://github.com/zfyu222/expeditions-conquistador/releases/download/v1.1/expeditions-conquistador-v1.1.zip",
+  "asset_id": 792142564,
+  "asset_name": "expeditions-conquistador-v1.1.zip",
+  "asset_size": 7442641,
+  "sha256": "23b627044827af86e1c42da891121e9f9994a6d449c2c88ebfa20f79680c0d98",
+  "anonymous_http_status": 200,
+  "draft": false,
+  "prerelease": false,
+  "latest": true,
+  "cover_reused": "Dispatch/Artwork/title.jpg",
+  "netdisk_mirror": "pending_no_upload_connection"
+}
