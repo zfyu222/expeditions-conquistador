@@ -3,12 +3,12 @@
   "decode_outputs": [
     {
       "game_path": "Expeditions Conquistador_Data/sharedassets0.assets",
-      "sha256": "eaf771e177c730aeeefb8be8bd5c28b60633381396a16418b28db4153ae45cc4",
+      "sha256": "c5a793d6034a3030f933913b75aa54157c0a8cb96a6166a881969b53964dda16",
       "status": "passed"
     },
     {
       "game_path": "Expeditions Conquistador_Data/sharedassets1.assets",
-      "sha256": "401d0f605e1d3640390883b60c201a30f1494e30081b39bbdf8fa8bd445830ba",
+      "sha256": "5c57bee7e04374ad786d289e6c080bb28de474820a5641afc89e053b92e72912",
       "status": "passed"
     },
     {
@@ -18,12 +18,12 @@
     },
     {
       "game_path": "Expeditions Conquistador_Data/level2",
-      "sha256": "323c3d2658a1b5dffdc519ee27207d1d6fc63d9a924461a1c6a69b6d7b183c37",
+      "sha256": "9ad303d9451fb3528e974fe2430730688a778faf6b00089f6f5cecf8f82ec617",
       "status": "passed"
     },
     {
       "game_path": "Expeditions Conquistador_Data/level3",
-      "sha256": "345d34432e54c3bd670eed96f4f55b9bc3a2b05835963686d21060b73ef52d0a",
+      "sha256": "56abd04d4b878a0dee0fb0fe5b23fcf865faa7ddab817946c6f4bcb16e92f76f",
       "status": "passed"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "game_path": "Expeditions Conquistador_Data/Managed/ConquistadorChinese.dll",
-      "sha256": "8226fe163d4d49868aedb0ec530f87c6efae8e8cd2e91570341ab3f17b26b5fa",
+      "sha256": "f1acc260532b1109a8cceceb17464bce0c7297dbce03ef2a1fa167f9aaaaf86f",
       "status": "passed"
     }
   ],

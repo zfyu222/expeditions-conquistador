@@ -1,6 +1,6 @@
 # Expeditions: Conquistador 汉化项目
 
-> 项目状态：14,691条正式翻译、48条新增教程说明、旧存档兼容修复及最终复测均已完成；正式 v1.0 ZIP 已通过校验并发布至GitHub；百度网盘镜像因MCP目录创建错误暂未完成。Steam Windows Build 1752467 / 游戏1.6.6.1。
+> 项目状态：v1.1 已完成全文润色、差分构建和本机同步。Steam Windows Build 1752467 / 游戏 1.6.6.1。
 
 ## 游戏信息
 - 原名：Expeditions: Conquistador
@@ -33,9 +33,9 @@
 | 初始化 | `start-translate` / `init_game_project.py` / Git | 工作区现有脚本 |
 | 游戏运行环境 | Unity / Mono | Unity 4.3.2f1；x86 |
 | 提取 | UnityPy + TypeTreeGeneratorAPI；dnSpy.Console；Python | UnityPy 1.25.4；TypeTreeGeneratorAPI 0.0.10；dnSpy v6.1.8+2b6dcfaf；Python 3.12 |
-| 翻译 | translation_workflow.py 自定义工作流 / Codex 子代理；Sol 最终验收 | revision 13 / quality_version 2；Luna 常规任务；全文独立审校和导出校验通过 |
+| 翻译 | translation_workflow.py；Codex 子代理及现有 API 优先级；Sol 定向裁决 | revision 15 / quality_version 2；全文润色，增量复审与导出校验通过 |
 | 回填 | UnityPy；dnlib 静态 IL 改写；Noto SC 字体子集 | UnityPy 1.25.4；FontTools 4.63；Unity 4.3.2f1 |
-| 发布 | `game-release-patch`；xdelta；自包含差分安装器 | xdelta 3.2.2；补丁 v1.0 |
+| 发布 | `game-release-patch`；xdelta；自包含差分安装器 | xdelta 3.2.2；补丁 v1.1 |
 
 ## 文本提取
 
@@ -79,6 +79,7 @@ python -X utf8 .\Analysis\extract_text.py
 - 大体积导出、反编译目录和日志已排除 Git；提取脚本、原文、映射、清单及校验报告入库。
 
 ## 翻译
+- 2026-11-25 补做全文润色：14,691 条逐条处理，1,252 条改译逐条完成独立复审，13,439 条复用原审校证据；复审撤回 6 条改译，正式 CSV 较上一版净更新 1,246 条。先用 Codex Luna 子代理，再按本轮授权使用既有 API 优先级；Sol 子代理及独立 Codex CLI Sol 处理少量定向修复。冻结术语表沿用 revision 10；占位符、控制符、空白及术语通过程序导出校验，最终验收报告哈希为 `b0a1837446d73bad6a6552dca05f64a154c343b8c6ab2df7b3aad197ba76d072`。新版译文 SHA-256 为 `71213286c1097e2f45cf607fe4f56c83b9bd6f8987cff5a9e18675d20386a838`。复审范围和导出分别见 `TranslateFiles/reports/polish_review_scope_20261125.json`、`TranslateFiles/reports/final_validation.json`。本版待回填。
 - 2026-10-16 翻译阶段完成并复核：150条已批准试译复用于正文，没有重跑；全文14,691条完成独立语义审校及Sol最终质量闭环，最新报告哈希为 `4ab829a90ae0694f5f723122eb088a7650701f65045100a69481532f547e7b0e`，第5轮无待裁决争议并获程序批准；完整验收快照见 `TranslateFiles/reports/accepted/final_4ab829a90ae0694f/`。导出前另核出26条拼接文本的边界空格不一致，均按源文修复并独立复查通过（review round 22 clean）；最终CSV为单列14,691条，与原文逐行对应，无空译文、无边界空格差异。译文SHA-256为 `eaad404d187d8ff9ce67ec722bd4d9ead82f81c679f4998d1482bbabd5ca4b48`，验证见 `TranslateFiles/reports/final_validation.json`。冻结术语表revision 10（162个人物、951条术语），哈希 `0b9e22152b88ca7cf2d4dc242e15c63bc5931dfcb6665c4e0ccf177f051ab649`；变量、样式标记、换行及术语均通过导出校验。实机验证留待回填阶段，当前状态 `pending_repack`。
 - 2026-10-16 协议一致性复查：补齐试译与正文的证据限制，统一直接提交/批次交接的试译例外继承和逐 ID 总结保存，修复冻结键大小写误合并、修复背景丢失、纯空白原文摘录及非文本理由误通过。56项流程回归及补充定向回归通过；本轮未操作游戏译文、运行数据库或在途任务。详见 `TranslateFiles/reports/workflow_contract_review_20261016.md`。
 - 2026-10-16 Sol 定位修正（用户明确要求）：Sol 只裁决明确遗留争议或处理多轮失败/反复回退的定向难题，不批量复审风险标签、普通样本、历史改动和一般一致性分组。已通过公开 `quality-report --kind final` 将旧6,070项轮归档并迁移为第2轮：24条明确疑点，17条复用已有有效结论，迁移时剩7条待裁决；旧轮已发现的1,452条问题保留为 carried_findings，待争议结论齐备后集中定向修复，不让 Sol 重读或自动放行。后续只读取新 quality-report 返回的 next_input_file，不继续旧输入包；修订复查通过后不因曾改动再交 Sol。规则、保全与验证见 `TranslateFiles/reports/sol_scope_fix_20261016.md`。
@@ -111,6 +112,7 @@ python -X utf8 .\Analysis\extract_text.py
 - 格式提醒：`DialogGUI.PrepareStringForDisplay` 将 `/`、`*`、`$` 作为斜体/粗体/颜色标记；需保留标记及作用范围。选项正文中的 `[Check ...]` 是显示说明，与独立的条件表达式区分。
 
 ## 回填
+- v1.1：按资源映射回填 14,691 条审核后的译文，重建 4 套字体子集、5 个 Unity 文件和 2 个托管组件。所有目标重读通过，53,437 个未修改对象字节一致，207 项旧存档显示回归通过。本机 7 个输出和 13 个安装载荷均已校验，保留原件与存档。
 - 方式：直接重建五个 Unity 文件并静态改写 `Assembly-CSharp.dll`，增加独立的 `ConquistadorChinese.dll` 排版组件。不需要 BepInEx、XUnity 或联网翻译，游戏语言保持 English。
 - 文本：五个 XML 共 14,202 条、场景字段 455 条、托管显示文本 34 条，合计 14,691 条，与正式 CSV 逐条对应；姓名身份键、难度及设置内部键保持原值，仅显示时汉化。
 - 文件：`Expeditions Conquistador_Data/` 下的 `sharedassets0.assets`、`sharedassets1.assets`、`level0`、`level2`、`level3` 及 `Managed/Assembly-CSharp.dll`；新增 `Managed/ConquistadorChinese.dll`。
@@ -138,6 +140,18 @@ python -X utf8 .\Analysis\extract_text.py
 - 历史试译曾记录若干非阻断措辞注意项（普通词语境、轻微重复和建筑别名）；这些事项已进入全文独立审校与定向复查，最终验收无未解决争议。
 
 ## 对外发布
+
+### v1.1
+
+- 下载：[GitHub Release v1.1](https://github.com/zfyu222/expeditions-conquistador/releases/tag/v1.1)。适用 Steam Windows 64 位系统，Build 1752467 / 游戏 1.6.6.1。
+- 补丁文件：`Dispatch/expeditions-conquistador_子非鱼汉化1.1.zip`，7,442,641 字节，SHA-256 `23b627044827af86e1c42da891121e9f9994a6d449c2c88ebfa20f79680c0d98`。
+- 载荷：6 个 VCDIFF 差分、中文显示组件、安装器、解码器、清单及许可证。复用既有汉化封面。
+- 隔离回放 7 项通过，包括从正式 v1.0 覆盖升级、重复安装、卸载及损坏载荷拦截。ZIP 校验见 `Repack/reports/release_archive_v1.1.json`，安装回放见 `Repack/reports/installer_v1.1_test.json`。
+
+### v1.0
+
+- 汉化封面：`Dispatch/Artwork/title.jpg`，参考 [Steam 官方素材](https://store.steampowered.com/app/237430/)，使用内置图像工具制作并视觉检查；来源及提示词见 `Dispatch/Artwork/source.json`。封面不进入安装载荷。
+
 
 - 补丁：`Dispatch/expeditions-conquistador_子非鱼汉化1.0.zip`，7,436,931字节。
 - SHA-256：`6c87aba83c265c3afc6b30b580c6ecc1c4fd7ae938dfbbc0801ce2bc4437891a`。
@@ -173,3 +187,5 @@ python -X utf8 .\Analysis\extract_text.py
 - 2026-10-16 - 用户确认传记、任务和教程说明全部正常；最终安装四轮测试及release-check通过，生成并校验v1.0正式ZIP，开始公开发布
 
 - 2026-10-16 - 正式发布v1.0至GitHub Release并完成匿名下载哈希核验；百度网盘MCP创建目录返回errno -6，镜像未完成且未删除任何旧文件
+
+- 2026-11-25 - 回填全文润色后的译文，制作 v1.1 差分补丁并验证原版安装、v1.0 升级及卸载。

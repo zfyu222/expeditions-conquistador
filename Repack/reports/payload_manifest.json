@@ -1,13 +1,13 @@
 {
   "game_build": "Steam 1752467 / game 1.6.6.1",
   "platform": "Steam Windows x86",
-  "translation_sha256": "eaad404d187d8ff9ce67ec722bd4d9ead82f81c679f4998d1482bbabd5ca4b48",
+  "translation_sha256": "71213286c1097e2f45cf607fe4f56c83b9bd6f8987cff5a9e18675d20386a838",
   "files": [
     {
       "game_path": "Expeditions Conquistador_Data/sharedassets0.assets",
       "source_sha256": "ab24b38c3bbde8745f8036ab3ed8becb2d53fe90a8556b2efc05bc6ef5f9976f",
-      "sha256": "eaf771e177c730aeeefb8be8bd5c28b60633381396a16418b28db4153ae45cc4",
-      "size": 8408008,
+      "sha256": "c5a793d6034a3030f933913b75aa54157c0a8cb96a6166a881969b53964dda16",
+      "size": 8408016,
       "text_records": 1773,
       "changed_objects": [
         16
@@ -19,8 +19,8 @@
     {
       "game_path": "Expeditions Conquistador_Data/sharedassets1.assets",
       "source_sha256": "b8ffa9629ed64c66447bfdb71f0d2d77b2ba8d9dcf1ebad4d8bbedb63a0f12a8",
-      "sha256": "401d0f605e1d3640390883b60c201a30f1494e30081b39bbdf8fa8bd445830ba",
-      "size": 341016088,
+      "sha256": "5c57bee7e04374ad786d289e6c080bb28de474820a5641afc89e053b92e72912",
+      "size": 341028928,
       "text_records": 12429,
       "changed_objects": [
         772,
@@ -43,57 +43,57 @@
         {
           "path_id": 856,
           "font": "ZFYNotoSerifSC-Regular.ttf",
-          "sha256": "84080dc843447eab1ad5a507ab59284f0a65906b163c781b2bb3273b4190a34e"
+          "sha256": "884be03e085db6f4863641b0c0413631e6ccd858677672aa6a0d3346a1c975bf"
         },
         {
           "path_id": 857,
           "font": "ZFYNotoSerifSC-Bold.ttf",
-          "sha256": "30acae47b396295f55a104ff77b884e0b1a1bf7346290bc3e4dc34b3fd88cc24"
+          "sha256": "9822e1e10da6b0f77d6473a8a314f20c185defeb0e293925adc44745d40e971a"
         },
         {
           "path_id": 858,
           "font": "ZFYNotoSerifSC-Bold.ttf",
-          "sha256": "30acae47b396295f55a104ff77b884e0b1a1bf7346290bc3e4dc34b3fd88cc24"
+          "sha256": "9822e1e10da6b0f77d6473a8a314f20c185defeb0e293925adc44745d40e971a"
         },
         {
           "path_id": 859,
           "font": "ZFYNotoSerifSC-Regular.ttf",
-          "sha256": "84080dc843447eab1ad5a507ab59284f0a65906b163c781b2bb3273b4190a34e"
+          "sha256": "884be03e085db6f4863641b0c0413631e6ccd858677672aa6a0d3346a1c975bf"
         },
         {
           "path_id": 860,
           "font": "ZFYNotoSerifSC-Regular.ttf",
-          "sha256": "84080dc843447eab1ad5a507ab59284f0a65906b163c781b2bb3273b4190a34e"
+          "sha256": "884be03e085db6f4863641b0c0413631e6ccd858677672aa6a0d3346a1c975bf"
         },
         {
           "path_id": 861,
           "font": "ZFYNotoSansSC-Regular.ttf",
-          "sha256": "3a7d436973e2ae999b434afc886fa98f3a782f8700a59a380e1341560b5c8082"
+          "sha256": "9d8f0cedfbce2b374bc75e65d8bd85f882fc83f6e5f997121f58d6e8714317e0"
         },
         {
           "path_id": 862,
           "font": "ZFYNotoSansSC-Bold.ttf",
-          "sha256": "04a64936ca93a3169b46205f0744f06a7f5f7ae71121a14eec98379917391094"
+          "sha256": "b91c61c081008758acb92b7af00af57c43dad822b0fc8df244282116b333ca9a"
         },
         {
           "path_id": 863,
           "font": "ZFYNotoSerifSC-Bold.ttf",
-          "sha256": "30acae47b396295f55a104ff77b884e0b1a1bf7346290bc3e4dc34b3fd88cc24"
+          "sha256": "9822e1e10da6b0f77d6473a8a314f20c185defeb0e293925adc44745d40e971a"
         },
         {
           "path_id": 864,
           "font": "ZFYNotoSerifSC-Bold.ttf",
-          "sha256": "30acae47b396295f55a104ff77b884e0b1a1bf7346290bc3e4dc34b3fd88cc24"
+          "sha256": "9822e1e10da6b0f77d6473a8a314f20c185defeb0e293925adc44745d40e971a"
         },
         {
           "path_id": 865,
           "font": "ZFYNotoSansSC-Regular.ttf",
-          "sha256": "3a7d436973e2ae999b434afc886fa98f3a782f8700a59a380e1341560b5c8082"
+          "sha256": "9d8f0cedfbce2b374bc75e65d8bd85f882fc83f6e5f997121f58d6e8714317e0"
         },
         {
           "path_id": 866,
           "font": "ZFYNotoSansSC-Bold.ttf",
-          "sha256": "04a64936ca93a3169b46205f0744f06a7f5f7ae71121a14eec98379917391094"
+          "sha256": "b91c61c081008758acb92b7af00af57c43dad822b0fc8df244282116b333ca9a"
         }
       ],
       "unchanged_objects_verified": 2072,
@@ -115,8 +115,8 @@
     {
       "game_path": "Expeditions Conquistador_Data/level2",
       "source_sha256": "1a26df8fcda56277ab38f15dbe1ee5ce6c43d6fe4ba552b1c003ca6466dbcf02",
-      "sha256": "323c3d2658a1b5dffdc519ee27207d1d6fc63d9a924461a1c6a69b6d7b183c37",
-      "size": 30265616,
+      "sha256": "9ad303d9451fb3528e974fe2430730688a778faf6b00089f6f5cecf8f82ec617",
+      "size": 30265656,
       "text_records": 162,
       "changed_objects": [
         13780,
@@ -199,8 +199,8 @@
     {
       "game_path": "Expeditions Conquistador_Data/level3",
       "source_sha256": "972038d0b835c1a57d63375caf911958267933bed126acefe378c91896892802",
-      "sha256": "345d34432e54c3bd670eed96f4f55b9bc3a2b05835963686d21060b73ef52d0a",
-      "size": 43761504,
+      "sha256": "56abd04d4b878a0dee0fb0fe5b23fcf865faa7ddab817946c6f4bcb16e92f76f",
+      "size": 43761496,
       "text_records": 268,
       "changed_objects": [
         33542,
@@ -379,7 +379,7 @@
     {
       "game_path": "Expeditions Conquistador_Data/Managed/ConquistadorChinese.dll",
       "source_sha256": null,
-      "sha256": "8226fe163d4d49868aedb0ec530f87c6efae8e8cd2e91570341ab3f17b26b5fa",
+      "sha256": "f1acc260532b1109a8cceceb17464bce0c7297dbce03ef2a1fa167f9aaaaf86f",
       "path": "Repack/Build/Game/Expeditions Conquistador_Data/Managed/ConquistadorChinese.dll"
     }
   ]

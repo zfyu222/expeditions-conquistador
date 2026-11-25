@@ -1,25 +1,42 @@
-"""Package exactly the tested installation kit through the release skill."""
+"""Package the verified Conquistador difference installer and its exact payload."""
 import argparse
 import json
 import subprocess
 import sys
 from pathlib import Path
 
-ROOT=Path(__file__).resolve().parents[2]
-def main():
-    p=argparse.ArgumentParser();p.add_argument('--dry-run',action='store_true');a=p.parse_args()
-    kit=json.loads((ROOT/'Repack/reports/patchkit_build.json').read_text('utf-8'))
-    args=[sys.executable,str(ROOT.parents[1]/'.agents/skills/game-release-patch/scripts/create_release_patch.py'),
-        '--project',str(ROOT),'--version','1.0','--game-name','expeditions-conquistador',
-        '--introduction','为《Expeditions: Conquistador（远征：征服者）》Steam Windows 版制作的简体中文静态汉化补丁。无需额外汉化框架，运行时无需联网翻译。',
-        '--coverage','已提取的14,691条剧情、对话、任务、人物传记、界面及场景文字；兼容旧存档中的英文任务和官方多语言人物传记。47页教程保留原图，另加中文说明。',
-        '--game-version','Steam 1752467 / game 1.6.6.1','--platform','Steam Windows x86',
-        '--install','先备份存档并完全退出游戏。将压缩包全部内容解压到游戏根目录（Expeditions Conquistador.exe 所在目录），保留 ChinesePatch 目录结构；运行“安装汉化.exe”，输入1并回车，等待显示“汉化安装完成”。游戏语言选择 English。安装器只接受对应原版文件哈希，自动把原文件备份到 ChinesePatch/Backup；请勿删除该备份。',
-        '--uninstall','完全退出游戏后，运行同一“安装汉化.exe”，输入2并回车，等待显示“原版已还原”。确认恢复后，可移走“安装汉化.exe”和 ChinesePatch 目录。若备份丢失，可用 Steam 验证游戏文件恢复原版。',
-        '--verification','已验证主菜单、首章多轮对话及分支推进；用户加载旧存档确认人物传记、任务和教程中文说明正常。最终载荷已通过纯净基线安装、还原、再次安装和重复安装四轮哈希测试。未进行全流程通关验证。',
-        '--known-issues','原教程截图内的英文保留，中文说明位于图下方；过场视频文字未汉化。日期和程序身份姓名保留原文。固定尺寸界面在高分辨率下可能较小。未测试其他商店版本、其他系统、全部剧情分支、多人联机或 Steam 成就实际解锁；更新游戏后请先确认补丁兼容。']
-    for f in kit['files']:args+=['--include',str(ROOT/f['path'])+'='+f['game_path']]
-    if a.dry_run:args+=['--dry-run']
-    subprocess.run(args,check=True)
+ROOT = Path(__file__).resolve().parents[2]
 
-if __name__=='__main__':main()
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--release-date', required=True)
+    parser.add_argument('--dry-run', action='store_true')
+    args = parser.parse_args()
+    kit = json.loads((ROOT / 'Repack/reports/candidate_patchkit_build.json').read_text('utf-8'))
+    manifest = json.loads((ROOT / 'Repack/Build/CandidatePatchKit/ChinesePatch/patch_manifest.json').read_text('utf-8'))
+    command = [
+        sys.executable, str(ROOT.parents[1] / '.agents/skills/game-release-patch/scripts/create_release_patch.py'),
+        '--project', str(ROOT), '--version', manifest['patch_version'],
+        '--release-date', args.release_date,
+        '--chinese-name', '远征：征服者', '--english-name', 'Expeditions: Conquistador',
+        '--steam-url', 'https://store.steampowered.com/app/237430/',
+        '--download-url', 'https://github.com/zfyu222/expeditions-conquistador/releases/',
+        '--mirror-url', 'https://pan.baidu.com/s/5a1u7wfYfZ30XA-OZ6oU8cA', '--share-name', '百度网盘',
+        '--introduction', '这是一款以十六世纪西班牙远征美洲为背景的回合制策略角色扮演游戏。玩家招募并培养队员、安排营地工作和补给，在岛屿与丛林中探索，通过外交选择和战术战斗推动两段战役。',
+        '--coverage', '剧情、对话、任务、人物传记、界面及场景文字，教程附中文说明。',
+        '--game-version', manifest['game_version'], '--platform', manifest['platform'],
+        '--install', '解压到 Expeditions Conquistador.exe 所在目录，运行“安装汉化.exe”并输入 1，游戏语言选择 English。',
+        '--upgrade', '将新版补丁覆盖解压到游戏目录，运行“安装汉化.exe”并输入 1。',
+        '--uninstall', '运行“安装汉化.exe”并输入 2。',
+        '--changes', '全文润色，增量复审后更新 1,246 条译文，支持从 v1.0 直接升级。',
+    ]
+    for item in kit['files']:
+        command.extend(['--include', str(ROOT / item['path']) + '=' + item['game_path']])
+    if args.dry_run:
+        command.append('--dry-run')
+    subprocess.run(command, check=True)
+
+
+if __name__ == '__main__':
+    main()

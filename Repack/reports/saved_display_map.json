@@ -299,7 +299,7 @@
       "table": "SavedFragments",
       "row": 50,
       "source": " turns remaining",
-      "translation": " 回合"
+      "translation": " 回合剩余"
     },
     {
       "table": "SavedFragments",
@@ -1067,7 +1067,7 @@
       "table": "SavedFragments",
       "row": 192,
       "source": " Wins",
-      "translation": " 胜"
+      "translation": " 胜场"
     },
     {
       "table": "SavedFragments",
@@ -1169,7 +1169,7 @@
       "table": "SavedFragments",
       "row": 209,
       "source": "A cave entrance has been spotted nearby. Send an expedition member to search for metal ore. A higher Patrolling skill and your own Scouting will increase the potential boon of exploring caves. Beware that caves can be dangerous, and there’s a risk that the follower may sustain a light injury.",
-      "translation": "附近发现了一个洞穴入口。派遣一名远征队成员前去搜寻金属矿石。更高的巡逻技能和你自身的侦察能力会提高探索洞穴可能获得的好处。小心，洞穴可能很危险，随行者也有可能受轻伤。"
+      "translation": "附近发现了一个洞穴入口。派遣一名远征队成员前去搜寻金属矿石。巡逻技能等级越高、你的侦察能力越强，探索洞穴可能获得的收获就越多。小心，洞穴可能很危险，随行者也有可能受轻伤。"
     },
     {
       "table": "SavedFragments",
@@ -1181,13 +1181,13 @@
       "table": "SavedFragments",
       "row": 211,
       "source": "The undergrowth is covered in herbs with medicinal applications. Send an expedition member to harvest them. The spoils of the foray depend on the follower’s Herbalism skill and your knowledge of Healing.",
-      "translation": "草丛中长满了可入药的草药。派一名远征队成员去采集。此次出行的收获取决于随行者的草药学技能和你对治疗的了解。"
+      "translation": "林下长着许多可用于治疗的草药。派一名远征队成员去采集。此次出行的收获取决于随行者的草药学技能和你对治疗的了解。"
     },
     {
       "table": "SavedFragments",
       "row": 212,
       "source": "Natives have been known to bury their dead nearby. Send an expedition member to search the graves for valuable trinkets. A higher Patrolling skill and your own Scouting will increase the potential loot from grave robbing. This is dirty work, however, and it may hurt the morale of the expedition member assigned.",
-      "translation": "据说附近的原住民会将死者埋葬在附近。派一名远征队成员去坟墓中搜寻有价值的小饰品。更高的巡逻技能和你自身的侦察能力会增加掘墓所得。不过这活儿很不体面，负责的远征队成员可能会因此士气受挫。"
+      "translation": "据说原住民会将死者埋葬在这一带。派一名远征队成员去坟墓中搜寻有价值的小饰品。更高的巡逻技能和你自身的侦察能力会增加掘墓所得。不过这活儿很不体面，负责的远征队成员可能会因此士气受挫。"
     },
     {
       "table": "SavedFragments",
@@ -1325,7 +1325,7 @@
       "table": "SavedFragments",
       "row": 235,
       "source": "Hunters are your best ranged units but very weak in melee combat.",
-      "translation": "猎人是最出色的远程单位，但在近战战斗中非常弱。"
+      "translation": "猎人是最出色的远程单位，但近战能力很弱。"
     },
     {
       "table": "SavedFragments",
@@ -1445,13 +1445,13 @@
       "table": "SavedFragments",
       "row": 255,
       "source": "The prices offered by ",
-      "translation": "商人开出的价格 "
+      "translation": "来自 "
     },
     {
       "table": "SavedFragments",
       "row": 256,
       "source": " merchants have improved",
-      "translation": " 有所改善"
+      "translation": " 商人的报价有所改善"
     },
     {
       "table": "SavedFragments",
@@ -1637,13 +1637,13 @@
       "table": "SavedFragments",
       "row": 287,
       "source": "Enemy Intelligence",
-      "translation": "敌人智能"
+      "translation": "敌方AI"
     },
     {
       "table": "SavedFragments",
       "row": 288,
       "source": "Injury Probabilities",
-      "translation": "伤势概率"
+      "translation": "受伤概率"
     },
     {
       "table": "SavedFragments",
@@ -3323,7 +3323,7 @@
       "table": "SavedFragments",
       "row": 600,
       "source": "*Rivalrous*\nHas developed a rivalry with another follower. Will lose morale if you promote their ribval but gain it if their rival dies.",
-      "translation": "*好胜*\n与另一名队员结下了竞争关系。晋升其对手时士气会降低，但对手死亡时士气会提升。"
+      "translation": "*好胜*\n与另一名队员结下了竞争关系。晋升其对手时士气会降低，但其对手死亡时士气会提升。"
     },
     {
       "table": "SavedFragments",
@@ -4325,7 +4325,7 @@
       "table": "SavedFragments",
       "row": 798,
       "source": "*[Stack] Cannonball[s] [HOTKEY] Free action*\n*Preparation Phase:* Place the cannon.\n*During Combat:* Fire an explosive cannonball from the cannon that damages 5 random adjacent spaces in and around the target space.",
-      "translation": "*[Stack] 炮弹[s] [HOTKEY] 免费行动*\n*战前准备阶段：* 放置火炮。\n*战斗中：* 从火炮发射一枚爆炸炮弹，对目标格及周围随机5个相邻格造成伤害。"
+      "translation": "*[Stack] 炮弹[s] [HOTKEY] 免费行动*\n*战前准备阶段：* 放置火炮。\n*战斗中：* 从火炮发射一枚爆炸炮弹，对目标格及其周围随机5格造成伤害。"
     },
     {
       "table": "SavedFragments",
@@ -4451,7 +4451,7 @@
       "table": "SavedFragments",
       "row": 820,
       "source": "Select the language for the interface buttons, labels, tooltips, player messages, etc.",
-      "translation": "选择界面按钮、标签、工具提示、玩家消息等内容所使用的语言。"
+      "translation": "选择界面按钮、标签、工具提示、玩家消息等界面内容所用的语言。"
     },
     {
       "table": "SavedFragments",
@@ -5435,7 +5435,7 @@
       "table": "SavedFragments",
       "row": 1033,
       "source": "Allows the follower to use a macuahuitl with a shield in battle.\nMedium damage, normal critical. 25% chance to block.",
-      "translation": "允许该随从在战斗中使用盾牌和马夸维特尔。\n伤害中等，暴击率普通。格挡几率25%。"
+      "translation": "允许该随从在战斗中使用马夸维特尔和盾牌。\n伤害中等，暴击率普通。格挡几率为25%。"
     },
     {
       "table": "SavedFragments",
@@ -5453,7 +5453,7 @@
       "table": "SavedFragments",
       "row": 1036,
       "source": "Allows the follower to use a sword with a shield in battle.\nMedium damage, normal critical. 25% chance to block.",
-      "translation": "允许该随从在战斗中使用盾牌和剑。\n伤害中等，暴击率普通。格挡几率25%。"
+      "translation": "允许该随从在战斗中使用剑和盾牌。\n伤害中等，暴击率普通。格挡几率为25%。"
     },
     {
       "table": "SavedFragments",
@@ -5525,7 +5525,7 @@
       "table": "SavedFragments",
       "row": 1048,
       "source": "Some Background",
-      "translation": "某个背景"
+      "translation": "背景"
     },
     {
       "table": "SavedFragments",
@@ -5825,19 +5825,19 @@
       "table": "SavedFragments",
       "row": 1110,
       "source": "Equipped Item 1",
-      "translation": "装备物品 1"
+      "translation": "已装备物品 1"
     },
     {
       "table": "SavedFragments",
       "row": 1111,
       "source": "Equipped Item 2",
-      "translation": "装备物品 2"
+      "translation": "已装备物品 2"
     },
     {
       "table": "SavedFragments",
       "row": 1112,
       "source": "Equipped Item 3",
-      "translation": "装备物品 3"
+      "translation": "已装备物品 3"
     },
     {
       "table": "SavedFragments",
@@ -5855,7 +5855,7 @@
       "table": "SavedFragments",
       "row": 1115,
       "source": "Player Message Speed",
-      "translation": "玩家消息速度"
+      "translation": "玩家消息显示速度"
     },
     {
       "table": "SavedFragments",
@@ -5969,7 +5969,7 @@
       "table": "SavedFragments",
       "row": 1135,
       "source": "Water Quality",
-      "translation": "水质"
+      "translation": "水体质量"
     },
     {
       "table": "SavedFragments",
@@ -6113,7 +6113,7 @@
       "table": "SavedFragments",
       "row": 1160,
       "source": "Mutinous",
-      "translation": "叛乱"
+      "translation": "叛变"
     },
     {
       "table": "SavedFragments",
@@ -7043,7 +7043,7 @@
       "table": "SavedFragments",
       "row": 1426,
       "source": "Moderately",
-      "translation": "中度地"
+      "translation": "中度"
     },
     {
       "table": "SavedFragments",
@@ -7055,7 +7055,7 @@
       "table": "SavedFragments",
       "row": 1429,
       "source": "Severely",
-      "translation": "重度地"
+      "translation": "重度"
     },
     {
       "table": "SavedFragments",
@@ -7067,7 +7067,7 @@
       "table": "SavedFragments",
       "row": 1432,
       "source": "Critically",
-      "translation": "危重地"
+      "translation": "危重"
     },
     {
       "table": "SavedFragments",
@@ -7181,13 +7181,13 @@
       "table": "SavedFragments",
       "row": 1460,
       "source": " days left",
-      "translation": " 天剩余"
+      "translation": " 剩余天数"
     },
     {
       "table": "SavedFragments",
       "row": 1461,
       "source": " day left",
-      "translation": " 天剩余"
+      "translation": " 剩余天数"
     },
     {
       "table": "SavedFragments",
@@ -7955,7 +7955,7 @@
       "table": "SavedFragments",
       "row": 1622,
       "source": "Your patrol has found a half-empty barrel of oil in a ruined Spanish cart",
-      "translation": "你的巡逻队在一辆损毁的西班牙人的马车里发现了半桶油料"
+      "translation": "你的巡逻队在西班牙人的一辆残破马车里发现了半桶油料"
     },
     {
       "table": "SavedFragments",
@@ -7985,7 +7985,7 @@
       "table": "SavedFragments",
       "row": 1627,
       "source": "Your patrol discovered a pouch of medicine on a delapidated corpse",
-      "translation": "你的巡逻队在一具破败的尸体上发现了一袋药品"
+      "translation": "你的巡逻队在一具腐朽的尸体上发现了一袋药品"
     },
     {
       "table": "SavedFragments",
@@ -8087,7 +8087,7 @@
       "table": "SavedFragments",
       "row": 1647,
       "source": "'s condition has deteriorated due to lack of treatment",
-      "translation": "因缺乏治疗，的状况恶化了"
+      "translation": "因缺乏治疗，状况恶化了"
     },
     {
       "table": "SavedFragments",
@@ -8453,7 +8453,7 @@
       "table": "SavedFragments",
       "row": 1712,
       "source": " days remaining",
-      "translation": " 天尚余"
+      "translation": " 剩余天数"
     },
     {
       "table": "SavedFragments",
@@ -8819,7 +8819,7 @@
       "table": "SavedBios",
       "row": 1774,
       "source": "Born in 1469, he had a relatively normal childhood, growing up in a small farm town. He met the love of his life, whom he married at a young age. He was apprenticing as an alchemist when his wife fell ill from typhus and died a short while later. The loss sent him into a deep depression and he buried himself in his work and the field of disease treatment. He never fully recovered from his broken heart, and partly the reason he joined your expedition was to get over his grief. A somber and quiet man, but no man knows better the field of diseases and infections than he.",
-      "translation": "他生于1469年，童年生活相当平凡，在一座小型农庄镇长大。他很早便与一生挚爱结了婚。当他还在做炼金术士学徒时，妻子染上斑疹伤寒，不久便去世了。这场失去让他陷入深深的抑郁；他把自己埋进工作中，专心钻研疾病治疗。他始终没能从心碎中完全恢复，而他加入你们的远征，部分原因也是想走出悲痛。他是个沉郁寡言的人，但论疾病与感染，无人比他更精通。"
+      "translation": "他生于1469年，在一个小农庄镇长大，童年生活相当平凡。他很年轻时便与一生挚爱结了婚。当他还在做炼金术士学徒时，妻子染上斑疹伤寒，不久便去世了。丧妻之痛让他陷入深深的抑郁；他埋头工作，潜心研究疾病治疗。他始终没能从丧妻之痛中完全恢复，加入你们的远征队，部分原因也是想走出悲痛。他沉郁寡言，但论疾病与感染，无人比他更精通。"
     },
     {
       "table": "SavedBios",
@@ -8837,7 +8837,7 @@
       "table": "SavedBios",
       "row": 1777,
       "source": "Not much is known about Antonio, beside him being an extremely talented doctor. How he gained the knowledge he possesses or the skills that he exhibits are a mystery. Wandering into town from the forest on a day like any other, he quickly attracted a crowd of curious people in the poor quarters. He went from person to person and, with simple remedies, made almost every sick person better. His sympathetic nature is unmatched and he can make any person feel welcome in his company.",
-      "translation": "人们对安东尼奥知之甚少，只知道他是一位天赋异禀的医生。他如何获得这些知识、练就这些本领，至今仍是谜。有一天，他像往常一样从森林走进镇子，很快便吸引了贫民区一群好奇的人。他挨家挨户地走访，用简单的药物治好了几乎每一位病人。他富有同情心，无人能及；无论是谁，都能在他身边感到自在。"
+      "translation": "人们对安东尼奥知之甚少，只知道他是一位天赋异禀的医生。他如何获得这些知识、展现这些本领，至今仍是个谜。有一天，他像往常一样从森林走进镇子，很快便吸引了贫民区一群好奇的人。他挨个走到病人身边，用简单的药物治好了几乎所有病人。他富有同情心，无人能及；任何人和他相处，都能感到自在。"
     },
     {
       "table": "SavedBios",
@@ -8951,7 +8951,7 @@
       "table": "SavedBios",
       "row": 1796,
       "source": "Rafael had a good life as a hunter in Spain, until he messed it all up. Blind with baseless jealousy and drunk out of his mind, he murdered his loving wife one night on suspicion of adultery. He was caught and tried for murder, found guilty and sentenced to death. At the last possible moment, Rafael was offered a chance of pardon if he agreed to be sent to the New World and serve the Spanish Crown on expeditions to the mainland.",
-      "translation": "拉斐尔曾在西班牙过着不错的猎人生活，直到他亲手毁掉了一切。他被毫无根据的嫉妒冲昏头脑，又醉得不省人事，一夜之间竟因怀疑妻子通奸而杀死了深爱他的妻子。他被捕并以谋杀罪受审，最终被判有罪、处以死刑。在行刑前的最后关头，拉斐尔得到了一次赦免机会：只要他愿意被送往新大陆，为西班牙王室效力，参加前往美洲大陆的远征。"
+      "translation": "拉斐尔曾在西班牙过着不错的猎人生活，直到他亲手毁掉了一切。他被毫无根据的嫉妒冲昏头脑，又醉得不省人事，一夜之间竟因怀疑妻子通奸而杀死了深爱他的妻子。他被捕并以谋杀罪受审，最终被判有罪、处以死刑。在行刑前的最后关头，拉斐尔得到了一次赦免的机会：只要他愿意被送往新大陆，为西班牙王室效力，参加前往美洲大陆的远征。"
     },
     {
       "table": "SavedBios",
@@ -9077,7 +9077,7 @@
       "table": "SavedDescriptions",
       "row": 2048,
       "source": "Locate the old ruins in the jungle at the heart of Hispaniola and deal with the pagan cult that haunts them.",
-      "translation": "前往伊斯帕尼奥拉岛腹地丛林中的古老遗迹，解决盘踞在那里的异教徒教派。"
+      "translation": "前往伊斯帕尼奥拉岛腹地丛林中的古老遗迹，处置盘踞于此的异教徒教派。"
     },
     {
       "table": "SavedTitles",
@@ -9155,7 +9155,7 @@
       "table": "SavedDescriptions",
       "row": 2392,
       "source": "Sergeant Luisa Chocero was sent on a patrol into the mountains north-west of Santo Domingo, but her detachment is long overdue to return. Find out what has become of them.",
-      "translation": "中士路易莎·乔塞罗被派往圣多明各西北方的山里执行巡逻任务，但她的小队早该返回了。查明他们的下落。"
+      "translation": "中士路易莎·乔塞罗被派往圣多明各西北方的山区巡逻，但她的小队迟迟未归。查明他们的下落。"
     },
     {
       "table": "SavedDescriptions",
@@ -9341,7 +9341,7 @@
       "table": "SavedBios",
       "row": 4129,
       "source": "The daughter of Andres de Yruenes, who was a part of Columbus' crew. Isabela's mother was a Taíno woman, and as a child of two worlds, Isabela has never found it easy to fit in. Despite her difficulties in gaining the trust of her mother's tribesmen, and the often terrible treatment she sustained from the colonists in Santo Domingo, Isabela has stubbornly held on to a positive outlook on life. She is far from naive, having seen many of the worst sides of people, but she is a stoically polite and open-minded woman who fights for peace and reconciliation for both her peoples.",
-      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是一位泰诺人。作为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管她难以取得母亲族人的信任，也常遭圣多明各殖民者恶劣对待，她仍顽强地保持着乐观的人生态度。她绝非天真无知，早已见识过人性最恶劣的一面；但她是一位沉着、礼貌、思想开放的女性，为两个族群的和平与和解而奋斗。"
+      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是泰诺人。身为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管难以赢得母亲族人的信任，也常遭圣多明各的殖民者恶劣对待，她仍顽强地保持乐观。她绝非天真，早已见识过人性最恶劣的一面；但她沉着、彬彬有礼、思想开放，始终为两个族群的和平与和解而努力。"
     },
     {
       "table": "SavedDescriptions",
@@ -9443,7 +9443,7 @@
       "table": "SavedDescriptions",
       "row": 5331,
       "source": "Tlaxcalteca warriors have captured Tenochtitlan's market. You need to go and take it back.",
-      "translation": "特拉斯卡拉人的战士已经占领了特诺奇蒂特兰的集市。你得去把它夺回来。"
+      "translation": "特拉斯卡拉人战士已经占领了特诺奇蒂特兰的集市。你得去把它夺回来。"
     },
     {
       "table": "SavedTitles",
@@ -9539,7 +9539,7 @@
       "table": "SavedDescriptions",
       "row": 5703,
       "source": "Bring the food from Cuautitlán back to the palace in Tenochtitlan and inform Quappiatl of the service that you've done the Aztec Empire.",
-      "translation": "把夸乌蒂特兰的食物带回特诺奇蒂特兰的宫殿，并告知夸皮亚特尔你为阿兹特克帝国立下的功劳。"
+      "translation": "把夸乌蒂特兰的食物带回特诺奇蒂特兰的宫殿，并告知夸皮亚特尔你为阿兹特克帝国所做的贡献。"
     },
     {
       "table": "SavedTitles",
@@ -9563,7 +9563,7 @@
       "table": "SavedDescriptions",
       "row": 5766,
       "source": "Bring the infected corpse of Iccauhtli back to the shaman Patli in Tenochtitlan.",
-      "translation": "把伊考特利染病的尸体带回特诺奇蒂特兰，交给萨满帕特利。"
+      "translation": "把染病的伊考特利尸体带回特诺奇蒂特兰，交给萨满帕特利。"
     },
     {
       "table": "SavedTitles",
@@ -9719,7 +9719,7 @@
       "table": "SavedDescriptions",
       "row": 7265,
       "source": "Tutul Xiu, chieftain of the village of Masaya, has asked you to track down and kill a group of Mayan bandits south of the village.",
-      "translation": "马萨亚村庄的酋长图图尔·修请求你前往村庄南边，追踪并杀死一伙玛雅强盗。"
+      "translation": "马萨亚村的酋长图图尔·修请求你前往村庄南边，追踪并杀死一伙玛雅强盗。"
     },
     {
       "table": "SavedTitles",
@@ -9773,7 +9773,7 @@
       "table": "SavedBios",
       "row": 7859,
       "source": "Miguel Sicart is one of the few survivors of Felipe Gutiérrez's expedition that you've encountered on the mainland. You found him in a small hut that he'd built himself, and after a little adventure with a poisonous frog paella, you convinced him to join your expedition. Annoyingly he continues to evade all questions about Gutiérrez, but wastes no opportunity to call your predecessor a fool.",
-      "translation": "米格尔·西卡特是你在美洲大陆遇到的、费利佩·古铁雷斯远征队少数幸存者之一。你在一间他亲手搭建的小屋里找到了他。经历了一场毒蛙肉西班牙烩饭的小小冒险后，你说服他加入了你的远征队。令人恼火的是，他仍然回避所有关于古铁雷斯的问题，却总能抓住机会骂你的前任是个蠢货。"
+      "translation": "米格尔·西卡特是你在美洲大陆遇到的、费利佩·古铁雷斯远征队少数幸存者之一。你在一间他亲手搭建的小屋里找到了他。经历了一场毒蛙肉西班牙烩饭的小小冒险后，你说服他加入了你的远征队。令人恼火的是，他仍然回避所有关于古铁雷斯的问题，却总不放过任何机会，骂你的前任是个蠢货。"
     },
     {
       "table": "SavedTitles",
@@ -9911,7 +9911,7 @@
       "table": "SavedDescriptions",
       "row": 9254,
       "source": "Take your troops to the main Causeway into Tenochtitlan and provoke the Totonac army to attack.",
-      "translation": "率领你的部队前往通往特诺奇蒂特兰的主堤道，挑衅托托纳克人军队发动攻击。"
+      "translation": "率领部队前往通往特诺奇蒂特兰的主堤道，挑衅托托纳克人发动攻击。"
     },
     {
       "table": "SavedDescriptions",
@@ -10049,19 +10049,19 @@
       "table": "SavedDescriptions",
       "row": 10120,
       "source": "Return to Xalapa and inform Tepictoton of the catastrophic outcome of the meeting.",
-      "translation": "回到哈拉帕，告知特皮克托顿会面惨败。"
+      "translation": "回到哈拉帕，告知特皮克托顿会面惨败的结果。"
     },
     {
       "table": "SavedDescriptions",
       "row": 10176,
       "source": "Return to Quappiatl at the palace in Tenochtitlan and report on your success.",
-      "translation": "回到特诺奇蒂特兰宫殿里的夸皮亚特尔处，向他报告成功的消息。"
+      "translation": "回到特诺奇蒂特兰宫殿中的夸皮亚特尔处，向他报告成功。"
     },
     {
       "table": "SavedDescriptions",
       "row": 10184,
       "source": "Return to Quappiatl at the palace in Tenochtitlan and report on your failure.",
-      "translation": "回到特诺奇蒂特兰宫殿里的夸皮亚特尔处，报告失败的消息。"
+      "translation": "回到特诺奇蒂特兰的宫殿，向夸皮亚特尔报告失败。"
     },
     {
       "table": "SavedDescriptions",
@@ -10079,7 +10079,7 @@
       "table": "SavedBios",
       "row": 10492,
       "source": "The daughter of the Totonac chief Tepictoton, Anacaona is a friendly and adventurous and somewhat hyperactive young girl burdened with a priviledged but bored upbringing. As the daughter of a local chieftain, she is a considerable diplomatic asset, and it helps that her Spanish is impeccable.",
-      "translation": "阿纳卡奥娜是托托纳克人酋长特皮克托顿的女儿。她待人友善、爱冒险，还有些过分活泼；优渥却乏味的成长环境让这个年轻女孩颇感烦闷。身为当地酋长的女儿，她是极有价值的外交筹码，而且她的西班牙语说得无可挑剔。"
+      "translation": "阿纳卡奥娜是托托纳克人酋长特皮克托顿的女儿。她待人友善、爱冒险，还有些精力过剩；优渥却乏味的成长环境让她颇感烦闷。身为当地酋长的女儿，她在外交上颇具价值，而她的西班牙语也说得无可挑剔。"
     },
     {
       "table": "SavedDescriptions",
@@ -10211,7 +10211,7 @@
       "table": "SavedDescriptions",
       "row": 12025,
       "source": "Esteban has absconded with FNameFirst1. FNameFirst3 thinks he must be taking FHimHer1 to be sacrificed by the savage Caribs that live in the mountains near the coast to the north west. You probably have until the next full moon to prevent this.",
-      "translation": "埃斯特班带着FNameFirst1逃走了。FNameFirst3认为，他一定是要把FHimHer1交给住在西北方海岸附近山里的凶残加勒比人，供他们献祭。你大概还有时间赶在下次满月前阻止这一切。"
+      "translation": "埃斯特班带着FNameFirst1逃走了。FNameFirst3认为，他一定是要把FHimHer1交给住在西北方海岸附近山里的凶残加勒比人，让他们献祭。你大概还有时间在下次满月前阻止这一切。"
     }
   ]
 }

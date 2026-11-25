@@ -5,7 +5,7 @@
       "identity": "pedro|alvarado",
       "source": "Он родился в 1469 году и провел сравнительно нормальное детство в небольшом крестьянском городке. Он встретил любовь всей жизни, на которой женился, будучи еще молодым. Он учился на алхимика, когда его жена заболела тифом и вскоре умерла. Эта потеря вызвала в нем глубокую депрессию, от которой он спасался в работе и изучении болезней. Он так и не оправился от потери своей любимой, а желание прийти в себя отчасти и стало причиной присоединения к вашей экспедиции. Никто не разбирается в болезнях и инфекциях лучше этого молчаливого, угрюмого человека.",
       "english_source": "Born in 1469, he had a relatively normal childhood, growing up in a small farm town. He met the love of his life, whom he married at a young age. He was apprenticing as an alchemist when his wife fell ill from typhus and died a short while later. The loss sent him into a deep depression and he buried himself in his work and the field of disease treatment. He never fully recovered from his broken heart, and partly the reason he joined your expedition was to get over his grief. A somber and quiet man, but no man knows better the field of diseases and infections than he.",
-      "translation": "他生于1469年，童年生活相当平凡，在一座小型农庄镇长大。他很早便与一生挚爱结了婚。当他还在做炼金术士学徒时，妻子染上斑疹伤寒，不久便去世了。这场失去让他陷入深深的抑郁；他把自己埋进工作中，专心钻研疾病治疗。他始终没能从心碎中完全恢复，而他加入你们的远征，部分原因也是想走出悲痛。他是个沉郁寡言的人，但论疾病与感染，无人比他更精通。"
+      "translation": "他生于1469年，在一个小农庄镇长大，童年生活相当平凡。他很年轻时便与一生挚爱结了婚。当他还在做炼金术士学徒时，妻子染上斑疹伤寒，不久便去世了。丧妻之痛让他陷入深深的抑郁；他埋头工作，潜心研究疾病治疗。他始终没能从丧妻之痛中完全恢复，加入你们的远征队，部分原因也是想走出悲痛。他沉郁寡言，但论疾病与感染，无人比他更精通。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/771_Level0.txt",
@@ -26,7 +26,7 @@
       "identity": "antonio|velasquez",
       "source": "Об Антонио мало что известно, кроме того, что он чрезвычайно талантливый врач. Как он получил знания, которыми обладает и навыки, которые демонстрирует, остаётся загадкой. Блуждая по городам и лесам, он, как никто другой, привлекал толпы любопытных в бедных кварталах. От человека к человеку, простыми лекарствами он вылечивал каждого. Его умение сострадать не имеет себе равных и любого ждет радушный прием.",
       "english_source": "Not much is known about Antonio, beside him being an extremely talented doctor. How he gained the knowledge he possesses or the skills that he exhibits are a mystery. Wandering into town from the forest on a day like any other, he quickly attracted a crowd of curious people in the poor quarters. He went from person to person and, with simple remedies, made almost every sick person better. His sympathetic nature is unmatched and he can make any person feel welcome in his company.",
-      "translation": "人们对安东尼奥知之甚少，只知道他是一位天赋异禀的医生。他如何获得这些知识、练就这些本领，至今仍是谜。有一天，他像往常一样从森林走进镇子，很快便吸引了贫民区一群好奇的人。他挨家挨户地走访，用简单的药物治好了几乎每一位病人。他富有同情心，无人能及；无论是谁，都能在他身边感到自在。"
+      "translation": "人们对安东尼奥知之甚少，只知道他是一位天赋异禀的医生。他如何获得这些知识、展现这些本领，至今仍是个谜。有一天，他像往常一样从森林走进镇子，很快便吸引了贫民区一群好奇的人。他挨个走到病人身边，用简单的药物治好了几乎所有病人。他富有同情心，无人能及；任何人和他相处，都能感到自在。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/771_Level0.txt",
@@ -159,7 +159,7 @@
       "identity": "rafael|lopez",
       "source": "Рафаель неплохо жил в Испании, занимаясь охотой, пока всё не испортил. Однажды ночью, сильно напившись и будучи ослепленным беспричинной ревностью, он убил свою любимую супругу, подозревая ту в измене. Его поймали, судили за убийство, признали виновным и приговорили к смертной казни. В последний момент Рафаелю был предложен шанс искупить свою вину, отправившись служить испанской короне в Новом Свете в составе экспедиции на материке.",
       "english_source": "Rafael had a good life as a hunter in Spain, until he messed it all up. Blind with baseless jealousy and drunk out of his mind, he murdered his loving wife one night on suspicion of adultery. He was caught and tried for murder, found guilty and sentenced to death. At the last possible moment, Rafael was offered a chance of pardon if he agreed to be sent to the New World and serve the Spanish Crown on expeditions to the mainland.",
-      "translation": "拉斐尔曾在西班牙过着不错的猎人生活，直到他亲手毁掉了一切。他被毫无根据的嫉妒冲昏头脑，又醉得不省人事，一夜之间竟因怀疑妻子通奸而杀死了深爱他的妻子。他被捕并以谋杀罪受审，最终被判有罪、处以死刑。在行刑前的最后关头，拉斐尔得到了一次赦免机会：只要他愿意被送往新大陆，为西班牙王室效力，参加前往美洲大陆的远征。"
+      "translation": "拉斐尔曾在西班牙过着不错的猎人生活，直到他亲手毁掉了一切。他被毫无根据的嫉妒冲昏头脑，又醉得不省人事，一夜之间竟因怀疑妻子通奸而杀死了深爱他的妻子。他被捕并以谋杀罪受审，最终被判有罪、处以死刑。在行刑前的最后关头，拉斐尔得到了一次赦免的机会：只要他愿意被送往新大陆，为西班牙王室效力，参加前往美洲大陆的远征。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/771_Level0.txt",
@@ -243,14 +243,14 @@
       "identity": "isabela|yruenes",
       "source": "Дочь Андреса де Ируэнеса, члена экипажа Колумба. Мать Исабеллы принадлежала к племени таино, и Исабелле, находившейся между двух миров, всегда было нелегко приспособиться. Несмотря на недоверие соплеменников её матери и ужасного отношения колонистов Санто-Доминго, Исабелла упрямо продолжает воспринимать свою жизнь позитивно. Она далеко не наивна, знакома с худшими сторонами человеческой натуры, но там не менее остается благовоспитанной женщиной без предубеждений, которая борется за мир и согласие для обоих своих народов.",
       "english_source": "The daughter of Andres de Yruenes, who was a part of Columbus' crew. Isabela's mother was a Taíno woman, and as a child of two worlds, Isabela has never found it easy to fit in. Despite her difficulties in gaining the trust of her mother's tribesmen, and the often terrible treatment she sustained from the colonists in Santo Domingo, Isabela has stubbornly held on to a positive outlook on life. She is far from naive, having seen many of the worst sides of people, but she is a stoically polite and open-minded woman who fights for peace and reconciliation for both her peoples.",
-      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是一位泰诺人。作为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管她难以取得母亲族人的信任，也常遭圣多明各殖民者恶劣对待，她仍顽强地保持着乐观的人生态度。她绝非天真无知，早已见识过人性最恶劣的一面；但她是一位沉着、礼貌、思想开放的女性，为两个族群的和平与和解而奋斗。"
+      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是泰诺人。身为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管难以赢得母亲族人的信任，也常遭圣多明各的殖民者恶劣对待，她仍顽强地保持乐观。她绝非天真，早已见识过人性最恶劣的一面；但她沉着、彬彬有礼、思想开放，始终为两个族群的和平与和解而努力。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/777_Level0.txt",
       "identity": "pedro|alvarado",
       "source": "Nach seiner Geburt im Jahre 1469 hatte er eine recht gewöhnliche Kindheit in einem kleinen Bauerndorf. Er begegnete der Liebe seines Lebens und heiratete jung. Er machte gerade eine Lehre zum Alchemisten, als seine Frau an Typhus erkrankte und nach kurzer Zeit verstarb. Nach ihrem Tod versank er in einer tiefen Depression, vergrub sich in seiner Arbeit und beschäftigte sich eingehend mit der Seuchenbekämpfung. Er hat sich nie von seinem gebrochenen Herzen erholt und schloss sich Eurer Expedition an, um seine Trauer zu überwinden. Ein düsterer und stiller Mann, der sich jedoch mit Seuchen und Infekten wie kein Zweiter auskennt.",
       "english_source": "Born in 1469, he had a relatively normal childhood, growing up in a small farm town. He met the love of his life, whom he married at a young age. He was apprenticing as an alchemist when his wife fell ill from typhus and died a short while later. The loss sent him into a deep depression and he buried himself in his work and the field of disease treatment. He never fully recovered from his broken heart, and partly the reason he joined your expedition was to get over his grief. A somber and quiet man, but no man knows better the field of diseases and infections than he.",
-      "translation": "他生于1469年，童年生活相当平凡，在一座小型农庄镇长大。他很早便与一生挚爱结了婚。当他还在做炼金术士学徒时，妻子染上斑疹伤寒，不久便去世了。这场失去让他陷入深深的抑郁；他把自己埋进工作中，专心钻研疾病治疗。他始终没能从心碎中完全恢复，而他加入你们的远征，部分原因也是想走出悲痛。他是个沉郁寡言的人，但论疾病与感染，无人比他更精通。"
+      "translation": "他生于1469年，在一个小农庄镇长大，童年生活相当平凡。他很年轻时便与一生挚爱结了婚。当他还在做炼金术士学徒时，妻子染上斑疹伤寒，不久便去世了。丧妻之痛让他陷入深深的抑郁；他埋头工作，潜心研究疾病治疗。他始终没能从丧妻之痛中完全恢复，加入你们的远征队，部分原因也是想走出悲痛。他沉郁寡言，但论疾病与感染，无人比他更精通。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/777_Level0.txt",
@@ -271,7 +271,7 @@
       "identity": "antonio|velasquez",
       "source": "Über Antonio ist nicht viel bekannt, abgesehen von seinem Ruf als besonders talentiertem Arzt. Wie er sein Wissen oder seine Fähigkeiten erlangt hat, ist nicht zu ergründen. Von einem Tag auf den anderen erschien er in der Stadt und schon bald folgte ihm eine Gruppe Neugieriger aus dem Armenviertel. Er nahm sich ihrer an und es gelang ihm mit einfachen Mitteln, fast jeden Einzelnen von ihnen zu heilen. Seine mitfühlende Natur ist beispiellos, sodass sich ein jeder in seiner Gegenwart sogleich willkommen fühlt.",
       "english_source": "Not much is known about Antonio, beside him being an extremely talented doctor. How he gained the knowledge he possesses or the skills that he exhibits are a mystery. Wandering into town from the forest on a day like any other, he quickly attracted a crowd of curious people in the poor quarters. He went from person to person and, with simple remedies, made almost every sick person better. His sympathetic nature is unmatched and he can make any person feel welcome in his company.",
-      "translation": "人们对安东尼奥知之甚少，只知道他是一位天赋异禀的医生。他如何获得这些知识、练就这些本领，至今仍是谜。有一天，他像往常一样从森林走进镇子，很快便吸引了贫民区一群好奇的人。他挨家挨户地走访，用简单的药物治好了几乎每一位病人。他富有同情心，无人能及；无论是谁，都能在他身边感到自在。"
+      "translation": "人们对安东尼奥知之甚少，只知道他是一位天赋异禀的医生。他如何获得这些知识、展现这些本领，至今仍是个谜。有一天，他像往常一样从森林走进镇子，很快便吸引了贫民区一群好奇的人。他挨个走到病人身边，用简单的药物治好了几乎所有病人。他富有同情心，无人能及；任何人和他相处，都能感到自在。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/777_Level0.txt",
@@ -404,7 +404,7 @@
       "identity": "rafael|lopez",
       "source": "Rafael hatte als Jäger in Spanien ein gutes Leben, bevor er sich in den Ruin stürzte. Von Eifersucht getrieben und fast bis zur Besinnungslosigkeit betrunken, ermordete er seine treue Frau aufgrund des haltlosen Verdachtes des Ehebruches. Er wurde gefasst, des Mordes angeklagt und zum Tode verurteilt. Im letzten Moment erhielt Rafael die Chance auf Begnadigung, unter der Voraussetzung, dass er der spanischen Krone in der Neuen Welt dienen würde.",
       "english_source": "Rafael had a good life as a hunter in Spain, until he messed it all up. Blind with baseless jealousy and drunk out of his mind, he murdered his loving wife one night on suspicion of adultery. He was caught and tried for murder, found guilty and sentenced to death. At the last possible moment, Rafael was offered a chance of pardon if he agreed to be sent to the New World and serve the Spanish Crown on expeditions to the mainland.",
-      "translation": "拉斐尔曾在西班牙过着不错的猎人生活，直到他亲手毁掉了一切。他被毫无根据的嫉妒冲昏头脑，又醉得不省人事，一夜之间竟因怀疑妻子通奸而杀死了深爱他的妻子。他被捕并以谋杀罪受审，最终被判有罪、处以死刑。在行刑前的最后关头，拉斐尔得到了一次赦免机会：只要他愿意被送往新大陆，为西班牙王室效力，参加前往美洲大陆的远征。"
+      "translation": "拉斐尔曾在西班牙过着不错的猎人生活，直到他亲手毁掉了一切。他被毫无根据的嫉妒冲昏头脑，又醉得不省人事，一夜之间竟因怀疑妻子通奸而杀死了深爱他的妻子。他被捕并以谋杀罪受审，最终被判有罪、处以死刑。在行刑前的最后关头，拉斐尔得到了一次赦免的机会：只要他愿意被送往新大陆，为西班牙王室效力，参加前往美洲大陆的远征。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/777_Level0.txt",
@@ -488,14 +488,14 @@
       "identity": "isabela|yruenes",
       "source": "Sie ist die Tochter von Andres de Yruenes, welcher an Kolumbus‘ Expedition teilgenommen hat. Isabelas Mutter war eine Taíno-Frau und als Kind zweier Welten fiel es Isabela nicht immer leicht, sich anzupassen. Trotz ihrer Schwierigkeiten, das Vertrauen des Stammes ihrer Mutter zu gewinnen, und der oftmals grausamen Behandlung, die ihr von Kolonisten in Santo Domingo widerfuhr, bewahrte sich Isabela ihre positive Lebenseinstellung. Sie ist alles andere als naiv und kennt viele der schlimmsten Seiten des Menschen. Dennoch sie ist auf eine unerschütterliche Art und Weise freundlich und zuvorkommend. Sie setzt sich für den Frieden zwischen ihren beiden Völkern ein.",
       "english_source": "The daughter of Andres de Yruenes, who was a part of Columbus' crew. Isabela's mother was a Taíno woman, and as a child of two worlds, Isabela has never found it easy to fit in. Despite her difficulties in gaining the trust of her mother's tribesmen, and the often terrible treatment she sustained from the colonists in Santo Domingo, Isabela has stubbornly held on to a positive outlook on life. She is far from naive, having seen many of the worst sides of people, but she is a stoically polite and open-minded woman who fights for peace and reconciliation for both her peoples.",
-      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是一位泰诺人。作为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管她难以取得母亲族人的信任，也常遭圣多明各殖民者恶劣对待，她仍顽强地保持着乐观的人生态度。她绝非天真无知，早已见识过人性最恶劣的一面；但她是一位沉着、礼貌、思想开放的女性，为两个族群的和平与和解而奋斗。"
+      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是泰诺人。身为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管难以赢得母亲族人的信任，也常遭圣多明各的殖民者恶劣对待，她仍顽强地保持乐观。她绝非天真，早已见识过人性最恶劣的一面；但她沉着、彬彬有礼、思想开放，始终为两个族群的和平与和解而努力。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/779_Level0_ES.txt",
       "identity": "pedro|alvarado",
       "source": "Nacido en 1469, había tenido una infancia relativamente normal; creció en una aldea campesina. Conoció al amor de su vida, con quien se casó muy joven. Era aprendiz de alquimista cuando su esposa cayó enferma de tifus y murió poco después. La pérdida lo sumió en una profunda depresión y se enfrascó en su trabajo en el campo del tratamiento de enfermedades. Nunca se recuperó del todo de la pena, y en parte se unió a tu expedición para superar el dolor. Es un hombre callado y sombrío, pero nadie sabe más que él acerca de las enfermedades y las infecciones.",
       "english_source": "Born in 1469, he had a relatively normal childhood, growing up in a small farm town. He met the love of his life, whom he married at a young age. He was apprenticing as an alchemist when his wife fell ill from typhus and died a short while later. The loss sent him into a deep depression and he buried himself in his work and the field of disease treatment. He never fully recovered from his broken heart, and partly the reason he joined your expedition was to get over his grief. A somber and quiet man, but no man knows better the field of diseases and infections than he.",
-      "translation": "他生于1469年，童年生活相当平凡，在一座小型农庄镇长大。他很早便与一生挚爱结了婚。当他还在做炼金术士学徒时，妻子染上斑疹伤寒，不久便去世了。这场失去让他陷入深深的抑郁；他把自己埋进工作中，专心钻研疾病治疗。他始终没能从心碎中完全恢复，而他加入你们的远征，部分原因也是想走出悲痛。他是个沉郁寡言的人，但论疾病与感染，无人比他更精通。"
+      "translation": "他生于1469年，在一个小农庄镇长大，童年生活相当平凡。他很年轻时便与一生挚爱结了婚。当他还在做炼金术士学徒时，妻子染上斑疹伤寒，不久便去世了。丧妻之痛让他陷入深深的抑郁；他埋头工作，潜心研究疾病治疗。他始终没能从丧妻之痛中完全恢复，加入你们的远征队，部分原因也是想走出悲痛。他沉郁寡言，但论疾病与感染，无人比他更精通。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/779_Level0_ES.txt",
@@ -516,7 +516,7 @@
       "identity": "antonio|velasquez",
       "source": "No se conoce mucho sobre Antonio, aparte de que es un doctor con enorme talento. Es un misterio cómo ganó los conocimientos que posee o la habilidad que demuestra. Un día cualquiera, caminando desde la ciudad hasta el bosque, atrajo rápidamente a un grupo de curiosos de los barrios pobres. Fue de uno en uno y, con remedios sencillos, hizo que mejoraran casi todas las personas enfermas. Su naturaleza empática no tiene parangón, y puede hacer que cualquiera se sienta cómodo en su compañía.",
       "english_source": "Not much is known about Antonio, beside him being an extremely talented doctor. How he gained the knowledge he possesses or the skills that he exhibits are a mystery. Wandering into town from the forest on a day like any other, he quickly attracted a crowd of curious people in the poor quarters. He went from person to person and, with simple remedies, made almost every sick person better. His sympathetic nature is unmatched and he can make any person feel welcome in his company.",
-      "translation": "人们对安东尼奥知之甚少，只知道他是一位天赋异禀的医生。他如何获得这些知识、练就这些本领，至今仍是谜。有一天，他像往常一样从森林走进镇子，很快便吸引了贫民区一群好奇的人。他挨家挨户地走访，用简单的药物治好了几乎每一位病人。他富有同情心，无人能及；无论是谁，都能在他身边感到自在。"
+      "translation": "人们对安东尼奥知之甚少，只知道他是一位天赋异禀的医生。他如何获得这些知识、展现这些本领，至今仍是个谜。有一天，他像往常一样从森林走进镇子，很快便吸引了贫民区一群好奇的人。他挨个走到病人身边，用简单的药物治好了几乎所有病人。他富有同情心，无人能及；任何人和他相处，都能感到自在。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/779_Level0_ES.txt",
@@ -649,7 +649,7 @@
       "identity": "rafael|lopez",
       "source": "Rafael vivía bien como cazador en España, hasta que lo estropeó todo. Una noche, cegado por celos irracionales y enloquecido por el alcohol, asesinó a su tierna esposa por la sospecha de adulterio. Fue arrestado y sometido a juicio por asesinato, declarado culpable y sentenciado a muerte. En el último momento, se le ofreció a Rafael la posibilidad del perdón si accedía a ser enviado al Nuevo Mundo y servir a la Corona Española en sus expediciones al continente.",
       "english_source": "Rafael had a good life as a hunter in Spain, until he messed it all up. Blind with baseless jealousy and drunk out of his mind, he murdered his loving wife one night on suspicion of adultery. He was caught and tried for murder, found guilty and sentenced to death. At the last possible moment, Rafael was offered a chance of pardon if he agreed to be sent to the New World and serve the Spanish Crown on expeditions to the mainland.",
-      "translation": "拉斐尔曾在西班牙过着不错的猎人生活，直到他亲手毁掉了一切。他被毫无根据的嫉妒冲昏头脑，又醉得不省人事，一夜之间竟因怀疑妻子通奸而杀死了深爱他的妻子。他被捕并以谋杀罪受审，最终被判有罪、处以死刑。在行刑前的最后关头，拉斐尔得到了一次赦免机会：只要他愿意被送往新大陆，为西班牙王室效力，参加前往美洲大陆的远征。"
+      "translation": "拉斐尔曾在西班牙过着不错的猎人生活，直到他亲手毁掉了一切。他被毫无根据的嫉妒冲昏头脑，又醉得不省人事，一夜之间竟因怀疑妻子通奸而杀死了深爱他的妻子。他被捕并以谋杀罪受审，最终被判有罪、处以死刑。在行刑前的最后关头，拉斐尔得到了一次赦免的机会：只要他愿意被送往新大陆，为西班牙王室效力，参加前往美洲大陆的远征。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/779_Level0_ES.txt",
@@ -733,14 +733,14 @@
       "identity": "isabela|yruenes",
       "source": "Hija de Andrés de Yruenes, quien fue miembro de la tripulación de Colón. La madre de Isabela era una mujer taína y, como hija de dos mundos, a Isabela nunca le fácil para encajar. A pesar de sus dificultades para ganarse la confianza de la tribu de su madre y el tratamiento, a menudo terrible, que sufría de los colonos en Santo Domingo, Isabela se aferró obstinadamente a una actitud positiva ante la vida. Es lo opuesto a ingenua, ya que ha visto a menudo lo peor de las personas, pero es una mujer abierta y estoicamente educada que lucha por la paz y la reconciliación de sus dos pueblos.",
       "english_source": "The daughter of Andres de Yruenes, who was a part of Columbus' crew. Isabela's mother was a Taíno woman, and as a child of two worlds, Isabela has never found it easy to fit in. Despite her difficulties in gaining the trust of her mother's tribesmen, and the often terrible treatment she sustained from the colonists in Santo Domingo, Isabela has stubbornly held on to a positive outlook on life. She is far from naive, having seen many of the worst sides of people, but she is a stoically polite and open-minded woman who fights for peace and reconciliation for both her peoples.",
-      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是一位泰诺人。作为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管她难以取得母亲族人的信任，也常遭圣多明各殖民者恶劣对待，她仍顽强地保持着乐观的人生态度。她绝非天真无知，早已见识过人性最恶劣的一面；但她是一位沉着、礼貌、思想开放的女性，为两个族群的和平与和解而奋斗。"
+      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是泰诺人。身为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管难以赢得母亲族人的信任，也常遭圣多明各的殖民者恶劣对待，她仍顽强地保持乐观。她绝非天真，早已见识过人性最恶劣的一面；但她沉着、彬彬有礼、思想开放，始终为两个族群的和平与和解而努力。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/780_Level1.txt",
       "identity": "pedro|alvarado",
       "source": "Nato nel 1469, trascorse un'infanzia relativamente serena in una piccola città agricola. Incontrò l'amore della sua vita, che sposò in giovane età. Durante il suo periodo di apprendistato come alchimista, sua moglie si ammalò di tifo e poco dopo morì. Questa perdita lo fece sprofondare in una cupa depressione, in seguito alla quale si isolò, dedicandosi anima e corpo al proprio lavoro e agli studi medici. Non si è mai ripreso completamente dal lutto che gli ha spezzato il cuore ed è anche per superare questo dolore che ha deciso di partecipare alla tua spedizione. È un uomo austero e silenzioso, ma nessuno possiede conoscenze più approfondite di lui nel campo delle malattie e delle infezioni.",
       "english_source": "Born in 1469, he had a relatively normal childhood, growing up in a small farm town. He met the love of his life, whom he married at a young age. He was apprenticing as an alchemist when his wife fell ill from typhus and died a short while later. The loss sent him into a deep depression and he buried himself in his work and the field of disease treatment. He never fully recovered from his broken heart, and partly the reason he joined your expedition was to get over his grief. A somber and quiet man, but no man knows better the field of diseases and infections than he.",
-      "translation": "他生于1469年，童年生活相当平凡，在一座小型农庄镇长大。他很早便与一生挚爱结了婚。当他还在做炼金术士学徒时，妻子染上斑疹伤寒，不久便去世了。这场失去让他陷入深深的抑郁；他把自己埋进工作中，专心钻研疾病治疗。他始终没能从心碎中完全恢复，而他加入你们的远征，部分原因也是想走出悲痛。他是个沉郁寡言的人，但论疾病与感染，无人比他更精通。"
+      "translation": "他生于1469年，在一个小农庄镇长大，童年生活相当平凡。他很年轻时便与一生挚爱结了婚。当他还在做炼金术士学徒时，妻子染上斑疹伤寒，不久便去世了。丧妻之痛让他陷入深深的抑郁；他埋头工作，潜心研究疾病治疗。他始终没能从丧妻之痛中完全恢复，加入你们的远征队，部分原因也是想走出悲痛。他沉郁寡言，但论疾病与感染，无人比他更精通。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/780_Level1.txt",
@@ -761,7 +761,7 @@
       "identity": "antonio|velasquez",
       "source": "Non si sa molto di Antonio, oltre al fatto che è un medico eccezionale. Come abbia acquisito le conoscenze e le competenze che possiede, è un mistero. Un giorno come tanti altri, si avventurò in città dalla foresta e girando per i quartieri poveri attirò ben presto una folla di curiosi. Passando di persona in persona, con semplici rimedi diede sollievo a quasi tutti i malati. Dotato di un'umanità senza pari, è in grado di far sentire a suo agio chiunque gli stia accanto.",
       "english_source": "Not much is known about Antonio, beside him being an extremely talented doctor. How he gained the knowledge he possesses or the skills that he exhibits are a mystery. Wandering into town from the forest on a day like any other, he quickly attracted a crowd of curious people in the poor quarters. He went from person to person and, with simple remedies, made almost every sick person better. His sympathetic nature is unmatched and he can make any person feel welcome in his company.",
-      "translation": "人们对安东尼奥知之甚少，只知道他是一位天赋异禀的医生。他如何获得这些知识、练就这些本领，至今仍是谜。有一天，他像往常一样从森林走进镇子，很快便吸引了贫民区一群好奇的人。他挨家挨户地走访，用简单的药物治好了几乎每一位病人。他富有同情心，无人能及；无论是谁，都能在他身边感到自在。"
+      "translation": "人们对安东尼奥知之甚少，只知道他是一位天赋异禀的医生。他如何获得这些知识、展现这些本领，至今仍是个谜。有一天，他像往常一样从森林走进镇子，很快便吸引了贫民区一群好奇的人。他挨个走到病人身边，用简单的药物治好了几乎所有病人。他富有同情心，无人能及；任何人和他相处，都能感到自在。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/780_Level1.txt",
@@ -894,7 +894,7 @@
       "identity": "rafael|lopez",
       "source": "Rafael conduceva una vita felice in Spagna come cacciatore, fino al momento in cui si rovinò da solo. Accecato da un'assurda gelosia e completamente ubriaco, una notte uccise l'adorata moglie, sospettandola di adulterio. Fu arrestato e processato per omicidio, giudicato colpevole e condannato a morte. All'ultimo momento, fu offerta a Rafael la grazia se avesse acconsentito di farsi inviare nel Nuovo Mondo al servizio della Corona Spagnola per esplorare il continente.",
       "english_source": "Rafael had a good life as a hunter in Spain, until he messed it all up. Blind with baseless jealousy and drunk out of his mind, he murdered his loving wife one night on suspicion of adultery. He was caught and tried for murder, found guilty and sentenced to death. At the last possible moment, Rafael was offered a chance of pardon if he agreed to be sent to the New World and serve the Spanish Crown on expeditions to the mainland.",
-      "translation": "拉斐尔曾在西班牙过着不错的猎人生活，直到他亲手毁掉了一切。他被毫无根据的嫉妒冲昏头脑，又醉得不省人事，一夜之间竟因怀疑妻子通奸而杀死了深爱他的妻子。他被捕并以谋杀罪受审，最终被判有罪、处以死刑。在行刑前的最后关头，拉斐尔得到了一次赦免机会：只要他愿意被送往新大陆，为西班牙王室效力，参加前往美洲大陆的远征。"
+      "translation": "拉斐尔曾在西班牙过着不错的猎人生活，直到他亲手毁掉了一切。他被毫无根据的嫉妒冲昏头脑，又醉得不省人事，一夜之间竟因怀疑妻子通奸而杀死了深爱他的妻子。他被捕并以谋杀罪受审，最终被判有罪、处以死刑。在行刑前的最后关头，拉斐尔得到了一次赦免的机会：只要他愿意被送往新大陆，为西班牙王室效力，参加前往美洲大陆的远征。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/780_Level1.txt",
@@ -957,7 +957,7 @@
       "identity": "isabela|yruenes",
       "source": "La figlia di Andres de Yruenes che faceva parte dell'equipaggio di Colombo. La madre di Isabella era una donna taino e, da figlia di due mondi diversi, Isabela ha faticato a trovare il proprio posto nella società. Nonostante le difficoltà nel guadagnarsi la fiducia dei membri delle tribù di sua madre e il trattamento spesso terribile che le hanno riservato i coloni di Santo Domingo, Isabela ha ostinatamente mantenuto a una visione positiva della vita. Avendo visto molti dei lati peggiori delle persone, è tutt'altro che ingenua, ma è una donna stoicamente gentile e di mentalità aperta che si batte per la pace e la riconciliazione di entrambi i suoi due popoli.",
       "english_source": "The daughter of Andres de Yruenes, who was a part of Columbus' crew. Isabela's mother was a Taíno woman, and as a child of two worlds, Isabela has never found it easy to fit in. Despite her difficulties in gaining the trust of her mother's tribesmen, and the often terrible treatment she sustained from the colonists in Santo Domingo, Isabela has stubbornly held on to a positive outlook on life. She is far from naive, having seen many of the worst sides of people, but she is a stoically polite and open-minded woman who fights for peace and reconciliation for both her peoples.",
-      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是一位泰诺人。作为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管她难以取得母亲族人的信任，也常遭圣多明各殖民者恶劣对待，她仍顽强地保持着乐观的人生态度。她绝非天真无知，早已见识过人性最恶劣的一面；但她是一位沉着、礼貌、思想开放的女性，为两个族群的和平与和解而奋斗。"
+      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是泰诺人。身为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管难以赢得母亲族人的信任，也常遭圣多明各的殖民者恶劣对待，她仍顽强地保持乐观。她绝非天真，早已见识过人性最恶劣的一面；但她沉着、彬彬有礼、思想开放，始终为两个族群的和平与和解而努力。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/780_Level1.txt",
@@ -1013,7 +1013,7 @@
       "identity": "miguel|sicart",
       "source": "Miguel Sicart è uno dei pochi sopravvissuti alla spedizione di Felipe Gutiérrez che hai incontrato sul continente. Lo hai trovato in una piccola capanna che si era costruito da sé e, dopo una breve avventura con una paella tossica a base di rane, lo hai convinto a unirsi alla tua spedizione. Lui continua fastidiosamente a eludere tutte le domande su Gutiérrez, tuttavia approfitta di ogni occasione per definire il tuo predecessore un folle.",
       "english_source": "Miguel Sicart is one of the few survivors of Felipe Gutiérrez's expedition that you've encountered on the mainland. You found him in a small hut that he'd built himself, and after a little adventure with a poisonous frog paella, you convinced him to join your expedition. Annoyingly he continues to evade all questions about Gutiérrez, but wastes no opportunity to call your predecessor a fool.",
-      "translation": "米格尔·西卡特是你在美洲大陆遇到的、费利佩·古铁雷斯远征队少数幸存者之一。你在一间他亲手搭建的小屋里找到了他。经历了一场毒蛙肉西班牙烩饭的小小冒险后，你说服他加入了你的远征队。令人恼火的是，他仍然回避所有关于古铁雷斯的问题，却总能抓住机会骂你的前任是个蠢货。"
+      "translation": "米格尔·西卡特是你在美洲大陆遇到的、费利佩·古铁雷斯远征队少数幸存者之一。你在一间他亲手搭建的小屋里找到了他。经历了一场毒蛙肉西班牙烩饭的小小冒险后，你说服他加入了你的远征队。令人恼火的是，他仍然回避所有关于古铁雷斯的问题，却总不放过任何机会，骂你的前任是个蠢货。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/780_Level1.txt",
@@ -1027,7 +1027,7 @@
       "identity": "anacaona|",
       "source": "Anacaona, la figlia del capo totonaco Tepictoton, è una ragazza simpatica, avventuriera e un po' iperattiva che porta il fardello di un'educazione privilegiata, ma noiosa. In quanto figlia del capotribù locale, è una buona risorsa diplomatica e inoltre il suo spagnolo è impeccabile.",
       "english_source": "The daughter of the Totonac chief Tepictoton, Anacaona is a friendly and adventurous and somewhat hyperactive young girl burdened with a priviledged but bored upbringing. As the daughter of a local chieftain, she is a considerable diplomatic asset, and it helps that her Spanish is impeccable.",
-      "translation": "阿纳卡奥娜是托托纳克人酋长特皮克托顿的女儿。她待人友善、爱冒险，还有些过分活泼；优渥却乏味的成长环境让这个年轻女孩颇感烦闷。身为当地酋长的女儿，她是极有价值的外交筹码，而且她的西班牙语说得无可挑剔。"
+      "translation": "阿纳卡奥娜是托托纳克人酋长特皮克托顿的女儿。她待人友善、爱冒险，还有些精力过剩；优渥却乏味的成长环境让她颇感烦闷。身为当地酋长的女儿，她在外交上颇具价值，而她的西班牙语也说得无可挑剔。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/788_Level0.txt",
@@ -1041,7 +1041,7 @@
       "identity": "isabela|yruenes",
       "source": "La hija de Andrés de Yruenes, integrante de la expedición original de Colón, y una mujer taína, para Isabela nunca fue fácil encajar. A pesar de su dificultad para ganarse la confianza de la tribu materna y del frecuente trato vejatorio sufrido por los exploradores de Santo Domingo, la joven mantiene una actitud vital y positiva. Lejos de ser ingenua Isabela conoce lo peor del ser humano; aún así cuenta con una educación exquisita y una mentalidad abierta, dos rasgos que la ayudan a luchar por la reconciliación de sus dos culturas.",
       "english_source": "The daughter of Andres de Yruenes, who was a part of Columbus' crew. Isabela's mother was a Taíno woman, and as a child of two worlds, Isabela has never found it easy to fit in. Despite her difficulties in gaining the trust of her mother's tribesmen, and the often terrible treatment she sustained from the colonists in Santo Domingo, Isabela has stubbornly held on to a positive outlook on life. She is far from naive, having seen many of the worst sides of people, but she is a stoically polite and open-minded woman who fights for peace and reconciliation for both her peoples.",
-      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是一位泰诺人。作为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管她难以取得母亲族人的信任，也常遭圣多明各殖民者恶劣对待，她仍顽强地保持着乐观的人生态度。她绝非天真无知，早已见识过人性最恶劣的一面；但她是一位沉着、礼貌、思想开放的女性，为两个族群的和平与和解而奋斗。"
+      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是泰诺人。身为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管难以赢得母亲族人的信任，也常遭圣多明各的殖民者恶劣对待，她仍顽强地保持乐观。她绝非天真，早已见识过人性最恶劣的一面；但她沉着、彬彬有礼、思想开放，始终为两个族群的和平与和解而努力。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/789_Level1_ES.txt",
@@ -1097,7 +1097,7 @@
       "identity": "miguel|sicart",
       "source": "Miguel Sicart es uno de los pocos supervivientes de la expedición de Felipe Gutiérrez que has encontrado en el continente. Lo encontraste en una pequeña cabaña que él mismo se había construido y, tras un pequeño incidente con una paella de rana tóxica, lo convenciste para unirse a tu expedición. Te molesta que no conteste a ninguna pregunta sobre Gutiérrez, pero no pierde la oportunidad de insultar a tu predecesor.",
       "english_source": "Miguel Sicart is one of the few survivors of Felipe Gutiérrez's expedition that you've encountered on the mainland. You found him in a small hut that he'd built himself, and after a little adventure with a poisonous frog paella, you convinced him to join your expedition. Annoyingly he continues to evade all questions about Gutiérrez, but wastes no opportunity to call your predecessor a fool.",
-      "translation": "米格尔·西卡特是你在美洲大陆遇到的、费利佩·古铁雷斯远征队少数幸存者之一。你在一间他亲手搭建的小屋里找到了他。经历了一场毒蛙肉西班牙烩饭的小小冒险后，你说服他加入了你的远征队。令人恼火的是，他仍然回避所有关于古铁雷斯的问题，却总能抓住机会骂你的前任是个蠢货。"
+      "translation": "米格尔·西卡特是你在美洲大陆遇到的、费利佩·古铁雷斯远征队少数幸存者之一。你在一间他亲手搭建的小屋里找到了他。经历了一场毒蛙肉西班牙烩饭的小小冒险后，你说服他加入了你的远征队。令人恼火的是，他仍然回避所有关于古铁雷斯的问题，却总不放过任何机会，骂你的前任是个蠢货。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/789_Level1_ES.txt",
@@ -1111,14 +1111,14 @@
       "identity": "anacaona|",
       "source": "Anacaona, la hija del cacique totonaco Tepictoton, es una joven simpática, aventurera y algo hiperactiva, sometida a una educación privilegiada, pero aburrida. Como hija del cacique local, es un importante recurso diplomático, y que su español sea impecable es de gran ayuda.",
       "english_source": "The daughter of the Totonac chief Tepictoton, Anacaona is a friendly and adventurous and somewhat hyperactive young girl burdened with a priviledged but bored upbringing. As the daughter of a local chieftain, she is a considerable diplomatic asset, and it helps that her Spanish is impeccable.",
-      "translation": "阿纳卡奥娜是托托纳克人酋长特皮克托顿的女儿。她待人友善、爱冒险，还有些过分活泼；优渥却乏味的成长环境让这个年轻女孩颇感烦闷。身为当地酋长的女儿，她是极有价值的外交筹码，而且她的西班牙语说得无可挑剔。"
+      "translation": "阿纳卡奥娜是托托纳克人酋长特皮克托顿的女儿。她待人友善、爱冒险，还有些精力过剩；优渥却乏味的成长环境让她颇感烦闷。身为当地酋长的女儿，她在外交上颇具价值，而她的西班牙语也说得无可挑剔。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/794_Level1.txt",
       "identity": "pedro|alvarado",
       "source": "Он родился в 1469 году и провел сравнительно обычное детство в небольшом крестьянском городке. Он встретил любовь всей жизни, на которой женился, будучи еще молодым. Он учился на алхимика, когда его жена заболела тифом и вскоре умерла. Эта потеря вызвала в нем глубокую депрессию, от которой он спасался в работе и изучении болезней. Он так и не оправился от потери своей любимой, а желание прийти в себя отчасти и стало причиной присоединения к вашей экспедиции. Никто не разбирается в болезнях и инфекциях лучше этого молчаливого, угрюмого человека.",
       "english_source": "Born in 1469, he had a relatively normal childhood, growing up in a small farm town. He met the love of his life, whom he married at a young age. He was apprenticing as an alchemist when his wife fell ill from typhus and died a short while later. The loss sent him into a deep depression and he buried himself in his work and the field of disease treatment. He never fully recovered from his broken heart, and partly the reason he joined your expedition was to get over his grief. A somber and quiet man, but no man knows better the field of diseases and infections than he.",
-      "translation": "他生于1469年，童年生活相当平凡，在一座小型农庄镇长大。他很早便与一生挚爱结了婚。当他还在做炼金术士学徒时，妻子染上斑疹伤寒，不久便去世了。这场失去让他陷入深深的抑郁；他把自己埋进工作中，专心钻研疾病治疗。他始终没能从心碎中完全恢复，而他加入你们的远征，部分原因也是想走出悲痛。他是个沉郁寡言的人，但论疾病与感染，无人比他更精通。"
+      "translation": "他生于1469年，在一个小农庄镇长大，童年生活相当平凡。他很年轻时便与一生挚爱结了婚。当他还在做炼金术士学徒时，妻子染上斑疹伤寒，不久便去世了。丧妻之痛让他陷入深深的抑郁；他埋头工作，潜心研究疾病治疗。他始终没能从丧妻之痛中完全恢复，加入你们的远征队，部分原因也是想走出悲痛。他沉郁寡言，但论疾病与感染，无人比他更精通。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/794_Level1.txt",
@@ -1139,7 +1139,7 @@
       "identity": "antonio|velasquez",
       "source": "Об Антонио мало что известно, кроме того, что он чрезвычайно талантливый доктор. Как он получил знания, которыми обладает и навыки, которые демонстрирует, остаётся загадкой. Блуждая по городам и лесам, он, как никто другой, привлекал толпы любопытных в бедных кварталах. От человека к человеку, простыми лекарствами он вылечивал каждого. Его умение сострадать не имеет равных и любого ждет теплый прием.",
       "english_source": "Not much is known about Antonio, beside him being an extremely talented doctor. How he gained the knowledge he possesses or the skills that he exhibits are a mystery. Wandering into town from the forest on a day like any other, he quickly attracted a crowd of curious people in the poor quarters. He went from person to person and, with simple remedies, made almost every sick person better. His sympathetic nature is unmatched and he can make any person feel welcome in his company.",
-      "translation": "人们对安东尼奥知之甚少，只知道他是一位天赋异禀的医生。他如何获得这些知识、练就这些本领，至今仍是谜。有一天，他像往常一样从森林走进镇子，很快便吸引了贫民区一群好奇的人。他挨家挨户地走访，用简单的药物治好了几乎每一位病人。他富有同情心，无人能及；无论是谁，都能在他身边感到自在。"
+      "translation": "人们对安东尼奥知之甚少，只知道他是一位天赋异禀的医生。他如何获得这些知识、展现这些本领，至今仍是个谜。有一天，他像往常一样从森林走进镇子，很快便吸引了贫民区一群好奇的人。他挨个走到病人身边，用简单的药物治好了几乎所有病人。他富有同情心，无人能及；任何人和他相处，都能感到自在。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/794_Level1.txt",
@@ -1195,7 +1195,7 @@
       "identity": "isabela|yruenes",
       "source": "Дочь Андреса де Ируенеса, члена экипажа Колумба. Мать Исабеллы принадлежала к племени таино, и Исабелле, находившейся между двух миров, всегда было нелегко приспособиться. Несмотря на недоверие соплеменников к её матери, и ужасного отношения колонистов Санто-Доминго, Исабелла упрямо продолжает воспринимать свою жизнь позитивно. Она далеко не наивна, знакома с худшими сторонами человеческой натуры, но там не менее остается благовоспитанной женщиной без предубеждений, которая борется за мир и согласие для обоих своих народов.",
       "english_source": "The daughter of Andres de Yruenes, who was a part of Columbus' crew. Isabela's mother was a Taíno woman, and as a child of two worlds, Isabela has never found it easy to fit in. Despite her difficulties in gaining the trust of her mother's tribesmen, and the often terrible treatment she sustained from the colonists in Santo Domingo, Isabela has stubbornly held on to a positive outlook on life. She is far from naive, having seen many of the worst sides of people, but she is a stoically polite and open-minded woman who fights for peace and reconciliation for both her peoples.",
-      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是一位泰诺人。作为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管她难以取得母亲族人的信任，也常遭圣多明各殖民者恶劣对待，她仍顽强地保持着乐观的人生态度。她绝非天真无知，早已见识过人性最恶劣的一面；但她是一位沉着、礼貌、思想开放的女性，为两个族群的和平与和解而奋斗。"
+      "translation": "哥伦布船员之一安德烈斯·德·尤鲁埃内斯之女。伊莎贝拉的母亲是泰诺人。身为两个世界的孩子，伊莎贝拉始终难以融入其中。尽管难以赢得母亲族人的信任，也常遭圣多明各的殖民者恶劣对待，她仍顽强地保持乐观。她绝非天真，早已见识过人性最恶劣的一面；但她沉着、彬彬有礼、思想开放，始终为两个族群的和平与和解而努力。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/794_Level1.txt",
@@ -1251,7 +1251,7 @@
       "identity": "miguel|sicart",
       "source": "Мигель Сикарт один из выживших в экспедиции Фелипе Гутьерреса, которого вы встретили на материке. Вы нашли его в маленькой хижине, которую он построил сам, и после небольшого приключения, связанного с паэльей из ядовитых лягушек, вы убедили его присоединиться к вам. Досадно, но он продолжает увиливать от всех вопросов, связанных с Гутьерресом, но не упускает возможности обозвать вашего предшественника дураком.",
       "english_source": "Miguel Sicart is one of the few survivors of Felipe Gutiérrez's expedition that you've encountered on the mainland. You found him in a small hut that he'd built himself, and after a little adventure with a poisonous frog paella, you convinced him to join your expedition. Annoyingly he continues to evade all questions about Gutiérrez, but wastes no opportunity to call your predecessor a fool.",
-      "translation": "米格尔·西卡特是你在美洲大陆遇到的、费利佩·古铁雷斯远征队少数幸存者之一。你在一间他亲手搭建的小屋里找到了他。经历了一场毒蛙肉西班牙烩饭的小小冒险后，你说服他加入了你的远征队。令人恼火的是，他仍然回避所有关于古铁雷斯的问题，却总能抓住机会骂你的前任是个蠢货。"
+      "translation": "米格尔·西卡特是你在美洲大陆遇到的、费利佩·古铁雷斯远征队少数幸存者之一。你在一间他亲手搭建的小屋里找到了他。经历了一场毒蛙肉西班牙烩饭的小小冒险后，你说服他加入了你的远征队。令人恼火的是，他仍然回避所有关于古铁雷斯的问题，却总不放过任何机会，骂你的前任是个蠢货。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/794_Level1.txt",
@@ -1300,7 +1300,7 @@
       "identity": "miguel|sicart",
       "source": "Miguel Sicart ist einer der wenigen Überlebenden von Felipe Gutiérrez‘ Expedition, die Ihr auf dem Festland finden konntet. Ihr traft ihn in einer kleinen Hütte an, die er selbst gebaut hat. Nach dem kleinen Abenteuer mit seiner vergifteten Frosch-Paella konntet Ihr ihn überzeugen, sich Eurer Expedition anzuschließen. Sehr zu Eurem Verdruss weicht er noch immer allen Fragen zu Gutiérrez aus, aber lässt erstaunlicherweise keine Gelegenheit ungenutzt, Euren Vorgänger als Trottel zu betiteln.",
       "english_source": "Miguel Sicart is one of the few survivors of Felipe Gutiérrez's expedition that you've encountered on the mainland. You found him in a small hut that he'd built himself, and after a little adventure with a poisonous frog paella, you convinced him to join your expedition. Annoyingly he continues to evade all questions about Gutiérrez, but wastes no opportunity to call your predecessor a fool.",
-      "translation": "米格尔·西卡特是你在美洲大陆遇到的、费利佩·古铁雷斯远征队少数幸存者之一。你在一间他亲手搭建的小屋里找到了他。经历了一场毒蛙肉西班牙烩饭的小小冒险后，你说服他加入了你的远征队。令人恼火的是，他仍然回避所有关于古铁雷斯的问题，却总能抓住机会骂你的前任是个蠢货。"
+      "translation": "米格尔·西卡特是你在美洲大陆遇到的、费利佩·古铁雷斯远征队少数幸存者之一。你在一间他亲手搭建的小屋里找到了他。经历了一场毒蛙肉西班牙烩饭的小小冒险后，你说服他加入了你的远征队。令人恼火的是，他仍然回避所有关于古铁雷斯的问题，却总不放过任何机会，骂你的前任是个蠢货。"
     },
     {
       "source_export": "Analysis/textassets/sharedassets1.assets/798_Level1.txt",
@@ -1314,7 +1314,7 @@
       "identity": "anacaona|",
       "source": "Anacaona, die Tochter des totonakischen Anführers Tepictoton, ist ein freundliches, abenteuerlustiges und irgendwie ruheloses junges Mädchen, das mit einer privilegierten aber langweiligen Erziehung belastet wurde. Als Tochter des örtlichen Stammesführers ist sie ein diplomatischer Vorteil und darüberhinaus ist ihr Spanisch hervorragend.",
       "english_source": "The daughter of the Totonac chief Tepictoton, Anacaona is a friendly and adventurous and somewhat hyperactive young girl burdened with a priviledged but bored upbringing. As the daughter of a local chieftain, she is a considerable diplomatic asset, and it helps that her Spanish is impeccable.",
-      "translation": "阿纳卡奥娜是托托纳克人酋长特皮克托顿的女儿。她待人友善、爱冒险，还有些过分活泼；优渥却乏味的成长环境让这个年轻女孩颇感烦闷。身为当地酋长的女儿，她是极有价值的外交筹码，而且她的西班牙语说得无可挑剔。"
+      "translation": "阿纳卡奥娜是托托纳克人酋长特皮克托顿的女儿。她待人友善、爱冒险，还有些精力过剩；优渥却乏味的成长环境让她颇感烦闷。身为当地酋长的女儿，她在外交上颇具价值，而她的西班牙语也说得无可挑剔。"
     }
   ],
   "count": 188,

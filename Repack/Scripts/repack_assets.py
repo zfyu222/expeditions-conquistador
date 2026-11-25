@@ -14,7 +14,6 @@ ROOT = Path(__file__).resolve().parents[2]
 DATA = ROOT / 'Game/Expeditions Conquistador_Data'
 BUILD = ROOT / 'Repack/Build/Game/Expeditions Conquistador_Data'
 EXPECTED_SOURCE = '8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e'
-EXPECTED_TRANSLATION = 'eaad404d187d8ff9ce67ec722bd4d9ead82f81c679f4998d1482bbabd5ca4b48'
 
 def sha(data):
     return hashlib.sha256(data).hexdigest()
@@ -50,14 +49,17 @@ def set_field(tree, path, value):
 def main():
     source_path = ROOT / 'expeditions-conquistador_text.csv'
     translation_path = ROOT / 'expeditions-conquistador_text_translated.csv'
+    validation = json.loads((ROOT / 'TranslateFiles/reports/final_validation.json').read_text('utf-8'))
     assert sha(source_path.read_bytes()) == EXPECTED_SOURCE
-    assert sha(translation_path.read_bytes()) == EXPECTED_TRANSLATION
+    assert validation['status'] == 'passed' and validation['source_sha256'] == EXPECTED_SOURCE
+    translation_hash = sha(translation_path.read_bytes())
+    assert translation_hash == validation['translation_sha256'], 'Translation differs from the validated export'
     with source_path.open(encoding='utf-8-sig', newline='') as f:
         source = [r[0] for r in csv.reader(f)]
     with translation_path.open(encoding='utf-8-sig', newline='') as f:
         translations = [r[0] for r in csv.reader(f)]
     records = json.loads((ROOT / 'Analysis/text_mapping.json').read_text('utf-8'))
-    assert len(source) == len(translations) == len(records) == 14691
+    assert len(source) == len(translations) == len(records) == validation['records'] == 14691
     for rec, original, translated in zip(records, source, translations):
         assert rec['text'] == original and translated.strip()
         rec['translation'] = translated
@@ -70,7 +72,7 @@ def main():
     (ROOT / 'Repack/Build/managed_map.json').write_text(json.dumps(managed, ensure_ascii=False, indent=2), encoding='utf-8')
     generator = TypeTreeGenerator('4.3.2f1')
     generator.load_local_dll_folder(str(DATA / 'Managed'))
-    report = {'source_sha256': EXPECTED_SOURCE, 'translation_sha256': EXPECTED_TRANSLATION,
+    report = {'source_sha256': EXPECTED_SOURCE, 'translation_sha256': translation_hash,
               'unitypy': UnityPy.__version__, 'records': len(records), 'files': []}
     BUILD.mkdir(parents=True, exist_ok=True)
     for filename, assigned in groups.items():

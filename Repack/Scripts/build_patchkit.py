@@ -4,6 +4,7 @@ import json
 import shutil
 import subprocess
 import argparse
+import zipfile
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[2]
@@ -18,10 +19,19 @@ def main():
     global KIT
     parser=argparse.ArgumentParser()
     parser.add_argument('--candidate',action='store_true',help='Build offline candidate, retaining the previously tested kit')
+    parser.add_argument('--version',default='1.0')
+    parser.add_argument('--legacy-zip',type=Path,help='Previously released ZIP whose installed hashes are supported for upgrades')
     args=parser.parse_args()
     if args.candidate: KIT=ROOT/'Repack/Build/CandidatePatchKit'
     name='candidate_payload_manifest.json' if args.candidate else 'payload_manifest.json'
     payload=json.loads((ROOT/'Repack/reports'/name).read_text('utf-8'))
+    legacy={}
+    if args.legacy_zip:
+        with zipfile.ZipFile(args.legacy_zip) as archive:
+            previous=json.loads(archive.read('ChinesePatch/patch_manifest.json'))
+        assert previous['game_version']==payload['game_build']
+        legacy={item['game_path']:item for item in previous['files']}
+        assert set(legacy)=={item['game_path'] for item in payload['files']}
     directory=KIT/'ChinesePatch'
     (directory/'deltas').mkdir(parents=True,exist_ok=True)
     (directory/'files').mkdir(exist_ok=True)
@@ -30,13 +40,17 @@ def main():
     decoder=directory/'tools/xdelta3decode.exe'
     # Full binary is required: the small decoder omits LZMA secondary compression.
     shutil.copy2(XDELTA/'xdelta3.exe',decoder)
-    manifest={'game_version':payload['game_build'],'platform':payload['platform'],
+    manifest={'patch_version':args.version,'game_version':payload['game_build'],'platform':payload['platform'],
               'translation_sha256':payload['translation_sha256'],
               'decoder_path':'ChinesePatch/tools/xdelta3decode.exe','decoder_sha256':sha(decoder),'files':[]}
     for file in payload['files']:
         source=ROOT/file['path']
         assert sha(source)==file['sha256']
         item={k:file[k] for k in ('game_path','source_sha256','sha256')}
+        if item['game_path'] in legacy:
+            old=legacy[item['game_path']]
+            assert old['source_sha256']==item['source_sha256']
+            item['legacy_sha256']=old['sha256']
         item['added']=file['source_sha256'] is None
         if item['added']:
             output=directory/'files/ConquistadorChinese.dll'

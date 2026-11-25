@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "archive": "expeditions-conquistador_子非鱼汉化1.1.zip",
+  "sha256": "23b627044827af86e1c42da891121e9f9994a6d449c2c88ebfa20f79680c0d98",
+  "size": 7442641,
+  "crc": "passed",
+  "manifest_entry_hashes": 13,
+  "installed_game_output_hashes": 7,
+  "installed_kit_hashes": 13,
+  "previous_zip_sha256": "6c87aba83c265c3afc6b30b580c6ecc1c4fd7ae938dfbbc0801ce2bc4437891a",
+  "installer_replay": "installer_v1.1_test.json"
+}

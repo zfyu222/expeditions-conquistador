@@ -1,11 +1,11 @@
 {
   "status": "passed",
   "source_sha256": "8ba04dc104e24e2b6c7a10a33f323a501524b4ceba7d7b5f4a9d9e72dcc9c96e",
-  "translation_sha256": "eaad404d187d8ff9ce67ec722bd4d9ead82f81c679f4998d1482bbabd5ca4b48",
+  "translation_sha256": "71213286c1097e2f45cf607fe4f56c83b9bd6f8987cff5a9e18675d20386a838",
   "records": 14691,
   "semantic_review": "full",
-  "polish": false,
-  "revision": 13,
+  "polish": true,
+  "revision": 15,
   "glossary": {
     "hash": "0b9e22152b88ca7cf2d4dc242e15c63bc5931dfcb6665c4e0ccf177f051ab649",
     "path": "glossary\\revision_10_fd73d738\\built\\glossary_reviewed.json",
@@ -24,8 +24,13 @@
   },
   "path": "D:\\StaticHanHua\\Projects\\expeditions-conquistador\\expeditions-conquistador_text_translated.csv",
   "quality_review": {
-    "report_hash": "4ab829a90ae0694f5f723122eb088a7650701f65045100a69481532f547e7b0e",
-    "reviewer": "sol"
+    "report_hash": "b0a1837446d73bad6a6552dca05f64a154c343b8c6ab2df7b3aad197ba76d072",
+    "reviewer": "workflow:no-disputes"
   },
-  "in_game_check": "pending_repack"
+  "in_game_check": "pending_repack",
+  "mixed_language_audit": {
+    "path": "D:\\StaticHanHua\\Projects\\expeditions-conquistador\\TranslateFiles\\reports\\mixed_language_audit.json",
+    "candidate_records": 1589,
+    "status": "candidates_only"
+  }
 }

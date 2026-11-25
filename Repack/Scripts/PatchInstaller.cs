@@ -12,12 +12,14 @@ public class PatchFile
     public string game_path {get;set;}
     public string source_sha256 {get;set;}
     public string sha256 {get;set;}
+    public string legacy_sha256 {get;set;}
     public string patch_path {get;set;}
     public string patch_sha256 {get;set;}
     public bool added {get;set;}
 }
 public class PatchManifest
 {
+    public string patch_version {get;set;}
     public string game_version {get;set;}
     public string translation_sha256 {get;set;}
     public string decoder_path {get;set;}
@@ -50,10 +52,10 @@ class PatchInstaller
         for(int i=0;i<args.Length;i++) if(args[i]=="--game-root" && i+1<args.Length) root=Path.GetFullPath(args[++i]);
         try
         {
-            System.Console.WriteLine("《远征：征服者》子非鱼AI汉化补丁 v1.0");
             if(interactive)
             {
-                System.Console.WriteLine("1：安装/检查汉化；2：还原原版；其他：退出");
+                System.Console.WriteLine("《远征：征服者》子非鱼AI汉化补丁");
+                System.Console.WriteLine("1：安装/升级汉化；2：还原原版；其他：退出");
                 string answer=System.Console.ReadLine();
                 if(answer!="1" && answer!="2") return 0;
                 uninstall=answer=="2";
@@ -63,6 +65,7 @@ class PatchInstaller
             var json=new JavaScriptSerializer(); json.MaxJsonLength=5000000;
             var manifest=json.Deserialize<PatchManifest>(File.ReadAllText(Under(root,"ChinesePatch/patch_manifest.json"),Encoding.UTF8));
             Require(manifest.files.Count==7,"补丁清单不完整");
+            System.Console.WriteLine("补丁版本 v"+(manifest.patch_version ?? "1.0"));
             string backupRoot=Under(root,"ChinesePatch/Backup");
             if(uninstall)
             {
@@ -85,6 +88,7 @@ class PatchInstaller
             {
                 string decoder=Under(root,manifest.decoder_path);
                 Require(File.Exists(decoder) && Hash(decoder)==manifest.decoder_sha256,"差分解码器缺失或损坏");
+                var currentHashes=new Dictionary<PatchFile,string>();
                 foreach(var file in manifest.files)
                 {
                     string installed=Under(root,file.game_path), patch=Under(root,file.patch_path);
@@ -92,8 +96,9 @@ class PatchInstaller
                     if(File.Exists(installed))
                     {
                         string current=Hash(installed);
-                        Require(current==file.source_sha256 || current==file.sha256,"不支持的游戏版本或文件已被修改："+file.game_path);
-                        if(current==file.sha256 && !file.added)
+                        currentHashes.Add(file,current);
+                        Require(current==file.source_sha256 || current==file.sha256 || current==file.legacy_sha256,"不支持的游戏版本或文件已被修改："+file.game_path);
+                        if(current!=file.source_sha256 && !file.added)
                             Require(File.Exists(Under(backupRoot,file.game_path)) && Hash(Under(backupRoot,file.game_path))==file.source_sha256,"已有汉化但缺少原版备份，请先验证游戏文件："+file.game_path);
                     }
                     else Require(file.added,"游戏文件缺失："+file.game_path);
@@ -105,10 +110,11 @@ class PatchInstaller
                     string installed=Under(root,file.game_path), patch=Under(root,file.patch_path), output=Under(staging,file.game_path);
                     Directory.CreateDirectory(Path.GetDirectoryName(output));
                     if(file.added) File.Copy(patch,output);
-                    else if(Hash(installed)==file.sha256) File.Copy(installed,output);
+                    else if(currentHashes[file]==file.sha256) File.Copy(installed,output);
                     else
                     {
-                        var start=new ProcessStartInfo(decoder,"-d -s "+Q(installed)+" "+Q(patch)+" "+Q(output));
+                        string original=currentHashes[file]==file.source_sha256 ? installed : Under(backupRoot,file.game_path);
+                        var start=new ProcessStartInfo(decoder,"-d -s "+Q(original)+" "+Q(patch)+" "+Q(output));
                         start.UseShellExecute=false; start.CreateNoWindow=true;
                         using(var process=Process.Start(start)) { process.WaitForExit(); Require(process.ExitCode==0,"差分解码失败："+file.game_path); }
                     }
@@ -124,13 +130,23 @@ class PatchInstaller
                     Require(Hash(backup)==file.source_sha256,"原版备份校验失败："+file.game_path);
                 }
                 var copied=new List<PatchFile>();
+                var rollback=new Dictionary<PatchFile,string>();
+                foreach(var file in currentHashes.Keys)
+                {
+                    string path=Under(staging,"rollback/"+file.game_path);
+                    Directory.CreateDirectory(Path.GetDirectoryName(path));
+                    File.Copy(Under(root,file.game_path),path);
+                    Require(Hash(path)==currentHashes[file],"安装前文件已改变："+file.game_path);
+                    rollback.Add(file,path);
+                }
                 try
                 {
                     foreach(var file in manifest.files)
                     {
                         string installed=Under(root,file.game_path);
                         Directory.CreateDirectory(Path.GetDirectoryName(installed));
-                        File.Copy(prepared[file],installed,true); copied.Add(file);
+                        copied.Add(file);
+                        File.Copy(prepared[file],installed,true);
                         Require(Hash(installed)==file.sha256,"安装校验失败："+file.game_path);
                     }
                 }
@@ -139,12 +155,14 @@ class PatchInstaller
                     foreach(var file in copied)
                     {
                         string installed=Under(root,file.game_path);
-                        if(file.added) { if(File.Exists(installed)) File.Delete(installed); }
-                        else File.Copy(Under(backupRoot,file.game_path),installed,true);
+                        string prior;
+                        if(rollback.TryGetValue(file,out prior)) File.Copy(prior,installed,true);
+                        else if(File.Exists(installed)) File.Delete(installed);
                     }
                     throw;
                 }
                 foreach(var output in prepared.Values) File.Delete(output);
+                foreach(var prior in rollback.Values) File.Delete(prior);
                 File.WriteAllText(Under(root,"ChinesePatch/installation_log.json"),json.Serialize(new {
                     status="passed",utc=DateTime.UtcNow.ToString("O"),game_version=manifest.game_version,
                     translation_sha256=manifest.translation_sha256,files=manifest.files.Select(f=>new{game_path=f.game_path,sha256=Hash(Under(root,f.game_path))}).ToArray()

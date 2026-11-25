@@ -8,7 +8,7 @@
     "path": "glossary\\revision_10_fd73d738\\built\\glossary_reviewed.json",
     "revision": 10
   },
-  "snapshot_hash": "c3646d1ac3d0649479d1580f70d40b3a56bc342b2d7a46654cffcb5ea35d25fd",
+  "snapshot_hash": "aeaf7a98ddd405a691227cfb90bcf8a20511c7917c1b455d393fafd675ecb3f1",
   "coverage": {
     "records": 14691,
     "text_types": {
@@ -26,9 +26,9 @@
       "Hardcoded UI": 34
     },
     "missing_context": 0,
-    "risk_records": 5627,
+    "risk_records": 5667,
     "ordinary_sample": 0,
-    "sol_records": 21
+    "standard_records": 18
   },
   "risk_detection": "Heuristic candidates plus reviewer findings; absence of flags is not proof of correctness.",
   "records_to_check": [],
@@ -36,11 +36,9 @@
   "glossary_checks": [],
   "pilot_batch_summaries": {},
   "check_signatures": {
-    "R0000353_55f9a7105e": "f160fd480a5ae15d8df0d9c8ef92267c45220c26e0b402eeeece181e2475dcf4",
     "R0001641_2c2cdaf296": "151a94492ab7291a25f384a88e4763f56ac1abaab756d080bc0c6ef97000ef79",
     "R0002161_87e165ae29": "408277a49f9c8b0806c2085648a2efba81bdba507cf53cdb1268aeb2849f841d",
     "R0003841_634dfd432d": "6593b2bea7cd5ea72f1e0a0bdc11587177b63eecc2d8b2b76d081161df0748c4",
-    "R0003971_9383934030": "7c1a7b38c80a804fb55c14ee49f1debfc23af31a5c597a7d8b12b1458126b54e",
     "R0004716_f65f4b5f71": "096e69f58846e82ee4c1ad32fb6979839f8ccd7fc4d29b7edf42f13ffe9f48e1",
     "R0004775_45b7e3356a": "00e1f1d26353de0c95c67cd549a26348da78234d1c295e0c9a615f2b7f1c19ad",
     "R0004779_c41328d399": "ebc8a6bb420805ff5bce342f875f56de4967e028a42503f5b1832d9424f4de55",
@@ -50,7 +48,6 @@
     "R0006539_7fe2b84494": "568f5f41089e4f743a417141192c1797277518a795b44e83bda23ffccab46df5",
     "R0006540_00162ac42c": "8b74e13e685e750a6201fc4487f60657647ce38dcbd66ae1045fefa6639f5edb",
     "R0006795_77bcf5d840": "d1d662a46f534e5f867a237dba638ab0f0802ecaca1bdb3a6ef389a27ca8558c",
-    "R0007959_08ca345f0d": "f633b679d8c268d4f2a721010b69358fc078a842ee975c680c8751bbee5eb35a",
     "R0009871_c1795cc976": "ffebc8b695e4098c4bf83df669efcfa91737711fae83f7da65bf959bda1f08e0",
     "R0010110_f3daf29418": "e81133c754023b68b9e0f9677defac8b9007121a586df93d5bd9ae8ef1afa82e",
     "R0010112_f3daf29418": "7c0f618f4807fca66bad735c4a55913c5e71bf5c83a37f7dc1389f6098b19dc9",
@@ -59,15 +56,6 @@
     "R0010125_a2d736f97e": "7f32a92ab8d29f20bfb84361a7e09296141f2725ae5ba42949cbb01c6eff307a"
   },
   "reused_decisions": {
-    "R0000353_55f9a7105e": {
-      "decision": {
-        "disposition": "pass",
-        "id": "R0000353_55f9a7105e",
-        "reason": "这是动态数字后的后缀；保留前导空格并表达“名敌人剩余”，与数字拼接结构相符。"
-      },
-      "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
-      "signature": "f160fd480a5ae15d8df0d9c8ef92267c45220c26e0b402eeeece181e2475dcf4"
-    },
     "R0001641_2c2cdaf296": {
       "decision": {
         "disposition": "pass",
@@ -94,15 +82,6 @@
       },
       "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
       "signature": "6593b2bea7cd5ea72f1e0a0bdc11587177b63eecc2d8b2b76d081161df0748c4"
-    },
-    "R0003971_9383934030": {
-      "decision": {
-        "disposition": "contextual",
-        "id": "R0003971_9383934030",
-        "reason": "Casiguaya 在 RuinedTemple 说明部族传统；原文 following the right 语法不顺，结合 spend a week、祖先守护下狩猎的仪式语境，审校将其按疑似 rite 笔误处理为“遵循仪式”有依据。现译保留一周停留、狩猎及留至行程结束的信息。源文拼写核对建议不构成当前译文的未解决语义错误。"
-      },
-      "report_hash": "67a4a90df6c14dd302fedeff3bf52ec177cbf2f1c6f49b6e33bc077f7d44c7ed",
-      "signature": "7c1a7b38c80a804fb55c14ee49f1debfc23af31a5c597a7d8b12b1458126b54e"
     },
     "R0004716_f65f4b5f71": {
       "decision": {
@@ -185,15 +164,6 @@
       "report_hash": "e4b40b16cb9e2e3ed89f59d5852d1d0ff355157d3470420dba897d2cac5d90b0",
       "signature": "d1d662a46f534e5f867a237dba638ab0f0802ecaca1bdb3a6ef389a27ca8558c"
     },
-    "R0007959_08ca345f0d": {
-      "decision": {
-        "disposition": "pass",
-        "id": "R0007959_08ca345f0d",
-        "reason": "ShipInTheTreesClimbRope 的原文只叙述沿绳索登船、船身略斜但仍能站在甲板上；现译逐项对应。独立审校提示的 Fortress of Gutiérrez 不在本条原文，也不在当前译文，故该诊断不构成本条未解决问题。"
-      },
-      "report_hash": "67a4a90df6c14dd302fedeff3bf52ec177cbf2f1c6f49b6e33bc077f7d44c7ed",
-      "signature": "f633b679d8c268d4f2a721010b69358fc078a842ee975c680c8751bbee5eb35a"
-    },
     "R0009871_c1795cc976": {
       "decision": {
         "disposition": "pass",
@@ -250,9 +220,9 @@
     }
   },
   "required_decisions": [],
-  "sol_scope_policy": "disputes_only_v1",
+  "standard_scope_policy": "disputes_only_v1",
   "carried_findings": {},
-  "selection_explanation": "Only explicit unresolved reviewer issues need Sol adjudication. Risk flags, corrections, ordinary samples, duplicate-source groups and speaker groups do not trigger Sol. Known Sol repair findings are carried to standard repair without re-reading; exhausted or regressing repairs use the existing targeted Sol escalation route.",
-  "report_hash": "4ab829a90ae0694f5f723122eb088a7650701f65045100a69481532f547e7b0e",
+  "selection_explanation": "Only explicit unresolved reviewer issues need standard-tier adjudication. Risk flags, corrections, ordinary samples, duplicate-source groups and speaker groups do not trigger standard-tier review. Known standard-tier repair findings are carried to cheap-tier repair without re-reading; exhausted or regressing repairs use the existing targeted standard-tier escalation route.",
+  "report_hash": "b0a1837446d73bad6a6552dca05f64a154c343b8c6ab2df7b3aad197ba76d072",
   "round_scope": []
 }
